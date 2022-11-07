@@ -1,5 +1,6 @@
 {
   "general": {
+    "slug": "santiment",
     "name": "Santiment",
     "description": "Crypto analysis",
     "logo": "santiment.svg"
