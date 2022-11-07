@@ -10,7 +10,7 @@
     "twitter": "https://twitter.com/santimentfeed"
   },
   "development": {
-    "github": "https://github.com/santiment"
+    "github_organizations": ["santiment"]
   },
   "blockchain": {
     "erc20_contract": {
