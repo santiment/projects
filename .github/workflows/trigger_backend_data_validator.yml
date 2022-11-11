@@ -21,6 +21,8 @@ jobs:
         with:
           files: |
             projects/**
+          separator: ","
+
 
       - shell: bash
         run: |
