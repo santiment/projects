@@ -2,7 +2,7 @@ name: Trigger Backend Data Validator
 
 on:
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   workflow_dispatch:
 
@@ -36,5 +36,5 @@ jobs:
           API_ENDPOINT_SECRET_PATH: ${{ secrets.api_endpoint_secret_path }}
         run: |
           curl -X POST \
-               -d "${{ steps.changed-files-specific.outputs.all_changed_files }}" \
+               -d "changed_files=${{ steps.changed-files-specific.outputs.all_changed_files }}" \
                https://api.santiment.net/projects_data_validator_webhook/"$API_ENDPOINT_SECRET_PATH"
