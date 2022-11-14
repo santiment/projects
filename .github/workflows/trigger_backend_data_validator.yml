@@ -29,6 +29,16 @@ jobs:
         run: |
           echo  ${{ steps.changed-files-specific.outputs.all_changed_files }}
 
+      - name: Get current branch name (Merge)
+        if: github.event_name != 'pull_request'
+        shell: bash
+        run: echo "BRANCH_NAME=$(echo ${GITHUB_REF#refs/heads/} | tr / -)" >> $GITHUB_ENV
+
+      - name: Get current branch name (Pull Request)
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: echo "BRANCH_NAME=$(echo ${GITHUB_HEAD_REF} | tr / -)" >> $GITHUB_ENV
+
       - name: Trigger a backend webhook that will read the changed files and update the projects accordingly
         shell: bash
         if: steps.changed-files-specific.outputs.any_changed == 'true'
@@ -36,5 +46,5 @@ jobs:
           API_ENDPOINT_SECRET_PATH: ${{ secrets.api_endpoint_secret_path }}
         run: |
           curl -X POST \
-               -d "branch=${GITHUB_REF##*/}&changed_files=${{ steps.changed-files-specific.outputs.all_changed_files }}" \
-               https://api.santiment.net/projects_data_validator_webhook/"$API_ENDPOINT_SECRET_PATH/${GITHUB_REF##*/}"
+               -d "branch=${{ env.BRANCH_NAME }}&changed_files=${{ steps.changed-files-specific.outputs.all_changed_files }}" \
+               https://api.santiment.net/projects_data_validator_webhook/"$API_ENDPOINT_SECRET_PATH/"
