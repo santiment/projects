@@ -39,7 +39,7 @@ jobs:
         shell: bash
         run: echo "BRANCH_NAME=$(echo ${GITHUB_HEAD_REF} | tr / -)" >> $GITHUB_ENV
 
-      - name: Trigger a backend webhook that will read the changed files and update the projects accordingly
+      - name: Trigger a backend webhook that will read the changed files and validate the changes
         shell: bash
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         env:
