@@ -1,27 +1,40 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Trigger Backend Data Reader
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - shell: bash
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files in the projects folder
+        id: changed-files-specific
+        uses: tj-actions/changed-files@v34
+        with:
+          files: |
+            projects/**
+          separator: ","
+
+      - name: Print all changed files in the projects folder
+        shell: bash
+        run: |
+          echo  ${{ steps.changed-files-specific.outputs.all_changed_files }}
+ 
+      - name: Trigger a backend webhook that will read the changed files and update the projects accordingly
+        shell: bash
+        if: steps.changed-files-specific.outputs.any_changed == 'true'
         env:
           API_ENDPOINT_SECRET_PATH: ${{ secrets.api_endpoint_secret_path }}
         run: |
-          curl https://api.santiment.net/projects_data_reader_webhook/"$API_ENDPOINT_SECRET_PATH"
+          curl -X POST \
+               -d "changed_files=${{ steps.changed-files-specific.outputs.all_changed_files }}" \
+               https://api.santiment.net/projects_data_reader_webhook/"$API_ENDPOINT_SECRET_PATH/"
