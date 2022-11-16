@@ -7,7 +7,8 @@
   },
   "social": {
     "discord": "https://discord.com/santiment",
-    "twitter": "https://twitter.com/santimentfeed"
+    "twitter": "https://twitter.com/santimentfeed",
+    "telegram": "https://t.me/santiment_network"
   },
   "development": {
     "github_organizations": ["santiment"]

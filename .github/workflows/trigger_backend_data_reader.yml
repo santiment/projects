@@ -2,7 +2,7 @@ name: Trigger Backend Data Reader
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
   workflow_dispatch:
 
@@ -28,13 +28,17 @@ jobs:
         shell: bash
         run: |
           echo  ${{ steps.changed-files-specific.outputs.all_changed_files }}
- 
+
       - name: Trigger a backend webhook that will read the changed files and update the projects accordingly
-        shell: bash
+        uses: indiesdev/curl@v1.1
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         env:
           API_ENDPOINT_SECRET_PATH: ${{ secrets.api_endpoint_secret_path }}
-        run: |
-          curl -X POST \
-               -d "changed_files=${{ steps.changed-files-specific.outputs.all_changed_files }}" \
-               https://api.santiment.net/projects_data_reader_webhook/"$API_ENDPOINT_SECRET_PATH/"
+        with:
+          url: https://api.santiment.net/projects_data_validator_webhook/"$API_ENDPOINT_SECRET_PATH/"
+          method: "POST"
+          accept: 200
+          body: '{ "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
+          timeout: 60000
+          log-response: true
+          retries: 3
