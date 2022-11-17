@@ -31,6 +31,7 @@ jobs:
 
       - name: Trigger a backend webhook that will read the changed files and update the projects accordingly
         uses: indiesdev/curl@v1.1
+        id: webhook-api
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         with:
           url: https://api-stage.santiment.net/projects_data_reader_webhook/${{ secrets.api_endpoint_secret_path }}
@@ -40,3 +41,5 @@ jobs:
           timeout: 60000
           log-response: true
           retries: 3
+      - name: "Use response"
+        run: echo ${{ steps.webhook-api.outputs.response }}
