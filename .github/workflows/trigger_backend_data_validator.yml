@@ -40,16 +40,14 @@ jobs:
         run: echo "BRANCH_NAME=$(echo ${GITHUB_HEAD_REF} | tr / -)" >> $GITHUB_ENV
 
       - name: Trigger a backend webhook that will read the changed files and validate the changes
-        uses: indiesdev/curl@v1.1
+        uses: fjogeleit/http-request-action@v1
         id: webhook-api
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         with:
           url: https://api-stage.santiment.net/projects_data_validator_webhook/${{ secrets.api_endpoint_secret_path }}
-          method: "POST"
-          accept: 200
-          body: '{ "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
-          timeout: 10000
-          log-response: true
-          retries: 2
+          method: POST
+          data: '{ "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
+          timeout: 60000
+
       - name: "Use response"
         run: echo ${{ steps.webhook-api.outputs.response }}
