@@ -34,10 +34,9 @@ jobs:
         id: webhook-api
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         with:
-          url: https://api-stage.santiment.net/projects_data_reader_webhook/${{ secrets.api_endpoint_secret_path }}
+          url: https://api.santiment.net/projects_data_reader_webhook/${{ secrets.api_endpoint_secret_path }}
           method: POST
-          accept: 200
-          data: '{ "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
+          data: '{ "branch": "main", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
           timeout: 60000
 
       - name: "Use response"
