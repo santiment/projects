@@ -33,7 +33,7 @@ jobs:
         uses: indiesdev/curl@v1.1
         if: steps.changed-files-specific.outputs.any_changed == 'true'
         with:
-          url: https://api-stage.santiment.net/projects_data_validator_webhook/${{ secrets.api_endpoint_secret_path }}
+          url: https://api-stage.santiment.net/projects_data_reader_webhook/${{ secrets.api_endpoint_secret_path }}
           method: "POST"
           accept: 200
           body: '{ "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'

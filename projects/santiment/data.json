@@ -3,7 +3,8 @@
     "slug": "santiment",
     "name": "Santiment",
     "description": "Crypto analysis",
-    "logo": "santiment.svg"
+    "logo": "santiment.svg",
+    "website": "https://santiment.net"
   },
   "social": {
     "discord": "https://discord.com/santiment",
