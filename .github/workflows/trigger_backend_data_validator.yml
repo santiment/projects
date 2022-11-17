@@ -42,10 +42,8 @@ jobs:
       - name: Trigger a backend webhook that will read the changed files and validate the changes
         uses: indiesdev/curl@v1.1
         if: steps.changed-files-specific.outputs.any_changed == 'true'
-        env:
-          API_ENDPOINT_SECRET_PATH: ${{ secrets.api_endpoint_secret_path }}
         with:
-          url: https://api-stage.santiment.net/projects_data_validator_webhook/"$API_ENDPOINT_SECRET_PATH/"
+          url: https://api-stage.santiment.net/projects_data_validator_webhook/${{ secrets.api_endpoint_secret_path }}
           method: "POST"
           accept: 200
           body: '{ "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
