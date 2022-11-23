@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "alitas",
+    "name": "Alitas",
+    "ticker": "ALT",
+    "description": "Infrastructure of a new generation of value networks",
+    "website": "https://alitas.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AlitasTech",
+    "telegram": "https://t.me/Alitastech",
+    "blog": "https://medium.com/@AlitasTech"
+  },
+  "development": {
+    "github_organizations": [
+      "AlitasTech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

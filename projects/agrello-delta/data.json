@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "agrello-delta",
+    "name": "Agrello",
+    "ticker": "DLT",
+    "description": "Legally Binding Smart Contracts",
+    "website": "https://www.agrello.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AgrelloOfficial",
+    "telegram": "https://t.me/agrello",
+    "reddit": "https://www.reddit.com/r/Agrello/",
+    "blog": "https://blog.agrello.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "agrello"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

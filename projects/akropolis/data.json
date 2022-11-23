@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "akropolis",
+    "name": "Akropolis",
+    "ticker": "AKRO",
+    "description": "A mobile-first alternative financial infrastructure",
+    "website": "https://akropolis.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/akropolisio",
+    "telegram": "https://t.me/akropolis_official",
+    "reddit": "https://www.reddit.com/r/AkropolisIO/",
+    "blog": "https://medium.com/@akropolisio"
+  },
+  "development": {
+    "github_organizations": [
+      "akropolisio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

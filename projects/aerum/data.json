@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aerum",
+    "name": "AERUM",
+    "ticker": "XRM",
+    "description": "Business Blockchain Platform",
+    "website": "https://aerum.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aerum_official",
+    "telegram": "https://t.me/aerum_official",
+    "reddit": "https://www.reddit.com/r/aerum",
+    "blog": "https://medium.com/aerum-technologies"
+  },
+  "development": {
+    "github_organizations": [
+      "aerumtechnology"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa249f0e9a464b9685f66992f41e1012388e39e81",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

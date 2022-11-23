@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "antiample",
+    "name": "Antiample",
+    "ticker": "XAMP",
+    "description": "A token with constantly reducing supply",
+    "website": "https://www.antiample.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

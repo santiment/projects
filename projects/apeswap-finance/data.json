@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "apeswap-finance",
+    "name": "ApeSwap Finance",
+    "ticker": "BANANA",
+    "description": "PancakeSwap fork",
+    "website": "https://apeswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ape_swap",
+    "telegram": "https://t.me/ape_swap",
+    "blog": "https://ape-swap.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "apeswapfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

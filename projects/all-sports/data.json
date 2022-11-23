@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "all-sports",
+    "name": "All Sports",
+    "ticker": "SOC",
+    "website": "https://www.allsportschain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/allsportschain",
+    "telegram": "https://t.me/allsportschain",
+    "blog": "https://medium.com/@allsports"
+  },
+  "development": {
+    "github_organizations": [
+      "allsportscoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

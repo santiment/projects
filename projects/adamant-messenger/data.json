@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "adamant-messenger",
+    "name": "ADAMANT Messenger",
+    "ticker": "ADM",
+    "description": "Decentralized, anonymous, private messaging platform functioning entirely on blockchain network",
+    "website": "https://adamant.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/adamant_im",
+    "telegram": "https://t.me/adamant_eng",
+    "blog": "https://medium.com/adamant-im"
+  },
+  "development": {
+    "github_organizations": [
+      "adamant-im"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

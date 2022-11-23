@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "aleph-im",
+    "name": "Aleph.im",
+    "ticker": "ALEPH",
+    "description": "Secure storage and computing for dApps",
+    "website": "https://aleph.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aleph_im",
+    "telegram": "https://t.me/alephim",
+    "reddit": "https://www.reddit.com/r/Aleph_im/",
+    "blog": "https://medium.com/aleph-im"
+  },
+  "development": {
+    "github_organizations": [
+      "aleph-im"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

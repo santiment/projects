@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "atlantis-blue-digital-token",
+    "name": "Atlantis Blue Digital Token",
+    "ticker": "ABDT",
+    "description": "Larimar (gem stone) backed currency",
+    "website": "https://atlantisblue.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AtlantisBlueDT",
+    "telegram": "https://t.me/AtlantisBlueDigitalToken",
+    "slack": "https://open.kakao.com/o/g8RR44L",
+    "reddit": "https://www.reddit.com/r/AtlantisBlueProject/",
+    "blog": "https://medium.com/@AtlantisBlueDT"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

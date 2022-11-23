@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "airswap",
+    "name": "AirSwap",
+    "ticker": "AST",
+    "description": "Protocol for trading tokens on Ethereum",
+    "website": "https://www.airswap.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/airswap",
+    "telegram": "https://t.me/airswapofficial",
+    "reddit": "https://www.reddit.com/r/AirSwap/",
+    "blog": "https://medium.com/@airswap"
+  },
+  "development": {
+    "github_organizations": [
+      "airswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "arb-hegic",
+    "name": "Hegic [on Arbitrum]",
+    "ticker": "HEGIC",
+    "description": "On-chain options trading protocol",
+    "website": "https://www.hegic.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HegicOptions",
+    "telegram": "https://t.me/HegicOptions",
+    "discord": "https://discord.gg/znjdj8q"
+  },
+  "development": {
+    "github_organizations": [
+      "hegic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

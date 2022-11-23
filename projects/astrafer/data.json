@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "astrafer",
+    "name": "Astrafer",
+    "ticker": "ASTRAFER"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

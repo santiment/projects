@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "amo-coin",
+    "name": "AMO Coin",
+    "ticker": "AMO",
+    "description": "Blockchain Platform that connects cars, people and service providers through an integrated Database",
+    "website": "https://www.amo.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/amoblockchain",
+    "telegram": "https://t.me/amoico",
+    "slack": "https://open.kakao.com/o/gnPdo5K",
+    "blog": "https://medium.com/@amoblockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "amo-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

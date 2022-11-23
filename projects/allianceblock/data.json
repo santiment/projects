@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "allianceblock",
+    "name": "AllianceBlock",
+    "ticker": "ALBT",
+    "description": "Bridging Traditional and Decentralized Finance",
+    "website": "https://allianceblock.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/allianceblock",
+    "telegram": "https://t.me/allianceblock",
+    "discord": "https://discord.gg/hF7AGgt",
+    "reddit": "https://www.reddit.com/r/Allianceblock/",
+    "blog": "https://medium.com/@allianceblock"
+  },
+  "development": {
+    "github_organizations": [
+      "Stichting-AllianceBlock-Foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "atlas-token",
+    "name": "Atlas Token",
+    "ticker": "ATLS",
+    "description": "Universal base-level blockchain protocol for the travel industry",
+    "website": "https://atlas.world/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AtlasEcosystem",
+    "telegram": "https://t.me/AtlasAnn",
+    "reddit": "https://www.reddit.com/r/AtlasEcosystem/",
+    "blog": "https://medium.com/atlas-network"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd36e9f8f194a47b10af16c7656a68eba1dfe88e4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

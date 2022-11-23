@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ailink-token",
+    "name": "AiLink Token",
+    "ticker": "ALI",
+    "description": "An Open Social Platform based on Blockchain",
+    "website": "http://ailink.in/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ailinkofficial",
+    "telegram": "https://t.me/ailinkofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "ailinkofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4289c043a12392f1027307fb58272d8ebd853912",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

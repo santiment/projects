@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "akropolis-delphi",
+    "name": "Akropolis Delphi",
+    "ticker": "ADEL",
+    "description": "Governs the Delphi product",
+    "website": "https://delphi.akropolis.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/akropolis_official",
+    "discord": "https://discord.com/invite/Y58CGUW",
+    "slack": "https://discord.com/invite/Y58CGUW",
+    "blog": "https://medium.com/akropolis"
+  },
+  "development": {
+    "github_organizations": [
+      "akropolisio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x94d863173ee77439e4292284ff13fad54b3ba182",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

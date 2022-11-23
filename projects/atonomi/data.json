@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "atonomi",
+    "name": "Atonomi",
+    "ticker": "ATMI",
+    "description": "The Secure Ledger of Things",
+    "website": "https://atonomi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atonomi",
+    "telegram": "https://t.me/atonomi_io",
+    "reddit": "https://www.reddit.com/r/Atonomi/",
+    "blog": "https://atonomi.io/news"
+  },
+  "development": {
+    "github_organizations": [
+      "atonomi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x97aeb5066e1a590e868b511457beb6fe99d329f5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

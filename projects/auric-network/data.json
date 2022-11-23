@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "auric-network",
+    "name": "Auric Network",
+    "ticker": "AUSCM",
+    "description": "A gold-based synthetic commodity money",
+    "website": "https://auric.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/auric_network",
+    "telegram": "https://t.me/auricnetwork",
+    "discord": "https://discord.com/invite/PXPe4KX",
+    "slack": "https://discord.com/invite/PXPe4KX",
+    "blog": "https://auricnetwork.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "auricfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c7bbadc81e18f7177a95eb1593e5f5f35861b10",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

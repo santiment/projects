@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "anchor-protocol",
+    "name": "Anchor Protocol",
+    "ticker": "ANC",
+    "description": "Gold Standard for Passive Income on the Blockchain",
+    "website": "https://anchorprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/anchor_protocol",
+    "telegram": "https://t.me/anchor_official",
+    "discord": "https://discord.gg/9aUYgpKZ9c",
+    "blog": "https://medium.com/anchor-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Anchor-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

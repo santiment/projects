@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "asgard",
+    "name": "Asgard",
+    "ticker": "ASG",
+    "description": "Funding for environmentally-oriented initiatives",
+    "website": "https://asgardecofund.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/asgardecofund",
+    "telegram": "https://t.me/asgard_eco_fund",
+    "reddit": "https://www.reddit.com/user/AsgardEcoFund",
+    "blog": "https://www.medium.com/@asgardecofund"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7a3d3c4f30c46f51b814bee23d970a7c9b757a32",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

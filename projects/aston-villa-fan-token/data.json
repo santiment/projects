@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "aston-villa-fan-token",
+    "name": "Aston Villa Fan Token",
+    "ticker": "AVL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ardor",
+    "name": "Ardor",
+    "ticker": "ARDR",
+    "description": "Blockchain for spawning blockchains",
+    "website": "https://www.ardorplatform.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ArdorPlatform",
+    "slack": "https://nxtplatform.org/slack/",
+    "reddit": "https://www.reddit.com/r/Ardor/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

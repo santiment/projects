@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "apollo-currency",
+    "name": "Apollo Currency",
+    "ticker": "APL",
+    "description": "Advanced and most feature-rich cryptocurrency",
+    "website": "https://www.apollocurrency.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ApolloCurrency",
+    "telegram": "https://t.me/apollocommunity"
+  },
+  "development": {
+    "github_organizations": [
+      "apollofoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

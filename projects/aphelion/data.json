@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "aphelion",
+    "name": "Aphelion",
+    "ticker": "APH",
+    "description": "Revolutionary P2P Trading Platform",
+    "website": "https://aphelion.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/apheliontoken",
+    "telegram": "https://t.me/AphelionToken",
+    "reddit": "https://www.reddit.com/r/APH/",
+    "blog": "https://medium.com/@ianholtz"
+  },
+  "development": {
+    "github_organizations": [
+      "aphtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

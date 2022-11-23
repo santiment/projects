@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "axion",
+    "name": "Axion",
+    "ticker": "AXN",
+    "description": "A high-interest yielding",
+    "website": "https://axion.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/axion_network",
+    "telegram": "https://t.me/axionofficial",
+    "discord": "https://discord.gg/u6uChFV",
+    "slack": "https://discord.gg/u6uChFV",
+    "blog": "https://axionnetwork.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7d85e23014f84e6e21d5663acd8751bef3562352",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

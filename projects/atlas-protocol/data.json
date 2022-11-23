@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "atlas-protocol",
+    "name": "Atlas Protocol",
+    "ticker": "ATP",
+    "description": "A new Blockchain native media for value ranking and circulation via advertising. ATP aims to connect advertiser, publishers(e.g, DApps), Blockchain users with on-chain interactions via Atlas Ads",
+    "website": "https://atlasp.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atlaspio",
+    "telegram": "http://t.me/atlaspio",
+    "blog": "https://medium.com/@atlasp"
+  },
+  "development": {
+    "github_organizations": [
+      "atlasprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

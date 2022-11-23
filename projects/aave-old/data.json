@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-old",
+    "name": "Aave",
+    "ticker": "LEND"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

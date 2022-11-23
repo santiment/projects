@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "assemble-protocol",
+    "name": "Assemble Protocol",
+    "ticker": "ASM",
+    "description": "A global point integration platform",
+    "website": "http://assembleprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ASSEMBLE_io",
+    "telegram": "https://t.me/assembleprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2565ae0385659badcada1031db704442e1b69982",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

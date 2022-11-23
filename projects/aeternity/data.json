@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "aeternity",
+    "name": "Aeternity",
+    "ticker": "AE",
+    "description": "Decentralized apps (prototype)",
+    "website": "https://www.aeternity.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aeternity",
+    "telegram": "https://telegram.me/aeternity",
+    "reddit": "https://www.reddit.com/r/Aeternity/",
+    "blog": "https://blog.aeternity.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "aeternity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

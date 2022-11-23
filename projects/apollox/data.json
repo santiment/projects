@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "apollox",
+    "name": "ApolloX",
+    "ticker": "APX",
+    "description": "CEX-DEX hybrid crypto derivatives exchange",
+    "website": "https://www.apollox.com/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ApolloX_com",
+    "telegram": "https://t.me/apolloxchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

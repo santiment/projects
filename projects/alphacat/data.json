@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "alphacat",
+    "name": "Alphacat",
+    "ticker": "ACAT",
+    "description": "A Robot-Advisor Marketplace based on AI and Big Data",
+    "website": "https://www.alphacat.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alphacat_io",
+    "telegram": "https://t.me/joinchat/HuYNTRDnydTEdVBmrSfbtg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

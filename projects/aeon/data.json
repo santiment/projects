@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aeon",
+    "name": "Aeon",
+    "ticker": "AEON",
+    "description": "Monero fork",
+    "website": "http://www.aeon.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AeonCoin",
+    "reddit": "https://www.reddit.com/r/Aeon/"
+  },
+  "development": {
+    "github_organizations": [
+      "aeonix"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

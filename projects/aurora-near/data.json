@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "aurora-near",
+    "name": "Aurora",
+    "ticker": "AURORA",
+    "description": "EVM built on NEAR Protocol",
+    "website": "https://aurora.dev/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/auroraisnear",
+    "telegram": "https://t.me/auroraisnear",
+    "discord": "https://discord.aurora.dev/",
+    "blog": "https://auroraisnear.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "aurora-is-near"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

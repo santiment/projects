@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "adtoken",
+    "name": "adToken",
+    "ticker": "ADT",
+    "website": "https://adtoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ad_chain",
+    "slack": "http://slack.adchain.com/",
+    "reddit": "https://www.reddit.com/r/adChain/",
+    "blog": "https://medium.com/@AdChain"
+  },
+  "development": {
+    "github_organizations": [
+      "metaxchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "a-gmx",
+    "name": "GMX [on Avalanche]",
+    "ticker": "GMX",
+    "description": "Decentralized spot and perpetual exchange",
+    "website": "https://gmx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMX_IO",
+    "telegram": "https://t.me/GMX_IO",
+    "discord": "https://discord.com/invite/cxjZYR4gQK",
+    "blog": "https://medium.com/@gmx.io"
+  },
+  "development": {
+    "github_organizations": [
+      "gmx-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+        "blockchain": "avalanche",
+        "decimals": 18
+      }
+    ]
+  }
+}

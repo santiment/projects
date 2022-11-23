@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "aidus-token",
+    "name": "AIDUS TOKEN",
+    "ticker": "AID",
+    "description": "AIDUS is a decentralized fund market established upon the Ethereum network to serve as a professional asset management platform",
+    "website": "https://aidus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AIDUSofficial",
+    "telegram": "https://t.me/aidusofficial",
+    "reddit": "https://www.reddit.com/user/AIDUSofficial",
+    "blog": "https://medium.com/@AIDUSofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd178b20c6007572bd1fd01d205cc20d32b4a6015",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

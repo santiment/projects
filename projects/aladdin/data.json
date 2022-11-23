@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "aladdin",
+    "name": "Aladdin",
+    "ticker": "ADN",
+    "description": "Secures initial coin offering investments",
+    "website": "https://adncoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/adncoinofficial",
+    "telegram": "https://t.me/adncoinofficial",
+    "blog": "https://medium.com/@adncoinofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "staraden"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x95a41fB80ca70306e9Ecf4e51ceA31bD18379C18",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "apm-coin",
+    "name": "apM Coin",
+    "ticker": "APM",
+    "description": "Customer rewards management platform",
+    "website": "https://apm-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/apmcoin",
+    "telegram": "https://t.me/apmcoin_official",
+    "blog": "https://medium.com/apmcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "apmcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc8c424b91d8ce0137bab4b832b7f7d154156ba6c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

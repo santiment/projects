@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "axpire",
+    "name": "aXpire",
+    "ticker": "AXP",
+    "website": "http://axpire.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aXpire_official",
+    "telegram": "https://t.me/AxpireOfficial",
+    "reddit": "https://www.reddit.com/r/aXpire/",
+    "blog": "https://medium.com/@aXpire/"
+  },
+  "development": {
+    "github_organizations": [
+      "axpire"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

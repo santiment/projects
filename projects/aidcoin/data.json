@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aidcoin",
+    "name": "AidCoin",
+    "ticker": "AID",
+    "description": "Token for charitable giving",
+    "website": "https://www.aidcoin.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aid_coin",
+    "telegram": "https://t.me/aidcoincommunity",
+    "reddit": "https://www.reddit.com/r/AidCoin/",
+    "blog": "https://medium.com/aidcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "aidcoinco"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x37e8789bb9996cac9156cd5f5fd32599e6b91289",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

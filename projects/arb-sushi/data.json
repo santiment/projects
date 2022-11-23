@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "arb-sushi",
+    "name": "SushiSwap [on Arbitrum]",
+    "ticker": "SUSHI",
+    "description": "An evolution of Uniswap with SUSHI tokenomics",
+    "website": "https://sushiswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SushiSwap",
+    "discord": "https://discord.gg/hJ2p555",
+    "blog": "https://medium.com/sushiswap/"
+  },
+  "development": {
+    "github_organizations": [
+      "sushiswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}
