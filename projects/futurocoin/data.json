@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "futurocoin",
+    "name": "FuturoCoin",
+    "ticker": "FTO",
+    "description": "A cryptocurrency which combines proven solutions with innovative technology",
+    "website": "https://futurocoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FuturoCoinFTO",
+    "telegram": "https://t.me/FuturoCoinOfficial",
+    "reddit": "https://www.reddit.com/user/FuturoFTO/"
+  },
+  "development": {
+    "github_organizations": [
+      "futuro-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

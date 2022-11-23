@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "float-protocol",
+    "name": "Float Protocol",
+    "ticker": "BANK",
+    "description": "Floating, low-volatility currency for web3",
+    "website": "https://floatprotocol.eth.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FloatProtocol",
+    "telegram": "https://t.me/officialfloatprotocol",
+    "blog": "https://medium.com/@floatprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "FloatProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

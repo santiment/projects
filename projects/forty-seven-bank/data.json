@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "forty-seven-bank",
+    "name": "Forty Seven Bank (47 Bank)",
+    "ticker": "FSBT",
+    "description": "Safe, innovative and user-friendly financial services and products",
+    "website": "https://www.fortyseven.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/47foundation",
+    "telegram": "https://t.me/thefortyseven",
+    "reddit": "https://www.reddit.com/r/FortySevenBank/",
+    "blog": "https://medium.com/@FortySeven47"
+  },
+  "development": {
+    "github_organizations": [
+      "fortysevenbank"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1ed7ae1f0e2fa4276dd7ddc786334a3df81d50c0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

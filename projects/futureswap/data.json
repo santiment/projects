@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "futureswap",
+    "name": "Futureswap",
+    "ticker": "FST",
+    "description": "Decentralized Perpetuals with 10x Leverage",
+    "website": "https://www.futureswap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/futureswapx",
+    "discord": "https://discord.gg/ucEsZ4v",
+    "blog": "https://medium.com/@Futureswap"
+  },
+  "development": {
+    "github_organizations": [
+      "futureswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0e192d382a36de7011f795acc4391cd302003606",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

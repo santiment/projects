@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "free-coin",
+    "name": "FREE Coin",
+    "ticker": "FREE",
+    "website": "http://www.FREEcoin.technology"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

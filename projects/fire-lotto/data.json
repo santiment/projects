@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fire-lotto",
+    "name": "Fire Lotto",
+    "ticker": "FLOT",
+    "description": "International blockchain lottery",
+    "website": "https://firelotto.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FireLottery",
+    "telegram": "https://t.me/firelotto",
+    "reddit": "https://www.reddit.com/r/FireLottery/",
+    "blog": "https://medium.com/@firelottery"
+  },
+  "development": {
+    "github_organizations": [
+      "firelotto"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x049399a6b048d52971f7d122ae21a1532722285f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

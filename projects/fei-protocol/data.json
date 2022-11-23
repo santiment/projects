@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "fei-protocol",
+    "name": "Fei USD",
+    "ticker": "FEI",
+    "description": "The stablecoin for DeFi",
+    "website": "https://fei.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/feiprotocol",
+    "telegram": "https://t.me/feiprotocol",
+    "discord": "https://discord.com/invite/2prhYdQ5jP",
+    "blog": "https://medium.com/@fei-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "fei-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

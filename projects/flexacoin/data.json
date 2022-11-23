@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "flexacoin",
+    "name": "Flexacoin",
+    "ticker": "FXC",
+    "description": "Makes it easy to spend your cryptocurrency in stores — instantly — with a simple scan of your phone",
+    "website": "https://flexa.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FlexaHQ",
+    "telegram": "https://t.me/flexa",
+    "blog": "https://medium.com/flexa"
+  },
+  "development": {
+    "github_organizations": [
+      "flexahq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a57e687b9126435a9b19e4a802113e266adebde",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

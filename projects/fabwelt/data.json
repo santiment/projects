@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fabwelt",
+    "name": "Fabwelt",
+    "ticker": "WELT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

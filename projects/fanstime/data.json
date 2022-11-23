@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "fanstime",
+    "name": "FansTime",
+    "ticker": "FTI",
+    "description": "The First Blockchain Project of Global Fan Economy",
+    "website": "https://fanstime.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FTI_Foundation",
+    "telegram": "https://0.plus/#/fanstimeofficial",
+    "reddit": "https://www.reddit.com/user/Fanstime-FTI"
+  },
+  "development": {
+    "github_organizations": [
+      "fanstime"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x943ed852dadb5c3938ecdc6883718df8142de4c8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

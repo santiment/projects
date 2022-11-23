@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "faceter",
+    "name": "Faceter",
+    "ticker": "FACE",
+    "description": "Intelligent Surveillance System for Consumers Powered by Fog of Miners",
+    "website": "https://tokensale.faceter.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FaceterOfficial",
+    "telegram": "https://t.me/faceter",
+    "reddit": "https://www.reddit.com/user/Faceter",
+    "blog": "https://medium.com/faceter"
+  },
+  "development": {
+    "github_organizations": [
+      "faceterteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1ccaa0f2a7210d76e1fdec740d5f323e2e1b1672",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

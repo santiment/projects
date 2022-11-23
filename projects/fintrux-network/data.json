@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "fintrux-network",
+    "name": "FintruX Network",
+    "ticker": "FTX",
+    "description": "Global P2P Lending ecosystem",
+    "website": "https://www.fintrux.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fintrux",
+    "telegram": "https://t.me/FintruX",
+    "slack": "https://open.kakao.com/o/gb3Ja0E",
+    "reddit": "https://www.reddit.com/r/FintruX/",
+    "blog": "https://medium.com/fintrux"
+  },
+  "development": {
+    "github_organizations": [
+      "fintrux"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd559f20296ff4895da39b5bd9add54b442596a61",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

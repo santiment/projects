@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "flash",
+    "name": "Flash",
+    "ticker": "FLASH",
+    "description": "Reinvention of Litecoin",
+    "website": "https://flashcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FlashCoins",
+    "telegram": "https://t.me/joinchat/C5go9ExsGGNeVvForEgb6w",
+    "discord": "https://discord.gg/2nFmMqA",
+    "slack": "https://discord.gg/2nFmMqA",
+    "reddit": "https://www.reddit.com/r/flashcoin/",
+    "blog": "https://medium.com/@FlashCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "flash-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

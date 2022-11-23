@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "firo",
+    "name": "Delete",
+    "ticker": "FIRO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

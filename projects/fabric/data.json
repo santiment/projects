@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "fabric",
+    "name": "Fabric",
+    "ticker": "FAB",
+    "description": "Tokenized synthetic assets on Solana",
+    "website": "https://fsynth.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/official_fabric",
+    "telegram": "https://t.me/fabric_tg",
+    "discord": "https://discord.gg/EuuygVeFGS",
+    "blog": "https://xfabric.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "fabric-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

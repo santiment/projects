@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "fusion",
+    "name": "Fusion",
+    "ticker": "FSN",
+    "description": "Inclusive cryptofinancial platform",
+    "website": "https://fusion.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FUSIONProtocol",
+    "telegram": "https://t.me/FUSIONFoundation",
+    "blog": "https://medium.com/@fusionprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "fusionfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd0352a019e9ab9d757776f532377aaebd36fd541",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

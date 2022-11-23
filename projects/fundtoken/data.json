@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fundtoken",
+    "name": "FundToken",
+    "ticker": "FUNDZ",
+    "description": "A provably-fair fantasy gaming platform",
+    "website": "http://www.fundfantasy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fund_fantasy",
+    "telegram": "https://t.me/fundfantasy",
+    "reddit": "https://www.reddit.com/r/FundFantasy/",
+    "blog": "https://medium.com/@FundFantasy"
+  },
+  "development": {
+    "github_organizations": [
+      "fundfantasy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbf5496122cf1bb778e0cbe5eab936f2be5fc0940",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

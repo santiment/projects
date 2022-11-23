@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "florin",
+    "name": "Florin",
+    "ticker": "XFL",
+    "description": "A store of value",
+    "website": "https://florin.org/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/florinxfl",
+    "telegram": "https://t.me/florinxfl"
+  },
+  "development": {
+    "github_organizations": [
+      "florinxfl"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

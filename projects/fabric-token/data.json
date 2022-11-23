@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "fabric-token",
+    "name": "Fabric Token",
+    "ticker": "FT",
+    "description": "Transforming ideas into DApps",
+    "website": "https://fabrictoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fabric_token",
+    "telegram": "https://t.me/fabric_token",
+    "slack": "https://join.slack.com/t/fabrictoken/shared_invite/enQtMzAwNzk0ODI1MzUxLWQ3YWNkNTI5MzE4ZDIxZWIwY2ZhMTZmNzZjZTMyNGM4YTZhNWRmOTM4M2NlNWI2ZWNhNDU3NTEwZjJkMzA5MGI",
+    "reddit": "https://www.reddit.com/r/FabricToken/",
+    "blog": "https://medium.com/@fabric_token"
+  },
+  "development": {
+    "github_organizations": [
+      "fabrictoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x78a73b6cbc5d183ce56e786f6e905cadec63547b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

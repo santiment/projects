@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "furucombo",
+    "name": "Furucombo",
+    "ticker": "COMBO",
+    "description": "Drag and drop DeFi lego",
+    "website": "https://furucombo.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/furucombo",
+    "telegram": "https://t.me/furucombo",
+    "discord": "https://discord.furucombo.app/",
+    "blog": "https://medium.com/furucombo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

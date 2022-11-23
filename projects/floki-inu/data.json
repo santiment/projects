@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "floki-inu",
+    "name": "Floki Inu",
+    "ticker": "FLOKI",
+    "description": "Cross-chain community-driven token",
+    "website": "https://floki.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realflokiinu",
+    "telegram": "https://t.me/FlokiInuToken",
+    "discord": "https://discord.gg/cujZEcmK2x",
+    "reddit": "https://www.reddit.com/r/OfficialFlokiInu/",
+    "blog": "https://realflokiinu.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "floki-inu"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x43f11c02439e2736800433b4594994Bd43Cd066D",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

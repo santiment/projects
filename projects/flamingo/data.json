@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "flamingo",
+    "name": "Flamingo",
+    "ticker": "FLM",
+    "description": "DeFi on NEO",
+    "website": "https://flamingo.finance/"
+  },
+  "social": {
+    "discord": "https://discord.gg/xGp9gbM",
+    "slack": "https://discord.gg/xGp9gbM",
+    "blog": "https://medium.com/flamingo-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "flamingo-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

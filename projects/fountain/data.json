@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "fountain",
+    "name": "Fountain",
+    "ticker": "FTN",
+    "description": "Fountain is committed to creating a win-win, sustainable content ecosystem. Rewarding FTN based on each user's contribution to the community, allowing the profit of the content to eventually return to the creator.",
+    "website": "https://fountainhub.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FountainHub",
+    "telegram": "https://t.me/FountainOfficial",
+    "blog": "https://medium.com/@FountainHub"
+  },
+  "development": {
+    "github_organizations": [
+      "fountainhub"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x66d9c4d19b4c8e23a54c6dc4ceed141f66b8111c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

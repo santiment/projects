@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "foin",
+    "name": "FOIN",
+    "ticker": "FOIN",
+    "description": "The decentralized peer to peer cryptocurrency for the finance sector",
+    "website": "https://foin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/foinio1"
+  },
+  "development": {
+    "github_organizations": [
+      "foinio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

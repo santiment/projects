@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "fundrequest",
+    "name": "FundRequest",
+    "ticker": "FND",
+    "description": "Decentralized marketplace for open source collaboration",
+    "website": "https://fundrequest.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fundrequest_io",
+    "telegram": "https://t.me/fundrequestofficial",
+    "slack": "https://fundrequest.chat/",
+    "reddit": "https://www.reddit.com/r/fundrequest/",
+    "blog": "https://blog.fundrequest.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "fundrequest"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4df47b4969b2911c966506e3592c41389493953b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

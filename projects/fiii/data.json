@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "fiii",
+    "name": "Fiii",
+    "ticker": "FIII",
+    "description": "FiiiCOIN is developed based on FiiiCHAIN, a versatile, fully self-developed blockchain technology powered by its very own consensus mechanism DPoC (Delegate Proof of Capacity).",
+    "website": "https://fiii.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FiiiLab",
+    "telegram": "http://t.me/fiiicommunity",
+    "blog": "https://medium.com/@fiiilab.io"
+  },
+  "development": {
+    "github_organizations": [
+      "fiiilab"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

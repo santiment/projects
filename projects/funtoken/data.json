@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "funtoken",
+    "name": "Delete",
+    "ticker": "FUN",
+    "description": "Decentralised online gaming"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FunFairTech"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

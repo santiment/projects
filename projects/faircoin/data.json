@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "faircoin",
+    "name": "FairCoin",
+    "ticker": "FAIR",
+    "description": "The eco-friendly coin for a fair economy",
+    "website": "http://fair-coin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FairCoinTeam"
+  },
+  "development": {
+    "github_organizations": [
+      "faircointeam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

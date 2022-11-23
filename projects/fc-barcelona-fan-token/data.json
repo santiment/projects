@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fc-barcelona-fan-token",
+    "name": "FC Barcelona Fan Token",
+    "ticker": "BAR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

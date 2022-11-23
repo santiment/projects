@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fundamenta",
+    "name": "Fundamenta",
+    "ticker": "FMTA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

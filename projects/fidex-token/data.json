@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fidex-token",
+    "name": "FidexToken",
+    "ticker": "FEX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

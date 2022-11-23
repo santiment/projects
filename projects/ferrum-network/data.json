@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "ferrum-network",
+    "name": "Ferrum Network",
+    "ticker": "FRM",
+    "description": "A fast interoperability network with an integrated suite of financial products",
+    "website": "https://ferrum.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ferrumnetwork",
+    "telegram": "http://telegram.ferrum.network/",
+    "reddit": "http://reddit.ferrum.network/",
+    "blog": "http://medium.ferrum.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "ferrumnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

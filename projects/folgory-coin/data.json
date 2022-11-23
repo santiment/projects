@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "folgory-coin",
+    "name": "Folgory Coin",
+    "ticker": "FLG",
+    "description": "Native asset of the Folgory exchange",
+    "website": "https://folgory.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Folgory1",
+    "telegram": "https://t.me/folgory"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x274c5236276422330060aA95cADEd86dA0a297c2",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

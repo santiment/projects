@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "factom",
+    "name": "Factom",
+    "ticker": "FCT",
+    "description": "Decentralized record keeping",
+    "website": "http://factom.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/factom",
+    "telegram": "http://t.me/FactomFCT",
+    "reddit": "https://www.reddit.com/r/factom/",
+    "blog": "https://www.factom.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "factomproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

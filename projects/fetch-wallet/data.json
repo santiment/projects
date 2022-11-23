@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "fetch-wallet",
+    "name": "Fetch",
+    "ticker": "FTW",
+    "description": "Self-custody wallet",
+    "website": "https://hellofetch.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hello_fetch",
+    "reddit": "https://www.reddit.com/user/fetchtrading",
+    "blog": "https://medium.com/hello-fetch"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

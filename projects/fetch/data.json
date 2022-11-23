@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fetch",
+    "name": "Fetch",
+    "ticker": "FET",
+    "description": "Fetch is a next-generation protocol built with a ready-to-go Useful Proof of Work system invented by world-leading AI minds",
+    "website": "https://fetch.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fetch_ai",
+    "telegram": "https://t.me/fetch_ai",
+    "reddit": "https://www.reddit.com/r/FetchAI_Community/",
+    "blog": "https://medium.com/fetch-ai"
+  },
+  "development": {
+    "github_organizations": [
+      "fetchai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

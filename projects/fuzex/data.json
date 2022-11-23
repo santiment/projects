@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fuzex",
+    "name": "FuzeX",
+    "ticker": "FXT",
+    "description": "All in one payment solution",
+    "website": "https://fuzex.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fuzex_co",
+    "telegram": "https://t.me/FuzeX",
+    "slack": "https://fuze-slack-inviter.herokuapp.com/",
+    "blog": "https://medium.com/fuzex"
+  },
+  "development": {
+    "github_organizations": [
+      "fuzex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1829aa045e21e0d59580024a951db48096e01782",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fantomstarter",
+    "name": "FantomStarter",
+    "ticker": "FS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

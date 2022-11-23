@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "fatcoin",
+    "name": "Fatcoin",
+    "ticker": "FAT",
+    "description": "Exchange coin of FatBTC exchange platform.",
+    "website": "https://www.fatbtc.com/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/fatbtc",
+    "telegram": "https://www.t.me/fatbtc",
+    "reddit": "https://www.reddit.com/r/fatbtc/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ec95b8eda549b79a1248335a39d299d00ed314c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

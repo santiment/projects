@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "frontier",
+    "name": "Frontier",
+    "ticker": "FRONT",
+    "description": "Chain-agnostic DeFi aggregation layer",
+    "website": "https://frontier.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FrontierDotXYZ",
+    "telegram": "https://t.me/FrontierDotXYZ",
+    "blog": "https://blog.frontierwallet.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "frontierwallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}
