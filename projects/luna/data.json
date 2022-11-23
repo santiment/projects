@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "luna",
+    "name": "Terra Classic",
+    "ticker": "LUNC",
+    "description": "A price-stable cryptocurrency protocol",
+    "website": "https://terra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terra_money",
+    "telegram": "https://t.me/TerraLunaChat",
+    "discord": "https://discord.gg/bYfyhUT",
+    "blog": "https://medium.com/terra-money"
+  },
+  "development": {
+    "github_organizations": [
+      "terra-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

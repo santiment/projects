@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tether",
+    "name": "Tether [on Ethereum]",
+    "ticker": "USDT",
+    "description": "Price = 1 USD",
+    "website": "https://tether.to"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tether_to"
+  },
+  "development": {
+    "github_organizations": [
+      "tetherto"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "thorchain",
+    "name": "THORChain",
+    "ticker": "RUNE",
+    "description": "A lightning fast liquidity network protocol",
+    "website": "https://thorchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thorchain_org",
+    "telegram": "https://t.me/thorchain_org",
+    "reddit": "https://reddit.com/r/thorchain",
+    "blog": "https://medium.com/thorchain"
+  },
+  "development": {
+    "github_organizations": [
+      "thorchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

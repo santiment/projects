@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "binance-coin",
+    "name": "BNB",
+    "ticker": "BNB",
+    "description": "The BNB coin on the Binance network",
+    "website": "https://www.binance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binance",
+    "telegram": "https://t.me/BinanceExchange",
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "blog": "https://medium.com/binanceexchange"
+  },
+  "development": {
+    "github_organizations": [
+      "binance-exchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

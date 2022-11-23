@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "chain",
+    "name": "Chain",
+    "ticker": "XCN",
+    "description": "Launch your blockchain in minutes",
+    "website": "https://chain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Chain",
+    "telegram": "https://t.me/Chain",
+    "discord": "https://discord.gg/ChainOfficial",
+    "blog": "https://blog.chain.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

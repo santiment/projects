@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "zilliqa",
+    "name": "Zilliqa",
+    "ticker": "ZIL",
+    "description": "Blockchain platform designed to scale",
+    "website": "https://www.zilliqa.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zilliqa",
+    "telegram": "https://t.me/zilliqachat",
+    "slack": "https://zilliqa.slack.com/",
+    "reddit": "https://www.reddit.com/r/zilliqa/"
+  },
+  "development": {
+    "github_organizations": [
+      "zilliqa"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+        "blockchain": "ethereum",
+        "decimals": 12,
+        "label": "main"
+      }
+    ]
+  }
+}

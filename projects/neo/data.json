@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "neo",
+    "name": "NEO",
+    "ticker": "NEO",
+    "description": "Chinese Ethereum",
+    "website": "https://neo.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NEO_Blockchain",
+    "telegram": "https://t.me/NEO_EN",
+    "discord": "https://discord.gg/R8v48YA",
+    "slack": "https://discordapp.com/invite/R8v48YA",
+    "reddit": "https://www.reddit.com/r/NEO/",
+    "blog": "https://medium.com/@NEO_Council"
+  },
+  "development": {
+    "github_organizations": [
+      "neo-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

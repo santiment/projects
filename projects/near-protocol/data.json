@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "near-protocol",
+    "name": "NEAR Protocol",
+    "ticker": "NEAR",
+    "description": "The Developer Platform for the Open Web",
+    "website": "https://near.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nearprotocol",
+    "telegram": "https://t.me/cryptonear",
+    "discord": "https://discord.gg/gBtUFKR",
+    "blog": "https://medium.com/nearprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "nearprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "optimism-ethereum",
+    "name": "Optimism",
+    "ticker": "OP",
+    "description": "Ethereum, scaled",
+    "website": "https://www.optimism.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/optimismPB",
+    "discord": "https://discord-gateway.optimism.io/",
+    "blog": "https://optimismpbc.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereum-optimism"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4200000000000000000000000000000000000042",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

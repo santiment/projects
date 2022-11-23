@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "sushi",
+    "name": "SushiSwap [on Ethereum]",
+    "ticker": "SUSHI",
+    "description": "An evolution of Uniswap with SUSHI tokenomics",
+    "website": "https://sushiswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SushiSwap",
+    "discord": "https://discord.gg/hJ2p555",
+    "blog": "https://medium.com/sushiswap/"
+  },
+  "development": {
+    "github_organizations": [
+      "sushiswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

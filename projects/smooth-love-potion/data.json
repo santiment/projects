@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "smooth-love-potion",
+    "name": "Delete",
+    "ticker": "SLP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

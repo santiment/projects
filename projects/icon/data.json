@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "icon",
+    "name": "ICON",
+    "ticker": "ICX",
+    "description": "Building an application platform and an interchain communication protocol. ",
+    "website": "https://www.icon.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/helloiconworld",
+    "telegram": "https://t.me/hello_iconworld",
+    "reddit": "https://www.reddit.com/r/helloicon/",
+    "blog": "https://medium.com/helloiconworld"
+  },
+  "development": {
+    "github_organizations": [
+      "icon-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb5a5f22694352c15b00323844ad545abb2b11028",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

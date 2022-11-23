@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ribbon-finance",
+    "name": "Ribbon Finance",
+    "ticker": "RBN",
+    "description": "Crypto structured products on Ethereum",
+    "website": "https://www.ribbon.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ribbonfinance",
+    "discord": "https://discord.com/invite/85gcVafPyN",
+    "blog": "https://ribbonfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ribbon-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

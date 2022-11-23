@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gemini-dollar",
+    "name": "Gemini Dollar",
+    "ticker": "GUSD",
+    "description": "U.S. Dollars on the Blockchain",
+    "website": "https://gemini.com/dollar/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gemini",
+    "reddit": "https://www.reddit.com/r/Gemini/",
+    "blog": "https://gemini.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "gemini"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+        "blockchain": "ethereum",
+        "decimals": 2,
+        "label": "main"
+      }
+    ]
+  }
+}

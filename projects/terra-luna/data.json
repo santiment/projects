@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "terra-luna",
+    "name": "Delete",
+    "ticker": "LUNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

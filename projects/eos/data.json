@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "eos",
+    "name": "EOS",
+    "ticker": "EOS",
+    "description": "Decentralized applications on WebAssembly",
+    "website": "https://eos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EOSIO",
+    "telegram": "https://t.me/joinchat/AAAAAEQbOeucnaMWN0A9dQ",
+    "reddit": "https://www.reddit.com/r/eos/",
+    "blog": "https://medium.com/eosio"
+  },
+  "development": {
+    "github_organizations": [
+      "eosio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

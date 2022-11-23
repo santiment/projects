@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "wootrade",
+    "name": "Wootrade",
+    "ticker": "WOO",
+    "description": "Layer one trading infrastructure",
+    "website": "https://woo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wootraderS",
+    "telegram": "https://t.me/wootrade",
+    "blog": "https://medium.com/@wootrade"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

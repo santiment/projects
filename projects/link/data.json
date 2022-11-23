@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "link",
+    "name": "LINK",
+    "ticker": "LN",
+    "description": "Blockchain Designed For Everyone",
+    "website": "https://blockchain.line.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/linebc_global",
+    "blog": "https://medium.com/@lineblockchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mask-network",
+    "name": "Mask Network",
+    "ticker": "MASK",
+    "description": "Send encrypted messages over Twitter and Facebook",
+    "website": "https://mask.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realmaskbook",
+    "telegram": "https://t.me/maskbook_group",
+    "discord": "https://discord.com/invite/4SVXvj7"
+  },
+  "development": {
+    "github_organizations": [
+      "DimensionDev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "nano",
+    "name": "Nano",
+    "ticker": "XNO",
+    "description": "Very fast, zero-fee transactions",
+    "website": "http://nano.org/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nano",
+    "discord": "https://discord.gg/JphbBas",
+    "slack": "https://discordapp.com/invite/JphbBas",
+    "reddit": "https://www.reddit.com/r/nanocurrency/"
+  },
+  "development": {
+    "github_organizations": [
+      "nanocurrency"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

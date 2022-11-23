@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "0x",
+    "name": "0x",
+    "ticker": "ZRX",
+    "description": "Decentralized exchange protocol",
+    "website": "https://0xproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xproject",
+    "discord": "https://discord.gg/d3FTX3M",
+    "reddit": "https://reddit.com/r/0xproject",
+    "blog": "https://blog.0xproject.com/latest"
+  },
+  "development": {
+    "github_organizations": [
+      "0xproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

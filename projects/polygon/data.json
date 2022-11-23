@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "polygon",
+    "name": "Delete",
+    "ticker": "MATIC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dogecoin",
+    "name": "Dogecoin",
+    "ticker": "DOGE",
+    "description": "An open source peer-to-peer digital currency",
+    "website": "http://dogecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dogecoin",
+    "discord": "https://discord.me/dogecoin/",
+    "reddit": "https://www.reddit.com/r/dogecoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "dogecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

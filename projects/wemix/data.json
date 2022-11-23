@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "wemix",
+    "name": "WEMIX",
+    "ticker": "WEMIX",
+    "description": "A global blockchain gaming platform",
+    "website": "https://wemixnetwork.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WemixNetwork",
+    "telegram": "https://t.me/WemixNetworkENG",
+    "reddit": "https://reddit.com/r/WemixNetwork",
+    "blog": "https://medium.com/@WemixNetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "wemade-tree"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

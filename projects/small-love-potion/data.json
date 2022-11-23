@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "small-love-potion",
+    "name": "Smooth Love Potion",
+    "ticker": "SLP",
+    "description": "Earned by playing the Axie Infinity game",
+    "website": "https://axieinfinity.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AxieInfinity",
+    "discord": "https://discord.gg/68DeTqc",
+    "reddit": "https://reddit.com/r/AxieInfinity",
+    "blog": "https://medium.com/@AxieInfinity"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "liquity-usd",
+    "name": "Liquity USD",
+    "ticker": "LUSD",
+    "description": "USD-pegged stablecoin",
+    "website": "https://liquity.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LiquityProtocol",
+    "discord": "https://discord.com/invite/aDB4BQbf",
+    "blog": "https://medium.com/liquity"
+  },
+  "development": {
+    "github_organizations": [
+      "liquity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

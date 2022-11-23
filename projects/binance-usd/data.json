@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "binance-usd",
+    "name": "Binance USD [on Ethereum]",
+    "ticker": "BUSD",
+    "description": "A stablecoin issued by Paxos in partnership with Binance",
+    "website": "https://www.paxos.com/busd/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PaxosGlobal",
+    "blog": "https://medium.com/Paxos"
+  },
+  "development": {
+    "github_organizations": [
+      "paxosglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

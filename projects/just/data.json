@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "just",
+    "name": "JUST",
+    "ticker": "JST",
+    "description": "Stablecoin infrastructure",
+    "website": "https://just.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defi_just",
+    "telegram": "https://t.me/just_defi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

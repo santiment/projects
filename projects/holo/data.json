@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "holo",
+    "name": "Holo",
+    "ticker": "HOT",
+    "description": "Decentralized hosting platform",
+    "website": "https://holochain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/h_o_l_o_",
+    "telegram": "https://t.me/channelHolo",
+    "slack": "https://chat.holochain.org/login",
+    "reddit": "https://www.reddit.com/r/holochain/",
+    "blog": "https://medium.com/h-o-l-o"
+  },
+  "development": {
+    "github_organizations": [
+      "holochain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

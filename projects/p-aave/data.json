@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "p-aave",
+    "name": "Aave [on Polygon]",
+    "ticker": "AAVE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

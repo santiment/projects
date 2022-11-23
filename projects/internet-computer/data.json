@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "internet-computer",
+    "name": "Internet Computer",
+    "ticker": "ICP",
+    "description": "Public decentralized cloud computing",
+    "website": "https://dfinity.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dfinity",
+    "telegram": "https://t.me/DFinity",
+    "reddit": "https://reddit.com/r/dfinity",
+    "blog": "https://medium.com/dfinity"
+  },
+  "development": {
+    "github_organizations": [
+      "dfinity"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

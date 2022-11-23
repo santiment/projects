@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "veritaseum",
+    "name": "Veritaseum",
+    "ticker": "VERI",
+    "description": "Autonomous Distributed Interactive Research",
+    "website": "http://veritas.veritaseum.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ReggieMiddleton",
+    "telegram": "https://t.me/joinchat/G_22OhA7UgN6b-7hTSFSTA",
+    "reddit": "https://www.reddit.com/r/Veritasium/",
+    "blog": "http://veritas.veritaseum.com/index.php/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "veritaseum"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

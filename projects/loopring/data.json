@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "loopring",
+    "name": "Loopring",
+    "ticker": "LRC",
+    "description": "Decentralized exchange",
+    "website": "https://loopring.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/loopringorg",
+    "telegram": "https://t.me/loopring_en",
+    "reddit": "https://www.reddit.com/r/loopring/",
+    "blog": "https://medium.com/loopring-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "loopring"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

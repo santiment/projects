@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "siacoin",
+    "name": "Siacoin",
+    "ticker": "SC",
+    "description": "Rent disk space",
+    "website": "https://sia.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SkynetLabs",
+    "discord": "https://discord.gg/sia",
+    "reddit": "https://www.reddit.com/r/siacoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "nebulous"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

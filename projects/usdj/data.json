@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "usdj",
+    "name": "USDJ",
+    "ticker": "USDJ",
+    "description": "USD-pegged stablecoin on Tron",
+    "website": "https://just.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeFi_JUST",
+    "telegram": "https://t.me/just_defi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

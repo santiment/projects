@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitcoin-gold",
+    "name": "Bitcoin Gold",
+    "ticker": "BTG",
+    "description": "Bitcoin clone similar to Bitcoin Cash",
+    "website": "https://bitcoingold.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoingold",
+    "telegram": "https://t.me/BitcoinGoldHQ"
+  },
+  "development": {
+    "github_organizations": [
+      "btcgpu"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

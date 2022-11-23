@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "nexus-mutual",
+    "name": "NXM",
+    "ticker": "NXM",
+    "description": "Pooling risks together",
+    "website": "https://nexusmutual.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NexusMutual",
+    "telegram": "https://t.me/joinchat/K_g-fA-3CmFwXumCKQUXkw",
+    "discord": "https://discord.com/invite/xxFaAEn",
+    "blog": "https://medium.com/nexus-mutual"
+  },
+  "development": {
+    "github_organizations": [
+      "somish"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

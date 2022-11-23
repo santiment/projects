@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "synthetix",
+    "name": "Duplicate",
+    "ticker": "SNX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

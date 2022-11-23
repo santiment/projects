@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "convex-finance",
+    "name": "Convex Finance",
+    "ticker": "CVX",
+    "description": "Boosted Curve staking",
+    "website": "https://www.convexfinance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/convexfinance",
+    "telegram": "https://t.me/convexEthChat",
+    "discord": "https://discord.com/invite/WHwgFwRG6h",
+    "blog": "https://convexfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "convex-eth"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

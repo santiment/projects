@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "decentraland",
+    "name": "Decentraland",
+    "ticker": "MANA",
+    "description": "Virtual reality platform",
+    "website": "https://decentraland.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/decentraland",
+    "telegram": "https://t.me/dcl_market",
+    "slack": "https://slack.decentraland.org/",
+    "reddit": "https://reddit.com/r/decentraland",
+    "blog": "https://blog.decentraland.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "decentraland"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

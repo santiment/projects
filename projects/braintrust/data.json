@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "braintrust",
+    "name": "Delete",
+    "ticker": "BTRST"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

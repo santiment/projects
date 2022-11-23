@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blockstack",
+    "name": "Stacks",
+    "ticker": "STX",
+    "description": "A new decentralized internet",
+    "website": "https://stacks.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Stacks",
+    "telegram": "https://t.me/BlockstackChat",
+    "reddit": "https://reddit.com/r/blockstack",
+    "blog": "https://blog.blockstack.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "blockstack"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

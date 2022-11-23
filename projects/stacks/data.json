@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "stacks",
+    "name": "Delete",
+    "ticker": "STX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

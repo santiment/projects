@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "synthetix-network-token",
+    "name": "Synthetix [on Ethereum]",
+    "ticker": "SNX",
+    "description": "Enables the creation of on-chain synthetic assets",
+    "website": "https://www.synthetix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "discord": "https://discord.gg/AEdUHzt",
+    "reddit": "https://www.reddit.com/r/synthetix_io/",
+    "blog": "https://blog.havven.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "synthetixio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

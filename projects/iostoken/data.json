@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "iostoken",
+    "name": "IOST",
+    "ticker": "IOST",
+    "description": "Internet of services",
+    "website": "http://iost.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iostoken",
+    "telegram": "https://t.me/officialios",
+    "reddit": "https://www.reddit.com/r/IOStoken/",
+    "blog": "https://medium.com/@iostoken"
+  },
+  "development": {
+    "github_organizations": [
+      "iost-official"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

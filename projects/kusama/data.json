@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "kusama",
+    "name": "Kusama",
+    "ticker": "KSM",
+    "description": "An early, unaudited, and unrefined release of Polkadot",
+    "website": "https://kusama.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kusamanetwork",
+    "telegram": "https://t.me/kusamanetworkofficial",
+    "slack": "https://riot.im/app/#/room/#kusamawatercooler:polkadot.builders"
+  },
+  "development": {
+    "github_organizations": [
+      "paritytech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

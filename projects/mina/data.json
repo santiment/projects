@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "mina",
+    "name": "Mina",
+    "ticker": "MINA",
+    "description": "The world's lightest blockchain",
+    "website": "https://minaprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MinaProtocol",
+    "discord": "https://discord.com/invite/Vexf4ED",
+    "reddit": "https://reddit.com/r/MinaProtocol",
+    "blog": "https://medium.com/@minaprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "MinaProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

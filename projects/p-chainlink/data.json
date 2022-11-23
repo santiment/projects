@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "p-chainlink",
+    "name": "ChainLink [on Polygon]",
+    "ticker": "LINK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}
