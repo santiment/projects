@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "ubiq",
+    "name": "Ubiq",
+    "ticker": "UBQ",
+    "description": "Smart Contracts For An Automated World",
+    "website": "http://ubiqsmart.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ubiqsmart",
+    "discord": "https://discord.gg/HF6vEGF",
+    "slack": "https://discordapp.com/invite/HF6vEGF",
+    "reddit": "https://www.reddit.com/r/Ubiq/",
+    "blog": "https://blog.ubiqsmart.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ubiq"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

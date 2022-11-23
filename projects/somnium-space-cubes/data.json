@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "somnium-space-cubes",
+    "name": "Somnium Space Cubes",
+    "ticker": "CUBE",
+    "description": "Gaming Metaverse",
+    "website": "https://www.somniumspace.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/somniumspace",
+    "telegram": "https://t.me/somniumspace",
+    "discord": "https://discordapp.com/invite/somniumspace",
+    "blog": "https://medium.com/@navahk/oc6-oculus-connect-6-events-roundup-a35356cba4e8"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf801468a808a32656d2ed2d2d80b72a129739f4",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

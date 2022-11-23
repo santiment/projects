@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hedgetrade",
+    "name": "HedgeTrade",
+    "ticker": "HEDG",
+    "description": "Revolutionizing social trading using blockchain technology",
+    "website": "https://hedgetrade.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hedgetradehq",
+    "telegram": "https://t.me/HedgeTradeHQ"
+  },
+  "development": {
+    "github_organizations": [
+      "rublixdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF1290473E210b2108A85237fbCd7b6eb42Cc654F",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

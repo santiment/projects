@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "tokamak-network",
+    "name": "Tokamak Network",
+    "ticker": "TON",
+    "description": "A layer 2 protocol including plasma and roll-up",
+    "website": "https://tokamak.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tokamak_Network",
+    "telegram": "https://t.me/tokamak_network",
+    "discord": "https://discord.gg/SZw2WSR",
+    "slack": "https://discord.gg/SZw2WSR",
+    "blog": "https://medium.com/onther-tech"
+  },
+  "development": {
+    "github_organizations": [
+      "onther-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

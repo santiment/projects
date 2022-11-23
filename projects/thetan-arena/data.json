@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "thetan-arena",
+    "name": "Thetan Arena",
+    "ticker": "THG",
+    "description": "1st MOBA e-sport game",
+    "website": "https://thetanarena.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ThetanArena",
+    "telegram": "https://t.me/thetanarenanews",
+    "discord": "https://discord.com/invite/Wfx2XDSuwe",
+    "blog": "https://medium.com/@ThetanArena"
+  },
+  "development": {
+    "github_organizations": [
+      "thetanarena"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

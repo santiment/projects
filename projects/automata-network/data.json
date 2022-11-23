@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "automata-network",
+    "name": "Automata Network",
+    "ticker": "ATA",
+    "description": "The go-to privacy middleware for dApps on Web3",
+    "website": "https://ata.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/automatanetwork",
+    "telegram": "https://t.me/ata_network",
+    "discord": "https://discord.gg/Us8cxTVRxG",
+    "blog": "https://medium.com/atanetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "automata-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

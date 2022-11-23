@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "starta",
+    "name": "Starta",
+    "ticker": "STA",
+    "description": "Empowering the next generation of tech entrepreneurs",
+    "website": "https://www.startaventures.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StartaAccel",
+    "reddit": "https://www.reddit.com/r/Starta/",
+    "blog": "https://medium.com/@startaventures"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

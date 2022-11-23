@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "serve",
+    "name": "Serve",
+    "ticker": "SERV",
+    "description": "Decentralizing Logistics Services on the Blockchain",
+    "website": "https://serve.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/servetoken",
+    "telegram": "https://t.me/servetoken",
+    "reddit": "https://www.reddit.com/user/servetoken/",
+    "blog": "https://medium.com/@servetoken"
+  },
+  "development": {
+    "github_organizations": [
+      "serveeconomy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1237b0d12b15e3c609e37885597bfcad85745cf1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

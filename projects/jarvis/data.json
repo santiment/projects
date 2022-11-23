@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "jarvis",
+    "name": "Jarvis+",
+    "ticker": "JAR",
+    "description": "Do anything cross smart-contracts with natural languages",
+    "website": "http://www.jarvisplus.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/JarvisplusAI",
+    "telegram": "https://t.me/jarvisplus",
+    "discord": "https://discord.gg/pzesPmc",
+    "slack": "https://discord.gg/pzesPmc",
+    "reddit": "https://www.reddit.com/r/JarvisPlus/"
+  },
+  "development": {
+    "github_organizations": [
+      "x-contract"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa249de6948022783765fee4850d7b85e43118fcc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

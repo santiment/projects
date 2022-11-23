@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "handshake",
+    "name": "Handshake",
+    "ticker": "HNS",
+    "description": "Decentralized naming and certificate authority",
+    "website": "https://handshake.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HNS",
+    "telegram": "https://t.me/handshake_hns",
+    "reddit": "https://www.reddit.com/r/handshake/"
+  },
+  "development": {
+    "github_organizations": [
+      "handshake-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

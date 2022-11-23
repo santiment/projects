@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "world-mobile-token",
+    "name": "World Mobile Token",
+    "ticker": "WMT",
+    "website": "https://worldmobiletoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wmtoken",
+    "telegram": "https://t.me/WorldMobileTeam",
+    "reddit": "https://reddit.com/r/WorldMobileToken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "newyorkcoin",
+    "name": "NewYorkCoin",
+    "ticker": "NYC",
+    "description": "A blockchain based merchant payment solution",
+    "website": "https://nycoin.community/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nycoincommunity",
+    "telegram": "https://t.me/NewYorkCoinNYC",
+    "discord": "https://discord.gg/qRtkD8q",
+    "slack": "https://discord.gg/qRtkD8q",
+    "reddit": "https://www.reddit.com/r/nycoincommunity/"
+  },
+  "development": {
+    "github_organizations": [
+      "NewYorkCoin-NYC"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

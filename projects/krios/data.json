@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "krios",
+    "name": "Krios",
+    "ticker": "KRI",
+    "description": "Disrupting $36-Billion-Dollar Digital Marketing",
+    "website": "https://www.krios.io/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/krios_io",
+    "telegram": "https://t.me/KriosICO",
+    "blog": "https://medium.com/@krios"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xde1289e68ad9e65ccf50d800c0cec2d514b80a40",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

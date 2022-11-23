@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "debase",
+    "name": "Debase",
+    "ticker": "DEBASE",
+    "description": "A flexible supply token pegged to 1 DAI",
+    "website": "https://debaseonomics.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/debaseonomics",
+    "telegram": "https://t.me/debaseonomics",
+    "discord": "https://discord.gg/eHP7jnfD",
+    "slack": "https://discord.gg/eHP7jnfD",
+    "blog": "https://twitter.com/debaseonomics"
+  },
+  "development": {
+    "github_organizations": [
+      "debaseonomics"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9248c485b0b80f76da451f167a8db30f33c70907",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "stratos",
+    "name": "Stratos",
+    "ticker": "STOS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

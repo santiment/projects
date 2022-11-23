@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dragonchain",
+    "name": "Dragonchain",
+    "ticker": "DRGN",
+    "description": "Blockchain Business Magic",
+    "website": "https://dragonchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dragonchaingang",
+    "telegram": "https://t.me/dragontalk",
+    "slack": "https://dragonchain.slack.com/",
+    "reddit": "https://www.reddit.com/r/drgn/",
+    "blog": "https://dragonchain.github.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "dragonchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

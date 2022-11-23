@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "jiyo",
+    "name": "Jiyo",
+    "ticker": "JIYOX",
+    "description": "A privacy-centric cryptocurrency",
+    "website": "https://jiyo.site/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/team_jiyo",
+    "telegram": "https://t.me/jiyochat"
+  },
+  "development": {
+    "github_organizations": [
+      "jiyocoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

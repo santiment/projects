@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "lgcy-network",
+    "name": "LGCY Network",
+    "ticker": "LGCY",
+    "description": "dApp based blockchain",
+    "website": "https://lgcy.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LGCYNetwork",
+    "telegram": "https://t.me/LGCYNetwork",
+    "blog": "https://lgcynetwork.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

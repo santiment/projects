@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "x8x-token",
+    "name": "X8",
+    "ticker": "X8X",
+    "description": "A 100% fiat &amp;amp; gold backed Token",
+    "website": "https://x8currency.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/x8currency",
+    "telegram": "https://t.me/x8Project",
+    "slack": "https://x8currency.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/X8_Project/",
+    "blog": "https://medium.com/x8currency"
+  },
+  "development": {
+    "github_organizations": [
+      "x8currency-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x910dfc18d6ea3d6a7124a6f8b5458f281060fa4c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

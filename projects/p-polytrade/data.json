@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "p-polytrade",
+    "name": "Polytrade [on Polygon]",
+    "ticker": "TRADE",
+    "description": "DeFi lending platform",
+    "website": "https://polytrade.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Polytrade_fin",
+    "telegram": "https://t.me/Polytrade_Finance",
+    "discord": "https://discord.gg/mQesu86zFQ",
+    "blog": "https://medium.com/@Polytrade"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

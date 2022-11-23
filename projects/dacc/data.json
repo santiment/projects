@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dacc",
+    "name": "DACC",
+    "ticker": "DACC",
+    "description": "Content-based blockchain",
+    "website": "http://dacc.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DACCblockchain",
+    "telegram": "https://t.me/dacc_official_group_english"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8c595d070d104377f58715ce2e6c93e49a87f3c",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

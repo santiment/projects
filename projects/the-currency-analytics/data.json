@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "the-currency-analytics",
+    "name": "The Currency Analytics",
+    "ticker": "TCAT",
+    "description": "TCAT is a Google-verified media platform and community comprised exclusively of the latest stories from professional writers",
+    "website": "https://thecurrencyanalytics.com/tcat-token/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheCurrencyA",
+    "telegram": "https://t.me/TheCurrencyAnalytics"
+  },
+  "development": {
+    "github_organizations": [
+      "thecurrencyanalytics"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaff84e86d72edb971341a6a66eb2da209446fa14",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "vegaprotocol",
+    "name": "Vega Protocol",
+    "ticker": "VEGA",
+    "description": "Derivatives scaling layer for Web3",
+    "website": "https://vega.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vegaprotocol",
+    "telegram": "https://t.me/vegacommunity",
+    "discord": "https://discord.com/invite/3hQyGgZ",
+    "blog": "https://blog.vega.xyz/"
+  },
+  "development": {
+    "github_organizations": [
+      "vegaprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "prosper",
+    "name": "Prosper",
+    "ticker": "PROS",
+    "description": "Cross-chain prediction market and hedging platform",
+    "website": "https://prosper.so/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Prosperpredict",
+    "telegram": "https://t.me/prosperfi",
+    "blog": "https://medium.com/pooler"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

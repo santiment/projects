@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "optimal-shelf-availability-token",
+    "name": "Optimal Shelf Availability Token",
+    "ticker": "OSA",
+    "description": "The platform provides consumers with transparent product information and AI assistant services, while OSA DC’s AI-powered ecosystem will also give manufacturers and retailers the chance to effectively cooperate and optimize their business strategies",
+    "website": "https://token.osadc.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/global_OSADC",
+    "telegram": "https://t.me/osadecentralized",
+    "reddit": "https://www.reddit.com/user/OSA_DC/",
+    "blog": "https://medium.com/osadc"
+  },
+  "development": {
+    "github_organizations": [
+      "osa-decentralized"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc6abf3c09341741ac6041b0b08195701bdfd460c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "julswap",
+    "name": "JulSwap",
+    "ticker": "JULD",
+    "description": "Uniswap clone on BSC",
+    "website": "https://justliquidity.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/JulSwap",
+    "telegram": "https://t.me/justliquidity",
+    "blog": "https://medium.com/@justliquidity"
+  },
+  "development": {
+    "github_organizations": [
+      "justliquidity"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

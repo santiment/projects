@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "provoco-token",
+    "name": "Provoco Token",
+    "ticker": "VOCO",
+    "description": "The first social challenge network based on blockchain technology",
+    "website": "https://provoco.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/provocome",
+    "telegram": "https://t.me/provoco_me",
+    "reddit": "https://www.reddit.com/user/provocome",
+    "blog": "https://medium.com/@Provocome"
+  },
+  "development": {
+    "github_organizations": [
+      "provocome"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb5ca46cf1da09248126682a7bd72401fd7a6b151",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

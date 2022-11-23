@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lien",
+    "name": "Lien",
+    "ticker": "LIEN",
+    "description": "A protocol for creating Options & Stablecoins from ETH"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LienFinance",
+    "telegram": "https://t.me/lien_finance",
+    "blog": "https://medium.com/lien-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "LienFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xab37e1358b639fd877f015027bb62d3ddaa7557e",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tontoken",
+    "name": "TONToken",
+    "ticker": "TON",
+    "description": "High-performance public chain developed by Telegram",
+    "website": "https://toncommunity.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/ton_en",
+    "blog": "https://medium.com/@TONCommunity"
+  },
+  "development": {
+    "github_organizations": [
+      "ton-blockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

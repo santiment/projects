@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sociall",
+    "name": "Sociall",
+    "ticker": "SCL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

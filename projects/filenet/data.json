@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "filenet",
+    "name": "Filenet",
+    "ticker": "FN",
+    "description": "An incentive layer to reward miners",
+    "website": "http://filenet.io/page/index_EN"
+  },
+  "social": {
+    "telegram": "https://t.me/filenetcommunity",
+    "blog": "https://medium.com/@filenetglobal"
+  },
+  "development": {
+    "github_organizations": [
+      "filenet2018"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

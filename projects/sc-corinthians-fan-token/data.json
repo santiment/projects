@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "sc-corinthians-fan-token",
+    "name": "S.C. Corinthians Fan Token",
+    "ticker": "SCCP",
+    "website": "https://socios.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

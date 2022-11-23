@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "numbers-protocol",
+    "name": "Numbers Protocol",
+    "ticker": "NUM",
+    "description": "Decentralized Photo Network for Web 3.0",
+    "website": "https://www.numbersprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/numbersprotocol",
+    "telegram": "https://t.me/numbersprotocol",
+    "discord": "https://discord.gg/rtef8kJH",
+    "reddit": "https://www.reddit.com/r/NumbersProtocolIO/",
+    "blog": "https://medium.com/numbers-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "numbersprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

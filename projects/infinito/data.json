@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "infinito",
+    "name": "Infinito",
+    "ticker": "INFT",
+    "description": "An ecosystem of blockchain products",
+    "website": "https://www.infinito.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Infinito_Ltd",
+    "telegram": "https://t.me/infinitowallet",
+    "discord": "https://discord.gg/SAFBR2Z",
+    "slack": "https://discord.gg/SAFBR2Z",
+    "blog": "https://medium.com/infinito-wallet"
+  },
+  "development": {
+    "github_organizations": [
+      "InfinitoSolutions"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x83d60e7aed59c6829fb251229061a55f35432c4d",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

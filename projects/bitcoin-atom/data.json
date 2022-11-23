@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bitcoin-atom",
+    "name": "Bitcoin Atom",
+    "ticker": "BCA",
+    "description": "Atomic Swaps &amp;amp; Lightning Network",
+    "website": "https://bitcoinatom.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atombitcoin",
+    "telegram": "http://t.me/bitcoinatom",
+    "slack": "https://join.slack.com/t/bitcoin-atom/shared_invite/enQtMjgxMTQ5MTIyOTk3LWQ2MDg3MDMzZTZmNjQyMTFiOGU0NTc4NWE0NmJlN2Q1ZjhkNjQ4MjgxMGU5MWE0Mjg4ZGU1NWE3ZTY3NDQ4NGY",
+    "reddit": "http://reddit.com/user/BitcoinAtom",
+    "blog": "https://medium.com/@bitcoinatom"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin-atom"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "volt",
+    "name": "Volt",
+    "ticker": "ACDC",
+    "description": "Allows centralized platforms such as Uber, to be developed in a decentralized manner",
+    "website": "https://volttech.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Volt_Technology",
+    "telegram": "http://t.me/voltico",
+    "blog": "https://medium.com/volt-technology"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc44ec51c80e35a87bc2140299b1636ec83dfb04",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

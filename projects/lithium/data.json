@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "lithium",
+    "name": "Lithium",
+    "ticker": "LITH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

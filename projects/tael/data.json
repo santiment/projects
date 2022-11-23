@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tael",
+    "name": "Wabi",
+    "ticker": "WABI",
+    "description": "The first fair reward for consumer contributions, in an ecosystem of safe and authentic products",
+    "website": "https://wabi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wabitoken",
+    "telegram": "https://t.me/wabi_ico",
+    "slack": "http://slack.wacoin.io/",
+    "reddit": "https://www.reddit.com/r/WabiToken/",
+    "blog": "https://medium.com/@Taelpay/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x286bda1413a2df81731d4930ce2f862a35a609fe",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

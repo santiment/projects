@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "webdollar",
+    "name": "WebDollar",
+    "ticker": "WEBD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

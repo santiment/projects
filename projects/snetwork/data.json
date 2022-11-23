@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "snetwork",
+    "name": "Snetwork",
+    "ticker": "SNET",
+    "website": "https://www.snetwork.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/snetwork_official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff19138b039d938db46bdda0067dc4ba132ec71c",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

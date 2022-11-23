@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blockstamp",
+    "name": "BlockStamp",
+    "ticker": "BST",
+    "description": "A blockchain built in to digital record management applications",
+    "website": "https://blockstamp.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockstamp_info",
+    "telegram": "https://t.me/Blockstamp",
+    "reddit": "https://www.reddit.com/user/blockstamp",
+    "blog": "https://medium.com/blockstamp"
+  },
+  "development": {
+    "github_organizations": [
+      "blockstamp"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

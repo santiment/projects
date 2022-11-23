@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "zenon",
+    "name": "Zenon",
+    "ticker": "ZNN",
+    "description": "POS/MS hybrid cryptocurrency ",
+    "website": "https://zenon.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Zenon_Network",
+    "telegram": "https://t.me/joinchat/MLyPehLIbJj1nw1XOOOltg",
+    "discord": "https://discord.gg/XDDjECy",
+    "slack": "https://discord.gg/XDDjECy",
+    "blog": "https://medium.com/@zenon.network"
+  },
+  "development": {
+    "github_organizations": [
+      "zenonnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

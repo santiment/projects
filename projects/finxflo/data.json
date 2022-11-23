@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "finxflo",
+    "name": "Finxflo",
+    "ticker": "FXF",
+    "description": "Hybrid Liquidity Aggregator",
+    "website": "https://www.finxflo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/finxflo",
+    "telegram": "https://t.me/Finxflo_Community",
+    "blog": "https://finxflo.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "finxflo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

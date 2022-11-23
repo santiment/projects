@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "susd",
+    "name": "sUSD",
+    "ticker": "SUSD",
+    "description": "A distributed monetary system and stablecoin",
+    "website": "https://www.synthetix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "discord": "https://discord.gg/AEdUHzt",
+    "slack": "https://discord.gg/AEdUHzt",
+    "reddit": "https://reddit.com/r/synthetix_io",
+    "blog": "https://blog.havven.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "synthetixio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x57ab1e02fee23774580c119740129eac7081e9d3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "autonio",
+    "name": "Autonio",
+    "ticker": "NIOX",
+    "description": "AI Trading System",
+    "website": "https://auton.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AI_Autonio",
+    "telegram": "https://t.me/Autonio",
+    "discord": "https://discord.gg/qk9VgU6",
+    "slack": "https://discord.gg/qk9VgU6",
+    "reddit": "https://www.reddit.com/r/Autonio/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa67d97d75eE175e05BB1FB17529FD772eE8E9030",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

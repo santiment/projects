@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "genesis-worlds",
+    "name": "Genesis Worlds",
+    "ticker": "GENESIS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

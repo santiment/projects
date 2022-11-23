@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "santos-fc-fan-token",
+    "name": "Duplicate",
+    "ticker": "SANTOS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

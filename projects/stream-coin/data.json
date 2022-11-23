@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "stream-coin",
+    "name": "Duplicate",
+    "ticker": "STRM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

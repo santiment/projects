@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "road",
+    "name": "ROAD",
+    "ticker": "ROAD",
+    "description": "Internet of Vehicles Economic System",
+    "website": "https://roadpro.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ROAD920",
+    "telegram": "https://t.me/Road_Official",
+    "reddit": "https://www.reddit.com/user/ROAD920"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "streamit-coin",
+    "name": "Streamit Coin",
+    "ticker": "STREAM",
+    "description": "A decentralized solution for streamers and vloggers.",
+    "website": "https://streamitcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/STREAMITCOIN",
+    "telegram": "https://t.me/streamitcoin",
+    "discord": "https://discord.gg/EN8kRMv",
+    "slack": "https://discord.gg/EN8kRMv"
+  },
+  "development": {
+    "github_organizations": [
+      "streamitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

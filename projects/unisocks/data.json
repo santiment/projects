@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "unisocks",
+    "name": "Unisocks",
+    "ticker": "SOCKS",
+    "website": "https://unisocks.exchange/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

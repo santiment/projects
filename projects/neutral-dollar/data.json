@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "neutral-dollar",
+    "name": "Neutral Dollar",
+    "ticker": "NUSD",
+    "description": "A metastable basket of stablecoins",
+    "website": "https://neutralproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/neutral_project",
+    "telegram": "https://t.me/neutralproject",
+    "blog": "https://medium.com/@neutralproject"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0c6144c16af288948c8fdb37fd8fec94bff3d1d9",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

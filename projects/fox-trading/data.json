@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "fox-trading",
+    "name": "Fox Trading",
+    "ticker": "FOXT",
+    "description": "Automated Forex and Crypto trading platform",
+    "website": "https://foxtrading.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/foxtradingfx",
+    "telegram": "https://t.me/FoxTradingSignals",
+    "reddit": "https://www.reddit.com/user/FoxTrading/",
+    "blog": "https://medium.com/@foxtrading"
+  },
+  "development": {
+    "github_organizations": [
+      "foxtrading"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfbe878ced08132bd8396988671b450793c44bc12",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "spectre-dividend",
+    "name": "Spectre.ai Dividend Token",
+    "ticker": "SXDT",
+    "description": "Financial prediction market platform backed by a tokenised liquidity pool",
+    "website": "http://www.spectre.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SpectreAI",
+    "telegram": "https://t.me/joinchat/GjkGkw7IfwUVuPiWxctD4g",
+    "reddit": "https://www.reddit.com/r/Spectre_ai/",
+    "blog": "https://medium.com/teamspectreai"
+  },
+  "development": {
+    "github_organizations": [
+      "spectre-ai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

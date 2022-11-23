@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "stronghold-token",
+    "name": "Stronghold Token",
+    "ticker": "SHX",
+    "description": "Stronghold&amp;amp;amp;#39;s digital currency",
+    "website": "https://stronghold.co/stronghold-shx"
+  },
+  "social": {
+    "twitter": "https://twitter.com/strongholdpay",
+    "telegram": "https://t.me/strongholdxchg",
+    "reddit": "https://www.reddit.com/r/strongholdxchg/",
+    "blog": "https://medium.com/strongholdxchg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

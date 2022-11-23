@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "clearpool",
+    "name": "Clearpool",
+    "ticker": "CPOOL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

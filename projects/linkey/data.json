@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "linkey",
+    "name": "Linkey",
+    "ticker": "LKY",
+    "description": "A platform to connect digital assets to real community",
+    "website": "https://www.linkey.info/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/IF_0PxImgca99nuTloLNeQ"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49bd2da75b1f7af1e4dfd6b1125fecde59dbec58",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

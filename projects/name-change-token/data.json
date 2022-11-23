@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "name-change-token",
+    "name": "Name Change Token",
+    "ticker": "NCT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

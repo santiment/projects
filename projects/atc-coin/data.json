@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "atc-coin",
+    "name": "ATC Coin",
+    "ticker": "ATCC",
+    "description": "A peer-to-peer Internet currency",
+    "website": "http://www.atccoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atccofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "atccoin2017"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xddaaf4a0702a03a4505f2352a1aba001ffc344be",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "investfeed",
+    "name": "InvestFeed",
+    "ticker": "IFT",
+    "description": "The Epicenter of the Cryptocurrency Community",
+    "website": "https://www.investfeed.com/"
+  },
+  "social": {
+    "twitter": "http://www.twitter.com/investfeed",
+    "telegram": "https://t.me/investfeed",
+    "reddit": "https://www.reddit.com/r/investFeedOfficial/",
+    "blog": "https://medium.com/@investFeed"
+  },
+  "development": {
+    "github_organizations": [
+      "investfeed-corp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7654915a1b82d6d2d0afc37c52af556ea8983c7e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

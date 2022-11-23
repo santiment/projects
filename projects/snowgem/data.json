@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "snowgem",
+    "name": "SnowGem",
+    "ticker": "XSG",
+    "description": "The first Equihash - zkSNARKs - Masternode coin",
+    "website": "https://snowgem.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SnowGemOfficial",
+    "discord": "https://discord.gg/7a7XRZr",
+    "slack": "https://discord.gg/7a7XRZr",
+    "reddit": "https://www.reddit.com/r/SnowGem/"
+  },
+  "development": {
+    "github_organizations": [
+      "snowgem"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

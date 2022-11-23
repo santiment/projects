@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "umbrella-network",
+    "name": "Umbrella Network",
+    "ticker": "UMB",
+    "description": "Layer 2 oracle",
+    "website": "https://www.umb.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UmbNetwork",
+    "telegram": "https://t.me/umbrellanet",
+    "discord": "https://discord.gg/7Fx3wPCd"
+  },
+  "development": {
+    "github_organizations": [
+      "umbrella-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6fc13eace26590b80cccab1ba5d51890577d83b2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

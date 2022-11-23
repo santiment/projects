@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "rapids",
+    "name": "Rapids",
+    "ticker": "RPD",
+    "description": "POS &amp;amp; Masternode Cryptocurrency Project facilitating use of RPD through Web Browser &amp;amp; Social Media-enabled Widgets",
+    "website": "https://www.rapidsnetwork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RapidsRPD",
+    "telegram": "https://t.me/RapidsOfficial",
+    "blog": "https://medium.com/rapidsofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "rapidsofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

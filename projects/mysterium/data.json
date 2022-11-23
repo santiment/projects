@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mysterium",
+    "name": "Mysterium",
+    "ticker": "MYST",
+    "description": "Decentralized VPN powered by Blockchain",
+    "website": "https://mysterium.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MysteriumNet",
+    "telegram": "https://t.me/mysterium_network",
+    "slack": "http://slack.mysterium.network/",
+    "reddit": "https://github.com/MysteriumNetwork",
+    "blog": "https://medium.com/mysterium-network"
+  },
+  "development": {
+    "github_organizations": [
+      "mysteriumnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

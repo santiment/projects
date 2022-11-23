@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bitex-global-xbx-coin",
+    "name": "Bitex Global XBX Coin",
+    "ticker": "XBX",
+    "description": "Creating a new and approachable financial economy by providing hyper-localized crypto-banking services through a global platform across the continents.",
+    "website": "https://bitex.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitex_Global",
+    "telegram": "https://t.me/Bitex_Global_Ico_Official",
+    "slack": "https://line.me/R/ti/p/%40bitex-glb",
+    "reddit": "https://www.reddit.com/r/BITEXGlobal/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

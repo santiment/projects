@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "echoin",
+    "name": "Echoin",
+    "ticker": "ECH",
+    "description": "Public Chain Ecology",
+    "website": "https://www.echoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Echoin_io",
+    "telegram": "https://t.me/EchoinEN",
+    "blog": "https://medium.com/@echo_realm"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x12fd19dac0fab61bed5e0f09091b470c452d4d61",
+        "decimals": 18
+      }
+    ]
+  }
+}

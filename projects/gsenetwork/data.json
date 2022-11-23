@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "gsenetwork",
+    "name": "GSENetwork",
+    "ticker": "GSE",
+    "description": "A transparent and secure trust network ",
+    "website": "https://gse.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gselabofficial",
+    "telegram": "https://t.me/GSENetworkOfficial",
+    "reddit": "https://www.reddit.com/r/GSENetwork/",
+    "blog": "https://medium.com/@gselabofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

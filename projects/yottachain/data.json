@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "yottachain",
+    "name": "YottaChain",
+    "ticker": "YTA",
+    "description": "Redefining Blockchain Storage",
+    "website": "http://www.yottachain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Yottachain",
+    "telegram": "https://t.me/YottaChain01",
+    "reddit": "https://www.reddit.com/user/YottaChain",
+    "blog": "https://medium.com/@yottachain"
+  },
+  "development": {
+    "github_organizations": [
+      "yottachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5edc1a266e8b2c5e8086d373725df0690af7e3ea",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

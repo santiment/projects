@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "liquid-apps",
+    "name": "LiquidApps",
+    "ticker": "DAPP",
+    "website": "https://www.liquidapps.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

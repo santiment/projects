@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "modefi",
+    "name": "Modefi",
+    "ticker": "MOD",
+    "description": "Oracles and DeFi",
+    "website": "https://modefi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Modefi_Official",
+    "telegram": "https://t.me/modefi_official",
+    "blog": "https://modefi.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

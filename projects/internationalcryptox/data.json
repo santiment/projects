@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "internationalcryptox",
+    "name": "International Crypto X",
+    "ticker": "INCX",
+    "description": "An ultra-scalable, simple, secure and compliant Crypto Exchange",
+    "website": "https://internationalcryptox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/INCryptoX",
+    "telegram": "https://t.me/InternationalCryptoX",
+    "reddit": "https://www.reddit.com/user/InternationalCryptoX/",
+    "blog": "https://medium.com/@internationalcryptox"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa984a92731c088f1ea4d53b71a2565a399f7d8d5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

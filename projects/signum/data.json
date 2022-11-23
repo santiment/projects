@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "signum",
+    "name": "Signum",
+    "ticker": "SIGNA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

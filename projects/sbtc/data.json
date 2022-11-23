@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "sbtc",
+    "name": "Synth sBTC",
+    "ticker": "SBTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "volt-inu-v2",
+    "name": "Volt Inu V2",
+    "ticker": "VOLT",
+    "description": "Hyper-deflationary token whose aim is to invest in multiple asset classes",
+    "website": "https://voltinu.in/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VoltInuOfficial",
+    "telegram": "https://t.me/VoltInuOfficial",
+    "discord": "https://discord.gg/mRmg5ZKJv9",
+    "reddit": "https://medium.com/@VoltInu",
+    "blog": "https://medium.com/@VoltInu"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

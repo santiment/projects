@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "sparkle",
+    "name": "Sparkle",
+    "ticker": "SPRKL",
+    "description": "Sparkle allows P2P computing on a distributed application architecture that partitions tasks or workloads between peers",
+    "website": "https://sparklemobile.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Sparkletoken",
+    "telegram": "https://t.me/Sparklemobile",
+    "discord": "https://discord.gg/PdCQRmG",
+    "slack": "https://discord.gg/PdCQRmG",
+    "reddit": "https://www.reddit.com/r/Sparklemobile/",
+    "blog": "https://medium.com/@1544201320669"
+  },
+  "development": {
+    "github_organizations": [
+      "sparklemobile"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b7ad3a56810032782afce12d7d27122bdb96eff",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

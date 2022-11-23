@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "zilla",
+    "name": "Zilla",
+    "ticker": "ZLA",
+    "website": "https://zla.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zillatoken",
+    "telegram": "https://t.me/zilla_app",
+    "reddit": "https://www.reddit.com/r/ZILLAtoken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

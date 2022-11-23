@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tendies",
+    "name": "Tendies",
+    "ticker": "TEND",
+    "description": "Hyper deflationary coin",
+    "website": "https://tendies.dev/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TendiesCrypto",
+    "telegram": "https://t.me/tendies1",
+    "discord": "https://discord.com/invite/Exj4ZJa",
+    "slack": "https://discord.com/invite/Exj4ZJa"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1453dbb8a29551ade11d89825ca812e05317eaeb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

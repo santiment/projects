@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "b91",
+    "name": "B91",
+    "ticker": "B91",
+    "website": "https://www.b91.com/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/B91Foundation",
+    "slack": "http://www.b91com.slack.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1519aff03b3e23722511d2576c769a77baf09580",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

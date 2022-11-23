@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "vslice",
+    "name": "vSlice",
+    "ticker": "VSL",
+    "description": "Ether betting games",
+    "website": "http://www.vslice.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vDice_io",
+    "telegram": "https://telegram.me/joinchat/EHTlBwbUO0xGJlKuSncFyw",
+    "slack": "https://vdice-slack-invite-page.stamplayapp.com/",
+    "reddit": "https://www.reddit.com/r/vDice/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c543e7ae0a1104f78406c340e9c64fd9fce5170",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

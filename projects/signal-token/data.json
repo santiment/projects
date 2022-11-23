@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "signal-token",
+    "name": "Spectiv",
+    "ticker": "SIG",
+    "description": "A dedicated virtual reality",
+    "website": "https://www.spectivvr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/spectivvr",
+    "telegram": "https://t.me/spectivtelegram",
+    "slack": "https://communityinviter.com/apps/spectivvr/welcome",
+    "reddit": "https://www.reddit.com/r/Spectiv/",
+    "blog": "https://medium.com/spectiv-vr"
+  },
+  "development": {
+    "github_organizations": [
+      "spectivofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6888a16ea9792c15a4dcf2f6c623d055c8ede792",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

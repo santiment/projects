@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "urus",
+    "name": "Aurox",
+    "ticker": "URUS",
+    "description": "Trading terminal",
+    "website": "https://getaurox.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/getaurox",
+    "telegram": "https://t.me/getaurox",
+    "discord": "https://discord.com/invite/W4Ds6Y4A",
+    "blog": "https://medium.com/urus-token"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6c5fbc90e4d78f70cc5025db005b39b03914fc0c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

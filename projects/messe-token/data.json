@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "messe-token",
+    "name": "MESSE TOKEN",
+    "ticker": "MESSE",
+    "description": "Сommitted to creating a reliable distributed global blockchain decentralized exhibition platform with symmetrical and high efficient information",
+    "website": "http://www.messe.ws/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/messe16017836/",
+    "telegram": "https://t.me/joinchat/IcKZjRDamonwlXWRpsoF7w"
+  },
+  "development": {
+    "github_organizations": [
+      "messews"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5874548c51822da642661b235e101d6d636b6feb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

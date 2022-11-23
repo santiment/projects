@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "qredit",
+    "name": "Qredit",
+    "ticker": "QRT",
+    "description": "Rewards and Payments Platform for Merchants and Consumers",
+    "website": "https://qredit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoKnightz_",
+    "telegram": "https://t.me/cryptoknightz_english",
+    "slack": "https://cryptoknightz-nl.slack.com/join/shared_invite/enQtMjk3MTIyMzU1NjY0LTYyMDMxYTU0OTFmYWJkMjk1NjIxNzkxN2FlNWJlZmQ3MDA4YTQ0YWQ3NzU3MTJiOWE3MmZjNjhjYmMzY2JmZTE"
+  },
+  "development": {
+    "github_organizations": [
+      "qredit"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

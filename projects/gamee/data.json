@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "gamee",
+    "name": "GAMEE",
+    "ticker": "GMEE",
+    "description": "A token rewarding gamers",
+    "website": "https://token.gamee.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GAMEEToken",
+    "telegram": "https://t.me/gameetoken",
+    "blog": "https://gamee.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ultiledger",
+    "name": "Ultiledger",
+    "ticker": "ULT",
+    "description": "The next generation global self-financing blockchain protocol",
+    "website": "https://www.ultiledger.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ultiledgerio",
+    "telegram": "https://t.me/ultiledger",
+    "blog": "https://medium.com/@ultiledger.io"
+  },
+  "development": {
+    "github_organizations": [
+      "ultiledger"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe884cc2795b9c45beeac0607da9539fd571ccf85",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

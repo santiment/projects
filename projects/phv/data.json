@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "phv",
+    "name": "PATHHIVE",
+    "ticker": "PHV",
+    "description": "AI-Powered Drone Control Platform",
+    "website": "https://pathhive.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PathHiveNetwork",
+    "telegram": "https://t.me/pathhive1",
+    "blog": "https://medium.com/@PathHiveNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "pathhivenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x25200235ca7113c2541e70de737c41f5e9acd1f6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "nsure-network",
+    "name": "Nsure.Network",
+    "ticker": "NSURE",
+    "description": "Open Insurance Platform for Open Finance",
+    "website": "https://nsure.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Nsure_network",
+    "telegram": "https://t.me/nsurenet",
+    "discord": "https://discord.com/invite/nSvAapa",
+    "slack": "https://discord.com/invite/nSvAapa",
+    "blog": "https://medium.com/@nsure_network"
+  },
+  "development": {
+    "github_organizations": [
+      "nsure-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

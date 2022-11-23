@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rarible",
+    "name": "Rarible",
+    "ticker": "RARI",
+    "description": "Create and sell digital collectibles",
+    "website": "https://rarible.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rariblecom",
+    "telegram": "https://t.me/rarible",
+    "discord": "https://discord.gg/cdaFbV5",
+    "slack": "https://discord.gg/cdaFbV5",
+    "blog": "https://medium.com/@rarible"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

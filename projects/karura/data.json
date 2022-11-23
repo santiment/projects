@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "karura",
+    "name": "Karura",
+    "ticker": "KAR",
+    "description": "The DeFi Hub of Kusama",
+    "website": "http://karura.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KaruraNetwork",
+    "telegram": "https://t.me/karuranetwork",
+    "discord": "https://discord.gg/HpsZx5r",
+    "reddit": "https://reddit.com/r/karuranetwork",
+    "blog": "https://medium.com/acalanetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "AcalaNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

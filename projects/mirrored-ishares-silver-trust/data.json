@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-ishares-silver-trust",
+    "name": "Mirrored iShares Silver Trust",
+    "ticker": "mSLV"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

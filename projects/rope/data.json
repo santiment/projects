@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "rope",
+    "name": "Rope",
+    "ticker": "$ROPE",
+    "description": "For everyone that missed the MEME airdrop. Don&amp;#39;t buy rope",
+    "website": "https://rope.lol/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dontbuyrope",
+    "telegram": "https://t.me/dontbuyrope"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9d47894f8becb68b9cf3428d256311affe8b068b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

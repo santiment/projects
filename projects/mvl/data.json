@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mvl",
+    "name": "MVL",
+    "ticker": "MVL",
+    "description": "Vehicle data collecting ecosystem on the blockchain",
+    "website": "http://mvlchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mvlchain",
+    "telegram": "https://t.me/mvlchain_en",
+    "reddit": "https://www.reddit.com/r/MVL/",
+    "blog": "https://medium.com/@mvlchain"
+  },
+  "development": {
+    "github_organizations": [
+      "mvlchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa849eaae994fb86afa73382e9bd88c2b6b18dc71",
+        "blockchain": "bnb-beacon-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

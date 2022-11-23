@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zeroswap",
+    "name": "ZeroSwap",
+    "ticker": "ZEE",
+    "description": "DEX aggregation and liquidity mining",
+    "website": "https://zeroswap.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZeroSwapLabs",
+    "telegram": "https://t.me/zeroswap",
+    "reddit": "https://www.reddit.com/user/zeroswap",
+    "blog": "https://medium.com/zeroswaplabs/launch-of-zee-token-19-10-2020-26e9f2f72751"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2eDf094dB69d6Dcd487f1B3dB9febE2eeC0dd4c5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

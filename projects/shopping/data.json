@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "shopping",
+    "name": "Shopping",
+    "ticker": "SPI",
+    "description": "Buy Amazon, Walmart and eBay Items with crypto",
+    "website": "https://shopping.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shopping_io",
+    "telegram": "https://t.me/shoppingio",
+    "discord": "https://discord.gg/36xNXa6",
+    "slack": "https://discord.gg/36xNXa6",
+    "reddit": "https://www.reddit.com/r/Shopping_io/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

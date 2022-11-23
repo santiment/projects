@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gocrypto-token",
+    "name": "GoCrypto Token",
+    "ticker": "GOC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

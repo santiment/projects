@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "engagement-token",
+    "name": "Engagement Token",
+    "ticker": "ENGT",
+    "description": "Rewarding publishers and creators",
+    "website": "https://engagementtoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EGT_Token",
+    "telegram": "https://t.me/EngagementTokenOfficial",
+    "reddit": "https://www.reddit.com/r/EngagementToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

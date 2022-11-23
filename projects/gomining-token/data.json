@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "gomining-token",
+    "name": "GMT Token",
+    "ticker": "GMT",
+    "description": "Daily income paid in Bitcoin",
+    "website": "https://gmt.io/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMT_Token",
+    "telegram": "https://t.me/gmt_token_talk",
+    "reddit": "https://www.reddit.com/user/GoMiningToken"
+  },
+  "development": {
+    "github_organizations": [
+      "gomining-token"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

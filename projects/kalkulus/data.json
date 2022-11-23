@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "kalkulus",
+    "name": "Kalkulus",
+    "ticker": "KLKS",
+    "description": "Masternodes ecosystem",
+    "website": "http://kalkulus.trade/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kalkulus_team",
+    "discord": "https://discord.gg/4qA5hrh",
+    "slack": "https://discord.gg/4qA5hrh",
+    "reddit": "https://www.reddit.com/r/Kalkulus/",
+    "blog": "https://medium.com/@kalkulus_team"
+  },
+  "development": {
+    "github_organizations": [
+      "kalkulusteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

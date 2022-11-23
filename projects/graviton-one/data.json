@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "graviton-one",
+    "name": "Graviton",
+    "ticker": "GTON"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "tierion",
+    "name": "Tierion",
+    "ticker": "TNT",
+    "description": "Blockchain Proof Engine",
+    "website": "https://tierion.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tierion",
+    "telegram": "https://t.me/tierion",
+    "reddit": "https://www.reddit.com/r/tierion/",
+    "blog": "https://medium.com/@WayneVaughan"
+  },
+  "development": {
+    "github_organizations": [
+      "tierion"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "victoria-vr",
+    "name": "Victoria VR",
+    "ticker": "VR",
+    "description": "MMORPG in Virtual Reality",
+    "website": "https://victoriavr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VictoriaVRcom"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

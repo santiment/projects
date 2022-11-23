@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "waves-enterprise",
+    "name": "Waves Enterprise",
+    "ticker": "WEST",
+    "description": "Versatile blockchain solution for corporate and public sectors",
+    "website": "https://wavesenterprise.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wvsenterprise",
+    "telegram": "https://t.me/wavesenterprise",
+    "blog": "https://medium.com/@wavesenterprise"
+  },
+  "development": {
+    "github_organizations": [
+      "waves-enterprise"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

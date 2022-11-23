@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "universal-liquidity-union",
+    "name": "Universal Liquidity Union",
+    "ticker": "ULU",
+    "description": "Yield farming inspired by Uniswap and Balancer",
+    "website": "http://ulu.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ULU_finance",
+    "telegram": "https://t.me/ULUofficial",
+    "discord": "https://discord.gg/kZT8zCk",
+    "slack": "https://discord.gg/kZT8zCk",
+    "blog": "https://medium.com/@ulu.finance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

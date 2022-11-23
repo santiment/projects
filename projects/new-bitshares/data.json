@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "new-bitshares",
+    "name": "New BitShares",
+    "ticker": "NBS",
+    "website": "https://nbs.plus/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "flow",
+    "name": "Flow",
+    "ticker": "FLOW",
+    "description": "Infrastructure for open, composable and permissionless apps",
+    "website": "https://www.onflow.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/flow_blockchain",
+    "telegram": "https://t.me/flow_blockchain",
+    "discord": "https://discord.gg/yY4zbvf",
+    "blog": "https://www.onflow.org/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "onflow"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

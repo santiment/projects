@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "brz",
+    "name": "Brazilian Digital Token",
+    "ticker": "BRZ",
+    "description": "1 BRZ = 1 BRAZILIAN REAL",
+    "website": "https://www.brztoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BrzToken",
+    "telegram": "https://t.me/brztoken",
+    "reddit": "https://www.reddit.com/user/BRZtoken",
+    "blog": "https://medium.com/@BrzToken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x420412e765bfa6d85aaac94b4f7b708c89be2e2b",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

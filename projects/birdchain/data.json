@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "birdchain",
+    "name": "Birdchain",
+    "ticker": "BIRD",
+    "description": "DAPP rewarding for watching ads and reading content",
+    "website": "https://www.birdchainapp.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/birdchain_io",
+    "telegram": "https://t.me/birdchainchat",
+    "reddit": "https://www.reddit.com/r/birdchain/",
+    "blog": "https://medium.com/@birdchain_io"
+  },
+  "development": {
+    "github_organizations": [
+      "birdchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x026e62dded1a6ad07d93d39f96b9eabd59665e0d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

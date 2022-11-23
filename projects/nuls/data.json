@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "nuls",
+    "name": "Nuls",
+    "ticker": "NULS",
+    "description": "Highly customizable modular blockchain infrastructure",
+    "website": "https://nuls.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nulsservice",
+    "telegram": "https://www.reddit.com/user/nulsservice/",
+    "slack": "https://nuls.slack.com/",
+    "reddit": "https://www.reddit.com/user/nulsservice/",
+    "blog": "https://steemit.com/@nuls"
+  },
+  "development": {
+    "github_organizations": [
+      "nuls-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

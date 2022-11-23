@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "slot",
+    "name": "SLOT",
+    "ticker": "SLOT",
+    "description": "Alphaslot is the blockchain ecosystem with a core focus on casino entertainment and new player acquisition, connecting gaming machines with customers on casino floors synergistically",
+    "website": "https://www.alphaslot.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/alphaslot",
+    "telegram": "https://t.me/alphaslot_cn_cn",
+    "blog": "https://medium.com/alphaslot"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "nerves",
+    "name": "Nerves",
+    "ticker": "NER",
+    "description": "Built to connect all blockchain network together as one. Due to the nature at which it is being built, it is termed a trust-inclined or trust-based multidimensional blockchain technology which connects different internet services into one system",
+    "website": "https://nerves.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NerFoundation",
+    "telegram": "https://t.me/NervesGlobal",
+    "reddit": "https://www.reddit.com/user/NerFoundation",
+    "blog": "https://medium.com/nerves-foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "nerfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee5dfb5ddd54ea2fb93b796a8a1b83c3fe38e0e6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

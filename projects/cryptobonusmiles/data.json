@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "cryptobonusmiles",
+    "name": "CryptoBonusMiles",
+    "ticker": "CBM",
+    "description": "A universal bonus miles platform",
+    "website": "https://cryptobonusmiles.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aeron_aero",
+    "telegram": "https://t.me/aeronaero",
+    "reddit": "https://www.reddit.com/r/AeronAero/",
+    "blog": "https://medium.com/@aeronaero"
+  },
+  "development": {
+    "github_organizations": [
+      "aeronaero"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "celsius",
+    "name": "Celsius ",
+    "ticker": "CEL",
+    "description": "A new global P2P financial platform",
+    "website": "https://celsius.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CelsiusNetwork",
+    "telegram": "https://t.me/celsiusnetwork",
+    "reddit": "https://www.reddit.com/r/CelsiusNetwork/",
+    "blog": "https://medium.com/@CelsiusNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "CelsiusNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "labh-coin",
+    "name": "Labh Coin",
+    "ticker": "LABH",
+    "description": "A primarily PoS coin that uses the Scrypt algorithm",
+    "website": "http://www.labhcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/labhcoin",
+    "telegram": "https://t.me/joinchat/HjwxORLJBlu1jowkUUFJZA",
+    "discord": "https://discord.gg/XsXVgP3",
+    "slack": "https://discord.gg/XsXVgP3",
+    "reddit": "http://www.labhcoin.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "labhcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

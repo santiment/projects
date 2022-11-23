@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "shiden-network",
+    "name": "Shiden Network",
+    "ticker": "SDN",
+    "description": "Multi Chain dApp Hub on Kusama",
+    "website": "https://shiden.astar.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShidenNetwork",
+    "telegram": "https://t.me/PlasmOfficial",
+    "discord": "https://discord.gg/Z3nC9U4",
+    "blog": "https://medium.com/astar-network"
+  },
+  "development": {
+    "github_organizations": [
+      "PlasmNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

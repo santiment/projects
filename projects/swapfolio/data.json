@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "swapfolio",
+    "name": "Swapfolio",
+    "ticker": "SWFL",
+    "description": "Uniswap token portfolio and DeFi trading terminal",
+    "website": "https://swapfol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/swapfolio_app",
+    "telegram": "https://t.me/swapfolio_app",
+    "reddit": "https://www.reddit.com/r/swapfolio_app",
+    "blog": "https://medium.com/@swapfolioapp"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

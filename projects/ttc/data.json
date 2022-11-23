@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "ttc",
+    "name": "Delete",
+    "ticker": "TTC",
+    "website": "http://www.ttc.eco"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "ttceco"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

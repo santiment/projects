@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "quantfury-token",
+    "name": "Quantfury Token",
+    "ticker": "QTF",
+    "description": "Trading platform",
+    "website": "https://quantfury.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/quantfury",
+    "telegram": "https://t.me/qtftoken",
+    "blog": "https://medium.com/quantfury"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0fcbc31c503b4a9ed90e87f8ff46c318a4a14260",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

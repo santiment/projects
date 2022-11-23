@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yield-guild-games",
+    "name": "Yield Guild Games",
+    "ticker": "YGG",
+    "description": "Play-to-earn gaming guild",
+    "website": "https://yieldguild.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YieldGuild",
+    "telegram": "https://t.me/yieldguildgames",
+    "discord": "https://discord.gg/AWSVhfkVXG",
+    "blog": "https://medium.com/@yieldguild"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

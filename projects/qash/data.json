@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "qash",
+    "name": "QASH",
+    "ticker": "QASH",
+    "description": "Providing liquidity to the crypto economy",
+    "website": "https://liquid.plus/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Liquid_Global",
+    "telegram": "https://t.me/QUOINE",
+    "reddit": "https://www.reddit.com/r/QASH/",
+    "blog": "https://steemit.com/@quoineliquid"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

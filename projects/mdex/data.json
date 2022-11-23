@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "mdex",
+    "name": "Mdex",
+    "ticker": "MDX",
+    "description": "A composite DeFi ecosystem that integrates DEX, IMO, and DAO",
+    "website": "https://mdex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Mdextech",
+    "telegram": "https://t.me/MdexEN",
+    "discord": "https://discord.com/invite/3TYDPktjqC",
+    "blog": "https://mdex.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "mdexSwap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

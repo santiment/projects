@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "only1",
+    "name": "Only1",
+    "ticker": "LIKE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

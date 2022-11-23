@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nectar",
+    "name": "Nectar",
+    "ticker": "NEC",
+    "description": "Heart of the Ethfinex platform, a loyalty token",
+    "website": "https://www.ethfinex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethfinex",
+    "telegram": "https://t.me/joinchat/GgM7eBFC-BdMYaC_3hN4Kg",
+    "reddit": "https://www.reddit.com/r/ethfinex/",
+    "blog": "https://blog.ethfinex.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ethfinex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc80c051057b774cd75067dc48f8987c4eb97a5e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

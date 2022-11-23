@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "impossible-decentralized-incubator-access",
+    "name": "Impossible Decentralized Incubator Access",
+    "ticker": "IDIA",
+    "description": "A multi-chain incubator, launchpad, and swap platform",
+    "website": "https://impossible.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/impossiblefi",
+    "telegram": "https://t.me/ImpossibleFinance",
+    "discord": "https://discord.com/invite/SyF3RzxQCZ",
+    "blog": "https://medium.com/impossiblefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "ImpossibleFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

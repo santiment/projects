@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "vivid-coin",
+    "name": "Vivid Coin",
+    "ticker": "VIVID",
+    "description": "The world's first Augmented Reality Trading Operating System",
+    "website": "https://vividcoin.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VividPlatform",
+    "telegram": "https://t.me/vividcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "vividplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-apple",
+    "name": "Mirrored Apple",
+    "ticker": "mAAPL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

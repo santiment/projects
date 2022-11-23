@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "shivom",
+    "name": "SHIVOM",
+    "ticker": "OMX",
+    "description": "World&amp;#39;s largest blockchain enabled digital genome repository",
+    "website": "https://shivom.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/projectshivom",
+    "telegram": "https://t.me/projshivom",
+    "slack": "https://shivom.slack.com/join/shared_invite/enQtMjgwODQwNjk2MDE4LWZmNTA3ODljOWZmZGY2MzcyODE3ZGYyYzY1MmFhMjUzODk0MGVlYWE4ZmJlNjAzNDUzNTJmY2FiZjdhNTk4Mjg",
+    "reddit": "https://www.reddit.com/r/Shivom/",
+    "blog": "https://medium.com/@projectshivom"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb5dbc6d3cf380079df3b27135664b6bcf45d1869",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

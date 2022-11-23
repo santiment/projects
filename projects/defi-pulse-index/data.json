@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "defi-pulse-index",
+    "name": "DeFi Pulse Index",
+    "ticker": "DPI",
+    "description": "An index of decentralized finance that is not a synthetic or a derivative",
+    "website": "https://www.tokensets.com/portfolio/dpi"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SetProtocol",
+    "blog": "https://medium.com/set-protocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

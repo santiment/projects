@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "zookeeper",
+    "name": "ZooKeeper",
+    "ticker": "ZOO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "loom-network",
+    "name": "Loom Network",
+    "ticker": "LOOM",
+    "description": "Distributed enterprise platform for managing data",
+    "website": "https://loomx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/loomnetwork",
+    "telegram": "https://t.me/loomnetwork",
+    "reddit": "https://www.reddit.com/r/loomnetwork/",
+    "blog": "https://medium.com/loom-network"
+  },
+  "development": {
+    "github_organizations": [
+      "loomnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "loom_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

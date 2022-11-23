@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "patron",
+    "name": "Patron",
+    "ticker": "PAT",
+    "description": "Influencer's Sharing Economy from Japan",
+    "website": "https://patron-ico.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atsushi530",
+    "telegram": "https://t.me/patronicoen",
+    "slack": "https://patron-ico1.slack.com/messages",
+    "reddit": "https://www.reddit.com/user/PATRON_ICO",
+    "blog": "https://medium.com/patron-ico"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

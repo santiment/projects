@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "rei-network",
+    "name": "REI Network",
+    "ticker": "REI",
+    "description": "Former GXChain, a blockchain framework",
+    "website": "https://rei.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GXChainGlobal",
+    "telegram": "https://t.me/GXChain_international",
+    "discord": "https://discord.com/invite/zhwWkXYtJt",
+    "blog": "https://medium.com/gxchain-project/"
+  },
+  "development": {
+    "github_organizations": [
+      "rei-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

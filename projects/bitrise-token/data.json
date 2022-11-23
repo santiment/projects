@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bitrise-token",
+    "name": "Duplicate",
+    "ticker": "BRISE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "rhenium",
+    "name": "Rhenium",
+    "ticker": "XRH",
+    "description": "Private & Fast POS Cryptocurrency with Masternodes",
+    "website": "http://rhenium.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rheniumnetwork",
+    "discord": "https://discord.gg/Gb5EVsA",
+    "slack": "https://discord.gg/Gb5EVsA"
+  },
+  "development": {
+    "github_organizations": [
+      "rheniumnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

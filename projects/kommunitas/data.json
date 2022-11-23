@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kommunitas",
+    "name": "Kommunitas",
+    "ticker": "KOM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

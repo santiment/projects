@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "waykichain",
+    "name": "WaykiChain",
+    "ticker": "WICC",
+    "description": "Betting Market Underlying Blockchain 3.0",
+    "website": "http://waykichain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wayki_chain",
+    "telegram": "http://t.me/waykichain",
+    "reddit": "https://www.reddit.com/r/WICCProject/"
+  },
+  "development": {
+    "github_organizations": [
+      "waykichain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4f878c0852722b0976a955d68b376e4cd4ae99e5",
+        "decimals": 8
+      }
+    ]
+  }
+}

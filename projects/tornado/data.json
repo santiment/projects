@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "tornado",
+    "name": "Tornado",
+    "ticker": "TCORE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

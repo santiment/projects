@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "sentinel",
+    "name": "Sentinel",
+    "ticker": "DVPN",
+    "description": "Cosmos-based network level security and privacy for Web 3.0",
+    "website": "https://sentinelgroup.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SentinelGroupio",
+    "telegram": "https://t.me/sentinelsecuritygroup"
+  },
+  "development": {
+    "github_organizations": [
+      "sentinel-official"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa44e5137293e855b1b7bc7e2c6f8cd796ffcb037",
+        "decimals": 8
+      }
+    ]
+  }
+}

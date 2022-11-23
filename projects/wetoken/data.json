@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "wetoken",
+    "name": "WeToken",
+    "ticker": "WT",
+    "description": "A global decentralized free Wi-Fi network",
+    "website": "https://en.worldwifi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WorldWifi_ICO",
+    "telegram": "https://t.me/world_wifi",
+    "slack": "https://world-wifi.slack.com/join/shared_invite/enQtMjkzNDQ0MzMxMTI2LTVkMzQ5ZTdiNDE3YTc4ZjUxNGY0Mzg2NjczYTE2M2JmOTAxMzY4NmM3YTZkMjczZGQ3YjNjOTI3MTBjOGQ3OGM",
+    "reddit": "https://www.reddit.com/r/worldwifi/",
+    "blog": "https://medium.com/world-wi-fi-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "world-wifi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaae81c0194d6459f320b70ca0cedf88e11a242ce",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

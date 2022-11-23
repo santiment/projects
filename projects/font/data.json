@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "font",
+    "name": "Font",
+    "ticker": "FONT",
+    "description": "NFT based Decentralized Font Marketplace",
+    "website": "https://font.community/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fontcommunity",
+    "telegram": "https://t.me/fontcommunitygroup",
+    "reddit": "https://www.reddit.com/r/fontcommunity",
+    "blog": "https://medium.com/fontcommunity"
+  },
+  "development": {
+    "github_organizations": [
+      "fontcommunity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

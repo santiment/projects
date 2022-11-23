@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "icechain",
+    "name": "IceChain",
+    "ticker": "ICHX",
+    "description": "High-throughput transactional system with unlimited linear scalability using sharding and double-layer blockchain",
+    "website": "https://icechain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/theicechain",
+    "telegram": "https://t.me/theicechain",
+    "reddit": "https://www.reddit.com/user/theicechain"
+  },
+  "development": {
+    "github_organizations": [
+      "icechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa573661b5fb2063d7ab12336ee24589f7a79fdab",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bread",
+    "name": "Bread",
+    "ticker": "BRD",
+    "description": "A simple and secure bitcoin wallet",
+    "website": "https://BRD.com "
+  },
+  "social": {
+    "twitter": "https://twitter.com/BRDHQ",
+    "telegram": "https://t.me/joinchat/HclhZ0q7-w8kx5NjYTa7Vw",
+    "reddit": "https://www.reddit.com/r/breadwallet/",
+    "blog": "https://breadapp.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "breadwallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

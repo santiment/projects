@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "monacoin",
+    "name": "MonaCoin",
+    "ticker": "MONA",
+    "description": "Japanese Dogecoin",
+    "website": "http://monacoin.org"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "monacoinproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "buck-hath-coin",
+    "name": "BuckHathCoin",
+    "ticker": "BHIG",
+    "description": "A private group of investors who got together to pool our resources, experience and knowledge. Intends to use wealth of resources and talents to create value in our cryptocurrency token",
+    "website": "https://www.buckhath.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BHIGToken",
+    "telegram": "https://t.me/BHIGToken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbd149d3f7614b52f8a5e7e8986afd77e5d0e57cf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

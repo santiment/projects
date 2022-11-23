@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "truefeedback",
+    "name": "TrueFeedBack",
+    "ticker": "TFB",
+    "description": "A survey/bounty platform",
+    "website": "https://www.truefeedbackchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tfbchain",
+    "telegram": "https://t.me/TrueFeedbackChain",
+    "reddit": "https://www.reddit.com/user/TrueFeedBack",
+    "blog": "https://medium.com/@truefeedbackchain"
+  },
+  "development": {
+    "github_organizations": [
+      "TrueFeedBack"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x79cdfa04e3c4eb58c4f49dae78b322e5b0d38788",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

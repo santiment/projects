@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "incodium",
+    "name": "Incodium",
+    "ticker": "INCO",
+    "description": "API-based Smart Contract Solution for Exchange Hacking",
+    "website": "https://incodium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Incodium_Daniel",
+    "telegram": "https://t.me/incodium",
+    "blog": "https://medium.com/@incodiummate"
+  },
+  "development": {
+    "github_organizations": [
+      "nemolab-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4d8bfe7ea0f46486fd40fc4df60cf39f7568bee8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

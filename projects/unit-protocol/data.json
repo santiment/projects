@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "unit-protocol",
+    "name": "Unit Protocol",
+    "ticker": "COL",
+    "description": "Decentralized borrowing protocol",
+    "website": "https://unit.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unitprotocol",
+    "telegram": "https://t.me/unit_en",
+    "blog": "https://medium.com/@unitprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "unitprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

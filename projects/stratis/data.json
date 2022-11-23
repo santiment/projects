@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "stratis",
+    "name": "Stratis",
+    "ticker": "STRAX",
+    "description": "Decentralized applications on C#",
+    "website": "http://stratisplatform.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stratisplatform",
+    "telegram": "http://t.me/StratisPlatform",
+    "reddit": "https://www.reddit.com/r/stratisplatform/"
+  },
+  "development": {
+    "github_organizations": [
+      "stratisproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

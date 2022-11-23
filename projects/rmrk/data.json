@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "rmrk",
+    "name": "RMRK",
+    "ticker": "RMRK",
+    "description": "UI for the first Kusama-native NFTs",
+    "website": "https://singular.rmrk.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RmrkApp",
+    "telegram": "https://t.me/rmrkapp",
+    "discord": "https://discord.gg/A7F3yyXFz8"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

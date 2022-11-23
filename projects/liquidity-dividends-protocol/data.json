@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "liquidity-dividends-protocol",
+    "name": "Liquidity Dividends Protocol",
+    "ticker": "LID",
+    "description": "Proof of locked liquidity solutions for pre-sales and DEX launches",
+    "website": "https://www.lid.sh/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lidprotocol1",
+    "telegram": "https://t.me/LIDProtocol",
+    "discord": "https://discord.gg/eyJYrQu",
+    "slack": "https://discord.gg/eyJYrQu",
+    "reddit": "https://www.reddit.com/r/LIDProtocol/",
+    "blog": "https://medium.com/@lidprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "carlsbad-sunshine"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0417912b3a7af768051765040a55bb0925d4ddcf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

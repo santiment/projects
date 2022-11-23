@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tokenlon-network-token",
+    "name": "Tokenlon Network Token",
+    "ticker": "LON",
+    "description": "Decentralized exchange and payment settlement protocol",
+    "website": "https://tokenlon.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokenlon",
+    "discord": "https://discord.gg/nPmsMrG",
+    "slack": "https://discord.gg/nPmsMrG",
+    "blog": "https://medium.com/tokenlon"
+  },
+  "development": {
+    "github_organizations": [
+      "consenlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

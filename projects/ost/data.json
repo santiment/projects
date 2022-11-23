@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ost",
+    "name": "Simple Token (OST)",
+    "ticker": "OST",
+    "description": "Cryptocurrency to Power Digital Communities",
+    "website": "https://ost.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OSTdotcom",
+    "telegram": "https://t.me/simpletoken",
+    "reddit": "https://www.reddit.com/r/Simple_Token/",
+    "blog": "https://medium.com/simple-token"
+  },
+  "development": {
+    "github_organizations": [
+      "openst"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

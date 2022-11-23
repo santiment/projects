@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "internxt",
+    "name": "Internxt",
+    "ticker": "INXT",
+    "description": "Internxt aims to enrich life through revolutionary technology. The goal is to create a vast range of innovative mass-market services that disrupt various technology industries.",
+    "website": "https://internxt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Internxt",
+    "telegram": "https://t.me/InternxtHQ",
+    "reddit": "https://www.reddit.com/r/internxt/",
+    "blog": "https://medium.com/internxt"
+  },
+  "development": {
+    "github_organizations": [
+      "internxt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa8006c4ca56f24d6836727d106349320db7fef82",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

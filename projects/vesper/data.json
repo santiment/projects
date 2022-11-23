@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "vesper",
+    "name": "Vesper",
+    "ticker": "VSP",
+    "description": "A platform for easy-to-use DeFi products",
+    "website": "https://vesper.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VesperFi",
+    "telegram": "https://t.me/VesperFinance",
+    "discord": "https://discord.gg/Jr5rc2hGyf",
+    "reddit": "https://reddit.com/r/vesperfinance/",
+    "blog": "https://medium.com/vesperfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "vesperfi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

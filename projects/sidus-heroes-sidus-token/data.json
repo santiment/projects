@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "sidus-heroes-sidus-token",
+    "name": "SIDUS HEROES",
+    "ticker": "SIDUS",
+    "description": "Browser gaming metaverse",
+    "website": "https://sidusheroes.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/galaxy_sidus",
+    "telegram": "https://t.me/sidus_heroes",
+    "discord": "https://discord.gg/PGD4bq7jE4",
+    "reddit": "https://www.reddit.com/user/sidus__heroes/",
+    "blog": "https://medium.com/sidus-nft-heroes"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x549020a9Cb845220D66d3E9c6D9F9eF61C981102",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

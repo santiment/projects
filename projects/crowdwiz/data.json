@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "crowdwiz",
+    "name": "CrowdWiz",
+    "ticker": "WIZ",
+    "description": "Democratize the investing process by eliminating intermediaries and placing the power and control where it belongs - entirely into the hands of investors.",
+    "website": "https://www.crowdwiz.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Crowdwiz",
+    "telegram": "https://t.me/crowdwiz",
+    "reddit": "https://www.reddit.com/r/Crowdwiz_io/",
+    "blog": "https://medium.com/@crowdwiz.io"
+  },
+  "development": {
+    "github_organizations": [
+      "crowdwiz-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2f9b6779c37df5707249eeb3734bbfc94763fbe2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

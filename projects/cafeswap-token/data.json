@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "cafeswap-token",
+    "name": "CafeSwap Token",
+    "ticker": "BREW",
+    "description": "Yield farming on BSC",
+    "website": "https://cafeswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cafeswapfinance",
+    "telegram": "https://t.me/cafeswap",
+    "blog": "https://cafeswap.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "cafeswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

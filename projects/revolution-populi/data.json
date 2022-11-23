@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "revolution-populi",
+    "name": "Revolution Populi",
+    "ticker": "RVP",
+    "description": "The blockchain database for the Internet",
+    "website": "https://revolutionpopuli.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Rev_Populi",
+    "telegram": "https://t.me/revpopofficial",
+    "discord": "https://discord.gg/37gBNkJ",
+    "blog": "https://medium.com/@RevolutionPopuli"
+  },
+  "development": {
+    "github_organizations": [
+      "Revolution-Populi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x17ef75aa22dd5f6c2763b8304ab24f40ee54d48a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

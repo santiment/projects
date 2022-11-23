@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bgogo-token",
+    "name": "Bgogo",
+    "ticker": "BGG",
+    "description": "The first digital asset exchange with supernode listing authority, designed to list the most high quality and promising digital assets",
+    "website": "https://bgogo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BgogoExchange",
+    "telegram": "https://t.me/Bgogo",
+    "reddit": "https://www.reddit.com/r/Bgogo/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea54c81fe0f72de8e86b6dc78a9271aa3925e3b5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

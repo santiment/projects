@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "proxi",
+    "name": "PROXI",
+    "ticker": "CREDIT",
+    "description": "Cross Chain Derivative Issuance and Credit Lending",
+    "website": "https://proxidefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_ProxiDeFi",
+    "telegram": "https://t.me/proxi_defi",
+    "discord": "https://discord.com/invite/N6PUXVh",
+    "slack": "https://discord.com/invite/N6PUXVh",
+    "blog": "https://medium.com/proxidefi-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "ProxideFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc4cb5793bd58bad06bf51fb37717b86b02cbe8a4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

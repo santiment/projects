@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tenset",
+    "name": "Tenset",
+    "ticker": "10SET",
+    "description": "A deflationary token that bridges crypto with stock market",
+    "website": "https://tenset.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TenseT_io",
+    "telegram": "https://t.me/tenset_io_eng",
+    "blog": "https://10set.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "TensetIO"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

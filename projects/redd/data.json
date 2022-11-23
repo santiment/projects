@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "redd",
+    "name": "Delete",
+    "ticker": "RDD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

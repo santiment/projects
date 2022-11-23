@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "sweat-economy",
+    "name": "Sweat Economy",
+    "ticker": "SWEAT",
+    "description": "Brings value to your movement",
+    "website": "https://sweateconomy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SweatEconomy",
+    "telegram": "https://t.me/sweateconomy",
+    "discord": "https://discord.gg/sweateconomy",
+    "blog": "https://medium.com/@SweatEconomy"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

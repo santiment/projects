@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "zelwin",
+    "name": "Zelwin",
+    "ticker": "ZLW",
+    "description": "Global online marketplace of goods",
+    "website": "https://zelwin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZELWINofficial",
+    "telegram": "https://t.me/ZELWINchat",
+    "blog": "https://medium.com/zelwin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5319e86F0e41a06E49eb37046b8c11D78bcAd68C",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

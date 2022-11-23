@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "orion-protocol",
+    "name": "Orion Protocol",
+    "ticker": "ORN",
+    "description": "Liquidity aggregator",
+    "website": "https://www.orionprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/orion_protocol",
+    "telegram": "https://t.me/orionprotocol",
+    "blog": "https://blog.orionprotocol.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "orionprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "orn_contract",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

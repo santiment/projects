@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "melon",
+    "name": "Enzyme",
+    "ticker": "MLN",
+    "description": "An on-chain asset management protocol for pooled investments",
+    "website": "https://enzyme.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/enzymefinance",
+    "telegram": "https://t.me/enzymefinance",
+    "slack": "http://chat.melonport.com/",
+    "reddit": "https://www.reddit.com/r/melonproject/",
+    "blog": "https://medium.com/melonprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "melonproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

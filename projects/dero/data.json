@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dero",
+    "name": "Dero",
+    "ticker": "DERO",
+    "description": "Dero practical blockchain development",
+    "website": "https://dero.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeroProject",
+    "slack": "https://deroproject.slack.com/join/shared_invite/enQtMzAwMDc5MDY4NDUzLTAzOWNjYWZmNDgxZTk1YjNiNWFiYjg1OWNiMmQ2MmUxOWRmNjNjOWM3ODAzMzE3M2RhNzBhZjUyZGQxYjQxY2U",
+    "reddit": "https://www.reddit.com/r/DeroProject/"
+  },
+  "development": {
+    "github_organizations": [
+      "deroproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

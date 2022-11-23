@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "xdef-finance",
+    "name": "Xdef Finance",
+    "ticker": "XDEF2",
+    "description": "Elastic synthetic index fund based on DeFi TVL",
+    "website": "https://xdef.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XdefFinance",
+    "telegram": "https://t.me/xdefifinance",
+    "blog": "https://xdefifinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "combinefinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5166d4ce79b9bf7df477da110c560ce3045aa889",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "imtoken",
+    "name": "imToken",
+    "ticker": "IMT",
+    "description": "A wallet enabling multi-chain asset management, dApp browsing and exchange of value",
+    "website": "https://token.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/imTokenOfficial",
+    "blog": "https://medium.com/@imToken"
+  },
+  "development": {
+    "github_organizations": [
+      "imtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

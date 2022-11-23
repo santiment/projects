@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "yffs",
+    "name": "YFFS Finance",
+    "ticker": "YFFS",
+    "description": "Staking & farming",
+    "website": "https://yffs.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yffsfinance",
+    "telegram": "https://t.me/yffsfinance",
+    "blog": "https://medium.com/@yffs.finance"
+  },
+  "development": {
+    "github_organizations": [
+      "yffsfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x90D702f071d2af33032943137AD0aB4280705817",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "axel",
+    "name": "AXEL",
+    "ticker": "AXEL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

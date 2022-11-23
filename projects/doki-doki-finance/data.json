@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "doki-doki-finance",
+    "name": "Doki Doki Finance",
+    "ticker": "DOKI",
+    "description": "The ecosystem token of Doki Doki Finance, can be used to stake and earn rewards",
+    "website": "https://dokidoki.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dokidokifinance",
+    "telegram": "https://t.me/ddnfg",
+    "discord": "https://discord.com/invite/K32BeEY",
+    "slack": "https://discord.com/invite/K32BeEY",
+    "blog": "https://medium.com/@dokidoki.finance"
+  },
+  "development": {
+    "github_organizations": [
+      "dokidokidefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9ceb84f92a0561fa3cc4132ab9c0b76a59787544",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

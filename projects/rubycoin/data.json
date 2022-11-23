@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "rubycoin",
+    "name": "Rubycoin",
+    "ticker": "RBY",
+    "website": "https://www.rubycoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rubycoinorg",
+    "slack": "https://slack.rubycoin.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "rubycoinorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

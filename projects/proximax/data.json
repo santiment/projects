@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "proximax",
+    "name": "ProximaX",
+    "ticker": "XPX",
+    "description": "All-in-one platform for broader cross-industry application and decentralized app development",
+    "website": "https://proximax.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProximaXio",
+    "telegram": "http://t.me/ProximaXio",
+    "reddit": "https://www.reddit.com/user/ProximaXio/"
+  },
+  "development": {
+    "github_organizations": [
+      "proximax-storage-foundry"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

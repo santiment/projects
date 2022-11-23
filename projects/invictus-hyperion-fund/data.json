@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "invictus-hyperion-fund",
+    "name": "Invictus Hyperion Fund",
+    "ticker": "IHF",
+    "description": "A closed-end cryptocurrency-based venture capital fund",
+    "website": "https://invictuscapital.com/hyperion"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ic_invictus",
+    "telegram": "https://t.me/invictus_capital/",
+    "reddit": "https://www.reddit.com/r/InvictusCapital/",
+    "blog": "https://medium.crypto20.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "invictuscapital"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaf1250fa68d7decd34fd75de8742bc03b29bd58e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "wxcoins",
+    "name": "WXCOINS",
+    "ticker": "WXC",
+    "description": "Decentralized cryptocurrency",
+    "website": "https://wxcoins.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinWx",
+    "telegram": "https://t.me/wxcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "wxcoins"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

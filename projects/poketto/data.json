@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "poketto",
+    "name": "Poketto",
+    "ticker": "PKT",
+    "description": "A wallet that you can actually show to your parents",
+    "website": "https://poketto.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pokettocash",
+    "slack": "https://chat.donesunday.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "pokettocash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

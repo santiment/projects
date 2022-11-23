@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "swftcoin",
+    "name": "SwftCoin",
+    "ticker": "SWFTC",
+    "description": "Cross-chain wallet & payments",
+    "website": "http://www.swft.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SwftCoin",
+    "telegram": "https://t.me/swfcoin",
+    "slack": "https://goo.gl/Lz3som",
+    "reddit": "https://www.reddit.com/r/SwftCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "swftcoins"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

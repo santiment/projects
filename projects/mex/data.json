@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "mex",
+    "name": "MEX",
+    "ticker": "MEX",
+    "description": "Digital Noble Metals Exchange",
+    "website": "http://introduce.mex.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Global_MEX",
+    "telegram": "https://t.me/MEX_chinese"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ba6b1e4424e19816382d15937739959f7da5fd8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

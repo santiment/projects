@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "particl",
+    "name": "Particl",
+    "ticker": "PART",
+    "description": "Privacy marketplace and chart",
+    "website": "http://particl.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/particlproject",
+    "telegram": "https://t.me/particlproject",
+    "discord": "https://discord.gg/2tVJaZ9",
+    "slack": "https://discordapp.com/invite/2tVJaZ9",
+    "reddit": "https://www.reddit.com/r/Particl/"
+  },
+  "development": {
+    "github_organizations": [
+      "particl"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

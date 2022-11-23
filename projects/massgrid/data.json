@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "massgrid",
+    "name": "MassGrid",
+    "ticker": "MGD",
+    "description": "Decentralized High Performance Computing Network",
+    "website": "https://www.massgrid.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MassGrid/",
+    "telegram": "https://t.me/joinchat/FTulqQr_FOgB4QWbF3mF4w",
+    "slack": "https://weibo.com/massgrid",
+    "reddit": "https://www.reddit.com/r/Mass_Grid/"
+  },
+  "development": {
+    "github_organizations": [
+      "massgrid"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

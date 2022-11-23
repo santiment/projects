@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "treecle",
+    "name": "Treecle",
+    "ticker": "TRCL",
+    "description": "Used Car Market Sale & Management",
+    "website": "https://www.treecle.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TRCL_0601",
+    "telegram": "https://t.me/trcl_0601"
+  },
+  "development": {
+    "github_organizations": [
+      "treeclegitadmin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0a9d68886a0D7Db83a30ec00d62512483e5Ad437",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

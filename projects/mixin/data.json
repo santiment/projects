@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "mixin",
+    "name": "Mixin",
+    "ticker": "XIN",
+    "description": "A TEE powered BFT-DAG network that connects all existing blockchains with unlimited throughput",
+    "website": "https://mixin.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MixinMessenger"
+  },
+  "development": {
+    "github_organizations": [
+      "mixinmessenger"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa974c709cfb4566686553a20790685a47aceaa33",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

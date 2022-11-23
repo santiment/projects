@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "penta",
+    "name": "Penta",
+    "ticker": "PNT",
+    "description": "A next generation platform for both public and private blockchain projects",
+    "website": "https://www.penta.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Penta_GF",
+    "telegram": "https://t.me/pentaglobal",
+    "slack": "https://penta-global.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "pentaglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x53066cddbc0099eb6c96785d9b3df2aaeede5da3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

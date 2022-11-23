@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "polkafoundry",
+    "name": "PolkaFoundry",
+    "ticker": "PKF",
+    "description": "One-stop production hub for DeFi apps on Polkadot",
+    "website": "https://polkafoundry.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polkafoundry",
+    "telegram": "https://t.me/polkafoundry",
+    "blog": "https://medium.com/polkafoundry"
+  },
+  "development": {
+    "github_organizations": [
+      "polkafoundry"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "faraland",
+    "name": "FaraLand",
+    "ticker": "FARA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "xcredit",
+    "name": "XCredit",
+    "ticker": "XFYI",
+    "description": "A community governed DeFi Platform focusing on Staking, Lending, Borrowing, and Governance",
+    "website": "https://xcredit.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XCreditFinance",
+    "telegram": "https://t.me/XCreditFinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6be7e93e45740c314c89a3be52473a0ddf2450fe",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

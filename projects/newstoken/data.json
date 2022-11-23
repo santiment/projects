@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "newstoken",
+    "name": "NewsToken",
+    "ticker": "NEWOS",
+    "description": "Blockchain-based traffic propagation ecosystem",
+    "website": "http://ne.ws/html/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/news_newtoken",
+    "telegram": "http://t.me/newschaintoken"
+  },
+  "development": {
+    "github_organizations": [
+      "news-chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x29536b7ca7029b5cddeb03c0451715615aca35ba",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

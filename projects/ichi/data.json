@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ichi",
+    "name": "ICHI",
+    "ticker": "ICHI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

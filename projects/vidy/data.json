@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "vidy",
+    "name": "VIDY",
+    "ticker": "VIDY",
+    "description": "Video ads ecosystem",
+    "website": "https://vidy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vidycoin",
+    "telegram": "https://t.me/VidyCoin",
+    "reddit": "https://www.reddit.com/r/Vidy/",
+    "blog": "https://medium.com/@vidycoin"
+  },
+  "development": {
+    "github_organizations": [
+      "vidy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc77b230f31b517f1ef362e59c173c2be6540b5e8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

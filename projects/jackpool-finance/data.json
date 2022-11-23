@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "jackpool-finance",
+    "name": "JackPool.finance",
+    "ticker": "JFI",
+    "description": "A yield farming profit maximiser protocol on Justswap (Tron)",
+    "website": "https://jackpool.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/JackPoolFinance",
+    "telegram": "https://t.me/Jackpoolfinance",
+    "blog": "https://medium.com/@Justpool"
+  },
+  "development": {
+    "github_organizations": [
+      "justpool-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

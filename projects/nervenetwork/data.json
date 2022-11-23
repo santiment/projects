@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "nervenetwork",
+    "name": "NerveNetwork",
+    "ticker": "NVT",
+    "description": "A decentralized digital asset service network",
+    "website": "https://nerve.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nerve_network",
+    "telegram": "https://t.me/NerveNetwork",
+    "discord": "https://discord.com/invite/PBkHeD7",
+    "slack": "https://discord.com/invite/PBkHeD7",
+    "blog": "https://medium.com/@NerveNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "NerveNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

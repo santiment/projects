@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yuan-chain-coin",
+    "name": "Yuan Chain Coin",
+    "ticker": "YCC",
+    "description": "A corporate level Blockchain SaaS platform",
+    "website": "https://www.yuan.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yuanchain",
+    "telegram": "https://t.me/yccorg"
+  },
+  "development": {
+    "github_organizations": [
+      "yuanchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x37e1160184f7dd29f00b78c050bf13224780b0b0",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

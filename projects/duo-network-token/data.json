@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "duo-network-token",
+    "name": "DUO Network",
+    "ticker": "DUO",
+    "description": "Trustless Derivatives",
+    "website": "https://duo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/duo_network",
+    "telegram": "https://t.me/duonetwork",
+    "blog": "https://medium.com/duo-network"
+  },
+  "development": {
+    "github_organizations": [
+      "finbook"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x56e0b2c7694e6e10391e870774daa45cf6583486",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

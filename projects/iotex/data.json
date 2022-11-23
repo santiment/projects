@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "iotex",
+    "name": "IoTeX",
+    "ticker": "IOTX",
+    "description": "A decentralized network for IoT powered by a privacy-centric blockchain",
+    "website": "https://iotex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iotex_io",
+    "telegram": "https://t.me/IoTeXGroup",
+    "reddit": "https://www.reddit.com/user/IoTex_io",
+    "blog": "https://medium.com/iotex"
+  },
+  "development": {
+    "github_organizations": [
+      "iotexproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+        "decimals": 18
+      }
+    ]
+  }
+}

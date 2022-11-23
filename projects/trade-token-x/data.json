@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "trade-token-x",
+    "name": "Trade Token X",
+    "ticker": "TIOX",
+    "description": "Trade.io’s Liquidity Pool is a lending facility. Participants will use their Trade Tokens (“TIOx”) as an access key to enter the Liquidity Pool",
+    "website": "https://trade.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TradeToken",
+    "telegram": "https://t.me/TradeToken",
+    "reddit": "https://www.reddit.com/r/TradeIOICO/",
+    "blog": "https://medium.com/@trade.io"
+  },
+  "development": {
+    "github_organizations": [
+      "trade-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

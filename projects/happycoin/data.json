@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "happycoin",
+    "name": "Happycoin",
+    "ticker": "HPC",
+    "description": "A payment system for the future. Cryptocurrency to be accepted initially within Thailand and progressively around the world",
+    "website": "http://happycointech.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HappyCoinTech",
+    "telegram": "https://t.me/happycoinofficial",
+    "slack": "https://docs.google.com/forms/d/e/1FAIpQLSdM4Bz1pIL_3pYRNwmIIzalIkHfygc1A6SekdknHch8JyxUwA/viewform"
+  },
+  "development": {
+    "github_organizations": [
+      "happycoinmaster"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xEeE690AAA67d1eE33365c02C3Bf477A93867052f",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

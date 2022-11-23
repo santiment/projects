@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "neutron",
+    "name": "Neutron",
+    "ticker": "NTRN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

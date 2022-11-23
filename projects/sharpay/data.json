@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sharpay",
+    "name": "Sharpay",
+    "ticker": "S",
+    "description": "Share button with blockchain rewards",
+    "website": "https://sharpay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sharpay_io",
+    "telegram": "https://t.me/sharpay_io",
+    "reddit": "https://www.reddit.com/user/sharpay-io/",
+    "blog": "https://medium.com/@sharpay"
+  },
+  "development": {
+    "github_organizations": [
+      "sharpay-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x96b0bf939d9460095c15251f71fda11e41dcbddb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

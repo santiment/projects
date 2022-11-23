@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "crdnetwork",
+    "name": "CRD Network",
+    "ticker": "CRD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "perth-mint-gold-token",
+    "name": "Perth Mint Gold Token",
+    "ticker": "PMGT",
+    "description": "Backed by government guaranteed Gold",
+    "website": "https://www.pmgt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pmgoldtoken",
+    "telegram": "https://t.me/pmgoldtoken",
+    "blog": "https://medium.com/pmgt"
+  },
+  "development": {
+    "github_organizations": [
+      "infinigold-pty-ltd"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaffcdd96531bcd66faed95fc61e443d08f79efef",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}

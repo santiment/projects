@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "iota",
+    "name": "IOTA",
+    "ticker": "MIOTA",
+    "description": "Internet-of-Things payments",
+    "website": "https://www.iota.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iotatoken",
+    "telegram": "http://t.me/IOTatangle",
+    "discord": "https://discord.iota.org/",
+    "slack": "https://discord.iota.org/",
+    "reddit": "https://www.reddit.com/r/Iota/"
+  },
+  "development": {
+    "github_organizations": [
+      "iotaledger"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

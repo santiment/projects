@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "telos",
+    "name": "Telos",
+    "ticker": "TLOS",
+    "description": "A smart contract blockchain running on EOSIO software",
+    "website": "https://telosfoundation.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HelloTelos",
+    "telegram": "https://t.me/HelloTelos",
+    "reddit": "https://www.reddit.com/r/TelosNetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "telos-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "sun",
+    "name": "SUN",
+    "ticker": "SUN",
+    "description": "A social experiment focused on DeFi potential of TRON",
+    "website": "https://sun.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defi_sunio",
+    "telegram": "https://t.me/SunMarket_Defi",
+    "blog": "https://medium.com/@TronFoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "tronprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

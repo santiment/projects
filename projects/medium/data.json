@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "medium",
+    "name": "Medium",
+    "ticker": "MDM",
+    "description": "A commercialized 'hyperspeed' blockchain platform",
+    "website": "https://foundation.themedium.io/main/"
+  },
+  "social": {
+    "blog": "https://blog.naver.com/mediumblock"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd24DFf6117936B6ff97108CF26c1dD8865743d87",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

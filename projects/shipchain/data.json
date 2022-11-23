@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "shipchain",
+    "name": "ShipChain",
+    "ticker": "SHIP",
+    "description": "Disrupting transport and logistics on the blockchain",
+    "website": "https://www.shipchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shipchain",
+    "telegram": "https://t.me/shipchain"
+  },
+  "development": {
+    "github_organizations": [
+      "shipchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe25b0bba01dc5630312b6a21927e578061a13f55",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

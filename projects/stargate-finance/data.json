@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "stargate-finance",
+    "name": "Stargate Finance [on Ethereum]",
+    "ticker": "STG",
+    "description": "Omnichain liquidity transport protocol",
+    "website": "https://stargate.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StargateFinance",
+    "telegram": "https://t.me/joinchat/LEM0ELklmO1kODdh",
+    "discord": "https://discord.com/invite/stargatefinance",
+    "blog": "https://medium.com/stargate-official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tokok",
+    "name": "TOKOK",
+    "ticker": "TOK",
+    "description": "A global crypto asset exchange platform based on transaction mining",
+    "website": "https://www.tokok.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tokokcom",
+    "telegram": "https://t.me/TOKOKcom",
+    "slack": "https://www.weibo.com/u/6514936821?topnav=1&wvr=6&topsug=1&is_all=1",
+    "reddit": "https://reddit.com/r/tokok/",
+    "blog": "https://medium.com/@tokok"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

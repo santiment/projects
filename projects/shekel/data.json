@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "shekel",
+    "name": "Shekel",
+    "ticker": "JEW",
+    "description": "A peer-to-peer Internet currency",
+    "website": "https://shekel.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shekel_coin",
+    "telegram": "https://t.me/joinchat/HSavJBEDeiPrcuQtIrnq9A",
+    "discord": "https://discord.gg/weMNYkx",
+    "slack": "https://discord.gg/weMNYkx"
+  },
+  "development": {
+    "github_organizations": [
+      "shekeltechnologies"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

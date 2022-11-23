@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "unfederalreserve",
+    "name": "UnFederalReserve",
+    "ticker": "eRSDL",
+    "description": "Merchant Bank DeFi",
+    "website": "https://www.unfederalreserve.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Unfederalreser1",
+    "telegram": "https://t.me/unfedres_staking",
+    "discord": "https://discord.gg/NuFrTWm",
+    "slack": "https://discord.gg/NuFrTWm"
+  },
+  "development": {
+    "github_organizations": [
+      "ResidualToken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

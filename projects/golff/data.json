@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "golff",
+    "name": "Golff",
+    "ticker": "GOF",
+    "description": "Governance token in the Golff financial system",
+    "website": "https://golff.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GolffProtocol",
+    "telegram": "https://t.me/GolffProtocol",
+    "discord": "https://discord.gg/ySbD6Ck",
+    "slack": "https://discord.gg/ySbD6Ck",
+    "reddit": "https://www.reddit.com/user/GolffProtocol",
+    "blog": "https://medium.com/@GolffProtocol"
+  },
+  "development": {
+    "github_organizations": [
+      "golfffinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x488E0369f9BC5C40C002eA7c1fe4fd01A198801c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

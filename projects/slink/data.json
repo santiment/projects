@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "slink",
+    "name": "Synth sLINK",
+    "ticker": "sLINK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

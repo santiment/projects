@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rivex",
+    "name": "Rivex",
+    "ticker": "RVX",
+    "description": "A chain agnostic interoperable and scalable layer-2 solution",
+    "website": "https://www.rivex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RiveXFoundation",
+    "telegram": "https://t.me/RiveXOfficial",
+    "blog": "https://medium.com/@RiveXOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "RiveX-Foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x91d6f6e9026e43240ce6f06af6a4b33129ebde94",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

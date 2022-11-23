@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "latoken",
+    "name": "LATOKEN",
+    "ticker": "LA",
+    "description": "Real assets tradable in crypto",
+    "website": "https://latoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/latokens",
+    "telegram": "https://t.me/latoken",
+    "reddit": "https://www.reddit.com/r/LAToken/"
+  },
+  "development": {
+    "github_organizations": [
+      "elkornacio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

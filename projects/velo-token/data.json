@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "velo-token",
+    "name": "VELO Token",
+    "ticker": "VLO",
+    "description": "A simple rule-based inverse and elastic supply token",
+    "website": "https://velotoken.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SuperMises",
+    "telegram": "https://t.me/Velotoken",
+    "discord": "https://discord.gg/rGnnKTR",
+    "slack": "https://discord.gg/rGnnKTR",
+    "blog": "https://supermises.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "velo-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x98ad9B32dD10f8D8486927D846D4Df8BAf39Abe2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

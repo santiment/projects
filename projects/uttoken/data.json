@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "uttoken",
+    "name": "United Traders Token",
+    "ticker": "UTT",
+    "description": "Investment marketplace",
+    "website": "https://uttoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Uttoken",
+    "telegram": "https://t.me/uttokenchannel",
+    "blog": "https://medium.com/@Uttoken.io"
+  },
+  "development": {
+    "github_organizations": [
+      "unitedtraders"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x16f812be7fff02caf662b85d5d58a5da6572d4df",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

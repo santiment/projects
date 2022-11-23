@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "stealth",
+    "name": "Stealth",
+    "ticker": "XST",
+    "description": "Cryptographic Identity Protection",
+    "website": "https://stealth.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stealthsend",
+    "telegram": "https://t.me/stealthsend",
+    "reddit": "https://www.reddit.com/r/StealthSend/",
+    "blog": "https://medium.com/stealthsend"
+  },
+  "development": {
+    "github_organizations": [
+      "stealthsend"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

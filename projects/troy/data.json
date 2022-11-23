@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "troy",
+    "name": "TROY",
+    "ticker": "TROY",
+    "description": "Trading and asset management",
+    "website": "https://www.troytrade.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/troytrade",
+    "telegram": "https://t.me/troytrade_official",
+    "blog": "https://medium.com/troy-trade"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

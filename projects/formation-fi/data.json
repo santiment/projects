@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "formation-fi",
+    "name": "Formation Fi",
+    "ticker": "FORM",
+    "description": "Single side staking",
+    "website": "https://formation.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/formationfi",
+    "telegram": "https://t.me/FormationFi",
+    "blog": "https://medium.com/formation-finance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

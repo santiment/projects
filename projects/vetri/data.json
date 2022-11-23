@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "vetri",
+    "name": "Vetri",
+    "ticker": "VLD",
+    "description": "Personal data management platform",
+    "website": "https://vetri.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vetri_global",
+    "telegram": "https://t.me/vetri_global",
+    "reddit": "https://www.reddit.com/r/vetri_global/",
+    "blog": "https://blog.vetri.global/"
+  },
+  "development": {
+    "github_organizations": [
+      "vetri-global"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

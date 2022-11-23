@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "quanta-utility-token",
+    "name": "Quanta Utility Token",
+    "ticker": "QNTU",
+    "description": "A blockchain-powered lottery for a blockchain-powered future",
+    "website": "https://www.quantaplc.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/quantaplc",
+    "telegram": "https://t.me/quantaofficial",
+    "reddit": "https://www.reddit.com/r/quanta/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4234f63b1d202f6c016ca3b6a0d41d7d85f17716",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

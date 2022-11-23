@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mainstream-for-the-underground",
+    "name": "Mainstream For The Underground",
+    "ticker": "MFTU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

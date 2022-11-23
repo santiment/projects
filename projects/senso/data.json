@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "senso",
+    "name": "SENSO",
+    "ticker": "SENSO",
+    "description": "In-platform currency of Sensorium Galaxy",
+    "website": "https://sensoriumxr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SensoToken",
+    "telegram": "https://t.me/sensotoken_news",
+    "discord": "https://discord.com/invite/SFcxQMPfpH"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc19b6a4ac7c7cc24459f08984bbd09664af17bd1",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

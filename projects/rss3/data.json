@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rss3",
+    "name": "RSS3",
+    "ticker": "RSS3",
+    "description": "The feed of Web3",
+    "website": "https://rss3.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rss3_",
+    "telegram": "https://t.me/rss3_en",
+    "discord": "https://discord.gg/rss3"
+  },
+  "development": {
+    "github_organizations": [
+      "NaturalSelectionLabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

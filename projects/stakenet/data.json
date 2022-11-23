@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "stakenet",
+    "name": "Stakenet",
+    "ticker": "XSN",
+    "description": "Next generation proof of stake coin and network",
+    "website": "https://stakenet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XSNofficial",
+    "telegram": "https://t.me/joinchat/BdGxxw-s3b4_DdBdbChI4g",
+    "discord": "https://discord.gg/cyF5yCA",
+    "slack": "https://discord.gg/cyF5yCA",
+    "reddit": "https://www.reddit.com/r/StakeNet/",
+    "blog": "https://medium.com/stakenet"
+  },
+  "development": {
+    "github_organizations": [
+      "x9developers"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

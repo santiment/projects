@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "iridium",
+    "name": "Iridium",
+    "ticker": "IRD",
+    "description": "Iridium takes advantage of the technology behind CryptoNote by pulling together the best features that privacy coins can offer the world",
+    "website": "https://ird.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iridiumCash",
+    "telegram": "https://t.me/IridiumCoin",
+    "discord": "https://discord.gg/6y2p6Qj",
+    "slack": "https://discord.gg/6y2p6Qj",
+    "reddit": "https://www.reddit.com/r/IridiumCoin",
+    "blog": "https://ird.cash/#blog"
+  },
+  "development": {
+    "github_organizations": [
+      "iridiumdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

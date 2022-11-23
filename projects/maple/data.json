@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "maple",
+    "name": "Maple",
+    "ticker": "MPL",
+    "description": "Institutional capital marketplace",
+    "website": "https://maple.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maplefinance",
+    "telegram": "https://t.me/maplefinance",
+    "discord": "https://discord.com/invite/CrgPep9",
+    "blog": "https://maplefinance.ghost.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "maple-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x33349b282065b0284d756f0577fb39c158f935e6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

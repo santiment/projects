@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nftx-hashmasks-index",
+    "name": "NFTX Hashmasks Index",
+    "ticker": "MASK",
+    "description": "NFT index funds on Ethereum",
+    "website": "https://nftx.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nftx_",
+    "discord": "https://discord.gg/5ygF8rxdYR",
+    "blog": "https://blog.nftx.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "NFTX-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

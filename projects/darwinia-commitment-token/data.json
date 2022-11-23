@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "darwinia-commitment-token",
+    "name": "Darwinia Commitment Token",
+    "ticker": "KTON",
+    "description": "A derivative token of RING which encourages long-term commitment",
+    "website": "https://darwinia.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DarwiniaNetwork",
+    "telegram": "http://t.me/DarwiniaNetwork",
+    "reddit": "https://www.reddit.com/r/DarwiniaFans/",
+    "blog": "https://medium.com/@DarwiniaNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "darwinia-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "phala-network",
+    "name": "Phala.Network",
+    "ticker": "PHA",
+    "description": "Smart contract network on Polkadot",
+    "website": "https://phala.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PhalaNetwork",
+    "telegram": "https://t.me/phalanetwork",
+    "blog": "https://medium.com/phala-network"
+  },
+  "development": {
+    "github_organizations": [
+      "Phala-Network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

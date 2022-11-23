@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "12ships",
+    "name": "12Ships",
+    "ticker": "TSHP",
+    "description": "Mining economy system & advanced mining machine",
+    "website": "http://www.12ships.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TwelveShips12",
+    "telegram": "https://t.me/TwelveSHIPS_Global"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x525794473f7ab5715c81d06d10f52d11cc052804",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

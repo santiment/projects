@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nyan-finance",
+    "name": "Nyan Finance",
+    "ticker": "NYAN",
+    "description": "Governance token that allows holders to vote on where liquidity goes",
+    "website": "https://nyan.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nyanfinance",
+    "telegram": "https://t.me/nyanfinance",
+    "blog": "https://medium.com/@nyanfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "geass-zero"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc9ce70a381910d0a90b30d408cc9c7705ee882de",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

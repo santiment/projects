@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "reflexer-ungovernance-token",
+    "name": "Reflexer Ungovernance Token",
+    "ticker": "FLX",
+    "description": "UNgovernance token for RAI: A non pegged, ETH backed stable asset",
+    "website": "https://reflexer.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/reflexerfinance",
+    "discord": "https://discord.com/invite/83t3xKT",
+    "blog": "https://medium.com/reflexer-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "reflexer-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "peng",
+    "name": "PENG",
+    "ticker": "PENG",
+    "description": "To provide donations in the form of cryptocurrency",
+    "website": "http://penguincoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin_penguin",
+    "telegram": "http://t.me/Pengcoin",
+    "discord": "https://discord.gg/AZB7GWt",
+    "slack": "https://discord.gg/AZB7GWt",
+    "reddit": "https://www.reddit.com/r/PenguinCoinPENG/"
+  },
+  "development": {
+    "github_organizations": [
+      "coinwebfactory"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "balancer_eth_wbtc_5050_lp",
+    "name": "Balancer: ETH/WBTC 50/50",
+    "ticker": "BPT-ETH/WBTC-50/50",
+    "description": "LP Token for the Balancer: ETH/WBTC 50/50 Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1eff8af5d577060ba4ac8a29a13525bb0ee2a3d5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

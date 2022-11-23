@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "safepal",
+    "name": "SafePal",
+    "ticker": "SFP",
+    "description": "Tokenized wallet",
+    "website": "https://safepal.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/isafepal"
+  },
+  "development": {
+    "github_organizations": [
+      "SafePalWallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

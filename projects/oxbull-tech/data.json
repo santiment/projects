@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "oxbull-tech",
+    "name": "Oxbull.tech",
+    "ticker": "OXB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

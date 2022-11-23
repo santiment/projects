@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "showhand",
+    "name": "ShowHand",
+    "ticker": "HAND",
+    "description": "Making gambling more inclusive, fair and decentralized",
+    "website": "https://www.showhand.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/showhandio",
+    "telegram": "https://t.me/showhandofficial",
+    "slack": "https://showhandofficial.slack.com/",
+    "reddit": "https://www.reddit.com/user/showhandofficial/",
+    "blog": "https://medium.com/@showhand"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x48c1b2f3efa85fbafb2ab951bf4ba860a08cdbb7",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

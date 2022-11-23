@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "argent",
+    "name": "Argent",
+    "ticker": "ARG",
+    "description": "A radically better crypto wallet",
+    "website": "https://www.argent.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/argenthq",
+    "blog": "https://medium.com/argenthq"
+  },
+  "development": {
+    "github_organizations": [
+      "argentlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

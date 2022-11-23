@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "nuo",
+    "name": "Nuo Network",
+    "ticker": "NUO",
+    "website": "https://nuo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/getnuo",
+    "telegram": "https://t.me/officialnuo",
+    "discord": "https://discord.gg/xZnPVZA",
+    "slack": "https://discord.gg/xZnPVZA",
+    "blog": "https://medium.com/nuo-news"
+  },
+  "development": {
+    "github_organizations": [
+      "NuoNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "p-voxies",
+    "name": "Voxies",
+    "ticker": "VOXEL",
+    "description": "3D turn-based tactical RPG game",
+    "website": "https://www.voxies.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VoxiesNFT/",
+    "discord": "https://discord.com/invite/voxies",
+    "blog": "https://voxiesnft.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd0258a3fd00f38aa8090dfee343f10a9d4d30d3f",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

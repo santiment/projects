@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "swerve",
+    "name": "Swerve",
+    "ticker": "SWRV",
+    "description": "A fork of Curve",
+    "website": "https://swerve.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SwerveFinance",
+    "telegram": "https://t.me/swervefi"
+  },
+  "development": {
+    "github_organizations": [
+      "SwerveFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb8baa0e4287890a5f79863ab62b7f175cecbd433",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

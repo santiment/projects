@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "sakura-bloom",
+    "name": "Sakura Bloom",
+    "ticker": "SKB",
+    "description": "SKB is a token used for various services",
+    "website": "https://www.skb-coin.jp/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/skb_pay"
+  },
+  "development": {
+    "github_organizations": [
+      "sakurabloom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4af328c52921706dcb739f25786210499169afe6",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

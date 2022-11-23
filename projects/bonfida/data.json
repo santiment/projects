@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bonfida",
+    "name": "Bonfida",
+    "ticker": "FIDA",
+    "description": "A DEX to trade on Serum",
+    "website": "https://bonfida.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bonfida",
+    "telegram": "https://t.me/bonfidatg",
+    "discord": "https://discord.gg/B4xzATxQHC",
+    "slack": "https://discord.gg/B4xzATxQHC",
+    "blog": "https://bonfida.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "dr497"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

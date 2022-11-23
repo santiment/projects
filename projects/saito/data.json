@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "saito",
+    "name": "Saito",
+    "ticker": "SAITO",
+    "description": "Blockchain designed to process Terabytes of data",
+    "website": "https://saito.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SaitoOfficial",
+    "telegram": "https://t.me/SaitoIO",
+    "discord": "https://discord.com/invite/QjeXTC3",
+    "blog": "https://saitoofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "saitotech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xFa14Fa6958401314851A17d6C5360cA29f74B57B",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

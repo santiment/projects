@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "wrapped-bitcoin",
+    "name": "Wrapped Bitcoin",
+    "ticker": "WBTC",
+    "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin",
+    "website": "https://www.wbtc.network"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "wrappedbtc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sora",
+    "name": "Sora",
+    "ticker": "XOR",
+    "description": "A decentralized autonomous economy system",
+    "website": "https://sora.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sora_xor",
+    "telegram": "https://sora.org/chat",
+    "reddit": "https://www.reddit.com/r/SORA/"
+  },
+  "development": {
+    "github_organizations": [
+      "sora-xor"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x40FD72257597aA14C7231A7B1aaa29Fce868F677",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

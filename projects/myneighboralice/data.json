@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "myneighboralice",
+    "name": "MyNeighborAlice",
+    "ticker": "ALICE",
+    "description": "A multiplayer builder game",
+    "website": "https://www.myneighboralice.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MyNeighborAlice/",
+    "telegram": "https://t.me/MyNeighborAlice",
+    "reddit": "https://www.reddit.com/r/MyNeighborAlice/",
+    "blog": "https://myneighboralice.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

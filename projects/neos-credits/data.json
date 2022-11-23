@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "neos-credits",
+    "name": "Neos Credits",
+    "ticker": "NCR",
+    "description": "Social Virtual Reality Metaverse",
+    "website": "https://neos.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/neos_vr",
+    "discord": "https://discord.com/invite/neosvr",
+    "reddit": "https://www.reddit.com/r/NeosVR/"
+  },
+  "development": {
+    "github_organizations": [
+      "Neos-Metaverse"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

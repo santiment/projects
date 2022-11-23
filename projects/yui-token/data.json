@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "yui-token",
+    "name": "YUI Token",
+    "ticker": "YUI",
+    "description": "A smart contract platform",
+    "website": "https://www.yui.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceYUI",
+    "telegram": "https://t.me/YuiFinance",
+    "blog": "https://medium.com/@yuifinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c10bd19688b906665fbd53415f279f34b44ece7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

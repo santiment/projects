@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "o-synthetix-network-token",
+    "name": "Synthetix [on Optimism]",
+    "ticker": "SNX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
+        "decimals": 18
+      }
+    ]
+  }
+}

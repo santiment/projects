@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "totem",
+    "name": "Totem",
+    "ticker": "TOTEM",
+    "description": "Polkadot based peer-to-peer accounting network",
+    "website": "https://totemaccounting.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Totem_live_",
+    "telegram": "https://t.me/@totemchat",
+    "discord": "https://discord.gg/3y3smNf",
+    "blog": "https://medium.com/totemlive"
+  },
+  "development": {
+    "github_organizations": [
+      "totem-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "yfuel",
+    "name": "YFUEL",
+    "ticker": "YFUEL",
+    "description": "yfuel",
+    "website": "https://home.yfuel.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yfuelfinance",
+    "telegram": "https://t.me/yfuelfinance",
+    "discord": "https://discord.com/invite/QWYwZX",
+    "slack": "https://discord.com/invite/QWYwZX",
+    "blog": "https://medium.com/@yearnfuel"
+  },
+  "development": {
+    "github_organizations": [
+      "yfueldev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x09df6a5ca936be45f5ae45c7e58c9b4602011fcd",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

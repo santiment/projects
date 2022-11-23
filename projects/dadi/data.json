@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dadi",
+    "name": "DADI",
+    "ticker": "DADI",
+    "description": "A fog computing structure",
+    "website": "https://dadi.cloud/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@dadi",
+    "telegram": "https://t.me/daditech",
+    "reddit": "https://www.reddit.com/r/DADI/"
+  },
+  "development": {
+    "github_organizations": [
+      "dadi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfb2f26f266fb2805a387230f2aa0a331b4d96fba",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

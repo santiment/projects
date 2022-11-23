@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "turtlecoin",
+    "name": "Turtlecoin",
+    "ticker": "TRTL",
+    "description": "A fun, fast, and easy way to send money",
+    "website": "https://turtlecoin.lol/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_turtlecoin",
+    "slack": "http://chat.turtlecoin.lol/",
+    "reddit": "https://www.reddit.com/r/TRTL/",
+    "blog": "https://medium.com/@turtlecoin"
+  },
+  "development": {
+    "github_organizations": [
+      "turtlecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

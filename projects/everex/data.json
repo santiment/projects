@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "everex",
+    "name": "Everex",
+    "ticker": "EVX",
+    "description": "Blockchain powered financial service platform",
+    "website": "https://www.everex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/everexio",
+    "telegram": "https://t.me/everexio",
+    "reddit": "https://www.reddit.com/r/Everex/",
+    "blog": "https://blog.everex.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "everexio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

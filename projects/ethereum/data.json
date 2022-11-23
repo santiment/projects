@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "ethereum",
+    "name": "Ethereum",
+    "ticker": "ETH",
+    "description": "Programmable contracts and money",
+    "website": "https://www.ethereum.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://www.reddit.com/r/ethereum/"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

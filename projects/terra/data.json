@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "terra",
+    "name": "Terra",
+    "ticker": "TERRA",
+    "description": "A protocol of money that ensures price-stability by algorithmically expanding and contracting supply. The Stability Reserve makes a decentralized guarantee of solvency, protecting it from the risks that other currencies are exposed to.",
+    "website": "https://terra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terra_money",
+    "telegram": "https://t.me/terramoney",
+    "discord": "https://discord.gg/bYfyhUT",
+    "slack": "https://discordapp.com/invite/bYfyhUT",
+    "blog": "https://medium.com/terra-money"
+  },
+  "development": {
+    "github_organizations": [
+      "terra-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

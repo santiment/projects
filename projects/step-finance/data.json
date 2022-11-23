@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "step-finance",
+    "name": "Step Finance",
+    "ticker": "STEP",
+    "description": "Position tracking for DeFi power users, native to Solana",
+    "website": "https://step.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stepfinance_",
+    "discord": "https://discord.gg/k5gMJUAEJe",
+    "blog": "https://stepfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "step-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

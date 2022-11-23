@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "perpetual-protocol",
+    "name": "Perpetual Protocol",
+    "ticker": "PERP",
+    "description": "Decentralized Perpetual Contracts for Every Asset",
+    "website": "https://perp.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/perpprotocol",
+    "telegram": "https://t.me/perpetualprotocol",
+    "discord": "https://discord.com/invite/mYKKRTn",
+    "slack": "https://discord.com/invite/mYKKRTn",
+    "blog": "https://medium.com/@perpetualprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "snowswap",
+    "name": "SnowSwap",
+    "ticker": "SNOW",
+    "description": "Low slippage stablecoin swaps",
+    "website": "https://snowswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/snow_swap",
+    "telegram": "https://t.me/Snow_Swap",
+    "discord": "https://discord.com/invite/CSSJTs4",
+    "reddit": "https://www.reddit.com/r/Snowswap/",
+    "blog": "https://medium.com/snowswap/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfe9a29ab92522d14fc65880d817214261d8479ae",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

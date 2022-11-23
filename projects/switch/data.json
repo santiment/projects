@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "switch",
+    "name": "Switch",
+    "ticker": "ESH",
+    "description": "Decentralized exchange",
+    "website": "https://www.switch.ag/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SwitchAg",
+    "telegram": "https://t.me/ethershiftco",
+    "blog": "https://medium.com/@switchag"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

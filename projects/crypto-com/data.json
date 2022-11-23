@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "crypto-com",
+    "name": "Crypto.com",
+    "ticker": "MCO",
+    "description": "Cryptocurrency credit card",
+    "website": "https://crypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptocom",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "discord": "https://discord.gg/B6cZahJ",
+    "slack": "https://discord.gg/B6cZahJ",
+    "reddit": "https://www.reddit.com/r/Crypto_com/",
+    "blog": "https://medium.com/@Crypto.com"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

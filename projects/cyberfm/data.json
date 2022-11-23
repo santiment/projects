@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "cyberfm",
+    "name": "CyberFM",
+    "ticker": "CYFM",
+    "description": "Radio",
+    "website": "https://cyber-fm.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MFTU_Currency",
+    "telegram": "https://t.me/mftudotnet",
+    "discord": "https://discord.gg/gXneMAr",
+    "slack": "https://discord.gg/gXneMAr",
+    "reddit": "https://reddit.com/r/cyberfm",
+    "blog": "https://mftu.net/"
+  },
+  "development": {
+    "github_organizations": [
+      "radiocyberfm"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3f06b5d78406cd97bdf10f5c420b241d32759c80",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

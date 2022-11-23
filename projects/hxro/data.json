@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "hxro",
+    "name": "Hxro",
+    "ticker": "HXRO",
+    "description": "Hxro is a crypto gaming platform that merges digital currency trading with skill-based social gaming",
+    "website": "https://www.hxro.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RealHxro",
+    "telegram": "https://t.me/TheRealHxro",
+    "blog": "https://medium.com/@hxromedia"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "vikkytoken",
+    "name": "VikkyToken",
+    "ticker": "VIKKY",
+    "description": "Earn tokens by completing various tasks",
+    "website": "https://ico.vikky.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VikkyGlobal",
+    "telegram": "https://t.me/vikkyglobal",
+    "blog": "https://medium.com/@vikkyglobal"
+  },
+  "development": {
+    "github_organizations": [
+      "vikkyteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd2946be786f35c3cc402c29b323647abda799071",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

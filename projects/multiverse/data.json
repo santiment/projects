@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "multiverse",
+    "name": "Multiverse",
+    "ticker": "AI",
+    "description": "A true Metaverse ",
+    "website": "https://multiverse.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/multiverse_labs",
+    "telegram": "https://t.me/multiverselabs",
+    "reddit": "https://www.reddit.com/r/Multiverselabs/"
+  },
+  "development": {
+    "github_organizations": [
+      "multiverseai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc91b523a59acc63a64f61fc7bbfb4bfc82dd25f2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

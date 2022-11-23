@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "node-runners",
+    "name": "Node Runners",
+    "ticker": "NDR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

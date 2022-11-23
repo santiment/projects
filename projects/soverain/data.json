@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "soverain",
+    "name": "Soverain",
+    "ticker": "SOVE",
+    "description": "Multicurrency wallet",
+    "website": "https://soverain.org/soveraintg/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SoverainTG",
+    "telegram": "https://t.me/soveraintg",
+    "discord": "https://discord.gg/xRWbSba",
+    "slack": "https://discord.gg/xRWbSba"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

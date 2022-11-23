@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "webflix-token",
+    "name": "Webflix Token",
+    "ticker": "WFX",
+    "description": "Broadcasting Platform",
+    "website": "http://www.webflix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WebflixO",
+    "telegram": "https://t.me/webflix1",
+    "blog": "http://www.webflix.io/default_eng.asp#:warp"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba1ed22c69ad00739ee2b4abd70e270be9e87ee2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

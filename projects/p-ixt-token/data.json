@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "p-ixt-token",
+    "name": "IX Token",
+    "ticker": "IXT",
+    "description": "crypto and NFT-based strategy game",
+    "website": "https://www.planetix.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlanetixO",
+    "blog": "https://blog.planetix.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

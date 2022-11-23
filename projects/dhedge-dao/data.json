@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dhedge-dao",
+    "name": "dHedge DAO",
+    "ticker": "DHT",
+    "description": "Non-custodial mimetic trading for synthetic assets",
+    "website": "https://www.dhedge.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dhedgeorg",
+    "telegram": "https://t.me/dhedge",
+    "discord": "https://discord.gg/TybeznN",
+    "slack": "https://discord.gg/TybeznN",
+    "blog": "https://medium.com/@dhedgeorg"
+  },
+  "development": {
+    "github_organizations": [
+      "dhedge"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca1207647ff814039530d7d35df0e1dd2e91fa84",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "yfmoonbeam",
+    "name": "YFMoonBeam",
+    "ticker": "YFMB",
+    "description": "Rewards and incentivized governance on Polkadot&amp;#39;s Moonbeam",
+    "website": "https://www.yfmoonbeam.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yfmoonbeam",
+    "telegram": "https://t.me/yfmoonbeam",
+    "discord": "https://discord.gg/nBG3AhP",
+    "slack": "https://discord.gg/nBG3AhP",
+    "blog": "https://medium.com/@yfmoonbeam"
+  },
+  "development": {
+    "github_organizations": [
+      "yfmoonbeam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7aFaC1D878C66A47263DCe57976C371Ae2e74882",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

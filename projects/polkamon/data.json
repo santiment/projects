@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "polkamon",
+    "name": "Polychain Monsters",
+    "ticker": "PMON"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

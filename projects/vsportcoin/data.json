@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "vsportcoin",
+    "name": "VSportCoin",
+    "ticker": "VSC",
+    "description": "The “Ethereum” in sports area",
+    "website": "http://vsport.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vSport_io",
+    "telegram": "https://t.me/vSportINT"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x36b4b58de030e93775e151a78d796039a11a2548",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

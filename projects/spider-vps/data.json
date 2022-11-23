@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "spider-vps",
+    "name": "SPIDER VPS",
+    "ticker": "SPDR",
+    "description": "Social VPS hosting platform",
+    "website": "https://spidervps.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SPDRVPS",
+    "discord": "https://discord.gg/2gaGJBr",
+    "slack": "https://discord.gg/2gaGJBr",
+    "reddit": "https://www.reddit.com/user/SPIDERVPS/",
+    "blog": "https://medium.com/@SPIDERVPS"
+  },
+  "development": {
+    "github_organizations": [
+      "spdr-core"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

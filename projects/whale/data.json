@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "whale",
+    "name": "WHALE",
+    "ticker": "WHALE",
+    "description": "Social token backed by NFT collection",
+    "website": "https://whale.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WhaleShark_Pro",
+    "discord": "https://discord.gg/whale"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

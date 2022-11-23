@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "lock",
+    "name": "Lock",
+    "ticker": "LOCK",
+    "description": "A protocol for saving and allocating Ethereum based tokens",
+    "website": "https://lock.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lockprotocol",
+    "telegram": "https://t.me/lockprotocol",
+    "blog": "https://medium.com/lockprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "lockfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

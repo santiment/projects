@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fox-token",
+    "name": "FOX Token",
+    "ticker": "FOX",
+    "description": "ShapeShift’s official loyalty token",
+    "website": "https://shapeshift.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShapeShift_io",
+    "telegram": "https://t.me/shapeshiftofficial",
+    "discord": "https://discordapp.com/invite/dVVkMhb",
+    "reddit": "https://www.reddit.com/r/shapeshiftio/",
+    "blog": "https://medium.com/@ShapeShift.com"
+  },
+  "development": {
+    "github_organizations": [
+      "shapeshift"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

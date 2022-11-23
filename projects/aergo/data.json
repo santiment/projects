@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aergo",
+    "name": "Aergo",
+    "ticker": "AERGO",
+    "description": "A 4th generation blockchain protocol combined with an IT platform",
+    "website": "https://aergo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AERGO_IO",
+    "telegram": "https://t.me/aergoofficial",
+    "reddit": "https://www.reddit.com/r/Aergo_Official/",
+    "blog": "https://medium.com/aergo"
+  },
+  "development": {
+    "github_organizations": [
+      "aergoio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "aergo_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

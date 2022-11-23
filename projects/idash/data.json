@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "idash",
+    "name": "Synth iDASH",
+    "ticker": "iDASH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb98f42221b2c251a4e74a1609722ee09f0cc08e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

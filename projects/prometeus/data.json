@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "prometeus",
+    "name": "Prometeus",
+    "ticker": "PROM",
+    "description": "Blockchain and AI enhanced ecosystem",
+    "website": "https://prometeus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Prometeus_net",
+    "telegram": "https://t.me/promnetwork",
+    "blog": "https://medium.com/prometeus-network"
+  },
+  "development": {
+    "github_organizations": [
+      "prometeus-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

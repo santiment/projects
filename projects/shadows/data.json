@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "shadows",
+    "name": "Shadows",
+    "ticker": "DOWS",
+    "description": "A hub for issuing, trading, lending and borrowing synthetic assets",
+    "website": "https://shadows.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shadows_defi",
+    "telegram": "https://t.me/Shadows_defi",
+    "blog": "https://shadowsnetwork.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ShadowsNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x661ab0ed68000491d98c796146bcf28c20d7c559",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

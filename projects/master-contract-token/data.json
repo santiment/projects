@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "master-contract-token",
+    "name": "Master Contract Token",
+    "ticker": "MCT",
+    "description": "A NEP-5 utility token for the Neo Smart Economy",
+    "website": "https://splyse.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MCT_Token",
+    "discord": "https://discord.gg/vrA8tcq",
+    "slack": "https://discord.gg/vrA8tcq",
+    "reddit": "https://www.reddit.com/r/MasterContractToken/"
+  },
+  "development": {
+    "github_organizations": [
+      "splyse"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

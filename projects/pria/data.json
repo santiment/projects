@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "pria",
+    "name": "PRIA",
+    "ticker": "PRIA",
+    "description": "Inflation Arbitrage for Traders",
+    "website": "https://pria.eth.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defi_labs_",
+    "telegram": "https://t.me/defilabs_community"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9871cb10738eada636432e86fc0cb920dc3de24",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

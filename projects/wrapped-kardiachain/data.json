@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wrapped-kardiachain",
+    "name": "Wrapped KardiaChain",
+    "ticker": "WKAI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

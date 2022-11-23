@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dxdao",
+    "name": "DXdao",
+    "ticker": "DXD",
+    "description": "Community that grows DeFi protocols and products",
+    "website": "https://dxdao.eth.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dxdao_",
+    "telegram": "https://t.me/dxDAO",
+    "reddit": "https://www.reddit.com/r/dxdao/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

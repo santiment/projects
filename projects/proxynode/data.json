@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "proxynode",
+    "name": "ProxyNode",
+    "ticker": "PRX",
+    "description": "ProxyNode serves as a decentralized platform that provides a more secure platform for virtual private servers. The decentralized technology gives users full control of their servers, and provides an extra layer of security for their data.",
+    "website": "https://proxynode.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProxyNodeCoin",
+    "discord": "https://discord.gg/VSPZ5t4",
+    "slack": "https://discord.gg/VSPZ5t4"
+  },
+  "development": {
+    "github_organizations": [
+      "proxynode"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "stafi",
+    "name": "Stafi",
+    "ticker": "FIS",
+    "description": "Unlocks liquidity of staked assets",
+    "website": "https://www.stafi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Stafi_Protocol",
+    "discord": "https://discord.com/invite/jB77etn",
+    "slack": "https://discord.com/invite/jB77etn",
+    "blog": "https://medium.com/stafi"
+  },
+  "development": {
+    "github_organizations": [
+      "stafiprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

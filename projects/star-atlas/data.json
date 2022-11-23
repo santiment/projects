@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "star-atlas",
+    "name": "Star Atlas",
+    "ticker": "ATLAS",
+    "description": "Next-gen gaming metaverse",
+    "website": "https://staratlas.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/staratlas",
+    "telegram": "https://t.me/staratlasgame",
+    "discord": "https://discord.gg/staratlas",
+    "reddit": "https://reddit.com/r/staratlas",
+    "blog": "https://medium.com/star-atlas"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "iconic-token",
+    "name": "Iconic Token",
+    "ticker": "ICNQ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

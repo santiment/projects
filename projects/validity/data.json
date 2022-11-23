@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "validity",
+    "name": "Validity",
+    "ticker": "VAL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

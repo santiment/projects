@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "safecapital",
+    "name": "SafeCapital",
+    "ticker": "SCAP",
+    "description": "Locks masternode collateral for a year",
+    "website": "https://www.safecapital.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SafeCapital_io",
+    "telegram": "https://t.me/SafeCapital_SCAP",
+    "discord": "https://discord.gg/AwuTxYC",
+    "slack": "https://discord.gg/AwuTxYC",
+    "blog": "https://medium.com/@safecapital"
+  },
+  "development": {
+    "github_organizations": [
+      "safecapital"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

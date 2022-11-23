@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ternoa",
+    "name": "Ternoa",
+    "ticker": "CAPS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "super-zero",
+    "name": "Super Zero Protocol",
+    "ticker": "SERO",
+    "description": "A new generation of privacy blockchain",
+    "website": "https://sero.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SEROdotCASH",
+    "telegram": "https://t.me/SeroOfficial",
+    "discord": "https://discord.gg/3AZVMRU",
+    "slack": "https://discordapp.com/invite/3AZVMRU",
+    "reddit": "https://www.reddit.com/r/SERO_Official/",
+    "blog": "https://medium.com/@SERO.CASH"
+  },
+  "development": {
+    "github_organizations": [
+      "sero-cash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

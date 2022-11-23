@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "oneledger",
+    "name": "OneLedger",
+    "ticker": "OLT",
+    "description": "A Scalable and Universal Cross-ledger Protocol Designed for Business",
+    "website": "https://oneledger.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OneLedgerTech",
+    "telegram": "https://t.me/oneledger",
+    "reddit": "https://www.reddit.com/r/OneLedger/",
+    "blog": "https://medium.com/@OneLedger"
+  },
+  "development": {
+    "github_organizations": [
+      "oneledger"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x64a60493d888728cf42616e034a0dfeae38efcf0",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gny",
+    "name": "GNY",
+    "ticker": "GNY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

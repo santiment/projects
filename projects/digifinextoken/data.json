@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "digifinextoken",
+    "name": "DigiFinexToken",
+    "ticker": "DFT",
+    "website": "https://www.digifinex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/digifinex",
+    "telegram": "https://t.me/DigiFinexcn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa2a54f1ec1f09316ef12c1770d32ed8f21b1fb6a",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

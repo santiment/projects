@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "soarcoin",
+    "name": "Soarcoin",
+    "ticker": "SOAR",
+    "description": "Real-time, instantaneous transfer of funds",
+    "website": "http://soarlabs.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/soarcoin",
+    "telegram": "https://t.me/joinchat/FoiRKg5U9wMPNAKz3mVflA",
+    "slack": "https://join.slack.com/soarcoin/",
+    "reddit": "https://www.reddit.com/r/Soarcoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

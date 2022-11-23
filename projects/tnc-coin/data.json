@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "tnc-coin",
+    "name": "TNC Coin",
+    "ticker": "TNC",
+    "description": "Cryptocurrency",
+    "website": "https://tnccoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tnc_it_group",
+    "telegram": "https://t.me/tncitgroup",
+    "blog": "https://medium.com/tncitgroup"
+  },
+  "development": {
+    "github_organizations": [
+      "tncsource"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

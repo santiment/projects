@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bloomzed-token",
+    "name": "Bloomzed Loyalty Club Ticket",
+    "ticker": "BLCT",
+    "description": "Multifunctional mobile financial assistant",
+    "website": "https://bloomzed.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BloomzedInfo",
+    "telegram": "https://t.me/bloomzed",
+    "reddit": "https://www.reddit.com/r/Bloomzed/",
+    "blog": "https://medium.com/@bloomzed"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6d2c508fc4a588a41713ff59212f85489291d244",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

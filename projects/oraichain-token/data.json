@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "oraichain-token",
+    "name": "Oraichain Token",
+    "ticker": "ORAI",
+    "description": "AI-powered Oracle and Ecosystem for Blockchains",
+    "website": "https://orai.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oraichain",
+    "telegram": "https://t.me/oraichain",
+    "reddit": "https://www.reddit.com/user/Oraichain",
+    "blog": "https://medium.com/@oraichain"
+  },
+  "development": {
+    "github_organizations": [
+      "oraichain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c11249814f11b9346808179cf06e71ac328c1b5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

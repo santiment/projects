@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "ebcoin",
+    "name": "EBCoin",
+    "ticker": "EBC",
+    "description": "An instant tax refund service, a currency exchange and a convenient payment method solution",
+    "website": "https://www.ebcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EBCoinGlobal",
+    "telegram": "https://t.me/EBCoinGlobal",
+    "slack": "https://weibo.com/u/6591891983",
+    "reddit": "https://www.reddit.com/r/EBCoinGlobal/",
+    "blog": "https://medium.com/@ebcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "ebcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x31f3d9d1bece0c033ff78fa6da60a6048f3e13c5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

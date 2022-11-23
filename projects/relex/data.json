@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "relex",
+    "name": "Relex",
+    "ticker": "RLX",
+    "description": "Real Estate Development Cryptocurrency",
+    "website": "https://www.relex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RelexTalk",
+    "telegram": "https://t.me/relex_core",
+    "slack": "http://relextalk.slack.com/",
+    "reddit": "https://www.reddit.com/r/RelexRLX/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a42d2c580f83dce404acad18dab26db11a1750e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

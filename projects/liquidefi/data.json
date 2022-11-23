@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "liquidefi",
+    "name": "Liquid",
+    "ticker": "LIQ",
+    "description": "Auto liquidity generating token economy",
+    "website": "http://liquidefi.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TokenLiquid",
+    "telegram": "https://t.me/LIQunofficial",
+    "blog": "https://liquidtokendefi.medium.com/liquid-43dde81a4e6"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x72ca0501427bb8f089c1c4f767cb17d017e803a9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

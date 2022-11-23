@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "fsw-token",
+    "name": "Falconswap",
+    "ticker": "FSW",
+    "description": "Layer 2 protocol to aggregate and scale DeFi platforms",
+    "website": "https://falconswap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Falcon_Swap",
+    "telegram": "https://t.me/Falcon_Swap",
+    "blog": "https://medium.com/falconswap"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfffffffff15abf397da76f1dcc1a1604f45126db",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

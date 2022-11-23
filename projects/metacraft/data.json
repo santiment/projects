@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "metacraft",
+    "name": "Metacraft",
+    "ticker": "MCT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

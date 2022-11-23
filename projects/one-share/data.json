@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "one-share",
+    "name": "One Share",
+    "ticker": "ONS",
+    "description": "An experimental project for the Basis protocol - a fork of BasisCash",
+    "website": "https://onecash.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AckmanMisa",
+    "telegram": "https://t.me/onecashfinance",
+    "blog": "https://misaackman.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "onecash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5BB29c33C4A3C29f56F8ACa40B4dB91d8a5fe2c5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

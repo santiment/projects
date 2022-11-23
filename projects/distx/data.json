@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "distx",
+    "name": "DistX",
+    "ticker": "DISTX",
+    "description": "Rewarding token sale platform",
+    "website": "https://distx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/distxio",
+    "telegram": "https://t.me/distxio",
+    "blog": "https://medium.com/@distx"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b4701f3f827e1331fb22ff8e2beac24b17eb055",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

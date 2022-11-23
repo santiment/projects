@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "icex",
+    "name": "Synth iCEX",
+    "ticker": "iCEX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x336213e1ddfc69f4701fc3f86f4ef4a160c1159d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

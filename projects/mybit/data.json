@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mybit",
+    "name": "MyBit",
+    "ticker": "MYB",
+    "description": "The world’s most advanced IoT investment Ecosystem",
+    "website": "https://mybit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MyBit_DApp",
+    "reddit": "https://www.reddit.com/user/MyBit_DApp/",
+    "blog": "https://medium.com/mybit-dapp"
+  },
+  "development": {
+    "github_organizations": [
+      "mybitfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d60d8d7ef6d37e16ebabc324de3be57f135e0bc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

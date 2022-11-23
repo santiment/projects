@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "kimchi-finance",
+    "name": "KIMCHI.finance",
+    "ticker": "KIMCHI",
+    "description": "Yield farming token",
+    "website": "https://kimchi.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kimchi_finance",
+    "discord": "https://discord.gg/ypafxfP",
+    "slack": "https://discord.gg/ypafxfP"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

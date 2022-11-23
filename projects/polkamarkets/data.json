@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "polkamarkets",
+    "name": "Polkamarkets",
+    "ticker": "POLK",
+    "description": "DeFi and Polkadot Powered Prediction Market",
+    "website": "https://www.polkamarkets.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polkamarkets",
+    "telegram": "https://t.me/polkamarkets",
+    "blog": "https://polkamarkets.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Polkamarkets"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd478161c952357f05f0292b56012cd8457f1cfbf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

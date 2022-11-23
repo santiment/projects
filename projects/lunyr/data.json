@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "lunyr",
+    "name": "Lunyr",
+    "ticker": "LUN",
+    "description": "Ethereum based Encyclopedia with Rewards",
+    "website": "https://lunyr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LunyrInc",
+    "telegram": "https://t.me/lunyrcommunity",
+    "slack": "https://slack.lunyr.com/",
+    "reddit": "https://www.reddit.com/r/Lunyr",
+    "blog": "https://medium.com/lunyr"
+  },
+  "development": {
+    "github_organizations": [
+      "lunyr"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "sei",
+    "name": "Sei",
+    "ticker": "SEI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "sei-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

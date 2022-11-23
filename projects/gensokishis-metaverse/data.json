@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "gensokishis-metaverse",
+    "name": "GensoKishi Metaverse",
+    "ticker": "MV",
+    "description": "GameFi of Elemental Knights Online",
+    "website": "https://genso.game/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/genso_meta",
+    "telegram": "https://t.me/gensometamain",
+    "discord": "https://discord.com/invite/gensometa"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xAE788F80F2756A86aa2F410C651F2aF83639B95b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

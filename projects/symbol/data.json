@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "symbol",
+    "name": "Symbol",
+    "ticker": "XYM",
+    "description": "Secure value exchange network for business",
+    "website": "https://symbolplatform.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nemofficial",
+    "telegram": "https://t.me/nemred",
+    "reddit": "https://reddit.com/r/nem"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

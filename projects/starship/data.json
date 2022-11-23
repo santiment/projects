@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "starship",
+    "name": "STARSHIP",
+    "ticker": "STARSHIP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

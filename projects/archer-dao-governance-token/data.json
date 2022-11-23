@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "archer-dao-governance-token",
+    "name": "Eden",
+    "ticker": "EDEN",
+    "description": "Boosts miner revenue",
+    "website": "https://www.edennetwork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/archer_dao",
+    "telegram": "https://t.me/archerdao",
+    "discord": "https://discord.gg/98GV73f",
+    "blog": "https://medium.com/archer-dao"
+  },
+  "development": {
+    "github_organizations": [
+      "archerdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

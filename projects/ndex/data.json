@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ndex",
+    "name": "nDEX",
+    "ticker": "NDEX",
+    "description": "A next generation decentralized ERC20 token exchange",
+    "website": "https://ndexnetwork.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NdexOfficial",
+    "telegram": "https://t.me/ndexofficial",
+    "reddit": "https://www.reddit.com/user/nDEXofficial/",
+    "blog": "https://medium.com/@nDEXofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "ndexnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1966d718A565566e8E202792658D7b5Ff4ECe469",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

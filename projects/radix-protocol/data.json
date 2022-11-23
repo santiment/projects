@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "radix-protocol",
+    "name": "Radix",
+    "ticker": "XRD",
+    "description": "Layer 1 DeFi done right",
+    "website": "https://www.radixdlt.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RadixDLT",
+    "telegram": "https://t.me/radix_dlt",
+    "discord": "https://discord.com/invite/WkB2USt",
+    "reddit": "https://reddit.com/r/Radix",
+    "blog": "https://radixdlt.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "radixdlt"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

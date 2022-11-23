@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "gomoney",
+    "name": "GoMoney",
+    "ticker": "GOM",
+    "description": "A pet community application",
+    "website": "http://animalgo.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/animalgo89"
+  },
+  "development": {
+    "github_organizations": [
+      "deeptonsoftteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f88B2eF9ea3B29C90F559e645fC8CC2dc6F5b27",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

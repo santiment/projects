@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "ormeus-ecosystem",
+    "name": "Ormeus Ecosystem",
+    "ticker": "ECO",
+    "description": "Business-backed blockchain smart economy",
+    "website": "https://eco-system.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ormeusecosystem",
+    "telegram": "https://t.me/OfficialORME",
+    "reddit": "https://www.reddit.com/r/OrmeusEcosystem/",
+    "blog": "https://medium.com/ormeus"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

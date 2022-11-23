@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "coinbig",
+    "name": "COINBIG",
+    "ticker": "CB",
+    "description": "Native token for the Coinbig platform",
+    "website": "https://www.coinbig.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinBigExchange",
+    "reddit": "https://www.reddit.com/r/Coinbig/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "edc-blockchain",
+    "name": "EDC Blockchain",
+    "ticker": "EDC",
+    "description": "A global multi-currency platform",
+    "website": "https://blockchain.mn"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EDCBlockchain",
+    "telegram": "https://t.me/EDCBlockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "edcblockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

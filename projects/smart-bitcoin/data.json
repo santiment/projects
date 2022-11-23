@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "smart-bitcoin",
+    "name": "RSK Smart Bitcoin",
+    "ticker": "RBTC",
+    "description": "The safest smart contracts platform ",
+    "website": "https://rsk.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RSKsmart",
+    "telegram": "https://t.me/RSKsmartcontracts",
+    "blog": "http://media.rsk.co/"
+  },
+  "development": {
+    "github_organizations": [
+      "rsksmart"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

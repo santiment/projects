@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "scroll",
+    "name": "Scroll",
+    "ticker": "SCRL",
+    "description": "The blockchain data management solution",
+    "website": "https://www.scroll.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialScroll",
+    "telegram": "https://t.me/joinchat/IGswQk2xBnqipPeMBrhYxw",
+    "reddit": "http://reddit.com/r/ScrollToken/",
+    "blog": "https://medium.com/@solutech.scroll"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x24dcc881e7dd730546834452f21872d5cb4b5293",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

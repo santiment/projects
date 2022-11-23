@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "xtrabytes",
+    "name": "XTRABYTES",
+    "ticker": "XBY",
+    "description": "A modular blockchain platform designed to provide significant increases in security, scalability and decentralization",
+    "website": "https://www.xtrabytes.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xtrabytes",
+    "telegram": "https://t.me/xtrabytes_official",
+    "discord": "https://discord.xtrabytes.global/",
+    "slack": "https://discord.xtrabytes.global/",
+    "reddit": "https://www.reddit.com/r/xtrabytes",
+    "blog": "https://steemit.com/@xtrabytes"
+  },
+  "development": {
+    "github_organizations": [
+      "borzalom"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "revain",
+    "name": "Revain",
+    "ticker": "REV",
+    "description": "First Trustworthy Review Platform, Built With Blockchain Technology",
+    "website": "https://revain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Revain_org",
+    "telegram": "https://t.me/RevainOfficial",
+    "slack": "https://revain-community.slack.com/join/shared_invite/enQtMjc1MDAzMDg1NDc0LTUzNDI5NTEyMWU3ODY2ZDA4NjdjZTczZTA5NDZiYjQ0MDU2MjNmYTcyMmM2ODFlNGRiMDZiMzc0NWRlZTlmMTk",
+    "reddit": "https://www.reddit.com/r/revain_org/",
+    "blog": "https://medium.com/revain"
+  },
+  "development": {
+    "github_organizations": [
+      "revain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

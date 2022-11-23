@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "leverj-gluon",
+    "name": "Leverj Gluon",
+    "ticker": "L2",
+    "description": "Layer 2 exchange offering 100x leverage",
+    "website": "https://leverj.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/leverj_io",
+    "telegram": "https://t.me/leverj",
+    "discord": "https://discord.gg/xpsjfwn",
+    "slack": "https://discord.gg/xpsjfwn",
+    "reddit": "https://reddit.com/r/leverj",
+    "blog": "https://blog.leverj.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "leverj"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xBbff34E47E559ef680067a6B1c980639EEb64D24",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

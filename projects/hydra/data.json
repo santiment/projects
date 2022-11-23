@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "hydra",
+    "name": "Hydra",
+    "ticker": "HYDRA",
+    "description": "Proof-of-Stake blockchain",
+    "website": "https://hydrachain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hydra_chain",
+    "telegram": "https://t.me/hydrachain",
+    "blog": "https://medium.com/locktrip"
+  },
+  "development": {
+    "github_organizations": [
+      "Hydra-Chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

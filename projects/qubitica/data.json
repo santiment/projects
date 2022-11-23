@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "qubitica",
+    "name": "Qubitica",
+    "ticker": "QBIT",
+    "description": "A distributed enterprise",
+    "website": "https://www.qubitica.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Qubitica",
+    "reddit": "https://www.reddit.com/r/Qubitica/"
+  },
+  "development": {
+    "github_organizations": [
+      "dantak2000"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bitball",
+    "name": "BitBall",
+    "ticker": "BTB",
+    "description": "Cryptocurrency",
+    "website": "https://www.bitball-btb.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitball_erc20",
+    "telegram": "https://t.me/BitballGroupChat",
+    "reddit": "https://www.reddit.com/u/Bitball/?st=JIVGSF3R&sh=763f4d33",
+    "blog": "https://plus.google.com/115810146169824298774"
+  },
+  "development": {
+    "github_organizations": [
+      "BitballErc20"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "evencoin",
+    "name": "EvenCoin",
+    "ticker": "EVN",
+    "description": "A self-mining token",
+    "website": "https://www.evencoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin_even",
+    "telegram": "https://t.me/evencoinio",
+    "reddit": "https://www.reddit.com/user/evencoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "evencoinevn"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "keep3rv1",
+    "name": "Keep3rV1",
+    "ticker": "KP3R",
+    "description": "A decentralized keeper network for projects that need external devops",
+    "website": "https://keep3r.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AndreCronjeTech",
+    "blog": "https://andrecronje.medium.com/keep3r-network-v1-beta-20ab98c9e91a"
+  },
+  "development": {
+    "github_organizations": [
+      "keep3r-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

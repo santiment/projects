@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "vidt-datalink",
+    "name": "Delete",
+    "ticker": "VIDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x445f51299ef3307dbd75036dd896565f5b4bf7a5",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

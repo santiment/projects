@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "sparkswap",
+    "name": "Sparkswap",
+    "ticker": "SPR",
+    "description": "First cryptocurrency exchange built on the Lightning Network",
+    "website": "https://sparkswap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sparkswap",
+    "slack": "https://sparkswap.com/chat"
+  },
+  "development": {
+    "github_organizations": [
+      "sparkswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

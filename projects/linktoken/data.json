@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "linktoken",
+    "name": "LinkToken",
+    "ticker": "LTK",
+    "website": "https://www.lianxiangcloud.com/coin/coin/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/link_token",
+    "telegram": "https://t.me/cnlinktoken"
+  },
+  "development": {
+    "github_organizations": [
+      "lianxiangcloud"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

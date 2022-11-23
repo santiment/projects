@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "polyswarm",
+    "name": "PolySwarm",
+    "ticker": "NCT",
+    "description": "The World's First Threat Intelligence Market",
+    "website": "https://polyswarm.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polyswarm",
+    "telegram": "https://t.me/PolySwarm",
+    "reddit": "https://www.reddit.com/r/PolySwarm/",
+    "blog": "https://medium.com/@PolySwarm"
+  },
+  "development": {
+    "github_organizations": [
+      "polyswarm"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

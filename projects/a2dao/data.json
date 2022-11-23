@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "a2dao",
+    "name": "A2DAO",
+    "ticker": "ATD",
+    "description": "Project accelerator and investment platform",
+    "website": "https://a2dao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/a2dao_",
+    "telegram": "https://t.me/a2ann",
+    "blog": "https://medium.com/a2-dao"
+  },
+  "development": {
+    "github_organizations": [
+      "A2DAO"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8052327F1BAF94A9DC8B26b9100f211eE3774f54",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

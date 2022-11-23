@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "0xcert",
+    "name": "0xcert Protocol",
+    "ticker": "ZXC",
+    "description": "Validating the existence, authenticity and ownership of unique digital assets on the blockchain",
+    "website": "https://0xcert.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xcert",
+    "telegram": "https://t.me/zeroxcert",
+    "reddit": "https://www.reddit.com/r/0xcert/",
+    "blog": "https://medium.com/0xcert"
+  },
+  "development": {
+    "github_organizations": [
+      "0xcert"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x83e2be8d114f9661221384b3a50d24b96a5653f5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

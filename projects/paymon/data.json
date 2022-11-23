@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "paymon",
+    "name": "Paymon",
+    "ticker": "PMNT",
+    "description": "Innovate blockchain platform",
+    "website": "https://ico.paymon.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Paymon_official",
+    "telegram": "https://t.me/paymoneng",
+    "reddit": "https://www.reddit.com/r/paymonplatform/",
+    "blog": "https://medium.com/@Paymon_official"
+  },
+  "development": {
+    "github_organizations": [
+      "paymonteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x81b4d08645da11374a03749ab170836e4e539767",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

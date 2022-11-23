@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "mirror-protocol",
+    "name": "Mirror Protocol",
+    "ticker": "MIR",
+    "description": "Synthetic assets protocol",
+    "website": "https://eth.mirror.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mirror_protocol",
+    "telegram": "https://t.me/mirror_protocol",
+    "discord": "https://discord.com/invite/KYC22sngFn",
+    "blog": "https://mirror-protocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Mirror-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

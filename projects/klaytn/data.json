@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "klaytn",
+    "name": "Klaytn",
+    "ticker": "KLAY",
+    "description": "Blockchain network for everyone",
+    "website": "https://www.klaytn.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/klaytn_official",
+    "reddit": "https://reddit.com/r/klaytn",
+    "blog": "https://medium.com/klaytn"
+  },
+  "development": {
+    "github_organizations": [
+      "klaytn"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

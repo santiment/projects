@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "solend",
+    "name": "Solend",
+    "ticker": "SLND",
+    "website": "https://solend.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/solendprotocol",
+    "discord": "https://discord.gg/solend",
+    "reddit": "https://reddit.com/r/solend"
+  },
+  "development": {
+    "github_organizations": [
+      "solendprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

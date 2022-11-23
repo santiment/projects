@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "coinbase-wallet",
+    "name": "Coinbase Wallet",
+    "ticker": "CBW",
+    "description": "A mobile crypto wallet",
+    "website": "https://wallet.coinbase.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinbaseWallet"
+  },
+  "development": {
+    "github_organizations": [
+      "CoinbaseWallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

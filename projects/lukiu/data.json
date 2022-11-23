@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "lukiu",
+    "name": "Lukiu",
+    "ticker": "LKU",
+    "description": "A payment system on LUKIU platform",
+    "website": "http://lukiu.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/lukiu"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbaca8d824f471a6b20fdbac25e9e8943b9cd743b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

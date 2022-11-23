@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yfbeta",
+    "name": "yfBeta",
+    "ticker": "YFBETA",
+    "description": "Yield farming - yfBETA",
+    "website": "https://yfbeta.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yfBeta",
+    "telegram": "https://t.me/yfbeta",
+    "discord": "https://discord.gg/HFdGAwu",
+    "slack": "https://discord.gg/HFdGAwu"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x89ee58af4871b474c30001982c3d7439c933c838",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

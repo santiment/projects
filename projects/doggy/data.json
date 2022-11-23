@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "doggy",
+    "name": "DOGGY",
+    "ticker": "DOGGY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "alluva",
+    "name": "ALLUVA",
+    "ticker": "ALV",
+    "description": "Turning cryptocurrency investment market noise into actionable data",
+    "website": "https://alluva.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/alluva",
+    "telegram": "https://t.me/alluvacommunity",
+    "blog": "https://medium.com/@alluva"
+  },
+  "development": {
+    "github_organizations": [
+      "alluva"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x744c9c36d1cc3268a4b9b2e28c60b1752c85e97d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

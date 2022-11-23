@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "lykke",
+    "name": "Lykke",
+    "ticker": "LKK",
+    "description": "Digital asset exchange",
+    "website": "https://lykke.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lykkecity",
+    "reddit": "https://www.reddit.com/r/lykke/"
+  },
+  "development": {
+    "github_organizations": [
+      "lykkecity"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

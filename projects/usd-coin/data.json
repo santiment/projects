@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "usd-coin",
+    "name": "USD Coin [on Ethereum]",
+    "ticker": "USDC",
+    "description": "Stablecoin fully backed by USD",
+    "website": "https://www.centre.io/usdc"
+  },
+  "social": {
+    "blog": "https://medium.com/centre-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "centrehq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

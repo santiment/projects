@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "library-credits",
+    "name": "Duplicate",
+    "ticker": "LBC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

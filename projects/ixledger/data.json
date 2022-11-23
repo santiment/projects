@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ixledger",
+    "name": "IXT",
+    "ticker": "IXT",
+    "description": "Blockchain-secured marketplace for Insurance",
+    "website": "https://www.ixledger.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IXT_token",
+    "telegram": "https://t.me/iXledger",
+    "slack": "https://ixledger.slack.com/",
+    "reddit": "https://www.reddit.com/user/ixt-token",
+    "blog": "https://www.ixledger.com/latest/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

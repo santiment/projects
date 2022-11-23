@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "global-social-chain",
+    "name": "Global Social Chain",
+    "ticker": "GSC",
+    "description": "Reinvent the next generation's decentralized Social Network",
+    "website": "https://www.gsc.social/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gsc_socialchain",
+    "telegram": "https://t.me/gsc_official",
+    "reddit": "https://www.reddit.com/user/GSCOfficial/",
+    "blog": "https://medium.com/@gsc_socialchain"
+  },
+  "development": {
+    "github_organizations": [
+      "gscsocial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x228ba514309ffdf03a81a205a6d040e429d6e80c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

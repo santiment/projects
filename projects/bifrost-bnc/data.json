@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bifrost-bnc",
+    "name": "Bifrost (BNC)",
+    "ticker": "BNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "qlink",
+    "name": "QLC Chain",
+    "ticker": "QLC",
+    "description": "A decentralized global Wi-Fi sharing network",
+    "website": "https://qlcchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QLCchain",
+    "telegram": "https://t.me/joinchat/F2sRmw4x_mzgSHKhyH5AFQ",
+    "reddit": "https://www.reddit.com/r/QLCChain/",
+    "blog": "https://medium.com/qlc-chain"
+  },
+  "development": {
+    "github_organizations": [
+      "qlcchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "masq",
+    "name": "MASQ",
+    "ticker": "MASQ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

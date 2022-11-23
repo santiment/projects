@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "arcs",
+    "name": "ARCS",
+    "ticker": "ARX",
+    "description": "A world where human values can be turned into assets",
+    "website": "https://www.arcs-chain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ARCS_ARX",
+    "telegram": "https://t.me/ARCS_ARX_EN",
+    "blog": "https://medium.com/arcs-arx-official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x20b1A8a9cA1c7302b7f774266C491C7b11622779",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

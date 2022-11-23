@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "library-credit",
+    "name": "LBRY Credits",
+    "ticker": "LBC",
+    "description": "A free, open, and community-run digital marketplace",
+    "website": "https://lbry.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "lbryio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

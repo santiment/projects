@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "value-defi-protocol",
+    "name": "Value Liquidity",
+    "ticker": "VALUE",
+    "description": "Staking, farming and voting",
+    "website": "https://valuedefi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/value_defi",
+    "telegram": "https://t.me/ValueDeFi",
+    "discord": "https://discord.gg/Dpvd7tp",
+    "slack": "https://discord.gg/Dpvd7tp",
+    "blog": "https://valuedefi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "valuedefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49e833337ece7afe375e44f4e3e8481029218e5c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

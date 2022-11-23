@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "trustswap",
+    "name": "TrustSwap",
+    "ticker": "SWAP",
+    "description": "An Evolution in Defi Transactions",
+    "website": "https://trustswap.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/TrustSwap",
+    "discord": "https://discord.com/invite/rAJPgrq",
+    "slack": "https://discord.com/invite/rAJPgrq"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

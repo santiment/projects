@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "3dcoin",
+    "name": "3DCoin",
+    "ticker": "3DC",
+    "description": "Currency with instant transactions and eco-friendly mining system",
+    "website": "https://www.3dcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Districts_io",
+    "telegram": "https://t.me/Project_Districts",
+    "discord": "https://discord.gg/4CSmbSK",
+    "slack": "https://discordapp.com/invite/4CSmbSK",
+    "reddit": "https://www.reddit.com/r/3dcoin/",
+    "blog": "https://medium.com/@Districts_io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

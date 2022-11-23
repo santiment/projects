@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "midas-dollar",
+    "name": "Midas Dollar",
+    "ticker": "MDO",
+    "description": "Algorithmic stablecoin protocol inspired by Basis",
+    "website": "https://midasdollar.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MidasDollar",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "discord": "https://discord.gg/FBj4DPFbWD"
+  },
+  "development": {
+    "github_organizations": [
+      "MidasCore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

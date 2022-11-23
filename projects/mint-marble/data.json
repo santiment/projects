@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mint-marble",
+    "name": "Mint Marble",
+    "ticker": "MIM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

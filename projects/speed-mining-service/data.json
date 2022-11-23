@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "speed-mining-service",
+    "name": "Speed Mining Service",
+    "ticker": "SMS",
+    "website": "https://smscoin.jp/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Speed_Mining"
+  },
+  "development": {
+    "github_organizations": [
+      "speed-mining"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x39013f961c378f02c2b82a6e1d31e9812786fd9d",
+        "blockchain": "ethereum",
+        "decimals": 3
+      }
+    ]
+  }
+}

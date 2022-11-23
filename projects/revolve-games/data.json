@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "revolve-games",
+    "name": "Revolve Games",
+    "ticker": "RPG",
+    "description": "Actionable RPG with NFT and DeFi",
+    "website": "https://revolvegames.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RevolveGamesio",
+    "telegram": "https://t.me/revolvegames_official",
+    "blog": "https://medium.com/revolve-games"
+  },
+  "development": {
+    "github_organizations": [
+      "Revolve-games"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

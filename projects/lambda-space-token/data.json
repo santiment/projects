@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "lambda-space-token",
+    "name": "Lambda Space Token",
+    "ticker": "LAMBS",
+    "description": "Decentralized storage solution",
+    "website": "https://www.lambdastorage.com/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Lambdaim",
+    "telegram": "https://t.me/HelloLambda"
+  },
+  "development": {
+    "github_organizations": [
+      "LambdaIM"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x142ac3bd1c94898be6e311b020b547a11dc03990",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

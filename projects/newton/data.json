@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "newton",
+    "name": "Newton",
+    "ticker": "NEW",
+    "description": "Decentralized infrastructure of protocol-based economy",
+    "website": "https://www.newtonproject.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/newton_project",
+    "telegram": "https://t.me/Newtonproject",
+    "slack": "https://newtonproject.slack.com/",
+    "reddit": "https://www.reddit.com/user/newtonproject/",
+    "blog": "https://medium.com/@newtonproject"
+  },
+  "development": {
+    "github_organizations": [
+      "newtonproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

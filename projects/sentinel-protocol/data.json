@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "sentinel-protocol",
+    "name": "Sentinel Protocol",
+    "ticker": "UPP",
+    "description": "Protect crypto assets against hackers, scams and fraud",
+    "website": "https://sentinelprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/s_protocol/",
+    "telegram": "https://t.me/sentinelprotocol",
+    "reddit": "https://www.reddit.com/r/Sentinel_Protocol/",
+    "blog": "https://medium.com/@S.protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "sentinelprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc86d054809623432210c107af2e3f619dcfbf652",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

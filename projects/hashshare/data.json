@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "hashshare",
+    "name": "Hashshare",
+    "ticker": "HSS",
+    "description": "Combines the Bitcoin mining system and masternodes",
+    "website": "https://hashshare.org/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HashShare_HSS",
+    "telegram": "https://t.me/hashsharecoin_HSS",
+    "blog": "https://blog.naver.com/hashshare"
+  },
+  "development": {
+    "github_organizations": [
+      "hss5747"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

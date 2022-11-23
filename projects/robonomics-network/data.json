@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "robonomics-network",
+    "name": "Robonomics.network",
+    "ticker": "XRT",
+    "description": "Marketplace of robot liability contracts",
+    "website": "https://robonomics.network/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AIRA_Robonomics",
+    "telegram": "https://t.me/robonomics",
+    "reddit": "https://www.reddit.com/r/robonomics/",
+    "blog": "https://blog.aira.life/"
+  },
+  "development": {
+    "github_organizations": [
+      "airalab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

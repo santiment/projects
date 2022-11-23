@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "digital-gold",
+    "name": "Digital Gold",
+    "ticker": "GOLD",
+    "description": "GOLD = 1 gram of gold",
+    "website": "https://gold.storage/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gold_erc20",
+    "telegram": "https://t.me/digitalgoldcoin",
+    "reddit": "https://www.reddit.com/r/golderc20/",
+    "blog": "https://medium.com/@digitalgoldcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0d16450d347c12c086d6c94c76c5aaac35ea07e0",
+        "blockchain": "ethereum",
+        "decimals": 3
+      }
+    ]
+  }
+}

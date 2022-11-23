@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "popchain",
+    "name": "POPCHAIN",
+    "ticker": "PCH",
+    "description": "A brand new blockchain for k-pop & asian content market",
+    "website": "http://www.popchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/POPCHAIN_Global",
+    "telegram": "https://t.me/popchain_global",
+    "blog": "https://medium.com/popchain"
+  },
+  "development": {
+    "github_organizations": [
+      "popchainorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe3f4b4a5d91e5cb9435b947f090a319737036312",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

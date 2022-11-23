@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "publyto-token",
+    "name": "PUBLYTO Token",
+    "ticker": "PUB",
+    "description": "PUBLYTO aims to provide a blockchain-based monetization system for content producers that purportedly offers enhanced security and transparency across various media",
+    "website": "https://publyto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/publyto",
+    "telegram": "https://t.me/publyto_kr",
+    "blog": "https://medium.com/publyto"
+  },
+  "development": {
+    "github_organizations": [
+      "publyto"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

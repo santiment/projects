@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "tranchess",
+    "name": "Tranchess",
+    "ticker": "CHESS",
+    "description": "Yield Enhancing Asset Tracker",
+    "website": "https://tranchess.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tranchess",
+    "telegram": "https://t.me/tranchess",
+    "blog": "https://tranchess.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "tranchess"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

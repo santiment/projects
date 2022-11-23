@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "treelion",
+    "name": "Treelion",
+    "ticker": "TRN",
+    "description": "Production, Management and Circulation of Green Digital Assets",
+    "website": "http://treelion.com/index_en.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Treelion_OS",
+    "telegram": "https://t.me/Finwex_Global12"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x70968feaf13299d0dbf78f66860bab9dbe3856bc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

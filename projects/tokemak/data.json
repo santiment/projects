@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "tokemak",
+    "name": "Tokemak",
+    "ticker": "TOKE",
+    "description": "Liquidity providing/market making protocol",
+    "website": "https://www.tokemak.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TokenReactor",
+    "discord": "https://discord.com/invite/Z5f92tfzh4",
+    "blog": "https://medium.com/tokemak"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

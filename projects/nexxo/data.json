@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nexxo",
+    "name": "Nexxo",
+    "ticker": "NEXXO",
+    "description": "Small Business Financial Services Platform",
+    "website": "https://nexxo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nexxoio",
+    "telegram": "https://t.me/nexxoio"
+  },
+  "development": {
+    "github_organizations": [
+      "nexxoint"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x278a83b64c3e3e1139f8e8a52d96360ca3c69a3d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

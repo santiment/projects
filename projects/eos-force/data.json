@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "eos-force",
+    "name": "EOS Force",
+    "ticker": "EOSC",
+    "description": "High Performance Smart Contract Platform",
+    "website": "https://www.eosforce.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EOSForce",
+    "telegram": "https://t.me/eosforce_en",
+    "blog": "https://medium.com/@eosforce"
+  },
+  "development": {
+    "github_organizations": [
+      "eosforce"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

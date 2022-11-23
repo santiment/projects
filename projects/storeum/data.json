@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "storeum",
+    "name": "Storeum",
+    "ticker": "STO",
+    "description": "A decentralized marketplace",
+    "website": "http://storeum.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/storeum",
+    "telegram": "https://t.me/joinchat/MVS-uUkOSsCiwLh-3Cgc1Q"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb39c3502415152b2ec90ff07ee18cc94f681a72",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

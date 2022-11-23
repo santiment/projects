@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "visor-finance",
+    "name": "Visor.Finance",
+    "ticker": "VISR",
+    "description": "NFT Smart Vaults for liquidity provisioning",
+    "website": "https://www.visor.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/visorfinance",
+    "telegram": "https://t.me/visorfinance",
+    "discord": "https://discord.com/invite/EPsZ4BE5Kz",
+    "blog": "https://medium.com/visorfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "visorfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

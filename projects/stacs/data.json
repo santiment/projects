@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "stacs",
+    "name": "STACS",
+    "ticker": "STACS",
+    "description": "The STACS Protocol is a unique public/permission hybrid global Blockchain to issue, trade, clear and settle Digital Securities",
+    "website": "https://stacs.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x286708f069225905194673755f12359e6aff6fe1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

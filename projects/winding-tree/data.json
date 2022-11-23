@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "winding-tree",
+    "name": "Winding Tree",
+    "ticker": "LIF",
+    "description": "Travel distribution via blockchain",
+    "website": "http://windingtree.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/windingtree",
+    "telegram": "https://t.me/windingtree",
+    "slack": "http://slack.windingtree.com/",
+    "reddit": "https://www.reddit.com/r/windingtree/",
+    "blog": "http://blog.windingtree.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "windingtree"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeb9951021698b42e4399f9cbb6267aa35f82d59d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

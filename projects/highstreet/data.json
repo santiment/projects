@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "highstreet",
+    "name": "Highstreet",
+    "ticker": "HIGH",
+    "description": "Retail in Metaverse",
+    "website": "https://www.highstreet.market/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/highstreetworld",
+    "telegram": "https://t.me/highstreetworld",
+    "discord": "https://discord.gg/t2GncnZD",
+    "blog": "https://medium.com/highstreet-market"
+  },
+  "development": {
+    "github_organizations": [
+      "TravisBuilds"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

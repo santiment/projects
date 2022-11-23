@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rublix",
+    "name": "Rublix",
+    "ticker": "RBLX",
+    "description": "An ecosystem for investors, traders and market professionals",
+    "website": "https://rublix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RublixDev",
+    "telegram": "https://t.me/rublixdev",
+    "reddit": "https://www.reddit.com/r/Rublix/",
+    "blog": "https://blog.rublix.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "rublixdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

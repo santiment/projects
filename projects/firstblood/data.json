@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "firstblood",
+    "name": "FirstBlood",
+    "ticker": "1ST",
+    "description": "eSports gaming app",
+    "website": "https://firstblood.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/firstbloodio",
+    "telegram": "https://github.com/firstbloodio",
+    "slack": "https://firstbloodio.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/FirstBloodGG/",
+    "blog": "https://blog.firstblood.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "firstbloodio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

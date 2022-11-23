@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_mkr_eth_lp",
+    "name": "Uniswap V2: MKR",
+    "ticker": "UNI-V2 MKR/ETH LP",
+    "description": "LP Token for the UNI-V2 MKR-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc2adda861f89bbb333c90c492cb837741916a225",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

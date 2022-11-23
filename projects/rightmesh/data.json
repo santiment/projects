@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rightmesh",
+    "name": "RightMesh",
+    "ticker": "RMESH",
+    "description": "Ad hoc mobile mesh networking platform and protocol",
+    "website": "https://www.rightmesh.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Right_Mesh",
+    "telegram": "https://t.me/RightMesh_Official",
+    "reddit": "https://www.reddit.com/r/RightMesh/",
+    "blog": "https://medium.com/rightmesh"
+  },
+  "development": {
+    "github_organizations": [
+      "rightmesh"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8d5682941ce456900b12d47ac06a88b47c764ce1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

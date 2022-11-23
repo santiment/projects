@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "peercoin",
+    "name": "Peercoin",
+    "ticker": "PPC",
+    "description": "The most secure cryptocoin at the lowest cost",
+    "website": "http://www.peercoin.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PeercoinPPC",
+    "telegram": "https://t.me/peercoin",
+    "reddit": "https://www.reddit.com/r/peercoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "peercoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

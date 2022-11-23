@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "onigiriswap",
+    "name": "OnigiriSwap",
+    "ticker": "ONIGIRI",
+    "description": "A governance token for staking Uniswap/Sushiswap LP tokens and by providing liquidity to OnigiriSwap DEX",
+    "website": "https://onigiriswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OnigiriSwap",
+    "telegram": "https://t.me/onigiriswap",
+    "discord": "https://discord.gg/3kNrKnx",
+    "slack": "https://discord.gg/3kNrKnx",
+    "blog": "https://medium.com/onigiriswap"
+  },
+  "development": {
+    "github_organizations": [
+      "onigiriswapfi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcf9c692F7e62Af3c571D4173fd4ABf9A3E5330D0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

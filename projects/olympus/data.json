@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "olympus",
+    "name": "Olympus",
+    "ticker": "OHM",
+    "description": "An algorithmic currency protocol",
+    "website": "https://olympusdao.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OlympusDAO",
+    "telegram": "https://t.me/OlympusTG",
+    "discord": "https://discord.com/invite/tmbtUpR6CF",
+    "blog": "https://olympusdao.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "OlympusDAO"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "ohm_contract",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "livenodes",
+    "name": "Livenodes",
+    "ticker": "LNO",
+    "description": "Builds products and services with practical use cases",
+    "website": "https://livenodes.online/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LiveNodes",
+    "telegram": "http://t.me/cryptomasterss",
+    "discord": "https://discord.gg/5dMHhQ7",
+    "slack": "https://discord.gg/5dMHhQ7",
+    "reddit": "https://twitter.com/LiveNodes",
+    "blog": "https://medium.com/@cryptomasters007"
+  },
+  "development": {
+    "github_organizations": [
+      "livenodescoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

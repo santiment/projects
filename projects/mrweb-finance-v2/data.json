@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mrweb-finance-v2",
+    "name": "Duplicate",
+    "ticker": "AMA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

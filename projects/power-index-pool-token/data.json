@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "power-index-pool-token",
+    "name": "Power Index Pool Token",
+    "ticker": "PIPT",
+    "description": "8 DeFi blue chips at once",
+    "website": "https://powerindex.io/#/mainnet/0x26607ac599266b21d13c7acf7942c7701a8b699c/supply"
+  },
+  "social": {
+    "twitter": "https://twitter.com/powerpoolcvp",
+    "telegram": "https://t.me/powerpoolcvp",
+    "discord": "https://discord.gg/smPUzvx"
+  },
+  "development": {
+    "github_organizations": [
+      "powerpool-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb2b9335791346e94245dcd316a9c9ed486e6dd7f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

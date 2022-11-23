@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "trustnote",
+    "name": "TrustNote",
+    "ticker": "TTT",
+    "description": "A minable, directed-acyclic-graph based distributed ledger and its development platform for tokenized economy",
+    "website": "https://trustnote.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustNote",
+    "telegram": "https://t.me/TrustNoteOfficial",
+    "blog": "https://medium.com/trustnote"
+  },
+  "development": {
+    "github_organizations": [
+      "trustnote"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

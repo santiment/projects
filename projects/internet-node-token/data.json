@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "internet-node-token",
+    "name": "INT Chain",
+    "ticker": "INT",
+    "description": "Object oriented IoT",
+    "website": "https://intchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/intchain",
+    "telegram": "https://t.me/INTChainOfficial",
+    "slack": "https://intchainworkspace.slack.com/",
+    "reddit": "https://www.reddit.com/user/INTCHAIN/"
+  },
+  "development": {
+    "github_organizations": [
+      "intfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0b76544f6c413a555f309bf76260d1e02377c02a",
+        "decimals": 6
+      }
+    ]
+  }
+}

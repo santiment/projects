@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "mb8-coin",
+    "name": "MB8 Coin",
+    "ticker": "MB8",
+    "description": "Cryptocurrency built specifically for an existing ecosystem",
+    "website": "https://mb8coin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MB8Coin",
+    "telegram": "https://t.me/joinchat/HS6S5UljzEQlZR6nw0m61g",
+    "slack": "https://join.slack.com/t/mb8coin/shared_invite/enQtMzYwMTE2MzE4ODg2LThiZjczMWE1MDEyNmYzZTA4YTFkNWM4ZWQzNTE4YTg3YmVhYTFhODE0MjcxMGE0YzA0YzBjZTUxNWEzN2ExYjI"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

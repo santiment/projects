@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "powertrade-fuel",
+    "name": "PowerTrade",
+    "ticker": "PTF",
+    "description": "Governs the treasury that covers PowerTrade traders",
+    "website": "https://power.trade/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PowerTradeHQ",
+    "telegram": "https://t.me/power_tradeann",
+    "discord": "https://discord.gg/ssAXyZj",
+    "slack": "https://discord.gg/ssAXyZj",
+    "blog": "https://power.trade/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "Power-Trade"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

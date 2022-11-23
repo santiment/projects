@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-wbtc",
+    "name": "Aave WBTC",
+    "ticker": "aWBTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

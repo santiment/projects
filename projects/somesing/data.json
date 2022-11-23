@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "somesing",
+    "name": "SOMESING",
+    "ticker": "SSX",
+    "description": "Karaoke app",
+    "website": "https://somesing.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/somesinglovers",
+    "telegram": "https://t.me/somesinglovers_EN",
+    "reddit": "https://reddit.com/r/SomesingSSX",
+    "blog": "https://medium.com/@singlovers"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

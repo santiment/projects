@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "know",
+    "name": "KNOW",
+    "ticker": "KNOW",
+    "description": "A world-class Cross-blockchain Crypto Exchange platform with Peer-to-peer Fiat Conversion Feature",
+    "website": "https://kryptono.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KryptonoEx",
+    "telegram": "https://t.me/kryptono",
+    "blog": "https://medium.com/@kryptono/"
+  },
+  "development": {
+    "github_organizations": [
+      "kryptono"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb41f09a973a85c7f497c10b00a939de667b55a78",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

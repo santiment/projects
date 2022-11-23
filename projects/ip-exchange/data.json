@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ip-exchange",
+    "name": "IP Exchange",
+    "ticker": "IPSX",
+    "description": "Distributed network layer",
+    "website": "https://ip.sx/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ipexchange1",
+    "telegram": "https://t.me/IPExchange",
+    "reddit": "https://www.reddit.com/r/IPSX/",
+    "blog": "https://medium.ip.sx/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x001f0aa5da15585e5b2305dbab2bac425ea71007",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

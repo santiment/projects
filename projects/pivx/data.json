@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "pivx",
+    "name": "PIVX",
+    "ticker": "PIVX",
+    "description": "The first truly anonymous PoS cryptocurrency",
+    "website": "http://www.pivx.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_pivx",
+    "discord": "http://discord.pivx.org/",
+    "slack": "http://discord.pivx.org/",
+    "reddit": "https://www.reddit.com/r/pivx/",
+    "blog": "https://pivx.org/news/"
+  },
+  "development": {
+    "github_organizations": [
+      "pivx-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

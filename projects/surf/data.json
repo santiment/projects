@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "surf",
+    "name": "SURF Finance",
+    "ticker": "SURF",
+    "description": "A governance token that is designed to reward long-term holders",
+    "website": "https://surf.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/surf_defi",
+    "telegram": "https://t.me/surf_finance",
+    "discord": "https://discord.gg/ZduXSdd",
+    "slack": "https://discord.gg/ZduXSdd",
+    "blog": "https://surf-finance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea319e87cf06203dae107dd8e5672175e3ee976c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "inflation-hedging-coin",
+    "name": "Duplicate",
+    "ticker": "IHC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "t-bitcoin",
+    "name": "τBitcoin",
+    "ticker": "ΤBTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

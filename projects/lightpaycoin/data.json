@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "lightpaycoin",
+    "name": "Lightpaycoin",
+    "ticker": "LPC",
+    "description": "Payments connected by one platform",
+    "website": "https://lightpaycoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LightPayCoin",
+    "telegram": "https://t.me/lightpaycoins",
+    "discord": "https://discord.gg/CpJqKMM",
+    "slack": "https://discord.gg/CpJqKMM",
+    "reddit": "https://www.reddit.com/r/LPC_Official/"
+  },
+  "development": {
+    "github_organizations": [
+      "lpcproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

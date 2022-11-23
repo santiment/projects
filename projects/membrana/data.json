@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "membrana",
+    "name": "Membrana",
+    "ticker": "MBN",
+    "description": "Trust management of digital assets",
+    "website": "https://membrana.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/membrana_io",
+    "telegram": "https://t.me/membranaplatform",
+    "blog": "https://medium.com/@membrana"
+  },
+  "development": {
+    "github_organizations": [
+      "membrana-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4eeea7b48b9c3ac8f70a9c932a8b1e8a5cb624c7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

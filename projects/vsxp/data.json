@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "vsxp",
+    "name": "Venus SXP",
+    "ticker": "vSXP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

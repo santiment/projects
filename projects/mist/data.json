@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mist",
+    "name": "Mist",
+    "ticker": "MIST",
+    "description": "NFT Gaming in BSC",
+    "website": "https://mist.game/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mistnft",
+    "telegram": "https://t.me/MistNFT",
+    "discord": "https://discord.gg/qEGNt7txf9",
+    "blog": "https://mistnft.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

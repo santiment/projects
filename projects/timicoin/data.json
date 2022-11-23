@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "timicoin",
+    "name": "Timicoin",
+    "ticker": "TMC",
+    "description": "The Tokenized Healthcare Ecosystem",
+    "website": "https://timicoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TimiHealth",
+    "telegram": "https://t.me/joinchat/HIKjnVGkUtDtq1iIRTJS2g",
+    "reddit": "https://www.reddit.com/r/TimiHealth/",
+    "blog": "http://blog.timicoin.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "timihealth"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

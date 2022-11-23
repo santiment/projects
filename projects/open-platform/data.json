@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "open-platform",
+    "name": "Open Platform",
+    "ticker": "OPEN",
+    "description": "The first blockchain payments infrastructure for applications",
+    "website": "https://www.openfuture.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OpenPlatformICO",
+    "telegram": "https://t.me/joinchat/FDNbh0M079p5fnfOHFEJaw",
+    "slack": "https://openmoneyico.slack.com/join/shared_invite/enQtMzAwODgxMTgxODE1LWYwY2YzZjIxYWY3NjY3OTMyYzhlMGNlMzcxYThhMGVlZDE0YjQzNjA3MDhlZWI0NjRlMTYxNDAzMmIyMGY3Njc",
+    "reddit": "https://www.reddit.com/r/OPENPlatform/",
+    "blog": "https://medium.com/@theOPENPlatform"
+  },
+  "development": {
+    "github_organizations": [
+      "openfutureplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69c4BB240cF05D51eeab6985Bab35527d04a8C64",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

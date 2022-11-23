@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "selfkey",
+    "name": "Selfkey",
+    "ticker": "KEY",
+    "description": "Identity system with an integrated marketplace",
+    "website": "https://selfkey.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/selfkey",
+    "telegram": "https://t.me/selfkeyfoundation",
+    "reddit": "https://www.reddit.com/r/selfkey/",
+    "blog": "https://blog.selfkey.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "selfkeyfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

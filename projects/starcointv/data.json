@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "starcointv",
+    "name": "StarCoin",
+    "ticker": "KST",
+    "description": "Can be used anywhere in the world through a blockchain payment system called STARPAY",
+    "website": "http://www.starcoin.tv"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

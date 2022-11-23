@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "taas",
+    "name": "TaaS",
+    "ticker": "TAAS",
+    "description": "Tokenized closed-end fund dedicated to cryptoassets",
+    "website": "https://taas.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TaaSfund",
+    "telegram": "https://t.me/taasfund",
+    "slack": "https://taasfund.signup.team/",
+    "reddit": "https://www.reddit.com/r/taasfund/",
+    "blog": "https://medium.com/@TaaS"
+  },
+  "development": {
+    "github_organizations": [
+      "taas-fund"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

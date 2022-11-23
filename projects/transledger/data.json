@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "transledger",
+    "name": "Transledger",
+    "ticker": "TRN",
+    "description": "A fintech solution to transfer and transact digital assets"
+  },
+  "social": {
+    "twitter": "https://twitter.com/intrblokchn_io",
+    "telegram": "https://t.me/interblockchainlab"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

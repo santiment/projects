@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gem-exchange-and-trading",
+    "name": "Gem Exchange And Trading",
+    "ticker": "GXT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

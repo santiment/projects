@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "tachyon-protocol",
+    "name": "Tachyon Protocol",
+    "ticker": "IPX",
+    "description": "A decentralized internet protocol",
+    "website": "https://tachyon.eco/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tachyon_eco",
+    "telegram": "https://t.me/tachyoneco",
+    "reddit": "https://www.reddit.com/r/TachyonIPX/",
+    "blog": "https://medium.com/tachyon-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "tachyon-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mileverse",
+    "name": "MileVerse",
+    "ticker": "MVC",
+    "description": "Mileage Consolidation Platform",
+    "website": "https://www.mileverse.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MileVerse_",
+    "telegram": "https://t.me/mileverse",
+    "blog": "https://medium.com/@mileverse"
+  },
+  "development": {
+    "github_organizations": [
+      "mileverse"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

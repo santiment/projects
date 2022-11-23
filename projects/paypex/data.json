@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "paypex",
+    "name": "Paypex",
+    "ticker": "PAYX",
+    "description": "Ethereum payment systems enhancer",
+    "website": "https://paypex.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/paypex",
+    "telegram": "https://t.me/paypex",
+    "slack": "https://paypex.slack.com/",
+    "reddit": "https://www.reddit.com/r/paypex/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x62a56a4a2ef4d355d34d10fbf837e747504d38d4",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

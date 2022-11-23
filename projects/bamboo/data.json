@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bamboo",
+    "name": "Bamboo Relay",
+    "ticker": "BBR",
+    "description": "0x relayer built to trade, lend, and borrow tokens",
+    "website": "https://bamboorelay.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BambooRelay",
+    "telegram": "https://t.me/bamboorelay",
+    "discord": "https://discord.gg/6tMFa5E",
+    "slack": "https://discord.gg/6tMFa5E",
+    "blog": "https://medium.com/bamboo-relay"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

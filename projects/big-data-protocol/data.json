@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "big-data-protocol",
+    "name": "Big Data Protocol",
+    "ticker": "BDP",
+    "description": "Data Marketplace",
+    "website": "https://bigdataprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bigdataprotocol",
+    "telegram": "https://t.me/bigdataprotocol",
+    "blog": "https://medium.com/big-data-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "bigdataprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unicly-mystic-axies-collection",
+    "name": "Unicly Mystic Axies Collection",
+    "ticker": "UAXIE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

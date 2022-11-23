@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "magic-cube-coin",
+    "name": "Magic Cube Coin",
+    "ticker": "MCC",
+    "description": "A key component of the Magic Cube ecosystem"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RudyRong3",
+    "telegram": "https://t.me/Magiccube01",
+    "blog": "https://medium.com/@magiccube515"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

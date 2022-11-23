@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gopower",
+    "name": "GoPower",
+    "ticker": "GPT",
+    "description": "A fair rewarding, powered blockchain based, business tokenization platform",
+    "website": "https://tokengoplatform.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Token_Go",
+    "telegram": "https://t.me/TokenGo_EN",
+    "reddit": "https://www.reddit.com/r/Tokengo/",
+    "blog": "https://medium.com/@EN_TokenGo"
+  },
+  "development": {
+    "github_organizations": [
+      "tokengo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa00425d3e2d3e9ff74f3e112b4d3a7978d7d88c2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

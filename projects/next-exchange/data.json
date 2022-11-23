@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "next-exchange",
+    "name": "NEXT.exchange",
+    "ticker": "NEXT",
+    "description": "An exchange with the most easy to use interface, so that even grandma can exchange her favorite tokens on NEXT.exchange",
+    "website": "https://next.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hybrid_Next",
+    "telegram": "https://t.me/next_exchange",
+    "slack": "https://nextexchange.slack.com/",
+    "reddit": "https://www.reddit.com/r/NEXTexchange/",
+    "blog": "https://www.reddit.com/r/NEXTexchange/"
+  },
+  "development": {
+    "github_organizations": [
+      "nextexchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e005a760e00e17c4912a8070eec047cfecbabbb",
+        "decimals": 18
+      }
+    ]
+  }
+}

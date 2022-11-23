@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "privateum-initiative",
+    "name": "PRIVATEUM INITIATIVE",
+    "ticker": "PVM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

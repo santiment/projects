@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "topbidder",
+    "name": "TopBidder",
+    "ticker": "BID"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

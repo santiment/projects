@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "nitrogen",
+    "name": "Nitrogen Network",
+    "ticker": "NGN",
+    "description": "Decentralized P2P network for secured loans",
+    "website": "https://nitrogen.network/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/H-VOREc3K9n9J5vQHJUq1A"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

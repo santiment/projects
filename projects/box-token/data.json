@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "box-token",
+    "name": "BOX Token",
+    "ticker": "BOX",
+    "description": "A secure, convenient and streamlined cryptoasset management system for institutional investment, audit risk control, exchanges and custody services.",
+    "website": "https://box.la/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/boxla888",
+    "telegram": "https://t.me/safeboxla",
+    "slack": "https://box-la.slack.com/",
+    "reddit": "https://www.reddit.com/r/boxla888/"
+  },
+  "development": {
+    "github_organizations": [
+      "boxproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

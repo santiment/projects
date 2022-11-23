@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "digitalnote",
+    "name": "DigitalNote",
+    "ticker": "XDN",
+    "description": "An open cryptocurrency",
+    "website": "http://digitalnote.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XDNCommunity",
+    "reddit": "https://www.reddit.com/r/digitalNote/"
+  },
+  "development": {
+    "github_organizations": [
+      "xdn-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "omni",
+    "name": "Mastercoin (Omni)",
+    "ticker": "OMNI",
+    "description": "A platform for designing custom digital assets",
+    "website": "http://www.omnilayer.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/omni_layer",
+    "telegram": "http://t.me/OmniLayer",
+    "reddit": "https://www.reddit.com/r/mastercoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "omnilayer"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

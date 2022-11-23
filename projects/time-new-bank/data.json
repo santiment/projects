@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "time-new-bank",
+    "name": "Time New Bank",
+    "ticker": "TNB",
+    "description": "Time-value based transmission network",
+    "website": "http://tnb.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TimeNewBank",
+    "telegram": "https://t.me/tnbgroup",
+    "slack": "https://tnbtalk.slack.com/",
+    "reddit": "https://www.reddit.com/r/TimeNewBank/"
+  },
+  "development": {
+    "github_organizations": [
+      "fanxiong"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf7920b0768ecb20a123fac32311d07d193381d6f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

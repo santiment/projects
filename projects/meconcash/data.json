@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "meconcash",
+    "name": "MeconCash",
+    "ticker": "MCH",
+    "description": "A cryptocurrency platform",
+    "website": "http://www.meconcash.com/index_en.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/meconcash?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3Ameconcash&ref_url=https%3A%2F%2Fcoinmarketcap.com%2Fcurrencies%2Fmeconcash%2F",
+    "telegram": "https://t.me/meconcashchannel"
+  },
+  "development": {
+    "github_organizations": [
+      "mecon-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa5e262ec733051b14b38901901a82f2684637e78",
+        "decimals": 8
+      }
+    ]
+  }
+}

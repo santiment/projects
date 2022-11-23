@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tribute",
+    "name": "Tribute",
+    "ticker": "TRBT",
+    "description": "A DeFi ecosystem",
+    "website": "https://tributedefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TributeDefi",
+    "telegram": "https://t.me/tributedefi",
+    "discord": "https://discord.gg/XPxDDEh",
+    "slack": "https://discord.gg/XPxDDEh",
+    "blog": "https://medium.com/@tributedefi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "thingsoperatingsystem",
+    "name": "ThingsOperatingSystem",
+    "ticker": "TOS",
+    "description": "Decentralized layered block network Technology based on SDAG",
+    "website": "http://www.toschain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TOSCommuniy",
+    "telegram": "https://t.me/TOSChainOfficial",
+    "reddit": "https://www.reddit.com/user/TOSChain/",
+    "blog": "https://medium.com/@TOSChain"
+  },
+  "development": {
+    "github_organizations": [
+      "tosio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfb5a551374b656c6e39787b1d3a03feab7f3a98e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

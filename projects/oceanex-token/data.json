@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "oceanex-token",
+    "name": "OceanEx",
+    "ticker": "OCE",
+    "description": "A cryptocurrency asset management platform",
+    "website": "https://oceanex.pro/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OceanexOfficial",
+    "telegram": "https://t.me/OceanEx_Official",
+    "reddit": "https://www.reddit.com/r/OceanEx/",
+    "blog": "https://medium.com/@OceanEx"
+  },
+  "development": {
+    "github_organizations": [
+      "oceanex"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

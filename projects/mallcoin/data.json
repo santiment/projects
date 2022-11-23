@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mallcoin",
+    "name": "Mallcoin",
+    "ticker": "MLC",
+    "description": "An international e-commerce site",
+    "website": "https://flogmall.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/flogmall",
+    "telegram": "https://t.me/flogmall_en",
+    "reddit": "https://www.reddit.com/user/FLOGmall/",
+    "blog": "https://medium.com/@flogmall"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc72ed4445b3fe9f0863106e344e241530d338906",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

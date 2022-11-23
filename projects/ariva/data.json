@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ariva",
+    "name": "Ariva",
+    "ticker": "ARV",
+    "description": "Travel and tourism payments and rewards",
+    "website": "https://ariva.digital/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ArivaCoin",
+    "telegram": "https://t.me/ariva_arv",
+    "reddit": "https://www.reddit.com/user/ArivaCoin",
+    "blog": "https://medium.com/@arivacoin"
+  },
+  "development": {
+    "github_organizations": [
+      "ariva-digital"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "vndc",
+    "name": "VNDC",
+    "ticker": "VNDC",
+    "description": "1 VNDC = 1 Vietnamese Dong",
+    "website": "https://vndc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Vndcstable",
+    "telegram": "https://t.me/vndcstablecoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f3f677ecc58f6a1f9e2cf410df4776a8546b5de",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

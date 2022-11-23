@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "insurchain",
+    "name": "InsurChain",
+    "ticker": "INSUR",
+    "description": "A Decentralized Insurance Blockchain Ecosystem",
+    "website": "http://www.insurchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsurChain",
+    "telegram": "https://t.me/InsurChain",
+    "reddit": "https://www.reddit.com/r/Insurchain/"
+  },
+  "development": {
+    "github_organizations": [
+      "insurchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6ea6531b603f270d23d9edd2d8279135dc5d6773",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sarcophagus",
+    "name": "Sarcophagus",
+    "ticker": "SARCO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

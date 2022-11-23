@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "playgroundz",
+    "name": "Playgroundz",
+    "ticker": "IOG",
+    "description": "Virtual playground where gamers and developers live, explore and connect ",
+    "website": "https://www.playgroundz.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlaygroundzIOG?s=09",
+    "telegram": "https://t.me/PlaygroundzAnnouncements",
+    "blog": "https://medium.com/playgroundz-official-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "playgroundz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c4b7d0e1885bd7667af3378e0c538f74e712006",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "weshow-token",
+    "name": "WeShow Token",
+    "ticker": "WET",
+    "description": "Short video entertainment platform based on blockchain incentives. Overthrows excessive brokerage fee and unreasonable profit sharing structure of existing media broadcasting platforms",
+    "website": "https://www.we.show/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WeShowGroup",
+    "telegram": "https://t.me/weshow"
+  },
+  "development": {
+    "github_organizations": [
+      "we-token"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x36d10c6800d569bb8c4fe284a05ffe3b752f972c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

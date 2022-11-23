@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "zerobank",
+    "name": "Zerobank",
+    "ticker": "ZB",
+    "description": "Financial ecosystem",
+    "website": "https://zerobank.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zerobank_cash",
+    "telegram": "https://t.me/zerobank_cash"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x182a603541a4483c308475147d621bbb4e2587c6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

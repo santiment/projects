@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "xcrypt",
+    "name": "xCrypt Token",
+    "ticker": "XCT",
+    "description": "Exchange, cards and social media",
+    "website": "https://www.xcrypt.club/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xcryptclub",
+    "telegram": "https://t.me/xcryptclub",
+    "reddit": "https://www.reddit.com/r/xCrypt/"
+  },
+  "development": {
+    "github_organizations": [
+      "xcryptclub"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd2bb16cf38ca086cab5128d5c25de9477ebd596b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

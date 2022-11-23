@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dollars",
+    "name": "Dollars",
+    "ticker": "USDX",
+    "description": "Elastic money powered by dollars and seigniorage shares",
+    "website": "https://dollarprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DollarProtocol",
+    "telegram": "https://t.me/dollarprotocol",
+    "discord": "https://discord.gg/3NJ3dJr",
+    "slack": "https://discord.gg/3NJ3dJr",
+    "reddit": "https://www.reddit.com/r/DollarProtocol",
+    "blog": "https://medium.com/@dollarprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Dollar-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "district0x",
+    "name": "district0x",
+    "ticker": "DNT",
+    "description": "A network of decentralized markets and communities",
+    "website": "https://district0x.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/district0x",
+    "telegram": "http://t.me/District0x",
+    "slack": "https://district0x-slack.herokuapp.com/",
+    "blog": "https://blog.district0x.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "district0x"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0abdace70d3790235af448c88547603b945604ea",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

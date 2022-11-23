@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "infinitecoin",
+    "name": "Infinitecoin",
+    "ticker": "IFC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

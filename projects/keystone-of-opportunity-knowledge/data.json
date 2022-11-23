@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "keystone-of-opportunity-knowledge",
+    "name": "Keystone of Opportunity & Knowledge",
+    "ticker": "KOK",
+    "description": "Decentralized Contents Platform",
+    "website": "https://kok-play.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/KOKEnglish"
+  },
+  "development": {
+    "github_organizations": [
+      "KOK-Foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7BD6a4E7DB3A34c485A8DD02b30B6565e3bbC633",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

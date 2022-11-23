@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dnotes",
+    "name": "DNotes",
+    "ticker": "NOTE",
+    "description": "A blockchain-powered digital currency and peer-to-peer payment system",
+    "website": "http://dnotescoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DNotesCoin",
+    "telegram": "https://web.telegram.org/#/im?p=s1223377448_5048118493190714968",
+    "blog": "http://dnotescoin.com/blog-main-hub/"
+  },
+  "development": {
+    "github_organizations": [
+      "dnotescoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

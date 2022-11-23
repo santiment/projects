@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "monarch",
+    "name": "Monarch",
+    "ticker": "MT",
+    "description": "An ecosystem of consumer, business, and investment solutions",
+    "website": "https://monarchwallet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Monarchtoken",
+    "telegram": "https://www.reddit.com/r/MonarchToken/",
+    "discord": "https://discord.gg/TBgXY5z",
+    "slack": "https://discord.gg/TBgXY5z",
+    "reddit": "https://www.reddit.com/r/MonarchToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4442556a08a841227bef04c67a7ba7acf01b6fc8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "balpha",
+    "name": "bAlpha",
+    "ticker": "BALPHA",
+    "description": "Powering a liquid marketplace for commercially valuable data",
+    "website": "https://bigdataprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bigdataprotocol",
+    "telegram": "https://t.me/bigdataprotocol",
+    "blog": "https://medium.com/big-data-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "bigdataprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

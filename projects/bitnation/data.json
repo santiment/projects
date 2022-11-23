@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bitnation",
+    "name": "Bitnation",
+    "ticker": "XPAT",
+    "description": "A secure mesh network forming a distributed web, accessed through a smartphone-chat user friendly interface",
+    "website": "https://bitnation.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@MyBitnation",
+    "telegram": "https://t.me/PangeaBitnation",
+    "slack": "http://slack.bitnation.co/",
+    "reddit": "https://www.reddit.com/r/BitNation/",
+    "blog": "https://medium.com/@susannetarkowskitempelhof"
+  },
+  "development": {
+    "github_organizations": [
+      "bit-nation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xBB1fA4FdEB3459733bF67EbC6f893003fA976a82",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

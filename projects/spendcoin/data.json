@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "spendcoin",
+    "name": "Spendcoin",
+    "ticker": "SPND",
+    "description": "Powers the Spend.com ecosystem",
+    "website": "https://spendcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SpendFoundation",
+    "telegram": "https://t.me/SpendNews",
+    "reddit": "https://www.reddit.com/r/Spend/",
+    "blog": "https://medium.com/spend"
+  },
+  "development": {
+    "github_organizations": [
+      "spend"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xddd460bbd9f79847ea08681563e8a9696867210c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

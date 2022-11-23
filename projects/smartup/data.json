@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "smartup",
+    "name": "Smartup",
+    "ticker": "SMARTUP",
+    "description": "A global incubation and crowdfunding platform",
+    "website": "https://www.smartup.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SmartUpOfficial",
+    "telegram": "https://t.me/SmartUpOfficial",
+    "blog": "https://medium.com/@smartupofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x78f5bbc74fb9137a75d85f3c9c3c599be49f0a56",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

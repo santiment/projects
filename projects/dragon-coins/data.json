@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dragon-coins",
+    "name": "Dragon Coins",
+    "ticker": "DRG",
+    "description": "A Decentralized Currency for Casinos & Players",
+    "website": "https://drgtoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dragoncoin",
+    "telegram": "https://t.me/joinchat/FSgY4RI3tNfalmD2sbIZRg",
+    "reddit": "https://www.reddit.com/r/DragonDRG/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x814f67fa286f7572b041d041b1d99b432c9155ee",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "truegbp",
+    "name": "TrueGBP",
+    "ticker": "TGBP",
+    "description": "A stablecoin backed 1-for-1 with GBP Sterling Pound",
+    "website": "https://www.trusttoken.com/truegbp/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00000000441378008ea67f4284a57932b1c000a5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

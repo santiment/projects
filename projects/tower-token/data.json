@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tower-token",
+    "name": "Tower",
+    "ticker": "TOWER",
+    "description": "Anime RPG style blockchain games",
+    "website": "https://crazydefenseheroes.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CrazyDefenseEN",
+    "discord": "https://discord.com/invite/crazydefenseheroes",
+    "blog": "https://animocabrands.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "crazydefenseheroes"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c9922314ed1415c95b9fd453c3818fd41867d0b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

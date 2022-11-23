@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "pepemon-pepeballs",
+    "name": "Pepemon Pepeballs",
+    "ticker": "PPBLZ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

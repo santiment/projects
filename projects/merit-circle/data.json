@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "merit-circle",
+    "name": "Merit Circle",
+    "ticker": "MC",
+    "description": "Developing the play-to-earn economy",
+    "website": "https://www.meritcircle.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MeritCircle_IO",
+    "telegram": "https://t.me/meritcircle",
+    "discord": "https://discord.gg/meritcircle",
+    "blog": "https://medium.com/@meritcircle"
+  },
+  "development": {
+    "github_organizations": [
+      "Merit-Circle"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

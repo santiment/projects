@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "juventus-fan-token",
+    "name": "Juventus Fan Toke",
+    "ticker": "JUV",
+    "website": "https://www.socios.com/juventus/"
+  },
+  "social": {
+    "blog": "https://medium.com/socios"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

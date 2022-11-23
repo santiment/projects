@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yearn-finance-ii",
+    "name": "DFI.Money",
+    "ticker": "YFII",
+    "description": "A fork of YFI project with YIP-8 implementation",
+    "website": "https://yfii.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceYfii",
+    "telegram": "https://t.me/yfiifinance",
+    "discord": "https://discord.gg/tpHWz4",
+    "slack": "https://discord.gg/tpHWz4"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

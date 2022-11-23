@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "measurable-data-token",
+    "name": "Measurable Data Token",
+    "ticker": "MDT",
+    "description": "Decentralized Data Exchange Economy",
+    "website": "https://mdt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MeasurableData",
+    "telegram": "https://t.me/measurabledata",
+    "reddit": "https://www.reddit.com/r/MeasurableDataToken/",
+    "blog": "https://medium.com/measurabledata"
+  },
+  "development": {
+    "github_organizations": [
+      "measurabledatatoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

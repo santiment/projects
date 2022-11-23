@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "rock",
+    "name": "Rock",
+    "ticker": "RKT",
+    "description": "Institutional-grade token sale platform and cryptocurrency exchange",
+    "website": "https://gbx.gi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GibBlockEx",
+    "telegram": "https://t.me/GBXCommunity",
+    "reddit": "https://www.reddit.com/r/GBXCommunity/",
+    "blog": "https://medium.com/@Gibraltar.Blockchain.Exchange"
+  },
+  "development": {
+    "github_organizations": [
+      "gibraltar-blockchain-exchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x106aa49295b525fcf959aa75ec3f7dcbf5352f1c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

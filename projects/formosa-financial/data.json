@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "formosa-financial",
+    "name": "Formosa Financial",
+    "ticker": "FMF",
+    "description": "Treasury Management Services for Blockchain Innovators",
+    "website": "https://www.formosa.financial/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/formosaofficial",
+    "telegram": "https://t.me/formosafinancial",
+    "reddit": "https://www.reddit.com/r/FormosaFinancial/",
+    "blog": "https://medium.com/formosa-financial"
+  },
+  "development": {
+    "github_organizations": [
+      "formosafinancial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4d0fdfc8497aef97d3c2892ae682ee06064a2bc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

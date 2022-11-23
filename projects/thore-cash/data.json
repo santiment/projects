@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "thore-cash",
+    "name": "Thore Cash",
+    "ticker": "TCH",
+    "description": "Crypto-lending and investments accessible to the masses",
+    "website": "https://www.thorecash.com/thorecash.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Thr_Official",
+    "telegram": "https://t.me/joinchat/Hvav4RB5dJeFxdV_KvG27Q",
+    "discord": "https://discord.gg/KKUgZbv",
+    "slack": "https://discordapp.com/invite/KKUgZbv",
+    "blog": "https://medium.com/@ethminer3/thorecash-tch-project-update-d0ccad9a43a0"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

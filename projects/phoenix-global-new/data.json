@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "phoenix-global-new",
+    "name": "Phoenix Global (new)",
+    "ticker": "PHB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

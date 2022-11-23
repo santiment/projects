@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ino-coin",
+    "name": "INO COIN",
+    "ticker": "INO",
+    "description": "Decentralized cryptocurrency",
+    "website": "https://inocoin.eu/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InoCoin2018",
+    "telegram": "https://t.me/joinchat/IVXqBA86cfnqps3zHxB7FA",
+    "reddit": "https://www.reddit.com/r/InoCoin/",
+    "blog": "http://blog.inocoin.eu/"
+  },
+  "development": {
+    "github_organizations": [
+      "inocoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc9859fccc876e6b4b3c749c5d29ea04f48acb74f",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

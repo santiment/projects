@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "nftb",
+    "name": "NFTb",
+    "ticker": "NFTB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

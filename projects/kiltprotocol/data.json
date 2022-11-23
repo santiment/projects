@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "kiltprotocol",
+    "name": "KILT Protocol",
+    "ticker": "KILT",
+    "description": "Decentralized identity protocol",
+    "website": "https://kilt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Kiltprotocol",
+    "telegram": "https://t.me/KILTProtocolChat",
+    "reddit": "https://reddit.com/r/KiltProtocol/",
+    "blog": "https://medium.com/kilt-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "KILTprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

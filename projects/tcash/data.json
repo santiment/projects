@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tcash",
+    "name": "Tcash",
+    "ticker": "TCASH",
+    "description": "EtherFlyer’s exchange token",
+    "website": "https://www.etherflyer.com/index.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/etherflyercom",
+    "telegram": "https://t.me/etherFlyer",
+    "reddit": "https://www.reddit.com/user/EtherFlyerExchange",
+    "blog": "https://medium.com/@etherflyer"
+  },
+  "development": {
+    "github_organizations": [
+      "etherflyer"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7051620d11042c4335069AaA4f10Cd3B4290C681",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

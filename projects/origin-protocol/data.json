@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "origin-protocol",
+    "name": "Origin Protocol",
+    "ticker": "OGN",
+    "description": "A platform for creating decentralized marketplaces",
+    "website": "https://www.originprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/originprotocol",
+    "telegram": "https://t.me/originprotocol",
+    "discord": "https://discord.gg/jyxpUSe",
+    "slack": "https://discordapp.com/invite/jyxpUSe",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "blog": "https://medium.com/originprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "OriginProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

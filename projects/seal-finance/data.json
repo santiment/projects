@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "seal-finance",
+    "name": "Seal Finance",
+    "ticker": "SEAL",
+    "description": "A yield farming project wtih fixed APY",
+    "website": "https://seal.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sealfinance",
+    "telegram": "https://t.me/SealFinance",
+    "blog": "https://medium.com/seal-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "sealfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x33c2DA7Fd5B125E629B3950f3c38d7f721D7B30D",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

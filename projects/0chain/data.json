@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "0chain",
+    "name": "0chain",
+    "ticker": "ZCN",
+    "description": "Permissionless infrastructure cloud",
+    "website": "https://0chain.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0chain",
+    "telegram": "https://t.me/Ochain",
+    "reddit": "https://www.reddit.com/r/0chain/",
+    "blog": "https://medium.com/0chain"
+  },
+  "development": {
+    "github_organizations": [
+      "0chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78",
+        "blockchain": "ethereum",
+        "decimals": 10,
+        "label": "main"
+      }
+    ]
+  }
+}

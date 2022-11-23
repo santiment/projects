@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pegsshares",
+    "name": "PegsShares",
+    "ticker": "PEGS",
+    "description": "Governance token of Pegs Cash",
+    "website": "https://www.pegs.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pegscash",
+    "telegram": "https://t.me/pegscash",
+    "blog": "https://pegscash.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "pegsfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88bd6efe33bc82860278c044efa33364c6285032",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

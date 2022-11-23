@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "stronghold-usd",
+    "name": "Stronghold USD",
+    "ticker": "USDS",
+    "description": "USD token backed by multiple fiat currencies",
+    "website": "https://stronghold.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/strongholdxchg",
+    "telegram": "https://t.me/strongholdxchg",
+    "reddit": "https://www.reddit.com/r/strongholdxchg/",
+    "blog": "https://medium.com/strongholdxchg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

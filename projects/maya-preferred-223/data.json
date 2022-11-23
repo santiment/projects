@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "maya-preferred-223",
+    "name": "Maya Preferred 223",
+    "ticker": "MAPR",
+    "description": "Gold and Silver Backed Cryptocurrency",
+    "website": "https://mayapreferred.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maya_preferred",
+    "telegram": "https://t.me/mayapreferred223",
+    "reddit": "https://www.reddit.com/r/Maya_Preffered/"
+  },
+  "development": {
+    "github_organizations": [
+      "mayacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

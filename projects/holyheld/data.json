@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "holyheld",
+    "name": "Holyheld",
+    "ticker": "HOLY",
+    "description": "Mobile-first financial services app",
+    "website": "https://holyheld.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/holyheld",
+    "telegram": "https://t.me/holyheld",
+    "discord": "https://discord.com/invite/DbH9cb7",
+    "slack": "https://discord.com/invite/DbH9cb7",
+    "blog": "https://medium.com/holyheld"
+  },
+  "development": {
+    "github_organizations": [
+      "holyheld"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x39eAE99E685906fF1C11A962a743440d0a1A6e09",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

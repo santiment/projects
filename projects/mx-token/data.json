@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "mx-token",
+    "name": "MX Token",
+    "ticker": "MX",
+    "description": "Native token of the MXC trading platform",
+    "website": "https://www.mxc.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MXC_Exchange",
+    "telegram": "https://t.me/MXCEnglish",
+    "discord": "https://discord.gg/yAsgjfv",
+    "slack": "https://discord.gg/yAsgjfv",
+    "reddit": "https://www.reddit.com/user/MXC_Exchange",
+    "blog": "https://medium.com/@mxc.com"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

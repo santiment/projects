@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "set-protocol",
+    "name": "Set Protocol",
+    "ticker": "SPX",
+    "website": "https://www.tokensets.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SetProtocol",
+    "telegram": "https://t.me/joinchat/Fx8D6wyprLUlM1jMVnaRdg",
+    "blog": "https://medium.com/set-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "setprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

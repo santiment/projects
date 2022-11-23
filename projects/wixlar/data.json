@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "wixlar",
+    "name": "Wixlar",
+    "ticker": "WIX",
+    "description": "A Global Decentralized Digital Currency",
+    "website": "https://wixlar.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WixlarCoin",
+    "telegram": "https://t.me/wixlar",
+    "slack": "https://wixlarcoin.slack.com/",
+    "reddit": "https://www.reddit.com/user/wixlarcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "wixlar"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7ba19b7f7d106a9a1e0985397b94f38eee0b555e",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

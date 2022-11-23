@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "vigor",
+    "name": "Vigor",
+    "ticker": "VIGOR",
+    "description": "Crypto-backed stablecoin on EOS",
+    "website": "https://www.vigorstablecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vigorstablecoin",
+    "telegram": "https://t.me/VIGORstablecoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

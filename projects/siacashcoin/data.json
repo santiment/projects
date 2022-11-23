@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "siacashcoin",
+    "name": "SiaCashCoin",
+    "ticker": "SCC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

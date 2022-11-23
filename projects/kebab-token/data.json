@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "kebab-token",
+    "name": "Kebab Token",
+    "ticker": "KEBAB",
+    "description": "Yield farming on Binance Smart Chain",
+    "website": "https://kebabfinance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kebabfinance",
+    "telegram": "https://t.me/kebabfinance",
+    "blog": "https://medium.com/@kebabfinance1"
+  },
+  "development": {
+    "github_organizations": [
+      "chefkebab"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

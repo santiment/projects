@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rimbit",
+    "name": "Rimbit",
+    "ticker": "RBT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

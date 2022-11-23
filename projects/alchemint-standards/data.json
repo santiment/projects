@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "alchemint-standards",
+    "name": "Alchemint Standards",
+    "ticker": "SDS",
+    "description": "A hybrid-model decentralized stablecoin issuing platform based on NEO blockchain. It enables any individual or institution to issue stablecoins by collateralizing assets through smart contracts and cross-chain technology.",
+    "website": "http://alchemint.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alchemint_IO",
+    "telegram": "https://t.me/Alchemint",
+    "reddit": "https://www.reddit.com/r/Alchemint/"
+  },
+  "development": {
+    "github_organizations": [
+      "alchemint"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

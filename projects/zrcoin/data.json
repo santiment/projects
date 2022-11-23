@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "zrcoin",
+    "name": "ZrCoin",
+    "ticker": "ZRC",
+    "description": "Commodity-backed blockchain option",
+    "website": "https://zrcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZrCoin",
+    "telegram": "https://t.me/joinchat/AAAAAEDj28WzzuNh5j6tVg",
+    "reddit": "https://www.reddit.com/r/zrcoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

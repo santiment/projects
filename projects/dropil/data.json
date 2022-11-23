@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dropil",
+    "name": "Dropil",
+    "ticker": "DROP",
+    "description": "Blockchain Based Investing &amp;amp; Retirement Plans",
+    "website": "https://dropil.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dropilcoin",
+    "telegram": "https://t.me/DropilCoin",
+    "reddit": "https://www.reddit.com/r/Dropil/",
+    "blog": "https://dropil.com/the-press/"
+  },
+  "development": {
+    "github_organizations": [
+      "dropil"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4672bad527107471cb5067a887f4656d585a8a31",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

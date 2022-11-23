@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ptokens",
+    "name": "pTokens",
+    "ticker": "PTK",
+    "description": "Cross-chain DeFi composability",
+    "website": "https://ptokens.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pTokens_io",
+    "telegram": "https://t.me/ptokens",
+    "reddit": "https://www.reddit.com/r/pTokens/",
+    "blog": "https://medium.com/@provablethings"
+  },
+  "development": {
+    "github_organizations": [
+      "provable-things"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

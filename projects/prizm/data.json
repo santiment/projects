@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "prizm",
+    "name": "PRIZM",
+    "ticker": "PZM",
+    "description": "The first fair cryptocurrency",
+    "website": "http://en.prizm.club/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PRIZM_eng",
+    "telegram": "https://t.me/PRIZMclub"
+  },
+  "development": {
+    "github_organizations": [
+      "prizmspace"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

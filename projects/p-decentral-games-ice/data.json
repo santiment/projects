@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "p-decentral-games-ice",
+    "name": "Decentral Games ICE",
+    "ticker": "ICE",
+    "description": "PlayToEarn Metaverse Poker, Blackjack, Roulette and Slots",
+    "website": "https://decentral.games/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/decentralgames",
+    "discord": "https://discord.com/invite/cvbSNzY"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc6c855ad634dcdad23e64da71ba85b8c51e5ad7c",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

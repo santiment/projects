@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ti-value",
+    "name": "Ti-Value",
+    "ticker": "TV",
+    "description": "A token used for the titanium chain",
+    "website": "http://t.top/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ti_Value"
+  },
+  "development": {
+    "github_organizations": [
+      "tivalueproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

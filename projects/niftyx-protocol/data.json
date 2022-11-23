@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "niftyx-protocol",
+    "name": "Duplicate",
+    "ticker": "SHROOM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

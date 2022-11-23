@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "splintershards",
+    "name": "Splintershards",
+    "ticker": "SPS",
+    "description": "A trading card game",
+    "website": "https://splinterlands.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/splinterlands",
+    "telegram": "https://t.me/splinterlandsHQ",
+    "discord": "https://discord.splinterlands.com/",
+    "reddit": "https://reddit.com/r/Splinterlands"
+  },
+  "development": {
+    "github_organizations": [
+      "steem-monsters"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00813e3421e1367353bfe7615c7f7f133c89df74",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "thorstarter",
+    "name": "Thorstarter",
+    "ticker": "XRUNE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

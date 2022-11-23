@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "d-community",
+    "name": "D Community",
+    "ticker": "DILI",
+    "description": "A community of young people based on ACG culture",
+    "website": "http://2ds.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DCommunity1",
+    "telegram": "https://t.me/DCommunity_en"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x37f74e99794853777a10ea1dc08a64c86958f06a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

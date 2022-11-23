@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-alibaba",
+    "name": "Mirrored Alibaba",
+    "ticker": "mBABA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

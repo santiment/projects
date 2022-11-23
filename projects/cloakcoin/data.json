@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "cloakcoin",
+    "name": "CloakCoin",
+    "ticker": "CLOAK",
+    "description": "A More Secure And Private World Of Currency Transactions",
+    "website": "https://www.cloakcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CloakCoin",
+    "telegram": "https://t.me/cloakproject",
+    "reddit": "https://www.reddit.com/r/Cloak_Coin/",
+    "blog": "https://steemit.com/@cloak.blog"
+  },
+  "development": {
+    "github_organizations": [
+      "cloakproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

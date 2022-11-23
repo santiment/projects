@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "worbli",
+    "name": "Worbli",
+    "ticker": "WBL",
+    "description": "EOS sister chain to support strict regulatory compliance",
+    "website": "https://worbli.io/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/WORBLI",
+    "telegram": "https://t.me/worblicommunity",
+    "blog": "https://medium.com/@WORBLI"
+  },
+  "development": {
+    "github_organizations": [
+      "worbli"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "graphlinq-protocol",
+    "name": "Graphlinq Protocol",
+    "ticker": "GLQ",
+    "description": "The nocode protocol for Blockchain development",
+    "website": "https://graphlinq.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/graphlinq_proto",
+    "telegram": "https://t.me/graphlinq",
+    "discord": "https://discord.com/invite/AYFfd9fFef",
+    "reddit": "https://www.reddit.com/r/graphlinq/",
+    "blog": "https://graphlinq.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "GraphLinq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

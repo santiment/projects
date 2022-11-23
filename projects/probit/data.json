@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "probit",
+    "name": "ProBit Token",
+    "ticker": "PROB",
+    "description": "An utility token native to ProBit Exchange",
+    "website": "https://www.probit.com/en-us/token"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProBit_Exchange",
+    "telegram": "https://t.me/ProbitEnglish",
+    "blog": "https://medium.com/@ProBit_Exchange"
+  },
+  "development": {
+    "github_organizations": [
+      "probitexchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfb559ce67ff522ec0b9ba7f5dc9dc7ef6c139803",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

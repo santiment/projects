@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "temco",
+    "name": "Temco",
+    "ticker": "TEMCO",
+    "description": "TEMCO is developing a supply chain platform based on RSK blockchain. Using blockchain technology, we connect isolated supply chain systems and offer data services. ",
+    "website": "https://temco.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TEMCOLABS",
+    "telegram": "https://t.me/TEMCOLABS",
+    "reddit": "https://www.reddit.com/r/temcolabs/",
+    "blog": "https://medium.com/temcolabs"
+  },
+  "development": {
+    "github_organizations": [
+      "temcolabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

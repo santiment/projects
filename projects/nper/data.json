@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nper",
+    "name": "NPER",
+    "ticker": "NPER",
+    "description": "Intellectual Property Platform",
+    "website": "https://nper.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NPERproject",
+    "telegram": "http://t.me/Npereng",
+    "slack": "https://nper.slack.com/join/shared_invite/enQtMjgxMTMwNTI3MDQ2LWM0NTEyNTljYjRiYzEzZDIwZDJjOTY4ZjY1YmJlMDg2MGE4MWIyMWQyMWYxODA4ODkzOTRkZjgyODdlZDc0ZDY",
+    "blog": "https://medium.com/@NPERproject"
+  },
+  "development": {
+    "github_organizations": [
+      "nperproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4ce6b362bc77a24966dda9078f9cef81b3b886a7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

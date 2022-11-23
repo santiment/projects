@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "iocoin",
+    "name": "I/O Coin",
+    "ticker": "IOC",
+    "description": "A privacy-based cryptocurrency",
+    "website": "http://iocoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IOCoin_IOC",
+    "telegram": "https://t.me/joinchat/CqVqS0O3PjCTx9bfp4CwOQ",
+    "slack": "https://iocoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/IOCoin_BlockChain/"
+  },
+  "development": {
+    "github_organizations": [
+      "IOCoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

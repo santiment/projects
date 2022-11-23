@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "unobtanium",
+    "name": "Unobtanium",
+    "ticker": "UNO",
+    "description": "A SHA256 Proof of Work cryptocurrency",
+    "website": "http://unobtanium.uno"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unobtanium_uno",
+    "telegram": "https://t.me/unobtaniumuno",
+    "reddit": "https://www.reddit.com/r/Unobtanium/"
+  },
+  "development": {
+    "github_organizations": [
+      "unobtanium-official"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

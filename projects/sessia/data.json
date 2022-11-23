@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "sessia",
+    "name": "Sessia",
+    "ticker": "KICKS",
+    "description": "New Generation Social Network",
+    "website": "https://www.sessia.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sessia_clients",
+    "telegram": "https://t.me/sessiaeng",
+    "reddit": "https://www.reddit.com/r/SESSIANetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "sessia-llc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd91a6162f146ef85922d9a15ee6eb14a00344586",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

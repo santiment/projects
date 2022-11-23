@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "moneytoken",
+    "name": "MoneyToken",
+    "ticker": "IMT",
+    "description": "A blockchain-based financial ecosystem",
+    "website": "https://moneytoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MoneyToken",
+    "telegram": "https://t.me/moneytoken",
+    "reddit": "https://www.reddit.com/r/MoneyToken/",
+    "blog": "https://medium.com/@moneytoken"
+  },
+  "development": {
+    "github_organizations": [
+      "moneytoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x13119e34e140097a507b07a5564bde1bc375d9e6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

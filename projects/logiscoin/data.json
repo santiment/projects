@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "logiscoin",
+    "name": "LogisCoin",
+    "ticker": "LGS",
+    "website": "https://logiscoin.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/logiscoin",
+    "telegram": "https://t.me/logiscoins",
+    "discord": "https://discord.gg/tbasHBW",
+    "slack": "https://discordapp.com/invite/tbasHBW"
+  },
+  "development": {
+    "github_organizations": [
+      "lgsproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "hard-protocol",
+    "name": "HARD Protocol",
+    "ticker": "HARD",
+    "description": "Cross chain money market",
+    "website": "https://hard.kava.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hard_protocol",
+    "telegram": "https://t.me/hard_protocol",
+    "blog": "https://medium.com/kava-labs"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "weth-b",
+    "name": "weth-b",
+    "ticker": "ETH-B"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "powercoin",
+    "name": "Powercoin",
+    "ticker": "PWR",
+    "website": "https://pwr-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pwr_coin",
+    "telegram": "https://t.me/joinchat/I0JIzQ_EurCYECKM91OiDw",
+    "discord": "https://discord.gg/Pgw2RNS",
+    "slack": "https://discord.gg/Pgw2RNS",
+    "reddit": "https://www.reddit.com/r/PWRcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "pwrcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

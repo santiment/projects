@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "wizbl",
+    "name": "WIZBL",
+    "ticker": "WBL",
+    "description": "A true dispersion ecosystem that generates immediate  transaction speeds",
+    "website": "http://www.wizbl.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

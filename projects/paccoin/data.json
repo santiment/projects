@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "paccoin",
+    "name": "PAC Protocol",
+    "ticker": "PAC",
+    "description": "The World&amp;#39;s Largest Distributed Data Network",
+    "website": "https://pacprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PACcoinOfficial",
+    "telegram": "https://t.me/Pac_RUS",
+    "discord": "https://discord.gg/jYhzkPW",
+    "reddit": "https://reddit.com/r/PACGlobalOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "paccommunity"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

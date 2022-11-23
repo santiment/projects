@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "efinity",
+    "name": "Efinity",
+    "ticker": "EFI",
+    "description": "A cross-chain NFT blockchain by Enjin",
+    "website": "https://efinity.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/enjin",
+    "telegram": "https://t.me/enjin",
+    "reddit": "https://reddit.com/r/EnjinCoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

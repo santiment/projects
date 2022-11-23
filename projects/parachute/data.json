@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "parachute",
+    "name": "Parachute",
+    "ticker": "PAR",
+    "description": "Community pushing crypto adoption",
+    "website": "https://www.parachutetoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/parachutetoken",
+    "telegram": "http://t.me/parachutetokengroup",
+    "discord": "https://discord.gg/kyrCWen",
+    "slack": "https://discordapp.com/invite/kyrCWen",
+    "reddit": "https://www.reddit.com/r/ParachuteToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1beef31946fbbb40b877a72e4ae04a8d1a5cee06",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

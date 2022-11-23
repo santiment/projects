@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "venus-btc",
+    "name": "Venus BTC",
+    "ticker": "vBTC",
+    "website": "https://app.venus.io/dashboard"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

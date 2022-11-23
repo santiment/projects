@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "petals",
+    "name": "Petals",
+    "ticker": "PTS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

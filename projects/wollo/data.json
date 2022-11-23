@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "wollo",
+    "name": "WOLLO",
+    "ticker": "WLO",
+    "description": "Pocket Money: Reinvented for children age 6+",
+    "website": "https://pigzbe.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Pigzbe",
+    "telegram": "https://t.me/pigzbeico",
+    "reddit": "https://www.reddit.com/r/pigzbe/"
+  },
+  "development": {
+    "github_organizations": [
+      "pigzbe"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

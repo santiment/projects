@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "degenerator",
+    "name": "Meme",
+    "ticker": "MEME",
+    "description": "NFT Farming",
+    "website": "https://dontbuymeme.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/thedegenerator"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

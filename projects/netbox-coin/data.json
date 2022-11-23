@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "netbox-coin",
+    "name": "Netbox Coin",
+    "ticker": "NBX",
+    "description": "Blockchain backed web browser",
+    "website": "https://netbox.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NetboxGlobal",
+    "telegram": "https://t.me/netboxglobal",
+    "discord": "https://discord.gg/GCgZZPN",
+    "slack": "https://discord.gg/GCgZZPN",
+    "blog": "https://medium.com/@netboxglobal"
+  },
+  "development": {
+    "github_organizations": [
+      "netboxglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

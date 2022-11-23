@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "sonm",
+    "name": "SONM",
+    "ticker": "SNM",
+    "description": "Universal fog supercomputer",
+    "website": "https://sonm.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sonmdevelopment",
+    "telegram": "http://a.sonm.io/telegram_public_en",
+    "slack": "http://a.sonm.io/slack",
+    "reddit": "http://a.sonm.io/reddit",
+    "blog": "https://blog.sonm.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "sonm-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "sonm_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

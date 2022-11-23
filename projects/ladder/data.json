@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ladder",
+    "name": "Ladder Network Token",
+    "ticker": "LAD",
+    "description": "Cross-chain BaaS platform",
+    "website": "http://laddernetwork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ladder_network",
+    "telegram": "https://t.me/laddernetwork",
+    "blog": "https://medium.com/@Ladder_network"
+  },
+  "development": {
+    "github_organizations": [
+      "laddernetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4129d3b7a6a2c5c997774077ac02bdafd1af1d6a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

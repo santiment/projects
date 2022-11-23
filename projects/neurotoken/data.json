@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "neurotoken",
+    "name": "Neurotoken",
+    "ticker": "NTK",
+    "description": "Dataset creation and labeling",
+    "website": "https://neuromation.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/neuromation_io",
+    "telegram": "https://t.me/Neuromation",
+    "reddit": "https://www.reddit.com/r/Neuromation",
+    "blog": "https://medium.com/neuromation-io-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "neuromation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69beab403438253f13b6e92db91f7fb849258263",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

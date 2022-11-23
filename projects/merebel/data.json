@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "merebel",
+    "name": "Merebel",
+    "ticker": "MERI",
+    "description": "Bank and debit card system based on Masternode rewards",
+    "website": "https://merebel.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptorebell",
+    "telegram": "https://t.me/MerebelMERI",
+    "discord": "https://discord.gg/6jhE7bR",
+    "slack": "https://discord.gg/6jhE7bR"
+  },
+  "development": {
+    "github_organizations": [
+      "elcrebel"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mooncoin",
+    "name": "Mooncoin",
+    "ticker": "MOON",
+    "website": "https://www.mooncoin.eco/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MooncoinItalia",
+    "telegram": "https://t.me/MoonCoinEco",
+    "reddit": "https://www.reddit.com/r/MoonCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "mooncoincore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ovcode",
+    "name": "OVCODE",
+    "ticker": "OVC",
+    "description": "OVCODE is an award winning verification engine. OVCODE is a patented technology that verifies authenticity, reliability, and integrity of data using Blockchain technology",
+    "website": "https://ovcode.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OVCode",
+    "telegram": "https://t.me/OVCODEblockchain",
+    "reddit": "https://www.reddit.com/user/OVcode/",
+    "blog": "https://medium.com/@OVCodeSwitzerlandAG"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49d09cda1deb8a1680f1270c5ed15218fc4b18f0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

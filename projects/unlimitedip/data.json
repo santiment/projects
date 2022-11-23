@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "unlimitedip",
+    "name": "UnlimitedIP",
+    "ticker": "UIP",
+    "website": "http://www.unlimitedip.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/UIPworld"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4290563c2d7c255b5eec87f2d3bd10389f991d68",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

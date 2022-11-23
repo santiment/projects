@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pkg-token",
+    "name": "PKG Token",
+    "ticker": "PKG",
+    "description": "Decentralized game platform operating on blockchain",
+    "website": "http://pokemongopkg.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pokemongopkg",
+    "telegram": "https://t.me/pokemongopkg",
+    "reddit": "https://www.reddit.com/user/pokemongopkg"
+  },
+  "development": {
+    "github_organizations": [
+      "pokemongopkg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8cd103c2164d04d071f4014ac7b3aa42d8fa596c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ucash",
+    "name": "U.CASH",
+    "ticker": "UCASH",
+    "description": "Unbanking the world",
+    "website": "https://u.cash"
+  },
+  "social": {
+    "twitter": "https://twitter.com/udotcash",
+    "telegram": "https://t.me/ucash",
+    "reddit": "https://www.reddit.com/r/ucash/"
+  },
+  "development": {
+    "github_organizations": [
+      "udotcash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x92e52a1a235d9a103d970901066ce910aacefd37",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

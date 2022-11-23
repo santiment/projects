@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "verge",
+    "name": "Verge",
+    "ticker": "XVG",
+    "description": "Privacy Dogecoin",
+    "website": "http://vergecurrency.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vergecurrency",
+    "telegram": "https://t.me/VERGExvg",
+    "discord": "https://discord.gg/vergecurrency",
+    "slack": "https://discord.gg/vergecurrency",
+    "reddit": "https://www.reddit.com/r/vergecurrency/"
+  },
+  "development": {
+    "github_organizations": [
+      "vergecurrency"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

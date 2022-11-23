@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "usdc-b",
+    "name": "usdc-b",
+    "ticker": "USDC-B"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

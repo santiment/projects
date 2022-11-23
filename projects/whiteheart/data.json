@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "whiteheart",
+    "name": "Whiteheart",
+    "ticker": "WHITE",
+    "description": "Protect value of ETH and WBTC holdings",
+    "website": "https://www.whiteheart.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WhiteheartDeFi"
+  },
+  "development": {
+    "github_organizations": [
+      "hegic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

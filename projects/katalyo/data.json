@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "katalyo",
+    "name": "Katalyo",
+    "ticker": "KTLYO",
+    "description": "A no-code platform for building hybrid dapps",
+    "website": "https://www.katalyo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/katalyo",
+    "telegram": "https://t.me/katalyo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

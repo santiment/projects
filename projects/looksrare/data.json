@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "looksrare",
+    "name": "LooksRare",
+    "ticker": "LOOKS",
+    "description": "NFT Marketplace",
+    "website": "https://looksrare.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LooksRare"
+  },
+  "development": {
+    "github_organizations": [
+      "looksrare"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

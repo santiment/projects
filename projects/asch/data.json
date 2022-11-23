@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "asch",
+    "name": "Asch",
+    "ticker": "XAS",
+    "description": "Decentralized Application Platform Based on Side-chain",
+    "website": "https://www.asch.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AschPlatform",
+    "telegram": "https://t.me/joinchat/F5GtMA2hHXXoeuHdiPiooA",
+    "reddit": "https://www.reddit.com/r/Asch_Platform/",
+    "blog": "https://medium.com/aschplatform"
+  },
+  "development": {
+    "github_organizations": [
+      "aschplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

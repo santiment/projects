@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sanx",
+    "name": "San Index",
+    "ticker": "SANX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc7c9f0d98123d48f6720cd36d0da09b603173613",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "zero-collateral",
+    "name": "Zero Collateral",
+    "ticker": "ZCT",
+    "description": "Unsecured/undercollateralized lending market",
+    "website": "https://zerocollateral.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Zer0Collateral",
+    "discord": "https://discord.gg/tqvHdgp",
+    "slack": "https://discord.gg/tqvHdgp",
+    "blog": "https://medium.com/fabrx-blockchain/meet-zero-collateral-dcfe27fb3a2d"
+  },
+  "development": {
+    "github_organizations": [
+      "rbcp18"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc870cd2c6da34249edb4f2a03004ee02c29c312f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

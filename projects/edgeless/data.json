@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "edgeless",
+    "name": "Edgeless",
+    "ticker": "EDG",
+    "description": "Decentralized casino",
+    "website": "https://edgeless.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/edgelessproject",
+    "telegram": "https://t.me/joinchat/AAAAAEBTy7K9KXQcQsyozQ",
+    "discord": "https://discord.gg/h8a8Zs3",
+    "slack": "https://discordapp.com/invite/h8a8Zs3",
+    "reddit": "https://www.reddit.com/r/Edgeless/",
+    "blog": "https://medium.com/Edgeless"
+  },
+  "development": {
+    "github_organizations": [
+      "edgelesscasino"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "vipstar-coin",
+    "name": "Vipstar Coin",
+    "ticker": "VIPS",
+    "description": "A cryptocurrency originated from a community called 'VIP' in 5channel, the largest Japanese textboard",
+    "website": "https://www.vipstarcoin.jp/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VIPSTARCOIN",
+    "telegram": "https://t.me/vipstarcoin_officiai",
+    "discord": "https://discord.gg/sEaaxau",
+    "slack": "https://discord.gg/sEaaxau",
+    "reddit": "https://www.reddit.com/r/VipStarCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "vipstarcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "maker",
+    "name": "Maker",
+    "ticker": "MKR",
+    "description": "Stablecoin governance on Ethereum",
+    "website": "https://makerdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MakerDAO",
+    "telegram": "https://t.me/makerdaoOfficial",
+    "slack": "https://chat.makerdao.com/",
+    "reddit": "https://www.reddit.com/r/MakerDAO/",
+    "blog": "https://blog.makerdao.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "makerdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

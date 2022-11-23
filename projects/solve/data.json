@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "solve",
+    "name": "SOLVE",
+    "ticker": "SOLVE",
+    "description": "Revolutionize healthcare delivery",
+    "website": "https://solve.care/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Solve_Care",
+    "telegram": "https://t.me/SolveCare",
+    "reddit": "https://www.reddit.com/r/solvecare/",
+    "blog": "https://medium.com/@solve.care"
+  },
+  "development": {
+    "github_organizations": [
+      "solvecare"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

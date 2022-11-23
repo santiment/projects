@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "lunchmoney",
+    "name": "LunchMoney",
+    "ticker": "LMY",
+    "description": "Incentivizing real feedback from restaurant and eatery patrons",
+    "website": "https://www.lunchmoney.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LunchToken",
+    "telegram": "https://t.me/lunchmoneytoken",
+    "reddit": "https://reddit.com/r/lunchmoney_io/",
+    "blog": "https://medium.com/@lunchmoney"
+  },
+  "development": {
+    "github_organizations": [
+      "LunchMoneyToken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x66fd97a78d8854fec445cd1c80a07896b0b4851f,",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

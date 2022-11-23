@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "inflationcoin",
+    "name": "InflationCoin",
+    "ticker": "IFLT",
+    "description": "New cryptocurrency for investors offering high staking interest rates for the 1st year",
+    "website": "http://inflationcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IFLTcoin",
+    "telegram": "https://t.me/InflationCoin",
+    "discord": "https://discord.gg/Uz9K7SY",
+    "slack": "https://discordapp.com/invite/Uz9K7SY",
+    "reddit": "https://www.reddit.com/r/Inflationcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "inflationcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

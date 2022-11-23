@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "change",
+    "name": "Change Bank",
+    "ticker": "CAG",
+    "description": "The safest cryptocurrency app for European citizens",
+    "website": "https://getchange.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/changefinance",
+    "telegram": "https://t.me/joinchat/GWX8HkLwpOoocINbLXfRtg",
+    "slack": "https://coinchange.slack.com/",
+    "blog": "https://medium.com/@changebank"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

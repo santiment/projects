@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-microsoft",
+    "name": "Mirrored Microsoft",
+    "ticker": "mMSFT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

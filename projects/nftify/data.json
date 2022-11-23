@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "nftify",
+    "name": "NFTify",
+    "ticker": "N1"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

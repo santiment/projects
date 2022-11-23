@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "seen",
+    "name": "SEEN",
+    "ticker": "SEEN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

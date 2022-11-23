@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "eden",
+    "name": "EdenChain",
+    "ticker": "EDN",
+    "description": "Programmable economy platform",
+    "website": "http://edenchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/edenchainio",
+    "telegram": "https://t.me/edenchainio",
+    "reddit": "https://www.reddit.com/r/edenchainio/",
+    "blog": "https://medium.com/edenchainio"
+  },
+  "development": {
+    "github_organizations": [
+      "edenchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05860d453c7974cbf46508c06cba14e211c629ce",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

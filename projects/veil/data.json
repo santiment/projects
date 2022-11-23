@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "veil",
+    "name": "Veil",
+    "ticker": "VEIL",
+    "website": "https://veil.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/veil",
+    "discord": "https://discord.gg/aBfTCVU",
+    "slack": "https://discord.gg/aBfTCVU",
+    "blog": "https://medium.com/veil-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "veilco"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

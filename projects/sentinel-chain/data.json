@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sentinel-chain",
+    "name": "Sentinel Chain",
+    "ticker": "SENC",
+    "description": "B2B marketplace to provide financial services to the unbanked",
+    "website": "https://www.sentinel-chain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sentinelchain",
+    "telegram": "https://t.me/sentinelchain",
+    "reddit": "https://www.reddit.com/r/SentinelChain/",
+    "blog": "https://medium.com/sentinelchain"
+  },
+  "development": {
+    "github_organizations": [
+      "infocorp-technologies"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

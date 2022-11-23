@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "minter-network",
+    "name": "Minter Network",
+    "ticker": "BIP",
+    "description": "Global rewards and loyalty points network",
+    "website": "https://minter.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MinterTeam",
+    "telegram": "https://t.me/MinterNetworkGroup",
+    "blog": "https://medium.com/@MinterTeam"
+  },
+  "development": {
+    "github_organizations": [
+      "MinterTeam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

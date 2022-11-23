@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "shard",
+    "name": "Shard",
+    "ticker": "SHARD",
+    "description": "A new proof-of-stake (PoS) cryptocurrency",
+    "website": "https://shardcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shardcoin",
+    "telegram": "https://t.me/shardcoin",
+    "discord": "https://discord.gg/SFqSd3U",
+    "slack": "https://discordapp.com/invite/SFqSd3U",
+    "reddit": "https://www.reddit.com/r/ShardCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "shardcoinrepo"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

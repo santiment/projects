@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "orient-walt",
+    "name": "Orient Walt",
+    "ticker": "HTDF",
+    "description": "A variety of \"smart home\" application scenarios",
+    "website": "https://www.orientwalt.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HtdfWalt",
+    "telegram": "https://t.me/OrientWaltHTDF"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

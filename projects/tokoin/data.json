@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tokoin",
+    "name": "Tokoin",
+    "ticker": "TOKO",
+    "description": "A blockchain-based cryptocurrency platform",
+    "website": "https://www.tokoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TokoinOfficial",
+    "telegram": "https://t.me/tokoinglobal",
+    "reddit": "https://www.reddit.com/user/TokoinOfficial",
+    "blog": "https://medium.com/@tokoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0c963a1b52eb97c5e457c7d76696f8b95c3087ed",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

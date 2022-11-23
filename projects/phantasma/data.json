@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "phantasma",
+    "name": "Phantasma Protocol",
+    "ticker": "SOUL",
+    "description": "Next-generation messaging protocol",
+    "website": "https://phantasma.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/phantasma_io",
+    "telegram": "https://t.me/phantasma_io",
+    "discord": "https://discord.gg/fkNhmmk",
+    "slack": "https://discordapp.com/invite/fkNhmmk",
+    "reddit": "https://www.reddit.com/r/phantasma/",
+    "blog": "https://medium.com/@phantasmaprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "phantasmaprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "stem-cell-coin",
+    "name": "STEM CELL COIN",
+    "ticker": "SCC",
+    "description": "Medical expenses in cryptocurrency, virtual clinic and reaching out those who need regenerative medicine",
+    "website": "https://www.stemcell-pj.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/STEM_CELL_COIN",
+    "telegram": "https://t.me/stemcellcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

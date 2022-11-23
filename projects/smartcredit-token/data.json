@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "smartcredit-token",
+    "name": "SmartCredit Token",
+    "ticker": "SMARTCREDIT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

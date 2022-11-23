@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "oikos",
+    "name": "Oikos",
+    "ticker": "OKS",
+    "description": "A Tron based synthetic asset platform",
+    "website": "https://oikos.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oikos_cash",
+    "telegram": "https://t.me/oikoscash",
+    "reddit": "https://www.reddit.com/r/OikosCash/",
+    "blog": "https://medium.com/@oikoscash"
+  },
+  "development": {
+    "github_organizations": [
+      "oikos-cash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

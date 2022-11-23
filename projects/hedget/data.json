@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hedget",
+    "name": "Hedget",
+    "ticker": "HGET",
+    "description": "DeFi options trading platform",
+    "website": "https://www.hedget.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Team_Hedget/",
+    "telegram": "https://t.me/hedgetofficial",
+    "blog": "https://medium.com/hedget"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7968bc6a03017ea2de509aaa816f163db0f35148",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

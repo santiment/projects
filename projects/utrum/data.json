@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "utrum",
+    "name": "Utrum",
+    "ticker": "OOT",
+    "description": "Reward Platform for Crypto Reviews and Analysis",
+    "website": "https://utrum.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/utrumdotio",
+    "telegram": "https://t.me/utrumdotio",
+    "reddit": "https://www.reddit.com/r/Utrumdotio/",
+    "blog": "https://medium.com/utrum"
+  },
+  "development": {
+    "github_organizations": [
+      "utrum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

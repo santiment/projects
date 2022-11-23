@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "wingshop",
+    "name": "WingShop",
+    "ticker": "WING",
+    "description": "Hyper-deflationary token",
+    "website": "https://wingshop.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/WingsTokenOfficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb3df3108635932d912632ef7132d03ecfc39080",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

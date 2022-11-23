@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "quickswap",
+    "name": "QuickSwap",
+    "ticker": "QUICK",
+    "description": "Next-gen Layer 2 DEX",
+    "website": "https://quickswap.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QuickswapDEX",
+    "telegram": "https://t.me/QuickSwapDEX",
+    "reddit": "https://www.reddit.com/r/QuickSwap/",
+    "blog": "https://medium.com/@quickswap.layer2"
+  },
+  "development": {
+    "github_organizations": [
+      "QuickSwap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

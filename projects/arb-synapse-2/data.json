@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "arb-synapse-2",
+    "name": "Synapse [on Arbitrum]",
+    "ticker": "SYN",
+    "description": "Cross-chain layer protocol",
+    "website": "https://synapseprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synapseprotocol",
+    "telegram": "https://t.me/synapseprotocol",
+    "discord": "https://discord.gg//synapseprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

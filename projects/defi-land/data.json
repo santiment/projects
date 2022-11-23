@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "defi-land",
+    "name": "DeFi Land",
+    "ticker": "DFL",
+    "description": "DeFi, Gaming, NFTs and Metaverse",
+    "website": "https://defiland.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defi_land",
+    "telegram": "https://t.me/official_defiland",
+    "discord": "https://discord.gg/defiland",
+    "blog": "https://defiland.medium.com/introducing-defi-land-gamified-decentralized-finance-9d06c88d6369"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

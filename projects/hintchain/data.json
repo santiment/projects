@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hintchain",
+    "name": "Hintchain",
+    "ticker": "HINT",
+    "description": "AI-based food recommendations",
+    "website": "http://hintchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hintchain",
+    "telegram": "https://t.me/hintchain_official_en",
+    "reddit": "https://www.reddit.com/r/Hintchain/",
+    "blog": "https://medium.com/@hintchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6ce21e5f5383c95691d243879a86a6025e0870c0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

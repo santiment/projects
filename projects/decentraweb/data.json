@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "decentraweb",
+    "name": "DecentraWeb",
+    "ticker": "DWEB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

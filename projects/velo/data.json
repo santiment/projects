@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "velo",
+    "name": "Velo",
+    "ticker": "VELO",
+    "description": "Next Generation Financial Protocol for Businesses",
+    "website": "https://velo.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/veloprotocol",
+    "telegram": "https://telegram.me/veloprotocol",
+    "blog": "https://medium.com/@VeloProtocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

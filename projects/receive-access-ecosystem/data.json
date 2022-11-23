@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "receive-access-ecosystem",
+    "name": "Receive Access Ecosystem",
+    "ticker": "RAE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "trias",
+    "name": "Trias",
+    "ticker": "TRY",
+    "description": "Trustworthy and Reliable Intelligent Autonomous Systems",
+    "website": "https://www.trias.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/triaslab",
+    "telegram": "https://t.me/triaslab",
+    "reddit": "https://www.reddit.com/r/Trias_Lab",
+    "blog": "https://medium.com/@Triaslab"
+  },
+  "development": {
+    "github_organizations": [
+      "trias-lab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe431a4c5db8b73c773e06cf2587da1eb53c41373",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

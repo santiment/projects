@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "thecash",
+    "name": "THECASH",
+    "ticker": "TCH",
+    "description": "A mining coin",
+    "website": "https://thecash.asia/"
+  },
+  "social": {
+    "telegram": "https://t.me/damda365"
+  },
+  "development": {
+    "github_organizations": [
+      "thenode-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcd475371e39c0d94e82fccc9dd0ea710d0dc0c0b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

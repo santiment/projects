@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "finminity",
+    "name": "Finminity",
+    "ticker": "FMT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

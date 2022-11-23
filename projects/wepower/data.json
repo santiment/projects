@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "wepower",
+    "name": "WePower",
+    "ticker": "WPR",
+    "description": "Green energy trading platform",
+    "website": "https://wepower.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WePowerN",
+    "telegram": "https://t.me/WePowerNetwork",
+    "blog": "https://medium.com/wepower"
+  },
+  "development": {
+    "github_organizations": [
+      "wepowernetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4CF488387F035FF08c371515562CBa712f9015d4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

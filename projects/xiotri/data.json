@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xiotri",
+    "name": "Xiotri",
+    "ticker": "XIOT",
+    "description": "Yield farming project",
+    "website": "https://xiotri.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xiotri_defi",
+    "discord": "https://discord.gg/G6AJa6E",
+    "slack": "https://discord.gg/G6AJa6E"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x31024a4c3e9aeeb256b825790f5cb7ac645e7cd5",
+        "blockchain": "ethereum",
+        "decimals": 3,
+        "label": "main"
+      }
+    ]
+  }
+}

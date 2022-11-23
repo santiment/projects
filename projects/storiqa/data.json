@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "storiqa",
+    "name": "Storiqa",
+    "ticker": "STQ",
+    "description": "A blockchain revolution in e‑commerce",
+    "website": "https://crowdsale.storiqa.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/storiqa",
+    "telegram": "https://t.me/storiqa_en",
+    "reddit": "https://www.reddit.com/r/Storiqa/",
+    "blog": "https://medium.com/@storiqa"
+  },
+  "development": {
+    "github_organizations": [
+      "storiqa"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c3a228510d246b78a3765c20221cbf3082b44a4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "metamorph",
+    "name": "MetaMorph",
+    "ticker": "METM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

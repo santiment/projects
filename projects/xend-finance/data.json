@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xend-finance",
+    "name": "Xend Finance",
+    "ticker": "XEND",
+    "description": "The first DeFi Credit Union",
+    "website": "https://xend.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xendfinance",
+    "telegram": "https://t.me/xendFinance"
+  },
+  "development": {
+    "github_organizations": [
+      "xendfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xE4CFE9eAa8Cdb0942A80B7bC68fD8Ab0F6D44903",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

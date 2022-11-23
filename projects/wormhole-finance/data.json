@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "wormhole-finance",
+    "name": "wormhole.finance",
+    "ticker": "WHOLE",
+    "description": "A trade to farm defi protocol",
+    "website": "https://wormhole.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Wormhole_Group",
+    "telegram": "https://t.me/WormHole_group",
+    "blog": "https://medium.com/@wormholefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "devDegen"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe6179bb571d2d69837be731da88c76e377ec4738",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

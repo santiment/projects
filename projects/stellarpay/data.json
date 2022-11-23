@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "stellarpay",
+    "name": "StellarPay",
+    "ticker": "XLB",
+    "description": "Connects banks, payments systems and people",
+    "website": "https://stellarpay.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StellarpayOrg",
+    "telegram": "https://t.me/stellarpayorg",
+    "reddit": "https://www.reddit.com/user/stellarpayorg",
+    "blog": "https://medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "stellarpay-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

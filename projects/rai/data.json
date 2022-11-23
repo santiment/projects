@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rai",
+    "name": "Rai Reflex Index",
+    "ticker": "RAI",
+    "description": "ETH-backed stable asset",
+    "website": "https://reflexer.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/reflexerfinance",
+    "discord": "https://discord.gg/83t3xKT",
+    "blog": "https://medium.com/reflexer-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "reflexer-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "nft-worlds",
+    "name": "NFT Worlds",
+    "ticker": "WRLD",
+    "description": "Play and earn NFT gaming worlds",
+    "website": "https://www.nftworlds.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nftworldsNFT",
+    "discord": "https://discord.com/invite/nft-worlds"
+  },
+  "development": {
+    "github_organizations": [
+      "nft-worlds"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd5d86fc8d5c0ea1ac1ac5dfab6e529c9967a45e9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

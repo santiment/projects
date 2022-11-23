@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "we-own",
+    "name": "WeOwn",
+    "ticker": "CHX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

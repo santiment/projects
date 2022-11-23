@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ugas",
+    "name": "UGAS",
+    "ticker": "UGAS",
+    "description": "High performance decentralized blockchain platform",
+    "website": "http://www.ultrain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UltrainB",
+    "telegram": "https://t.me/ultrainofficial",
+    "blog": "https://medium.com/@ultrainchain"
+  },
+  "development": {
+    "github_organizations": [
+      "ultrain-os"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8716fc5da009d3a208f0178b637a50f4ef42400f",
+        "decimals": 18
+      }
+    ]
+  }
+}

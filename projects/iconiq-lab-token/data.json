@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "iconiq-lab-token",
+    "name": "Iconiq Lab",
+    "ticker": "ICNQ",
+    "description": "ICO &amp;amp;amp;amp; Token Launch accelerator program",
+    "website": "https://iconiqlab.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iconiqlab",
+    "telegram": "https://t.me/iconiqlabchat",
+    "reddit": "https://www.reddit.com/r/iconiqlab/",
+    "blog": "https://medium.com/@iconiqlab"
+  },
+  "development": {
+    "github_organizations": [
+      "iconiqlab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb3e2cb7cccfe139f8ff84013823bf22da6b6390a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

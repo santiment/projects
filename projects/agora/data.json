@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "agora",
+    "name": "Agora",
+    "ticker": "VOTE",
+    "description": "Blockchain-based voting solution",
+    "website": "https://agora.vote/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AgoraBlockchain",
+    "telegram": "https://t.me/agorablockchain",
+    "reddit": "https://www.reddit.com/r/agora/",
+    "blog": "https://medium.com/agorablockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "agorablockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "cropcoin",
+    "name": "Cropcoin",
+    "ticker": "CROP",
+    "description": "Decentralized and Secure Cryptocurrency",
+    "website": "http://www.cropcoin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IamCropcoin",
+    "discord": "https://discord.gg/U8kwb6e",
+    "slack": "https://discord.gg/U8kwb6e"
+  },
+  "development": {
+    "github_organizations": [
+      "cropdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

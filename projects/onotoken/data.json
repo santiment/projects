@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "onotoken",
+    "name": "ONOToken",
+    "ticker": "ONOT",
+    "description": "ONO is a free decentralized social network",
+    "website": "https://www.ono.chat/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ONOsocial",
+    "telegram": "https://t.me/ONOUS",
+    "reddit": "https://www.reddit.com/user/onosocial"
+  },
+  "development": {
+    "github_organizations": [
+      "onochat"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb31c219959e06f9afbeb36b388a4bad13e802725",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "pintu-token",
+    "name": "Pintu Token",
+    "ticker": "PTU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

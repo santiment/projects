@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "touchcon",
+    "name": "TouchCon",
+    "ticker": "TOC",
+    "description": "TOC Smart QR Code Ad Mining Platform",
+    "website": "http://www.touchcon.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TouchconInfo",
+    "telegram": "https://www.t.me/touchconplatform",
+    "blog": "https://blog.naver.com/touchcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "touchcondev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

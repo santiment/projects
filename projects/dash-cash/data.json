@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "dash-cash",
+    "name": "Dash Cash",
+    "ticker": "DSC",
+    "description": "Global Digital Cash Solution",
+    "website": "http://dashcash.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

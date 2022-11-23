@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "stableusd",
+    "name": "Stably USD",
+    "ticker": "USDS",
+    "description": "A regulated and transparent fiat-backed stablecoin",
+    "website": "https://www.stably.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stablycoin",
+    "telegram": "http://t.me/stablycoin",
+    "discord": "https://discord.gg/yQxqz7t",
+    "slack": "https://discord.gg/yQxqz7t",
+    "blog": "https://medium.com/stably-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "stably-blockchain-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

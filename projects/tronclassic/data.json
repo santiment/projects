@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tronclassic",
+    "name": "TRONCLASSIC",
+    "ticker": "TRXC",
+    "description": "TRXC is an ERC20 token that serves as a digital currency. TronClassic  is a platform for the future of trading market and online wallet",
+    "website": "https://www.tronclassic.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TronClassic",
+    "telegram": "https://t.me/ClassicTron",
+    "reddit": "https://www.reddit.com/user/TRONCLASSIC"
+  },
+  "development": {
+    "github_organizations": [
+      "tronclassic-trxc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xad5fe5b0b8ec8ff4565204990e4405b2da117d8e",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

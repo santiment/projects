@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "yee",
+    "name": "YEE",
+    "ticker": "YEE",
+    "description": "A Blockchain-powered & Cloud-based Social Ecosystem",
+    "website": "http://www.yeefoundation.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yeetoken",
+    "telegram": "https://t.me/yeeofficialgroup",
+    "reddit": "https://www.reddit.com/user/yeetoken",
+    "blog": "https://medium.com/@yeefoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "yeeco"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x922105fad8153f516bcfb829f56dc097a0e1d705",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

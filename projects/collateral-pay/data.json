@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "collateral-pay",
+    "name": "Collateral Pay",
+    "ticker": "COLL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

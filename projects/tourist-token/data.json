@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tourist-token",
+    "name": "Tourist Token",
+    "ticker": "TOTO",
+    "description": "Blockchain rewards and loyalty platform for a tourism market",
+    "website": "https://globaltourist.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tourist_global",
+    "telegram": "https://t.me/globaltouristgroup",
+    "reddit": "https://www.reddit.com/r/toto/comments/8syiqu/toto_ico_touristtoken",
+    "blog": "https://medium.com/@globaltourist"
+  },
+  "development": {
+    "github_organizations": [
+      "globaltouristteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe3278df3eb2085ba9b6899812a99a10f9ca5e0df",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

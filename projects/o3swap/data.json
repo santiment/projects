@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "o3swap",
+    "name": "O3Swap",
+    "ticker": "O3",
+    "description": "Cross-chain Aggregator and Wallet",
+    "website": "https://o3swap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/O3_Labs",
+    "telegram": "https://t.me/O3LabsOfficial",
+    "discord": "https://discord.gg/zj5xheJVGy",
+    "reddit": "https://www.reddit.com/r/O3Labs",
+    "blog": "https://medium.com/o3-labs-o3-wallet"
+  },
+  "development": {
+    "github_organizations": [
+      "o3labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee9801669c6138e84bd50deb500827b776777d28",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

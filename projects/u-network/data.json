@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "u-network",
+    "name": "U Network",
+    "ticker": "UUU",
+    "description": "The Ultimate Decentralized Content Valuation & Publishing Platform",
+    "website": "https://u.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UNetworkHQ",
+    "telegram": "https://t.me/UNetworkEN",
+    "reddit": "https://www.reddit.com/r/UNetwork/",
+    "blog": "https://medium.com/@UNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "u-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3543638ed4a9006e4840b105944271bcea15605d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

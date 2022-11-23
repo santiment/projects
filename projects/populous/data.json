@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "populous",
+    "name": "Populous",
+    "ticker": "PPT",
+    "description": "Invoice trading futures",
+    "website": "http://populous.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitpopulous",
+    "telegram": "https://telegram.me/Populous",
+    "slack": "https://bitpopulous.herokuapp.com/",
+    "blog": "https://medium.com/@BitPopulous"
+  },
+  "development": {
+    "github_organizations": [
+      "bitpopulous"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "parkgene",
+    "name": "Parkgene",
+    "ticker": "GENE",
+    "description": "Peer-to-Peer Parking Revolution on Blockchain",
+    "website": "https://parkgene.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PARKGENE1",
+    "telegram": "https://t.me/parkgene",
+    "reddit": "https://www.reddit.com/r/PARKGENE/",
+    "blog": "https://medium.com/@parkgene/"
+  },
+  "development": {
+    "github_organizations": [
+      "parkgene"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6dd4e4aad29a40edd6a409b9c1625186c9855b4d",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

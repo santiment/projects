@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "escrowcoin",
+    "name": "EscrowCoin",
+    "ticker": "ESCO",
+    "description": "The world’s most secure payment method from a counterparty risk perspective",
+    "website": "http://escrow-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EscrowCoin",
+    "discord": "https://discord.gg/MCU4hbe",
+    "slack": "https://discord.gg/MCU4hbe",
+    "reddit": "https://www.reddit.com/r/Webchain/"
+  },
+  "development": {
+    "github_organizations": [
+      "escrow-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "katana-finance",
+    "name": "Katana Finance",
+    "ticker": "KATANA",
+    "description": "A DeFi Yield Farming platform",
+    "website": "https://katana.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/katanafinance",
+    "telegram": "https://t.me/katanafinance",
+    "blog": "https://medium.com/katanafinance"
+  },
+  "development": {
+    "github_organizations": [
+      "katanafinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe6410569602124506658ff992f258616ea2d4a3d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

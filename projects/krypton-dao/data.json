@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "krypton-dao",
+    "name": "Krypton DAO",
+    "ticker": "KRD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

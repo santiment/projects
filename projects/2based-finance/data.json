@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "2based-finance",
+    "name": "2Based Finance",
+    "ticker": "2BASED",
+    "description": "Gamified Rebasing Token",
+    "website": "https://2based.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DefiProphets",
+    "telegram": "https://t.me/two2based",
+    "blog": "https://rmplproject.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x168E39f96A653Ce0A456560687241b0B2936E5Ff",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

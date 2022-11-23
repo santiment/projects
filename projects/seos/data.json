@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "seos",
+    "name": "Synth sEOS",
+    "ticker": "sEOS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88c8cf3a212c0369698d13fe98fcb76620389841",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

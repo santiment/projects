@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "waifu-token",
+    "name": "Waifu Token",
+    "ticker": "WAIF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

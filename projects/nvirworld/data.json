@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "nvirworld",
+    "name": "NvirWorld",
+    "ticker": "NVIR",
+    "description": "Hybrid decentralized L2 platform",
+    "website": "https://nvirworld.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NvirWorld",
+    "telegram": "https://t.me/NvirWorldEN",
+    "discord": "https://discord.com/invite/nvirworld",
+    "reddit": "https://reddit.com/r/nvirworld/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

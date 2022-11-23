@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "digitalbits",
+    "name": "DigitalBits",
+    "ticker": "XDB",
+    "description": "Blockchain for brands",
+    "website": "https://www.digitalbits.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/digitalbitsorg",
+    "telegram": "https://t.me/digitalbits",
+    "blog": "https://medium.com/digitalbitsorg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9eefc4b0d472a44be93970254df4f4016569d27",
+        "blockchain": "ethereum",
+        "decimals": 7
+      }
+    ]
+  }
+}

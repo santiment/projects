@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "meverse",
+    "name": "MEVerse",
+    "ticker": "MEV"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

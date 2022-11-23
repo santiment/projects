@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "octofi",
+    "name": "OctoFi",
+    "ticker": "OCTO",
+    "description": "An open source platform for various decentralized projects",
+    "website": "https://octo.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/octofinance",
+    "telegram": "https://t.me/OctoFiNews"
+  },
+  "development": {
+    "github_organizations": [
+      "octofi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

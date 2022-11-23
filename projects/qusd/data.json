@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "qusd",
+    "name": "QUSD",
+    "ticker": "QUSD",
+    "description": "A stablecoin with algorithmically derived price",
+    "website": "https://qusd.co.uk/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/qusdcoin",
+    "telegram": "https://t.me/qusdofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "qusd"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd6875274b000462f59e9327cbde2cef637914569",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

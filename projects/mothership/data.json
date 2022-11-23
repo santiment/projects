@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mothership",
+    "name": "Mothership",
+    "ticker": "MSP",
+    "description": "Cryptocurrency exchange built from the ground up to support cryptocurrency traders with fiat pairs",
+    "website": "https://mothership.cx/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MothershipCX",
+    "telegram": "http://t.me/MothershipCX",
+    "blog": "https://blog.mothership.cx/"
+  },
+  "development": {
+    "github_organizations": [
+      "mothershipcx"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

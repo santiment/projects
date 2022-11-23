@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "red",
+    "name": "RED",
+    "ticker": "RED",
+    "description": "Building the world&amp;#39;s first fullstack and blockchain language",
+    "website": "https://ico.red-lang.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/red_lang",
+    "telegram": "https://t.me/redofficial",
+    "reddit": "https://www.reddit.com/r/redlang/"
+  },
+  "development": {
+    "github_organizations": [
+      "red"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

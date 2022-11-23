@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "storj",
+    "name": "Storj",
+    "ticker": "STORJ",
+    "description": "Rent disk space",
+    "website": "https://storj.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/storjproject",
+    "telegram": "http://t.me/StorjProject",
+    "reddit": "https://www.reddit.com/r/storj/",
+    "blog": "https://medium.com/@storjproject"
+  },
+  "development": {
+    "github_organizations": [
+      "storj"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

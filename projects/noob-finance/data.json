@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "noob-finance",
+    "name": "noob.finance",
+    "ticker": "NOOB",
+    "description": "NFT yield farming project",
+    "website": "https://noob.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/noob_finance",
+    "telegram": "https://t.me/noobfinance",
+    "blog": "https://noobfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1fc05d480b1ef1175a31123bfdbd36bfee256889",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

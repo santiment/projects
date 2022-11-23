@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "poet",
+    "name": "Po.et",
+    "ticker": "POE",
+    "description": "Blockchain-based shared ledger for digital media assets",
+    "website": "https://po.et/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_poetproject",
+    "telegram": "https://github.com/poetapp",
+    "slack": "https://poet-slack.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/poetproject/",
+    "blog": "https://blog.po.et/"
+  },
+  "development": {
+    "github_organizations": [
+      "poetapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0e0989b1f9b8a38983c2ba8053269ca62ec9b195",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

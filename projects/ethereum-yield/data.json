@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ethereum-yield",
+    "name": "Ethereum Yield",
+    "ticker": "ETHY",
+    "description": "Yield farming",
+    "website": "https://ethereumyield.farm/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethereumyield",
+    "telegram": "https://t.me/ethereumyield",
+    "blog": "https://medium.com/@ethereumyieldfarm"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereumyieldfarm"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd1AFBCCC9A2c2187ea544363B986EA0AB6EF08B5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

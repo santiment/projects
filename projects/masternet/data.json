@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "masternet",
+    "name": "MASTERNET",
+    "ticker": "MASH",
+    "description": "Financial Platform designed to integrate with other Blockchain projects",
+    "website": "https://akasicglobal.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MasternetMASH",
+    "telegram": "https://t.me/joinchat/IlRXRk6ja0tESLLPnyG9OQ",
+    "reddit": "https://www.reddit.com/r/MasternetMASH/",
+    "blog": "https://medium.com/masternet"
+  },
+  "development": {
+    "github_organizations": [
+      "masternetio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa0d440c6da37892dc06ee7930b2eede0634fd681",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "openocean",
+    "name": "OpenOcean",
+    "ticker": "OOE",
+    "description": "First CeDeFi aggregator providing the best swap return",
+    "website": "https://openocean.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OpenOceanGlobal",
+    "telegram": "https://t.me/OOFinance",
+    "discord": "https://discord.com/invite/cxK6CCYcGp",
+    "blog": "https://blog.openocean.finance/"
+  },
+  "development": {
+    "github_organizations": [
+      "openocean-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

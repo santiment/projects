@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "derivadao",
+    "name": "DerivaDAO",
+    "ticker": "DDX",
+    "description": "Derivatives trading",
+    "website": "https://derivadex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DDX_Official",
+    "telegram": "https://t.me/DerivaDEX",
+    "discord": "https://discord.com/invite/CaqdRvA",
+    "blog": "https://medium.com/derivadex"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

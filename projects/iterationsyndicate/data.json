@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "iterationsyndicate",
+    "name": "IterationSyndicate",
+    "ticker": "ITS",
+    "description": "Next Generation Yield Farming",
+    "website": "https://iterationsyndicate.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RenascentDefi",
+    "telegram": "https://t.me/RenascentDefi",
+    "blog": "https://cryptochoad.medium.com/iteration-syndicate-d0bde4b0e384"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC32cC5b70BEe4bd54Aa62B9Aefb91346d18821C4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

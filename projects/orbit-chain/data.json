@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "orbit-chain",
+    "name": "Orbit Chain",
+    "ticker": "ORC",
+    "description": "A blockchain with inter-chain protocol",
+    "website": "https://orbitchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Orbit_Chain",
+    "telegram": "https://t.me/Orbit_Chain",
+    "discord": "https://discord.com/channels/616813342530600960/616819393845919754",
+    "blog": "https://medium.com/orbit-chain/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x662b67d00a13faf93254714dd601f5ed49ef2f51",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

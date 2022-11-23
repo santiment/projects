@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "silent-notary",
+    "name": "Silent Notary",
+    "ticker": "SNTR",
+    "description": "A multiplatform decentralized service for confirmation of event existence",
+    "website": "https://silentnotary.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SilentNotary",
+    "telegram": "https://t.me/silentnotary",
+    "reddit": "https://www.reddit.com/r/SilentNotary/",
+    "blog": "https://medium.com/@silentnotary"
+  },
+  "development": {
+    "github_organizations": [
+      "silentnotary"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2859021ee7f2cb10162e67f33af2d22764b31aff",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

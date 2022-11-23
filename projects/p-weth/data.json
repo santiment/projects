@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "p-weth",
+    "name": "WETH [on Polygon]",
+    "ticker": "WETH",
+    "description": "ERC-20 compatible Ether, used in DeFi",
+    "website": "https://weth.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

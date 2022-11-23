@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "handy",
+    "name": "Handy",
+    "ticker": "HANDY",
+    "description": "Prediction game platform",
+    "website": "https://handypick.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/HandyOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "handypick"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "salmonswap",
+    "name": "SalmonSwap",
+    "ticker": "SAL",
+    "description": "Decentralized exchange that lets users earn on TRON",
+    "website": "https://salmonswap.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TronFi_io",
+    "telegram": "https://t.me/TronFi_io",
+    "discord": "https://discord.com/invite/kGwvevJ",
+    "slack": "https://discord.com/invite/kGwvevJ",
+    "blog": "https://medium.com/@TronFi/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

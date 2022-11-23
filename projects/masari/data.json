@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "masari",
+    "name": "Masari",
+    "ticker": "MSR",
+    "description": "A scalability-focused, untraceable, secure, and fungible cryptocurrency using the RingCT protocol",
+    "website": "https://getmasari.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/masaricurrency",
+    "discord": "https://discord.gg/sMCwMqs",
+    "slack": "https://discord.gg/sMCwMqs",
+    "reddit": "https://reddit.com/r/masari"
+  },
+  "development": {
+    "github_organizations": [
+      "masari-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

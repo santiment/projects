@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sada",
+    "name": "Synth sADA",
+    "ticker": "sADA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe36e2d3c7c34281fa3bc737950a68571736880a1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

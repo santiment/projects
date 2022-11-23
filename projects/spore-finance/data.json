@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "spore-finance",
+    "name": "Spore Finance",
+    "ticker": "SPORE",
+    "description": "NFTs and prediction market",
+    "website": "https://sporefinance.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SporeFinance",
+    "telegram": "https://t.me/sporefinanceofficial",
+    "discord": "https://discord.gg/hYDnmyadJC",
+    "blog": "https://sporefinance.medium.com/spore-finance-fair-launch-7f048d01e85d"
+  },
+  "development": {
+    "github_organizations": [
+      "SporeFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

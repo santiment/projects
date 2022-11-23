@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "upfiring",
+    "name": "Upfiring",
+    "ticker": "UFR",
+    "description": "P2P file sharing",
+    "website": "https://www.upfiring.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/upfiringHQ",
+    "reddit": "https://www.reddit.com/r/Upfiring/"
+  },
+  "development": {
+    "github_organizations": [
+      "upfiring"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea097a2b1db00627b2fa17460ad260c016016977",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "oasis-network",
+    "name": "Oasis Network",
+    "ticker": "ROSE",
+    "description": "Blockchain network for DeFi and Open Data",
+    "website": "https://oasisprotocol.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/oasisprotocolcommunity",
+    "slack": "https://join.slack.com/t/oasiscommunity/shared_invite/enQtNjQ5MTA3NTgyOTkzLWIxNTg1ZWZmOTIwNmQ2MTg1YmU0MzgyMzk3OWM2ZWQ4NTQ0ZDJkNTBmMTdlM2JhODllYjg5YmJkODc2NzgwNTg",
+    "blog": "https://medium.com/oasis-protocol-project"
+  },
+  "development": {
+    "github_organizations": [
+      "oasisprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

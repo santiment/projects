@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "streamr",
+    "name": "Delete",
+    "ticker": "DATA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

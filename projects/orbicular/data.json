@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "orbicular",
+    "name": "Orbicular",
+    "ticker": "ORBI",
+    "description": "Supply rises and falls cyclically",
+    "website": "https://hypeforhotdogs.com/orbicular"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoOrbicular",
+    "telegram": "https://t.me/OfficialOrbicular"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x11A2Ab94adE17e96197C78f9D5f057332a19a0b9",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

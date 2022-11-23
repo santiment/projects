@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dxchain-token",
+    "name": "DxChain",
+    "ticker": "DX",
+    "description": "Big Data and Machine Learning Network",
+    "website": "http://www.dxchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DxChainNetwork",
+    "telegram": "https://t.me/dxchain",
+    "reddit": "https://www.reddit.com/r/DxChainNetwork/",
+    "blog": "https://steemit.com/@dxchainnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "dxchainnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x973e52691176d36453868D9d86572788d27041A9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

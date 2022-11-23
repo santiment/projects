@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "witchain",
+    "name": "WITChain",
+    "ticker": "WIT",
+    "description": "Digital Token Development and Value Management Service",
+    "website": "http://www.witchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/witchaindev",
+    "telegram": "https://t.me/witchain"
+  },
+  "development": {
+    "github_organizations": [
+      "witchaindev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe13ef257cf4d5df928ca11d230427c037666d466",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

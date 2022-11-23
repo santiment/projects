@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hoo-token",
+    "name": "Hoo Token",
+    "ticker": "HOO",
+    "description": "Centralized exchange token",
+    "website": "https://hoo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hoo_exchange",
+    "telegram": "https://t.me/hooChinesegroup",
+    "reddit": "https://www.reddit.com/r/HooExchange/",
+    "blog": "https://medium.com/@Hoo_exchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

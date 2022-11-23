@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "typhoon-cash",
+    "name": "Typhoon Cash",
+    "ticker": "PHOON",
+    "description": "A yield-capable private transactions protocol based on Tornado Cash",
+    "website": "https://typhoon.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TyphoonCash",
+    "telegram": "https://t.me/typhooncashchat",
+    "blog": "https://typhooncash.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x79256db1bdb6259315a1a3d7dd237f69cadfd8fc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

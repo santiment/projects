@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "singularitynet",
+    "name": "SingularityNET",
+    "ticker": "AGIX",
+    "description": "AI marketplace",
+    "website": "https://singularitynet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/singularity_net",
+    "telegram": "https://t.me/singularitynet",
+    "reddit": "https://www.reddit.com/r/SingularityNet/",
+    "blog": "https://blog.singularitynet.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "singnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "singularity_contract",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "mytoken",
+    "name": "MyToken",
+    "ticker": "MT",
+    "description": "Cryptocurrency Ticker",
+    "website": "https://mytoken.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mytokenio",
+    "telegram": "https://t.me/mytoken_en",
+    "reddit": "https://www.reddit.com/user/MyToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

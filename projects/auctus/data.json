@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "auctus",
+    "name": "Auctus",
+    "ticker": "AUC",
+    "description": "Smart contract-powered retirement planning",
+    "website": "https://auctus.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AuctusProject",
+    "telegram": "https://t.me/AuctusProject",
+    "slack": "https://chat.auctus.org/",
+    "reddit": "https://www.reddit.com/r/ethereum/comments/6pv3vq/introducing_the_auctus_project_a_smart_contracts/",
+    "blog": "https://medium.com/auctus"
+  },
+  "development": {
+    "github_organizations": [
+      "auctusproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc12d099be31567add4e4e4d0d45691c3f58f5663",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

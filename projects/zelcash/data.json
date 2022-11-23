@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "zelcash",
+    "name": "ZelCash",
+    "ticker": "ZEL",
+    "description": "Easy to use, both Light and Fullnode wallet",
+    "website": "https://zel.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zelcash",
+    "telegram": "https://t.me/zelcash",
+    "discord": "https://discord.gg/svDHPud",
+    "slack": "https://discord.gg/svDHPud",
+    "reddit": "https://www.reddit.com/r/ZelCash/"
+  },
+  "development": {
+    "github_organizations": [
+      "zelcash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

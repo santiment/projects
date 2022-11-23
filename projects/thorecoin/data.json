@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "thorecoin",
+    "name": "ThoreCoin ",
+    "ticker": "THR",
+    "description": "A basket of top-traded high-demand coins",
+    "website": "https://www.thorecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Thr_Official",
+    "telegram": "https://t.me/joinchat/Hvav4RB5dJeFxdV_KvG27Q"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa",
+        "decimals": 4
+      }
+    ]
+  }
+}

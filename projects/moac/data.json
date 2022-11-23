@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "moac",
+    "name": "MOAC",
+    "ticker": "MOAC",
+    "description": "A MicroChain for each Smart Contract",
+    "website": "http://moac.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/moac_io",
+    "telegram": "http://t.me/moacblockchain",
+    "reddit": "https://www.reddit.com/r/MOAC/",
+    "blog": "https://medium.com/@moac_io"
+  },
+  "development": {
+    "github_organizations": [
+      "moacchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcbce61316759d807c474441952ce41985bbc5a40",
+        "decimals": 0
+      }
+    ]
+  }
+}

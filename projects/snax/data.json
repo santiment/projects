@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "snax",
+    "name": "Snax",
+    "ticker": "SNAX",
+    "description": "Tokens as rewards for posts",
+    "website": "https://snax.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SnaxTeam",
+    "telegram": "https://t.me/snaxone",
+    "discord": "https://discord.gg/qygxJAZ",
+    "slack": "https://discord.gg/qygxJAZ",
+    "reddit": "https://www.reddit.com/user/SnaxFoundation",
+    "blog": "https://medium.com/@Snax"
+  },
+  "development": {
+    "github_organizations": [
+      "snaxfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

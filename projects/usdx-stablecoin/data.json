@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "usdx-stablecoin",
+    "name": "dForce USDx",
+    "ticker": "USDX",
+    "description": "USDX is a basket of 35% USDC, 35% PAX and 30% TUSD",
+    "website": "https://dforce.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dForcenet",
+    "telegram": "https://t.me/dforcenet",
+    "blog": "https://medium.com/dforcenet"
+  },
+  "development": {
+    "github_organizations": [
+      "dforcenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "wink-tronbet",
+    "name": "Wink",
+    "ticker": "WIN",
+    "description": "TRONbet Sportsbook",
+    "website": "https://wink.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/winK_org",
+    "telegram": "https://t.me/WINk_org_official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

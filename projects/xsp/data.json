@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "xsp",
+    "name": "XSwap",
+    "ticker": "XSP",
+    "description": "Derivatives auto market making exchange",
+    "website": "https://xswap.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xfinance_io",
+    "telegram": "https://t.me/nowex_io",
+    "blog": "https://medium.com/@nowex/xswap-farm-now-is-live-c799861c10eb"
+  },
+  "development": {
+    "github_organizations": [
+      "xfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

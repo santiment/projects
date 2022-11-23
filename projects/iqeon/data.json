@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "iqeon",
+    "name": "IQeon",
+    "ticker": "IQN",
+    "description": "Decentralized Gaming Pvp Platform",
+    "website": "https://iqeon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IQeon",
+    "telegram": "https://t.me/IQeonICO",
+    "slack": "https://join.slack.com/t/iqeon/shared_invite/enQtMzEwMDM0OTc0MzA1LTlmYzNhYzVmOGUzY2JjMWE3M2Y1YzlmOGMyZTU1ZDdmYTJmZTA5ZWFjOWM3YjIwMzgyZjY4ZjRjYzQ1NzQzZGY",
+    "reddit": "https://www.reddit.com/r/IQeon",
+    "blog": "https://medium.com/@iqeon"
+  },
+  "development": {
+    "github_organizations": [
+      "iqeon"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0db8d8b76bc361bacbb72e2c491e06085a97ab31",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

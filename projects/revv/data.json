@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "revv",
+    "name": "REVV",
+    "ticker": "REVV",
+    "description": "Utility token and currency for branded motorsports blockchain games",
+    "website": "https://www.revvmotorsport.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/REVV_Token",
+    "telegram": "https://t.me/REVVCommunity",
+    "discord": "https://discord.gg/sCn3nru",
+    "slack": "https://discord.gg/sCn3nru",
+    "reddit": "https://www.reddit.com/r/REVV/",
+    "blog": "https://medium.com/@animoca_brands"
+  },
+  "development": {
+    "github_organizations": [
+      "animocabrands"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

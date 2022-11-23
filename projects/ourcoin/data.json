@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ourcoin",
+    "name": "Ourcoin",
+    "ticker": "OUR",
+    "description": "The Multi Platform Cryptocurrency",
+    "website": "https://ourplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ourcoin1",
+    "discord": "https://discord.gg/6xQRYm3",
+    "slack": "https://discordapp.com/invite/6xQRYm3"
+  },
+  "development": {
+    "github_organizations": [
+      "ourcoin1"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

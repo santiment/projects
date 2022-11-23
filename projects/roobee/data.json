@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "roobee",
+    "name": "Roobee",
+    "ticker": "ROO",
+    "description": "An investment platform",
+    "website": "https://roobee.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Roobee_invest",
+    "telegram": "https://t.me/roobee_chat",
+    "reddit": "https://www.reddit.com/user/Roobee_io",
+    "blog": "https://medium.com/@roobee_invest"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

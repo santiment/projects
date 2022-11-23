@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bitfex",
+    "name": "Bitfex",
+    "ticker": "BFX",
+    "description": "Crypto Derivatives Exchange",
+    "website": "https://bitfex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitfexDotCom",
+    "telegram": "https://t.me/BitfexDotCom",
+    "reddit": "https://www.reddit.com/r/idapio/",
+    "blog": "https://medium.com/idap-io"
+  },
+  "development": {
+    "github_organizations": [
+      "idap-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdb096cc19b8227e2115855c5b39dcc247470013c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "seed",
+    "name": "Seed",
+    "ticker": "SEED",
+    "description": "Online coordination game",
+    "website": "https://wiki.metagame.wtf/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MetaFam",
+    "discord": "https://discord.gg/VYZPBnx"
+  },
+  "development": {
+    "github_organizations": [
+      "MetaFam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

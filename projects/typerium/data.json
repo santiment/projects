@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "typerium",
+    "name": "Typerium",
+    "ticker": "TYPE",
+    "description": "Content Creation Platform",
+    "website": "https://typerium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Typerium_io",
+    "telegram": "https://t.me/typerium",
+    "reddit": "https://www.reddit.com/user/typerium"
+  },
+  "development": {
+    "github_organizations": [
+      "typerium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeaf61fc150cd5c3bea75744e830d916e60ea5a9f",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

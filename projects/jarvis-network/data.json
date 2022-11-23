@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "jarvis-network",
+    "name": "Jarvis Network",
+    "ticker": "JRT",
+    "description": "A set of financial and identity-management protocols",
+    "website": "https://jarvis.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Jarvis_Network",
+    "telegram": "https://t.me/jarvisnetwork",
+    "discord": "https://discord.gg/gTBjQA5",
+    "slack": "https://discord.gg/gTBjQA5",
+    "blog": "https://medium.com/jarvis-network"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

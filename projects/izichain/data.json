@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "izichain",
+    "name": "IZIChain",
+    "ticker": "IZI",
+    "description": "Capital Connection Platform",
+    "website": "https://www.izichain.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/chain_izi",
+    "telegram": "https://t.me/izichainnetwork",
+    "reddit": "https://www.reddit.com/user/izichain",
+    "blog": "https://medium.com/@izichainnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "izichainlab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf59c8ba19b4d1437d80836b45f1319d9a429eed",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

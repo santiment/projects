@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yfedfinance",
+    "name": "YFED.Finance",
+    "ticker": "YFED",
+    "description": "DEX, staking and governance",
+    "website": "https://yfed.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceYfed",
+    "telegram": "https://t.me/YFEDGROUP",
+    "blog": "https://medium.com/@yfedfinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2DBd330bC9B7f3A822a9173aB52172BdDDcAcE2A",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

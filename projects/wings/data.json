@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "wings",
+    "name": "Wings",
+    "ticker": "WINGS",
+    "description": "Project governance and backing platform",
+    "website": "https://wings.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wingsplatform",
+    "telegram": "https://telegram.me/wingschat",
+    "slack": "https://hi.wings.ai/",
+    "reddit": "https://reddit.com/r/WingsDAO/",
+    "blog": "https://blog.wings.ai/"
+  },
+  "development": {
+    "github_organizations": [
+      "wingsdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

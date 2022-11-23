@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "life-crypto",
+    "name": "Life Crypto",
+    "ticker": "LIFE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

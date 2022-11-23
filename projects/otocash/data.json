@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "otocash",
+    "name": "OTOCASH",
+    "ticker": "OTO",
+    "description": "A Scrypt-PoS Based Cryptocurrency",
+    "website": "https://www.otocash.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/otocashofficial",
+    "telegram": "https://t.me/otocashofficial",
+    "discord": "https://discord.gg/Xunp5q5",
+    "slack": "https://discordapp.com/invite/Xunp5q5",
+    "blog": "https://medium.com/@otocash.io"
+  },
+  "development": {
+    "github_organizations": [
+      "otocash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "indexed-finance",
+    "name": "Indexed Finance",
+    "ticker": "NDX",
+    "description": "Tokenized index pools",
+    "website": "https://indexed.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ndxfi",
+    "discord": "https://discord.com/invite/XW6M6Bs58w",
+    "blog": "https://ndxfi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "indexed-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

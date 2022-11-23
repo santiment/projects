@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rmpl",
+    "name": "RMPL",
+    "ticker": "RMPL",
+    "description": "Randomized elastic supply token",
+    "website": "https://www.rmpl.io/v2/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RmplDefi?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3ARmplDefi&ref_url=https%3A%2F%2Fcoinmarketcap.com%2Fcurrencies%2Frmpl%2F",
+    "telegram": "https://t.me/RMPLTG",
+    "blog": "https://medium.com/@rmplproject"
+  },
+  "development": {
+    "github_organizations": [
+      "rmpldefiteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe17f017475a709de58e976081eb916081ff4c9d5",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "theta-network",
+    "name": "Duplicate",
+    "ticker": "THETA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

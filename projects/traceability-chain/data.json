@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "traceability-chain",
+    "name": "Traceability Chain",
+    "ticker": "TAC",
+    "description": "Solving the problem of information traceability and anti-counterfeiting verification",
+    "website": "https://tacchain.cn"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TraceabilityCh1",
+    "telegram": "https://t.me/tacchain",
+    "slack": "https://weibo.com/u/6468246285",
+    "blog": "https://blog.tacchain.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "traceabilitychain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca694eb79ef355ea0999485d211e68f39ae98493",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

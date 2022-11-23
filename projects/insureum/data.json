@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "insureum",
+    "name": "Insureum",
+    "ticker": "ISR",
+    "description": "Insurance ecosystem",
+    "website": "https://www.insureum.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/insureum_zikto",
+    "telegram": "https://t.me/insureum"
+  },
+  "development": {
+    "github_organizations": [
+      "TeamZikto"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

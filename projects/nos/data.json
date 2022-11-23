@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "nos",
+    "name": "nOS",
+    "ticker": "NOS",
+    "description": "nOS is the Virtual Operating System for a new, transparent internet. Powered by the NEO Smart Economy.",
+    "website": "https://nos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nOSplatform",
+    "telegram": "https://t.me/nOSchat",
+    "discord": "https://discord.gg/C626SM9",
+    "slack": "https://discordapp.com/invite/C626SM9",
+    "reddit": "https://www.reddit.com/r/nOSplatform/",
+    "blog": "https://medium.com/nos-io"
+  },
+  "development": {
+    "github_organizations": [
+      "nos"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

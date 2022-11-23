@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "adx-net",
+    "name": "AdEx",
+    "ticker": "ADX",
+    "description": "Advertising exchange",
+    "website": "https://www.adex.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/adex_network",
+    "telegram": "https://t.me/AdExNetwork",
+    "reddit": "https://www.reddit.com/r/AdEx/",
+    "blog": "https://medium.com/the-adex-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "adexblockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "adex_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

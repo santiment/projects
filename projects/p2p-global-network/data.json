@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "p2p-global-network",
+    "name": "P2P Global Network",
+    "ticker": "P2PX",
+    "description": "Compensate all jobless people",
+    "website": "https://www.p2pglobal.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/networkp2p",
+    "telegram": "https://t.me/joinp2p",
+    "reddit": "https://www.reddit.com/user/P2Pglobalnetworkio/",
+    "blog": "https://medium.com/@p2pglobalnetwork.io"
+  },
+  "development": {
+    "github_organizations": [
+      "p2pxlive"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcecede5a20645eac6ca2032eeeb1063572d63c29",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

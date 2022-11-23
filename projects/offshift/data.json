@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "offshift",
+    "name": "Offshift",
+    "ticker": "XFT",
+    "description": "Cryptographically private offshore storage & DeFi protocol",
+    "website": "https://offshift.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OffshiftXFT",
+    "telegram": "https://t.me/OffshiftXFT",
+    "blog": "https://medium.com/@offshift"
+  },
+  "development": {
+    "github_organizations": [
+      "offshift-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

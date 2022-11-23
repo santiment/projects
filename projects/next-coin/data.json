@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "next-coin",
+    "name": "NEXT",
+    "ticker": "NEXT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

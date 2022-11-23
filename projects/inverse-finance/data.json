@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "inverse-finance",
+    "name": "Inverse Finance",
+    "ticker": "INV",
+    "description": "Dollar-Cost Average your stablecoin yield into your favorite crypto",
+    "website": "https://inverse.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InverseFinance",
+    "telegram": "https://t.me/InverseFinance",
+    "discord": "https://discord.com/invite/YpYJC7R5nv",
+    "blog": "https://medium.com/inversefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "InverseFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

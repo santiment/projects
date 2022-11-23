@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "quantum-resistant-ledger",
+    "name": "Quantum Resistant Ledger",
+    "ticker": "QRL",
+    "description": "Blockchain designed to withstand computational attacks",
+    "website": "https://theqrl.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/qrledger",
+    "slack": "https://qr-ledger.slack.com/",
+    "reddit": "https://www.reddit.com/r/QRL/",
+    "blog": "https://medium.com/quantum-resistant-ledger"
+  },
+  "development": {
+    "github_organizations": [
+      "theqrl"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x697beac28b09e122c4332d163985e8a73121b97f",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

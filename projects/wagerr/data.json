@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "wagerr",
+    "name": "Wagerr",
+    "ticker": "WGR",
+    "description": "The Betting Blockchain",
+    "website": "http://www.wagerr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wagerrx",
+    "reddit": "https://www.reddit.com/r/Wagerr/"
+  },
+  "development": {
+    "github_organizations": [
+      "wagerr"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "astroswap",
+    "name": "AstroSwap",
+    "ticker": "ASTRO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

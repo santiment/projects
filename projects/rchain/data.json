@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rchain",
+    "name": "RChain",
+    "ticker": "REV",
+    "description": "Scalable Blockchain Applications",
+    "website": "https://www.rchain.coop/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rchain_coop/",
+    "telegram": "https://t.me/rchain_coop",
+    "slack": "http://slack.rchain.coop/",
+    "blog": "https://medium.com/rchain-cooperative"
+  },
+  "development": {
+    "github_organizations": [
+      "rchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x168296bb09e24a88805cb9c33356536b980d3fc5",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "neumark",
+    "name": "Neumark",
+    "ticker": "NEU",
+    "description": "A blockchain based equity fundraising platform",
+    "website": "http://neufund.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/neufundorg",
+    "telegram": "https://t.me/neufund",
+    "slack": "https://neufundorg.slack.com/",
+    "reddit": "https://www.reddit.com/r/neufund/",
+    "blog": "https://blog.neufund.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "neufund"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa823e6722006afe99e91c30ff5295052fe6b8e32",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

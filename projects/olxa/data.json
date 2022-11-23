@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "olxa",
+    "name": "OLXA",
+    "ticker": "OLXA",
+    "description": "OLXA Coin is a decentralized cryptocurrency through the Ethereum Blockchain with Advanced Services to the public",
+    "website": "https://www.olxacoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OlxaCoin",
+    "telegram": "https://t.me/OlxaCoin",
+    "reddit": "https://www.reddit.com/user/olxacoin/",
+    "blog": "https://medium.com/@olxacryptoasset"
+  },
+  "development": {
+    "github_organizations": [
+      "olxacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5925f67d2767d937f47141dac24166b469558222",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

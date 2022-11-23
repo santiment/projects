@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "newyork-exchange",
+    "name": "NewYork Exchange",
+    "ticker": "NYE",
+    "description": "Connect the Classic Commodities, Indices and Trades with crypto",
+    "website": "https://www.nyecoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nyecoin1",
+    "telegram": "https://t.me/nyecoin",
+    "reddit": "https://www.reddit.com/user/NYECOIN",
+    "blog": "https://medium.com/@media_38301"
+  },
+  "development": {
+    "github_organizations": [
+      "nyecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

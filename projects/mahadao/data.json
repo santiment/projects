@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mahadao",
+    "name": "MahaDAO",
+    "ticker": "MAHA",
+    "description": "Governance token of MahaDAO, which is releasing ARTH",
+    "website": "https://mahadao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/themahadao",
+    "telegram": "https://t.me/mahadao",
+    "reddit": "https://www.reddit.com/r/mahadao",
+    "blog": "https://medium.com/mahadao"
+  },
+  "development": {
+    "github_organizations": [
+      "mahadao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4d930279552397bba2ee473229f89ec245bc365",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

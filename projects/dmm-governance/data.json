@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dmm-governance",
+    "name": "DMM: Governance",
+    "ticker": "DMG",
+    "description": "DMM Protocol Governance Token",
+    "website": "https://defimoneymarket.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DmmDAO",
+    "telegram": "https://t.me/DmmOfficial",
+    "discord": "https://discord.com/invite/nTSgC9h",
+    "slack": "https://discord.com/invite/nTSgC9h",
+    "reddit": "https://www.reddit.com/r/DMMDAO/",
+    "blog": "https://medium.com/dmm-dao"
+  },
+  "development": {
+    "github_organizations": [
+      "defi-money-market-ecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

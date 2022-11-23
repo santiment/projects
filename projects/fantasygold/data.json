@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "fantasygold",
+    "name": "FantasyGold",
+    "ticker": "FGC",
+    "description": "In-game currency  as  well as a payment processing network",
+    "website": "https://fantasygold.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fantasygoldcoin",
+    "discord": "https://discord.gg/bXDdgnP",
+    "slack": "https://discord.gg/bXDdgnP",
+    "reddit": "https://www.reddit.com/r/fantasygoldcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "fantasygold"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

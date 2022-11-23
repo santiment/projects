@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "dfyn-network",
+    "name": "Dfyn Network",
+    "ticker": "DFYN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

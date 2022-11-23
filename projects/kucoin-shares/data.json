@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "kucoin-shares",
+    "name": "KuCoin Token",
+    "ticker": "KCS",
+    "description": "Exchange shares",
+    "website": "https://www.kucoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kucoincom",
+    "telegram": "https://t.me/joinchat/FMqUpg1_vED9MSDJPPcFkg",
+    "reddit": "https://www.reddit.com/r/kucoin/",
+    "blog": "https://news.kucoin.com/en/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "kucoin_contract",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

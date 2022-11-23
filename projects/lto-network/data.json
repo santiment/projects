@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "lto-network",
+    "name": "LTO Network",
+    "ticker": "LTO",
+    "description": "Hybrid blockchain for decentralized workflows",
+    "website": "https://lto.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ltonetwork",
+    "telegram": "https://t.me/LTOnetwork",
+    "reddit": "https://www.reddit.com/r/livecontracts/",
+    "blog": "https://medium.com/legalthingsone"
+  },
+  "development": {
+    "github_organizations": [
+      "legalthings"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

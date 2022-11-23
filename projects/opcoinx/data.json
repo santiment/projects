@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "opcoinx",
+    "name": "OPCoinX",
+    "ticker": "OPCX",
+    "description": "POS 3.0 multifunctional masternode coin",
+    "website": "https://overpoweredcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OPCoin_official",
+    "telegram": "https://t.me/opcoin",
+    "discord": "https://discord.gg/qMEwu46",
+    "slack": "https://discord.gg/qMEwu46"
+  },
+  "development": {
+    "github_organizations": [
+      "opcoinx"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

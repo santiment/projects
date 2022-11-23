@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gold-bits-coin",
+    "name": "Gold Bits Coin",
+    "ticker": "GBC",
+    "description": "Real gold &amp;amp; Trending crypto",
+    "website": "https://goldbitscoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoldBitsCoin",
+    "telegram": "https://t.me/goldbitscoinchat",
+    "slack": "https://goldbitscoingroup.slack.com/",
+    "reddit": "https://www.reddit.com/user/GoldBitsCoin/",
+    "blog": "https://medium.com/@goldbitscoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc8058d59e208399b76e66da1ec669dd6b1bee2ea",
+        "blockchain": "ethereum",
+        "decimals": 10,
+        "label": "main"
+      }
+    ]
+  }
+}

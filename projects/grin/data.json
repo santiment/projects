@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "grin",
+    "name": "Grin",
+    "ticker": "GRIN",
+    "description": "The private and lightweight mimblewimble blockchain",
+    "website": "https://grin-tech.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/grinMW",
+    "discord": "https://discord.gg/Z3sEfEU",
+    "slack": "https://discord.gg/Z3sEfEU"
+  },
+  "development": {
+    "github_organizations": [
+      "mimblewimble"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

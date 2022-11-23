@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "inmax",
+    "name": "INMAX",
+    "ticker": "INX",
+    "description": "A dependable digital asset exchange and financial system. Comes as a novel cryptocurrency trading platform",
+    "website": "https://inmax.live/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/inmax_exchange",
+    "telegram": "https://t.me/inmax_exchange",
+    "blog": "https://medium.com/@inmax_exchange"
+  },
+  "development": {
+    "github_organizations": [
+      "inmax-exchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x018d7d179350f1bb9853d04982820e37cce13a92",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

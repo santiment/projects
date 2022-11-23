@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-twitter",
+    "name": "Mirrored Twitter",
+    "ticker": "mTWTR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mixbytes",
+    "name": "MixBytes",
+    "ticker": "MXB",
+    "description": "Top-notch blockchain solutions",
+    "website": "https://mixbytes.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MixBytes",
+    "telegram": "https://t.me/MixBytes",
+    "blog": "https://medium.com/mixbytes"
+  },
+  "development": {
+    "github_organizations": [
+      "mixbytes"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

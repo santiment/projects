@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "lukso",
+    "name": "LUKSO",
+    "ticker": "LYXe",
+    "description": "The Blockchain for the New Digital Lifestyle",
+    "website": "https://lukso.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lukso_io",
+    "telegram": "https://t.me/LUKSO",
+    "discord": "https://discord.gg/E2rJPP4",
+    "slack": "https://discord.gg/E2rJPP4",
+    "reddit": "https://www.reddit.com/r/lukso/",
+    "blog": "https://medium.com/lukso"
+  },
+  "development": {
+    "github_organizations": [
+      "lukso-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA8b919680258d369114910511cc87595aec0be6D",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

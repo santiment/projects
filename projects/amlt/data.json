@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "amlt",
+    "name": "AMLT Token",
+    "ticker": "AMLT",
+    "description": "The global standard for enabling transparency for cryptocurrency",
+    "website": "https://amlt.coinfirm.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AMLT_Token",
+    "telegram": "https://t.me/amlt_coinfirm",
+    "blog": "https://blog.coinfirm.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "tokenmarketnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca0e7269600d353f70b14ad118a49575455c0f2f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

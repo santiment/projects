@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "volume-network",
+    "name": "Volume Network",
+    "ticker": "VOL",
+    "description": "Large-scale commercial applications for global use cases",
+    "website": "https://volumenetwork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/network_volume",
+    "telegram": "https://t.me/VolumeNetworkio",
+    "blog": "https://medium.com/@volumenetworkblockchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e2e0a28f6585e895dd646a363bae29b77b88a31",
+        "decimals": 18
+      }
+    ]
+  }
+}

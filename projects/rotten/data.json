@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rotten",
+    "name": "Rotten",
+    "ticker": "ROT",
+    "description": "RottenSwap, a deflationary SushiSwap fork",
+    "website": "https://rottenswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheTimTempleton",
+    "telegram": "https://t.me/rottenswap"
+  },
+  "development": {
+    "github_organizations": [
+      "rottenswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

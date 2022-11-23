@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "a-crabada",
+    "name": "Crabada",
+    "ticker": "CRA",
+    "description": "A PlayandEarn idle game on Avalanche",
+    "website": "https://www.crabada.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/playcrabada",
+    "telegram": "https://t.me/playcrabada",
+    "discord": "https://discord.gg/Djy57Zhau9",
+    "blog": "https://medium.com/@PlayCrabada"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
+        "decimals": 18
+      }
+    ]
+  }
+}

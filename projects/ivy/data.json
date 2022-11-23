@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ivy",
+    "name": "Ivy",
+    "ticker": "IVY",
+    "description": "FIAT & cryptocurrency business transactions with extensive verification",
+    "website": "https://www.ivykoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ivykoin",
+    "telegram": "https://t.me/ivyKoinchat",
+    "reddit": "https://www.reddit.com/r/IvyProject/",
+    "blog": "https://medium.com/@ivykoin"
+  },
+  "development": {
+    "github_organizations": [
+      "ivy-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

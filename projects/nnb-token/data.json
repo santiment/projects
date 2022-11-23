@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "nnb-token",
+    "name": "NNB Token",
+    "ticker": "NNB",
+    "website": "https://www.coinbull.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinBullapp",
+    "telegram": "https://t.me/biniuniu",
+    "reddit": "https://www.reddit.com/user/CoinBullapp"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb66a2131a6b840dd020151f80723caed603efb51",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "zerion",
+    "name": "Zerion",
+    "ticker": "ZRN",
+    "description": "Trustless banking interface",
+    "website": "https://zerion.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/AAHTFg5bribH76EHEq1qdw",
+    "blog": "https://blog.zerion.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "zeriontech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

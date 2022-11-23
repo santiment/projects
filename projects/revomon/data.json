@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "revomon",
+    "name": "Revomon",
+    "ticker": "REVO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

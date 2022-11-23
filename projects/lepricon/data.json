@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "lepricon",
+    "name": "Lepricon",
+    "ticker": "L3P",
+    "description": "Games, DeFi & Prediction Platform",
+    "website": "https://lepricon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lepriconio",
+    "telegram": "https://t.me/lepriconio"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdef1da03061ddd2a5ef6c59220c135dec623116d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

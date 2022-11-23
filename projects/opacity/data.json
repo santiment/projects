@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "opacity",
+    "name": "Opacity",
+    "ticker": "OPCT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

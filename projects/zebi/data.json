@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "zebi",
+    "name": "Zebi",
+    "ticker": "ZCO",
+    "description": "Blockchain based solutions for governments and enterprises",
+    "website": "https://www.zebi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZebidataIndia",
+    "telegram": "https://t.me/ZebiData",
+    "slack": "https://zebicoin.slack.com/join/shared_invite/enQtMzA0NTM3OTQ0Mjg4LWVlNzRjMjVhNGVkNzNkNGMwYzU4Mzk3YWE4M2ZiMjc1YmU5ODdhYjEyN2U1YWQxMmQ5ZGQ0YzgwMmI0YjlhNWE",
+    "reddit": "https://www.reddit.com/user/ZebiData/",
+    "blog": "https://medium.com/@Zebidata"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2008e3057bd734e10ad13c9eae45ff132abc1722",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

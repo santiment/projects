@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "titanswap",
+    "name": "TitanSwap",
+    "ticker": "TITAN",
+    "description": "DEX and liquidity pools",
+    "website": "https://titanswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TitanSwaporg",
+    "telegram": "https://t.me/TitanSwap"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

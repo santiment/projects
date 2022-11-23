@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "peony",
+    "name": "Peony",
+    "ticker": "PNY",
+    "description": "Payment Solution for E-Commerce",
+    "website": "https://peony.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PeonyCoin",
+    "telegram": "https://t.me/Peony_Coin_Official",
+    "discord": "https://discord.gg/r2vRTKB"
+  },
+  "development": {
+    "github_organizations": [
+      "PeonyTeam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

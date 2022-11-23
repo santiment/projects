@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "digital-fantasy-sports",
+    "name": "Digital Fantasy Sports",
+    "ticker": "DFS",
+    "description": "ERC20 Gaming Token",
+    "website": "https://www.digitalfantasysports.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dfstoken",
+    "discord": "https://discord.gg/EQVZXZU",
+    "slack": "https://discord.gg/EQVZXZU",
+    "reddit": "https://www.reddit.com/r/dfstoken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcec38306558a31cdbb2a9d6285947c5b44a24f3e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

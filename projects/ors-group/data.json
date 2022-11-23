@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ors-group",
+    "name": "ORS Group",
+    "ticker": "ORS",
+    "description": "Hypersmart contracts",
+    "website": "https://www.orsgroup.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ORS_IT",
+    "telegram": "https://www.telegram.me/orstoken",
+    "blog": "https://medium.com/@ORS_Fabio"
+  },
+  "development": {
+    "github_organizations": [
+      "orsgroup"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xac2e58a06e6265f1cf5084ee58da68e5d75b49ca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

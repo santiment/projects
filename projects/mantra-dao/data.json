@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "mantra-dao",
+    "name": "MANTRA",
+    "ticker": "OM",
+    "description": "A community-governed DeFi platform",
+    "website": "https://www.mantra.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MANTRAOMniverse",
+    "telegram": "https://t.me/MANTRA_OMniverse",
+    "blog": "https://medium.com/@mantradao"
+  },
+  "development": {
+    "github_organizations": [
+      "Mantradao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "mantradao_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

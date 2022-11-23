@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "win-win",
+    "name": "win.win",
+    "ticker": "TWINS",
+    "description": "Decentralized exchange platform",
+    "website": "https://win.win/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TWINS_Coin",
+    "discord": "https://discord.gg/zZbnYKV",
+    "slack": "https://discordapp.com/invite/zZbnYKV"
+  },
+  "development": {
+    "github_organizations": [
+      "newcapital"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

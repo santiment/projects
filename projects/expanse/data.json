@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "expanse",
+    "name": "Expanse",
+    "ticker": "EXP",
+    "description": "dApp development organization",
+    "website": "http://www.expanse.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/expanseofficial",
+    "blog": "https://blog.expanse.tech/"
+  },
+  "development": {
+    "github_organizations": [
+      "expanse-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

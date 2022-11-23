@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "wing",
+    "name": "Wing",
+    "ticker": "WING",
+    "description": "Cross-chain DeFi lending platform",
+    "website": "https://wing.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Wing_Finance",
+    "telegram": "https://t.me/WingDao",
+    "blog": "https://medium.com/wingfinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

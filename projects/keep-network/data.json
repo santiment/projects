@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "keep-network",
+    "name": "Keep Network",
+    "ticker": "KEEP",
+    "description": "Autonomous private data on public blockchains",
+    "website": "https://keep.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/keep_project",
+    "telegram": "https://t.me/KeepNetworkOfficial/",
+    "discord": "https://discord.gg/wYezN7v",
+    "slack": "https://discordapp.com/invite/wYezN7v",
+    "reddit": "https://www.reddit.com/r/KeepNetwork/",
+    "blog": "https://blog.keep.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "keep-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

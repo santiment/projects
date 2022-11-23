@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "credit-tag-chain",
+    "name": "Credit Tag Chain",
+    "ticker": "CTC",
+    "description": "A credit asset value network",
+    "website": "https://www.credittag.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CreditTagChain",
+    "telegram": "https://t.me/credittag",
+    "reddit": "https://www.reddit.com/r/CreditTagChain/",
+    "blog": "https://medium.com/@CreditTagChain"
+  },
+  "development": {
+    "github_organizations": [
+      "credittag"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

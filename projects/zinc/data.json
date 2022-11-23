@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "zinc",
+    "name": "ZINC",
+    "ticker": "ZINC",
+    "description": "The world’s first careers ledger &amp;amp; anonymous hiring network",
+    "website": "https://zinc.work/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zinc_work",
+    "telegram": "https://t.me/zinc_work",
+    "reddit": "https://www.reddit.com/r/R_Block/",
+    "blog": "https://medium.com/zinc_work"
+  },
+  "development": {
+    "github_organizations": [
+      "zincwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4aac461c86abfa71e9d00d9a2cde8d74e4e1aeea",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

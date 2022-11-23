@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "instadapp",
+    "name": "InstaDApp",
+    "ticker": "IDA",
+    "website": "https://instadapp.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/instadapp",
+    "telegram": "https://t.me/instadapp",
+    "discord": "https://discord.gg/83vvrnY",
+    "slack": "https://discord.gg/83vvrnY",
+    "blog": "https://medium.com/instadapp"
+  },
+  "development": {
+    "github_organizations": [
+      "instadapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

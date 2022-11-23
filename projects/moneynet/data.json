@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "moneynet",
+    "name": "Moneynet",
+    "ticker": "MNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

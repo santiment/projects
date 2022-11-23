@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "gemma-extending-tech",
+    "name": "Gemma Extending Tech",
+    "ticker": "GXT",
+    "description": "Decentralized big data platform",
+    "website": "https://gemmanetwork.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GXT25075644",
+    "telegram": "https://t.me/gxtglobal_official",
+    "discord": "https://discord.gg/aJRMSKgN",
+    "reddit": "https://www.reddit.com/user/gxt_global_notice",
+    "blog": "https://medium.com/@gxtglobal"
+  },
+  "development": {
+    "github_organizations": [
+      "gxtmg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4674672bcddda2ea5300f5207e1158185c944bc0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

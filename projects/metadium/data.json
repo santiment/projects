@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "metadium",
+    "name": "Metadium",
+    "ticker": "META",
+    "description": "Solves the issue of on-line trust identity",
+    "website": "http://metadium.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/metadium",
+    "telegram": "https://t.me/MetadiumOfficial",
+    "reddit": "https://www.reddit.com/r/metadiumprotocol",
+    "blog": "https://medium.com/@Metadium"
+  },
+  "development": {
+    "github_organizations": [
+      "metadium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

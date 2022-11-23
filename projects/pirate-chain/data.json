@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "pirate-chain",
+    "name": "Pirate Chain",
+    "ticker": "ARRR",
+    "description": "The Foolproof Privacy Coin",
+    "website": "https://pirate.black/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PirateChain",
+    "telegram": "https://t.me/piratechain",
+    "discord": "https://discord.gg/53M27QD",
+    "slack": "https://discordapp.com/invite/53M27QD",
+    "reddit": "https://www.reddit.com/r/PirateChain/",
+    "blog": "https://medium.com/piratechain"
+  },
+  "development": {
+    "github_organizations": [
+      "PirateNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

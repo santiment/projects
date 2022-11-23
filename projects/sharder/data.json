@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sharder",
+    "name": "Sharder",
+    "ticker": "SS",
+    "description": "Cross-chain distributed storage protocol",
+    "website": "https://sharder.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SharderChain",
+    "telegram": "https://t.me/sharder_talk",
+    "reddit": "https://www.reddit.com/r/Sharder/",
+    "blog": "https://medium.com/@SharderChain"
+  },
+  "development": {
+    "github_organizations": [
+      "sharders"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

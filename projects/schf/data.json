@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "schf",
+    "name": "Synth sCHF",
+    "ticker": "sCHF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

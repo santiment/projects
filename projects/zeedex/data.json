@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zeedex",
+    "name": "Zeedex",
+    "ticker": "ZDEX",
+    "description": "Native token for Zeedex Exchange",
+    "website": "https://zeedex.io/"
+  },
+  "social": {
+    "twitter": "https://t.me/zeedexio",
+    "telegram": "https://t.me/zeedexio"
+  },
+  "development": {
+    "github_organizations": [
+      "zeedexio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

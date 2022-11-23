@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ecoreal-estate",
+    "name": "Ecoreal Estate",
+    "ticker": "ECOREAL",
+    "description": "Real Estate Investments",
+    "website": "https://ecoreal.estate/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EcorealT",
+    "telegram": "https://t.me/ecorealtoken",
+    "reddit": "https://www.reddit.com/user/ecoreal"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb052f8a33d8bb068414eade06af6955199f9f010",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

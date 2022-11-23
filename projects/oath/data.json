@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "oath",
+    "name": "OATH Protocol",
+    "ticker": "OATH",
+    "description": "Public chain-agnostic protocol",
+    "website": "https://oaths.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OathProtocol",
+    "telegram": "https://t.me/oathsio",
+    "reddit": "https://www.reddit.com/user/oathprotocol/",
+    "blog": "https://medium.com/@oathprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "oathsio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x19c9872640ec38c2cf36c0f04d1365ef067869b3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

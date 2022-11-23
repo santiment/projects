@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zeusshield",
+    "name": "Zeusshield",
+    "ticker": "ZSC",
+    "description": "A blockchain AI insurance solution",
+    "website": "https://zsc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zeusshield",
+    "slack": "https://zeusshield.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "zeus-shield"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

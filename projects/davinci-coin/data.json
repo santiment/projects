@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "davinci-coin",
+    "name": "Davinci Coin",
+    "ticker": "DAC",
+    "website": "https://davinci.vision/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DavinciFoundat1",
+    "telegram": "https://t.me/davincifoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "davinciproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaad54c9f27b876d2538455dda69207279ff673a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

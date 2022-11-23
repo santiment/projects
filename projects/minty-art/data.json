@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "minty-art",
+    "name": "Minty Art",
+    "ticker": "MINTY",
+    "description": "Art funding and trading",
+    "website": "https://minty.art/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/minty_nft",
+    "discord": "https://discord.com/invite/MFMaNuAd"
+  },
+  "development": {
+    "github_organizations": [
+      "arkadia84"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6c6920327b33f8eec26786c7462c5f4098d47e3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

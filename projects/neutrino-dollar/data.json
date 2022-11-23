@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "neutrino-dollar",
+    "name": "Neutrino USD",
+    "ticker": "USDN",
+    "description": "Waves-backed token pegged to US dollar",
+    "website": "https://beta.neutrino.at/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/neutrino_proto",
+    "telegram": "https://t.me/neutrino_protocol_group",
+    "blog": "https://medium.com/@neutrinoteam"
+  },
+  "development": {
+    "github_organizations": [
+      "ventuary-lab"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

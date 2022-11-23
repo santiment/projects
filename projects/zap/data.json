@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "zap",
+    "name": "Zap",
+    "ticker": "ZAP",
+    "description": "Bonding Curve Smart Contract Oracle Platform",
+    "website": "https://www.zap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZapProtocol",
+    "telegram": "https://t.me/ZapStore",
+    "reddit": "https://www.reddit.com/r/ZapStore/",
+    "blog": "https://medium.com/the-zap-project"
+  },
+  "development": {
+    "github_organizations": [
+      "zapproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

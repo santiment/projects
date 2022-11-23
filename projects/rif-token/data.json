@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "rif-token",
+    "name": "RSK Infrastructure Framework",
+    "ticker": "RIF",
+    "description": "Open blockchain infrastructure services",
+    "website": "https://www.rifos.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rif_os",
+    "telegram": "https://t.me/rif_os",
+    "reddit": "https://www.reddit.com/r/rifos",
+    "blog": "https://www.rifos.org/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "riflabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

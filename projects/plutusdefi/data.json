@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "plutusdefi",
+    "name": "PlutusDeFi",
+    "ticker": "PLT",
+    "description": "Lending with privacy",
+    "website": "https://plutusdefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/plutusdefi",
+    "telegram": "https://t.me/plutusdefi",
+    "blog": "https://medium.com/plutusdefi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9fbfed658919a896b5dc7b00456ce22d780f9b65",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "insure",
+    "name": "inSure DeFi",
+    "ticker": "SURE",
+    "description": "Crypto Insurance Ecosystem",
+    "website": "https://insuretoken.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsureToken",
+    "telegram": "https://t.me/insuretoken"
+  },
+  "development": {
+    "github_organizations": [
+      "inSureToken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

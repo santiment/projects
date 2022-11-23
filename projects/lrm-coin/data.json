@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "lrm-coin",
+    "name": "LRM Coin",
+    "ticker": "LRM",
+    "description": "A method of payment for medical services, crypto-currency based on proof of stake (POS) and masternodes",
+    "website": "http://lrmcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lrmcoin",
+    "telegram": "https://t.me/lrmcoins",
+    "discord": "https://discord.gg/tEaKhfU",
+    "slack": "https://discord.gg/tEaKhfU"
+  },
+  "development": {
+    "github_organizations": [
+      "lrmproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "kava-swap",
+    "name": "Kava Swap",
+    "ticker": "SWP",
+    "description": "A Liquidity Hub bridging DeFi, Blockchains, and Financial Services",
+    "website": "https://www.kava.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kava_swap",
+    "telegram": "https://t.me/KavaSwap",
+    "reddit": "https://reddit.com/r/kava_platform",
+    "blog": "https://medium.com/kava-labs/"
+  },
+  "development": {
+    "github_organizations": [
+      "kava-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

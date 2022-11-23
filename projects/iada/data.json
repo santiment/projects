@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "iada",
+    "name": "Synth iADA",
+    "ticker": "iADA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a8079c7149b8a1611e5c5d978dca3be16545f83",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

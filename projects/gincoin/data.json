@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "gincoin",
+    "name": "GINcoin",
+    "ticker": "GIN",
+    "description": "One-click GINcoin masternode setup",
+    "website": "https://gincoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gincoin_crypto",
+    "telegram": "https://t.me/gincoin",
+    "discord": "https://discord.gg/RTgVNxR",
+    "slack": "https://discord.gg/RTgVNxR"
+  },
+  "development": {
+    "github_organizations": [
+      "gincoin-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hashflow",
+    "name": "Hashflow",
+    "ticker": "HFT",
+    "description": "Trade any asset on any chain in seconds",
+    "website": "https://hashflow.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hashflow",
+    "telegram": "https://t.me/hashflownetwork",
+    "discord": "https://discord.com/invite/hashflow",
+    "reddit": "https://reddit.com/r/Hashflow"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb3999f658c0391d94a37f7ff328f3fec942bcadc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

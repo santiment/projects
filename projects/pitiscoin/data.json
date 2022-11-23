@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "pitiscoin",
+    "name": "PitisCoin",
+    "ticker": "PTS",
+    "description": "Malaysia's very own cryptocurrency",
+    "website": "https://pitiscoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pitiscoin"
+  },
+  "development": {
+    "github_organizations": [
+      "pitiscoindev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x540e5fff293f523acd26291b5bc7ac5713991feb",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mindexcoin",
+    "name": "Mindexcoin",
+    "ticker": "MIC",
+    "website": "https://mindexcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mindexcoin",
+    "telegram": "https://t.me/mindexcoin",
+    "blog": "https://medium.com/mindexcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "mindexcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

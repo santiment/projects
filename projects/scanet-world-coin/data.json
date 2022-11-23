@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "scanet-world-coin",
+    "name": "Scanet World Coin",
+    "ticker": "SWC",
+    "description": "Scanetchain is the First AR dApp based on NEM Platform Developed for Blockchain Commercialization",
+    "website": "https://www.scanetchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Scanetchain_SWC",
+    "telegram": "http://t.me/scanetchain",
+    "slack": "https://open.kakao.com/o/gidkLYQ"
+  },
+  "development": {
+    "github_organizations": [
+      "scanetchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

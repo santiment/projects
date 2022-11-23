@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ring-x-platform",
+    "name": "RING X PLATFORM",
+    "ticker": "RINGX",
+    "description": "Loyalty points and air miles marketplace",
+    "website": "http://ringx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlatformRing",
+    "telegram": "https://t.me/ringplat",
+    "blog": "https://medium.com/@ringplatform"
+  },
+  "development": {
+    "github_organizations": [
+      "ringxplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7f86c782ec802ac402e0369d2e6d500256f7abc5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

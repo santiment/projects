@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "eight-hours",
+    "name": "Eight Hours",
+    "ticker": "EHRT",
+    "description": "Smart non-fungible token ecosystem",
+    "website": "https://www.8hoursfoundation.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VIMworldGlobal",
+    "telegram": "http://t.me/VIMworld",
+    "reddit": "https://www.reddit.com/r/vimworld/",
+    "blog": "https://medium.com/8hours-foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "BlokParty"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

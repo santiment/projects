@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "singularitydao",
+    "name": "SingularityDAO",
+    "ticker": "SDAO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

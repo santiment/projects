@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "igtoken",
+    "name": "IGToken",
+    "ticker": "IG",
+    "description": "An unprecedented prediction market of based decentralization network",
+    "website": "igtoken.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IGToken_net",
+    "telegram": "https://t.me/IGNITEOfficial",
+    "reddit": "https://github.com/IgniteIGT/token-profile"
+  },
+  "development": {
+    "github_organizations": [
+      "igniteigt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a88f04e0c905054d2f33b26bb3a46d7091a039a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

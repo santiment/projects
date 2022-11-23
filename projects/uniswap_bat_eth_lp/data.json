@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_bat_eth_lp",
+    "name": "Uniswap V2: BAT",
+    "ticker": "UNI-V2 BAT/ETH LP",
+    "description": "LP Token for the UNI-V2 BAT-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6909b960dbbe7392d405429eb2b3649752b4838",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

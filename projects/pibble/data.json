@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pibble",
+    "name": "Pibble",
+    "ticker": "PIB",
+    "description": "Blockchain based monetized image ecosystem",
+    "website": "http://pibble.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pibbleio",
+    "telegram": "ttps://t.me/pibbleio_eng",
+    "reddit": "https://www.reddit.com/r/Pibbleio/",
+    "blog": "https://medium.com/pibbleio"
+  },
+  "development": {
+    "github_organizations": [
+      "pibble-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1864ce27e9f7517047933caae530674e8c70b8a7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

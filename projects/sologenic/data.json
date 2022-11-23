@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "sologenic",
+    "name": "Sologenic",
+    "ticker": "SOLO",
+    "description": "Investing and trading of on-demand tokenized assets",
+    "website": "https://www.sologenic.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realSologenic",
+    "telegram": "https://t.me/CoinFieldCHAT",
+    "reddit": "https://www.reddit.com/r/Sologenic/"
+  },
+  "development": {
+    "github_organizations": [
+      "sologenic"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

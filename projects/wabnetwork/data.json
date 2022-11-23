@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "wabnetwork",
+    "name": "WABnetwork",
+    "ticker": "WAB",
+    "description": "Blockchain 5.0",
+    "website": "https://wab.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WABnetwork",
+    "telegram": "https://t.me/WABgroup",
+    "reddit": "https://reddit.com/u/WABnetwork",
+    "blog": "https://medium.com/@WABnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "wabnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4bbbc57af270138ef2ff2c50dbfad684e9e0e604",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "vader-protocol",
+    "name": "Vader Protocol",
+    "ticker": "VADER",
+    "description": "Liquidity protocol",
+    "website": "https://www.vaderprotocol.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VaderProtocol",
+    "telegram": "https://t.me/vaderprotocol",
+    "discord": "https://discord.com/invite/vaderprotocol",
+    "blog": "https://medium.com/@vaderprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "vetherasset"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2602278ee1882889b946eb11dc0e810075650983",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

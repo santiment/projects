@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "piedao-dough-v2",
+    "name": "PieDAO DOUGH v2",
+    "ticker": "DOUGH",
+    "description": "PieDAO governance token",
+    "website": "https://pools.piedao.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PieDAO_DeFi",
+    "telegram": "https://t.me/piedao",
+    "discord": "https://discord.gg/eJTYNUF",
+    "slack": "https://discord.gg/eJTYNUF",
+    "blog": "https://medium.com/piedao"
+  },
+  "development": {
+    "github_organizations": [
+      "pie-dao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "metaverse",
+    "name": "Metaverse ETP",
+    "ticker": "ETP",
+    "description": "Smart properties and digital identities",
+    "website": "https://mvs.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mvs_org",
+    "telegram": "https://t.me/Metaverse_Blockchain",
+    "discord": "https://discord.gg/ubgMRts",
+    "slack": "https://discordapp.com/invite/ubgMRts",
+    "reddit": "https://www.reddit.com/r/Metaverse_Blockchain/",
+    "blog": "http://blog.mvs.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "mvs-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

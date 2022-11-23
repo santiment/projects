@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "uranus",
+    "name": "Uranus",
+    "ticker": "URAC",
+    "description": "Computing Resource Sharing Platform",
+    "website": "https://www.uranus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Uraners",
+    "telegram": "https://t.me/Uraners"
+  },
+  "development": {
+    "github_organizations": [
+      "uranusblockstack"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff8be4b22cedc440591dcb1e641eb2a0dd9d25a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

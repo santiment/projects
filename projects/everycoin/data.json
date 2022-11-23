@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "everycoin",
+    "name": "EveryCoin",
+    "ticker": "EVY",
+    "description": "he Aaron Platform is a new financial platform for people who are excluded from modern finance systems for a long time.  We aim to spread the free financial accounts to all people around the world and allow them to exchange money freely.",
+    "website": "https://www.everycoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AaronJin20",
+    "telegram": "https://t.me/aaron_platform",
+    "reddit": "https://www.reddit.com/user/EveryCoinICO",
+    "blog": "http://blog.everycoin.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "aaron-platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeed3ae7b0f8b5b9bb8c035a9941382b1822671cd",
+        "blockchain": "ethereum",
+        "decimals": 12
+      }
+    ]
+  }
+}

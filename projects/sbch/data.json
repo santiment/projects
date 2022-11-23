@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sbch",
+    "name": "Synth sBCH",
+    "ticker": "sBCH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x36a2422a863d5b950882190ff5433e513413343a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

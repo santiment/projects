@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mixtrust",
+    "name": "MixTrust",
+    "ticker": "MXT",
+    "description": "Synthetic asset issuance protocol ",
+    "website": "https://www.mixtrust.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MixtrustMXT",
+    "telegram": "https://t.me/MixtrustCommunity"
+  },
+  "development": {
+    "github_organizations": [
+      "consenlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6251e725cd45fb1af99354035a414a2c0890b929",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

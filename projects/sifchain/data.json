@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "sifchain",
+    "name": "SifChain",
+    "ticker": "erowan",
+    "description": "Omni-chain DEX",
+    "website": "https://sifchain.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sifchain",
+    "telegram": "https://t.me/sifchain",
+    "blog": "https://medium.com/sifchain-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "Sifchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

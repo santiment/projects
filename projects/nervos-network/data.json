@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "nervos-network",
+    "name": "Nervos Network",
+    "ticker": "CKB",
+    "description": "A suite of scalable and interoperable protocols",
+    "website": "http://nervos.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nervosnetwork",
+    "telegram": "https://t.me/nervosnetwork",
+    "reddit": "https://reddit.com/r/nervosnetwork",
+    "blog": "https://medium.com/nervosnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "nervosnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

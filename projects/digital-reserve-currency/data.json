@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "digital-reserve-currency",
+    "name": "Digital Reserve Currency",
+    "ticker": "DRC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

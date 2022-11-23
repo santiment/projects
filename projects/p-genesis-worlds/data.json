@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "p-genesis-worlds",
+    "name": "Genesis Worlds",
+    "ticker": "GENESIS",
+    "description": "Genesis Worlds metaverse governance token",
+    "website": "https://genesis.game/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gamecredits",
+    "telegram": "https://t.me/gamecreditsglobal",
+    "discord": "https://discord.gg/GjpYfqZj7H",
+    "reddit": "https://reddit.com/r/GameCredits"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x51869836681BcE74a514625c856aFb697a013797",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

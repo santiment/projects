@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dex-ag",
+    "name": "DEX.AG",
+    "ticker": "DXG",
+    "description": "Trade with the best prices from different DEXes",
+    "website": "https://dex.ag/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DEXAG_TokenWire",
+    "discord": "https://discord.gg/UUGrGNG",
+    "slack": "https://discord.gg/UUGrGNG"
+  },
+  "development": {
+    "github_organizations": [
+      "ConcourseOpen"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

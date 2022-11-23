@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "starterra",
+    "name": "StarTerra",
+    "ticker": "STT",
+    "description": "Gamified launchpad for Terra Blockchain",
+    "website": "https://starterra.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StarTerra_io",
+    "telegram": "https://t.me/starterra",
+    "blog": "https://medium.com/@StarTerra"
+  },
+  "development": {
+    "github_organizations": [
+      "starterra"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

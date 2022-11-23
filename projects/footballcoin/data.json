@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "footballcoin",
+    "name": "FootballCoin",
+    "ticker": "XFC",
+    "description": "Digital asset acting as in-game currency. Used in the game to pay the entry fee in the contests; used to purchase blockchain-based cards: football player cards and stadium cards",
+    "website": "https://www.footballcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xfcfootballcoin",
+    "telegram": "https://t.me/joinchat/HIik3wz4MX_r1Qxnc4P0GA"
+  },
+  "development": {
+    "github_organizations": [
+      "multichain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

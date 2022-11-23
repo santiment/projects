@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "pundi-x-nem",
+    "name": "Pundi X NEM",
+    "ticker": "NPXSXEM",
+    "description": "Improving and optimizing POS solution",
+    "website": "https://pundix.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PundiXLabs",
+    "telegram": "https://t.me/Pundix"
+  },
+  "development": {
+    "github_organizations": [
+      "pundix"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

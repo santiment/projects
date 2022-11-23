@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "saitama-inu-new",
+    "name": "Saitama",
+    "ticker": "SAITAMA",
+    "website": "https://saitamatoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WeAreSaitama",
+    "telegram": "https://t.me/SaitamaWorldwide",
+    "discord": "https://discord.com/invite/saitama"
+  },
+  "development": {
+    "github_organizations": [
+      "SaitamaInu"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "smoothy",
+    "name": "Smoothy",
+    "ticker": "SMTY",
+    "description": "Single pool, low gas fees, zero-slippage and maximized LP rewards",
+    "website": "https://smoothy.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/smoothswap",
+    "telegram": "https://t.me/Smoothy_finance",
+    "discord": "https://discord.com/invite/8zFZXtx",
+    "blog": "https://smoothy-finance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

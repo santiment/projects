@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "vice-industry-token",
+    "name": "Vice Industry Token",
+    "ticker": "VIT",
+    "description": "The Revolutionary Adult Cryptocurrency",
+    "website": "https://vicetoken.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ViceToken",
+    "telegram": "https://t.me/viceindustrytoken",
+    "reddit": "https://www.reddit.com/user/viceindustrytoken",
+    "blog": "https://medium.com/viceindustrytoken"
+  },
+  "development": {
+    "github_organizations": [
+      "viceindustrytoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x23b75bc7aaf28e2d6628c3f424b3882f8f072a3c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "1sg",
+    "name": "1SG",
+    "ticker": "1SG",
+    "description": "As a global financial hub, Singapore has looked into unlocking the potential growth of blockchain technology. 1SG seeks to make seamless transactions by pegging one 1SG token to one Singapore dollar",
+    "website": "https://1.sg/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1SG_2018",
+    "telegram": "https://t.me/joinchat/JUIV70vPjggAEFviOuA2pw",
+    "slack": "https://www.weibo.com/u/6866415041",
+    "blog": "https://medium.com/@support_34903"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f72714b35a366285df85886a2ee174601292a17",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

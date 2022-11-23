@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "spiritswap",
+    "name": "SpiritSwap",
+    "ticker": "SPIRIT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yffi-finance",
+    "name": "yffi finance",
+    "ticker": "YFFI",
+    "description": "Alternative YFI Vision",
+    "website": "https://www.yffi.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YFFIFinance",
+    "discord": "https://discord.com/invite/ug78Sxa",
+    "slack": "https://discord.com/invite/ug78Sxa"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

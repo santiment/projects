@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "xsgd",
+    "name": "XSGD",
+    "ticker": "XSGD",
+    "description": "Stablecoin pegged to Singapore Dollar",
+    "website": "https://straitsx.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/straitsx"
+  },
+  "development": {
+    "github_organizations": [
+      "Xfers"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

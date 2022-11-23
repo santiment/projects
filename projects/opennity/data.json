@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "opennity",
+    "name": "Opennity",
+    "ticker": "OPNN",
+    "description": "Community and Referral Economy on Blockchain",
+    "website": "http://www.opennity.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/opennity",
+    "telegram": "https://t.me/Opennity_official",
+    "reddit": "https://www.reddit.com/r/opencommunity/",
+    "blog": "https://medium.com/@opennity"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa829f97373069ee5d23175e4105df8fd49238be7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

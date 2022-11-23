@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "own",
+    "name": "Own",
+    "ticker": "CHX",
+    "description": "A platform that benefits all financial players. The global equity market needs changing. Own is that change. ",
+    "website": "https://weown.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OwnMarket",
+    "telegram": "https://t.me/OwnMarket",
+    "reddit": "https://www.reddit.com/r/chainium/",
+    "blog": "https://medium.com/ownmarket"
+  },
+  "development": {
+    "github_organizations": [
+      "chainium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1460a58096d80a50a2f1f956dda497611fa4f165",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

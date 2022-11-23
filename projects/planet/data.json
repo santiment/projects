@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "planet",
+    "name": "PLANET",
+    "ticker": "PLA",
+    "description": "Invest in esports and companies to promote Japanese's economics",
+    "website": "http://planet-world.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/member_planet",
+    "telegram": "https://t.me/PLANETOFFICIAL"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x307d45afbb7e84f82ef3d251a6bb0f00edf632e4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "freeway-token",
+    "name": "Freeway Token",
+    "ticker": "FWT",
+    "description": "Utility tokens for an asset management platfom",
+    "website": "https://aubit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aubitnetwork",
+    "telegram": "https://t.me/AuBit_Official_Community"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf151980e7a781481709e8195744bf2399fb3cba4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

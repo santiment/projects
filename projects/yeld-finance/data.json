@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "yeld-finance",
+    "name": "Yeld Finance",
+    "ticker": "YELD",
+    "description": "Yield farming",
+    "website": "https://yeld.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yeldf",
+    "telegram": "https://t.me/yeldDiscussion",
+    "discord": "https://discord.gg/z5rDFRb",
+    "slack": "https://discord.gg/z5rDFRb"
+  },
+  "development": {
+    "github_organizations": [
+      "yeld-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

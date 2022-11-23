@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "suterusu",
+    "name": "suterusu",
+    "ticker": "SUTER",
+    "description": "A launchpad for interoperable privacy-preserving blockchains",
+    "website": "https://www.suterusu.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/suterusu_io",
+    "telegram": "https://t.me/suterusu_en",
+    "reddit": "https://www.reddit.com/r/Suterusu/"
+  },
+  "development": {
+    "github_organizations": [
+      "suterusu-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba8c0244fbdeb10f19f6738750daeedf7a5081eb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

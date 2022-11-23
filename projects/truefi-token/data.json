@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "truefi-token",
+    "name": "TrueFi",
+    "ticker": "TRU",
+    "description": "Uncollateralized lending",
+    "website": "https://truefi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustToken",
+    "discord": "https://discord.com/invite/3tMyMqyqDj",
+    "slack": "https://discord.com/invite/3tMyMqyqDj",
+    "blog": "https://medium.com/@trusttokenteam"
+  },
+  "development": {
+    "github_organizations": [
+      "trusttoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

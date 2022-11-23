@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "foam",
+    "name": "FOAM Protocol",
+    "ticker": "FOAM",
+    "description": "A Spatial Protocol for the Ethereum blockchain with Proof of Location",
+    "website": "https://foam.space/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/foamspace",
+    "telegram": "https://t.me/foamspace",
+    "reddit": "https://www.reddit.com/r/foamprotocol/",
+    "blog": "https://blog.foam.space/"
+  },
+  "development": {
+    "github_organizations": [
+      "f-o-a-m"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4946fcea7c692606e8908002e55a582af44ac121",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

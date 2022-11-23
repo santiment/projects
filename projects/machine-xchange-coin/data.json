@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "machine-xchange-coin",
+    "name": "Machine Xchange Coin",
+    "ticker": "MXC",
+    "description": "MXC IoT solutions provide a wide scope of essential data services, measuring everything from air-quality, water purity & even commuter traffic",
+    "website": "https://www.mxc.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MXCfoundation",
+    "telegram": "https://t.me/mxcfoundation",
+    "discord": "http://mxc.news/mxcdiscord",
+    "slack": "http://mxc.news/mxcdiscord",
+    "reddit": "https://www.reddit.com/r/MXCFoundation/",
+    "blog": "https://medium.com/mxcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

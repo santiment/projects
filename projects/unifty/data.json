@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "unifty",
+    "name": "Unifty",
+    "ticker": "NIF",
+    "description": "NFT Creativity with DeFi Economy",
+    "website": "https://www.unifty.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unifty_com",
+    "telegram": "https://t.me/unifty",
+    "discord": "https://discord.com/invite/5ZBTgnAd9s",
+    "blog": "https://uniftyio.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Unifty"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

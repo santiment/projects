@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "medx",
+    "name": "MEDX",
+    "ticker": "MEDX",
+    "description": "MediBloc&amp;#39;s ERC20 token",
+    "website": "https://medibloc.org/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_MediBloc",
+    "telegram": "https://t.me/medibloc",
+    "blog": "https://medium.com/medibloc"
+  },
+  "development": {
+    "github_organizations": [
+      "medibloc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

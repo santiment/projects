@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnsd-finance",
+    "name": "BNSD Finance",
+    "ticker": "BNSD",
+    "description": "BitBns yield farming project",
+    "website": "https://bns.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitbns",
+    "telegram": "https://t.me/Bitbns",
+    "reddit": "https://www.reddit.com/r/Bitbns/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x668dbf100635f593a3847c0bdaf21f0a09380188",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

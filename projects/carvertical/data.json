@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "carvertical",
+    "name": "carVertical",
+    "ticker": "CV",
+    "description": "Blockchain Registry",
+    "website": "https://www.carvertical.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/carVertical_com",
+    "telegram": "https://t.me/carVerticalio",
+    "reddit": "https://www.reddit.com/r/carVertical/",
+    "blog": "https://www.carvertical.com/#blog"
+  },
+  "development": {
+    "github_organizations": [
+      "carvertical"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda6cb58a0d0c01610a29c5a65c303e13e885887c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

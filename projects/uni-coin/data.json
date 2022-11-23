@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "uni-coin",
+    "name": "UNI COIN",
+    "ticker": "UNI",
+    "description": "A Cryptocurrency issued for the purpose of protecting investors",
+    "website": "https://www.uni-c.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UNICOIN_GROUP",
+    "telegram": "https://t.me/unicoingroup"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe6877ea9c28fbdec631ffbc087956d0023a76bf2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

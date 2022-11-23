@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "syncfab",
+    "name": "SyncFab",
+    "ticker": "MFG",
+    "description": "Revolutionizing Hardware Manufacturing with Blockchain",
+    "website": "https://blockchain.syncfab.com/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/syncfab/",
+    "telegram": "https://t.me/syncfab",
+    "slack": "https://open.kakao.com/o/gRFJjFE",
+    "reddit": "https://www.reddit.com/r/syncfab/",
+    "blog": "https://blog.syncfab.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "syncfab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

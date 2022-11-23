@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tratok",
+    "name": "Tratok",
+    "ticker": "TRAT",
+    "description": "Bookings and tourism services",
+    "website": "https://tratok.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TratokT",
+    "telegram": "https://t.me/tratok",
+    "reddit": "https://www.reddit.com/r/TratokProject/"
+  },
+  "development": {
+    "github_organizations": [
+      "tratoktoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0cbc9b02b8628ae08688b5cc8134dc09e36c443b",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}

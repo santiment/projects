@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "safe-haven",
+    "name": "Safe Haven",
+    "ticker": "SHA",
+    "description": "Multiple asset management solutions",
+    "website": "https://safehaven.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SafeHavenio",
+    "telegram": "https://t.me/SafeHavenio",
+    "reddit": "https://www.reddit.com/r/safehavenio/",
+    "blog": "https://medium.com/@safehavenio"
+  },
+  "development": {
+    "github_organizations": [
+      "safehaven-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

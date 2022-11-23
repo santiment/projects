@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "modultrade",
+    "name": "ModulTrade",
+    "ticker": "MTRC",
+    "description": "A smart-contract blockchain based trade ecosystem. It brings together a comprehensive range of services for the full B2B trade cycle",
+    "website": "https://modultrade.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ModulTrade",
+    "telegram": "https://t.me/ModulTradeIO",
+    "slack": "https://modultrade.slack.com/",
+    "reddit": "https://www.reddit.com/user/ModulTrade/",
+    "blog": "https://medium.com/@ModulTrade"
+  },
+  "development": {
+    "github_organizations": [
+      "modultrade"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1e49ff77c355a3e38d6651ce8404af0e48c5395f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

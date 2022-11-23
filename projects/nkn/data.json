@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nkn",
+    "name": "NKN",
+    "ticker": "NKN",
+    "description": "Aiming to rebuild the Internet that will be truly open, decentralized, dynamic, safe, shared and owned by the community",
+    "website": "http://nkn.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NKN_ORG",
+    "telegram": "https://t.me/nknorg",
+    "reddit": "https://www.reddit.com/r/nknblockchain/",
+    "blog": "https://medium.com/nknetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "nknorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

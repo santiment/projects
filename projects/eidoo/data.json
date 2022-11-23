@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "eidoo",
+    "name": "Eidoo",
+    "ticker": "EDO",
+    "description": "Multicurrency wallet and hybrid exchange (discontinued, upgraded to PNT)",
+    "website": "https://eidoo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eidoo_io",
+    "telegram": "https://t.me/joinchat/AAAAAERSsZk99wFzx2v_Kw",
+    "reddit": "https://www.reddit.com/r/eidoo/",
+    "blog": "https://medium.com/eidoo"
+  },
+  "development": {
+    "github_organizations": [
+      "eidoo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xced4e93198734ddaff8492d525bd258d49eb388e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

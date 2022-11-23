@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "hypercash",
+    "name": "HyperCash",
+    "ticker": "HC",
+    "description": "Blockchain switchboard",
+    "website": "https://h.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HcashOfficial",
+    "reddit": "https://www.reddit.com/r/hcash/"
+  },
+  "development": {
+    "github_organizations": [
+      "hcashorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

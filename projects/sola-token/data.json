@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "sola-token",
+    "name": "Sola Token",
+    "ticker": "SOL",
+    "description": "A mix of community and media",
+    "website": "https://sola.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/solaplatform",
+    "telegram": "https://t.me/solaplatform",
+    "blog": "https://medium.com/solaplatform"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f54638b7737193ffd86c19ec51907a7c41755d8",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

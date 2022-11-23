@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "structured",
+    "name": "Structured",
+    "ticker": "STR",
+    "description": "Convert your Ether into fixed income structured products",
+    "website": "https://www.structuredeth.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StructuredEth"
+  },
+  "development": {
+    "github_organizations": [
+      "ProofSuite"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

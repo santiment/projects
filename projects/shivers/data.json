@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "shivers",
+    "name": "Shivers",
+    "ticker": "SHVR",
+    "description": "Blockchain meets the horror genre",
+    "website": "http://shivers.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShiversToken"
+  },
+  "development": {
+    "github_organizations": [
+      "shiverstoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd5f788ca0de8f17cbde1d1e35aa8f005a87fa00b",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

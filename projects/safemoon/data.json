@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "safemoon",
+    "name": "SafeMoon",
+    "ticker": "SAFEMOON",
+    "description": "Auto-generating liquidity protocol / Static farming by holding",
+    "website": "https://safemoon.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/safemoon",
+    "telegram": "https://t.me/SafeMoonv2",
+    "reddit": "https://www.reddit.com/r/SafeMoon/",
+    "blog": "https://safemoon.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "safemoonprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

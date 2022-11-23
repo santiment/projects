@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "phi-token",
+    "name": "PHI Token",
+    "ticker": "PHI",
+    "description": "Platform for Hybrid Investments",
+    "website": "https://www.phitoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PhiToken",
+    "telegram": "https://t.me/joinchat/AecpoEhlgK2yC70FzPp0iA",
+    "slack": "https://phitoken.slack.com/signup",
+    "reddit": "https://www.reddit.com/user/phitokencommunity/",
+    "blog": "https://medium.com/@phitokencommunity"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

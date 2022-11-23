@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "proton-token",
+    "name": "Proton Token",
+    "ticker": "PTT",
+    "description": "Data Intelligent Collaboration Network",
+    "website": "https://www.proton.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/proton_global",
+    "telegram": "https://t.me/ProtonToken"
+  },
+  "development": {
+    "github_organizations": [
+      "protonnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4689a4e169eb39cc9078c0940e21ff1aa8a39b9c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

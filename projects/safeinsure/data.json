@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "safeinsure",
+    "name": "SafeInsure",
+    "ticker": "SINS",
+    "description": "A decentralized insurance marketplace",
+    "website": "https://www.safeinsure.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SafeInsure",
+    "discord": "https://discord.gg/7rDuEwm",
+    "slack": "https://discord.gg/7rDuEwm"
+  },
+  "development": {
+    "github_organizations": [
+      "safeinsure"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

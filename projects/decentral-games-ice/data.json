@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "decentral-games-ice",
+    "name": "Duplicate",
+    "ticker": "ICE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

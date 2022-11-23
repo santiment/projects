@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "meridian-network",
+    "name": "Meridian Network",
+    "ticker": "LOCK",
+    "description": "A token with a staking/deflationary mechanism",
+    "website": "https://meridian-network.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/networkmeridian",
+    "telegram": "https://t.me/meridiannetwork",
+    "discord": "https://discord.com/invite/VtWCdwk",
+    "slack": "https://discord.com/invite/VtWCdwk",
+    "reddit": "https://www.reddit.com/r/meridiannetwork/",
+    "blog": "https://medium.com/@meridiannetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptopinions3"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

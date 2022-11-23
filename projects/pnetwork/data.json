@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "pnetwork",
+    "name": "pNetwork",
+    "ticker": "PNT",
+    "description": "Cross-Chain DeFi Composability (former Eidoo)",
+    "website": "https://p.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pTokens_io",
+    "telegram": "https://t.me/pNetworkDefi",
+    "slack": "https://t.me/pNetworkDefi",
+    "reddit": "https://www.reddit.com/r/pTokens/",
+    "blog": "https://medium.com/@provablethings"
+  },
+  "development": {
+    "github_organizations": [
+      "provable-things"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

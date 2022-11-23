@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "evedo",
+    "name": "Evedo",
+    "ticker": "EVED",
+    "description": "Organizing events",
+    "website": "https://www.evedo.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/evedotoken",
+    "telegram": "https://t.me/evedoco",
+    "reddit": "https://www.reddit.com/user/evedo/",
+    "blog": "https://medium.com/evedo"
+  },
+  "development": {
+    "github_organizations": [
+      "evedo-co"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

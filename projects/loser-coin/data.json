@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "loser-coin",
+    "name": "Loser Coin",
+    "ticker": "LOWB",
+    "description": "No use case coin by two poor guys from China",
+    "website": "https://losercoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/loser_coin",
+    "telegram": "https://t.me/loser_coin_english"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

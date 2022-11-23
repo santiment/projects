@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lucky-block-network",
+    "name": "Lucky Block Network",
+    "ticker": "LBN",
+    "description": "Infrastracture for decentralized gaming applications ",
+    "website": "https://luckyblock.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Luckyblockcom",
+    "telegram": "https://t.me/luckyblockofficial",
+    "reddit": "https://www.reddit.com/r/luckyblockofficial/"
+  },
+  "development": {
+    "github_organizations": [
+      "luckyblockteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9843e5de0f37d1e22c8075e5814e13565fe7c22",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

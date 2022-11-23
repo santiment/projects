@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "omnitude",
+    "name": "Omnitude",
+    "ticker": "ECOM",
+    "description": "Revolutionise eCommerce using blockchain technologies",
+    "website": "https://omnitude.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Omnitudeorg",
+    "telegram": "https://t.me/Omnitudechat",
+    "discord": "https://discord.gg/bmKejMj",
+    "slack": "https://discordapp.com/invite/bmKejMj",
+    "reddit": "https://www.reddit.com/r/Omnitude/",
+    "blog": "https://medium.com/@Omnitude"
+  },
+  "development": {
+    "github_organizations": [
+      "omnitude"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x171d750d42d661b62c277a6b486adb82348c3eca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

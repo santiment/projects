@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "reflect-finance",
+    "name": "reflect.finance",
+    "ticker": "RFI",
+    "description": "Re-imagines the concept of DeFI yield generation",
+    "website": "https://reflect.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ReflectFndtn",
+    "telegram": "https://t.me/reflect_finance",
+    "blog": "https://reflectfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "reflectfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

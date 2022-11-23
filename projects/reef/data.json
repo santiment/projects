@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "reef",
+    "name": "Reef",
+    "ticker": "REEF",
+    "description": "Cross-chain DeFi operating system",
+    "website": "https://reef.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ReefDeFi",
+    "telegram": "https://t.me/reefdefi",
+    "reddit": "https://reddit.com/r/ReefDeFi",
+    "blog": "https://medium.com/@reefdefi"
+  },
+  "development": {
+    "github_organizations": [
+      "reef-defi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfe3e6a25e6b192a42a44ecddcd13796471735acf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

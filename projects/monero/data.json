@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "monero",
+    "name": "Monero",
+    "ticker": "XMR",
+    "description": "Private digital cash",
+    "website": "http://www.monero.cc"
+  },
+  "social": {
+    "twitter": "https://twitter.com/monero",
+    "telegram": "https://telegram.me/bitmonero",
+    "reddit": "https://www.reddit.com/r/Monero/"
+  },
+  "development": {
+    "github_organizations": [
+      "monero-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

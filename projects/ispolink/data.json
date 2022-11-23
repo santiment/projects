@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ispolink",
+    "name": "Ispolink",
+    "ticker": "ISP",
+    "description": "Cross-chain platform for devs",
+    "website": "https://ispolink.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ispolink",
+    "telegram": "https://t.me/ispolink",
+    "blog": "https://medium.com/@ispolink"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

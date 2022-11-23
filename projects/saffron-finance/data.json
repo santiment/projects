@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "saffron-finance",
+    "name": "saffron.finance",
+    "ticker": "SFI",
+    "description": "Asset collateralization platform",
+    "website": "http://saffron.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/saffronfinance_",
+    "telegram": "https://t.me/saffronfinance",
+    "discord": "https://discord.gg/pDXpXKY",
+    "slack": "https://discord.gg/pDXpXKY",
+    "blog": "https://medium.com/saffron-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "saffron-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

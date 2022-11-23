@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "yplutus",
+    "name": "yplutus",
+    "ticker": "YPLT",
+    "description": "AMM Protocol",
+    "website": "https://yplutus.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlutusSwap",
+    "telegram": "https://t.me/yplt_official",
+    "discord": "https://discord.gg/4mN838V",
+    "slack": "https://discord.gg/4mN838V",
+    "blog": "https://medium.com/@yplt"
+  },
+  "development": {
+    "github_organizations": [
+      "PlutusSwap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x40E7705254494a7E61D5b7c86da50225DDc3DaAE",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

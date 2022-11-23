@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "filecoin",
+    "name": "Delete",
+    "ticker": "FIL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

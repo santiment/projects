@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "noah-coin",
+    "name": "Noah Coin",
+    "ticker": "NOAH",
+    "description": "Creating a borderless world",
+    "website": "https://noahcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NOAHCOIN_Proj",
+    "blog": "https://noahcoin.org/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "noahfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x58a4884182d9e835597f405e5f258290e46ae7c2",
+        "decimals": 18
+      }
+    ]
+  }
+}

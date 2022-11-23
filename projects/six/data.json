@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "six",
+    "name": "SIX",
+    "ticker": "SIX",
+    "description": "Single Wallet for all digital assets",
+    "website": "https://six.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/theSIXnetwork",
+    "telegram": "https://t.me/SIXNetwork",
+    "slack": "https://open.kakao.com/o/gQNRT5K",
+    "reddit": "https://www.reddit.com/r/sixnetwork/",
+    "blog": "https://medium.com/six-network?&"
+  },
+  "development": {
+    "github_organizations": [
+      "thesixnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

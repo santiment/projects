@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bitpanda-ecosystem-token",
+    "name": "Bitpanda",
+    "ticker": "BEST",
+    "description": "Straight-forward trading platform",
+    "website": "https://www.bitpanda.com/en/best"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitpanda",
+    "telegram": "https://t.me/bitpanda_announcements",
+    "reddit": "https://www.reddit.com/r/bitpanda/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

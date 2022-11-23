@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "mindol",
+    "name": "MINDOL",
+    "ticker": "MIN",
+    "description": "The MINDOL project aims to support content creation across anime, cinema, games, manga, and music, with “Cool Japan” as the unifying theme",
+    "website": "https://mindol.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MINDOLPROJECT",
+    "telegram": "https://t.me/MINDOLGROUP"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d64d850c8368008afb39224e92ad0dceff3cf38",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

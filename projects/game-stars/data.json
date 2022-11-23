@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "game-stars",
+    "name": "Game Stars",
+    "ticker": "GST",
+    "description": "A multifunctional blockchain-based gaming platform. Get access to fair tournaments and payouts.",
+    "website": "https://gamestars.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GameStarsCoin",
+    "telegram": "https://t.me/GameStarsChat",
+    "blog": "https://medium.com/@gamestars"
+  },
+  "development": {
+    "github_organizations": [
+      "gamestarstoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x67a9099f0008c35c61c00042cd9fb03684451097",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

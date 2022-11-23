@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "props",
+    "name": "Props",
+    "ticker": "PROPS",
+    "description": "Turning loyalty points into financial assets",
+    "website": "https://propsproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/propsproject",
+    "telegram": "https://telegram.me/propsproject"
+  },
+  "development": {
+    "github_organizations": [
+      "propsproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6fe56c0bcdd471359019fcbc48863d6c3e9d4f41",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

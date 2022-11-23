@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "electrum-dark-eld",
+    "name": "Electrum Dark",
+    "ticker": "ELD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

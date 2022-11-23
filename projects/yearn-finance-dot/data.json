@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yearn-finance-dot",
+    "name": "Yearn Finance DOT",
+    "ticker": "YFDOT",
+    "description": "Yield Farming Platform",
+    "website": "https://yfdot.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Yfdotfinance",
+    "telegram": "https://t.me/YFDOT_Finance",
+    "blog": "https://medium.com/@YFdotFinance"
+  },
+  "development": {
+    "github_organizations": [
+      "YFDOT"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e6539edc3b76f1e21b71d214527faba875f70f3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

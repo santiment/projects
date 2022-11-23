@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "pmeer",
+    "name": "Pmeer",
+    "ticker": "PMEER",
+    "description": "Next generation-public chain based on Block DAG",
+    "website": "https://t.co/jIZ0PiXLll?amp=1"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QitmeerNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "qitmeer"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x58c69ed6cd6887c0225d1fccecc055127843c69b",
+        "decimals": 9
+      }
+    ]
+  }
+}

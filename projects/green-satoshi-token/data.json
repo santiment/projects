@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "green-satoshi-token",
+    "name": "Green Satoshi Token [on Solana]",
+    "ticker": "GST",
+    "description": "Game token of STEPN",
+    "website": "https://stepn.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Stepnofficial",
+    "telegram": "https://t.me/stepnofficial",
+    "discord": "https://discord.com/invite/stepn",
+    "reddit": "https://reddit.com/r/StepN/",
+    "blog": "https://stepnofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

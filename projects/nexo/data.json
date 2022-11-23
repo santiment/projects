@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nexo",
+    "name": "Nexo",
+    "ticker": "NEXO",
+    "description": "The World’s First Instant Crypto Overdrafts",
+    "website": "http://nexo.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NexoFinance",
+    "telegram": "https://t.me/nexofinance",
+    "reddit": "https://www.reddit.com/r/Nexo/",
+    "blog": "https://medium.com/nexo"
+  },
+  "development": {
+    "github_organizations": [
+      "nexofinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

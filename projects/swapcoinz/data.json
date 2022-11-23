@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "swapcoinz",
+    "name": "Swapcoinz",
+    "ticker": "SPAZ",
+    "description": "A playground solution for African",
+    "website": "https://swapcoinz.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/swapcoinz",
+    "telegram": "https://t.me/swapcoinzgroup",
+    "reddit": "https://www.reddit.com/user/swapcoinz/"
+  },
+  "development": {
+    "github_organizations": [
+      "swapcoinz-spz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f9bfe5b6a5c3fea8c64ad41a5cf6f60ec4aa47c",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

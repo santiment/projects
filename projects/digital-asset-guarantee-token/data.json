@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "digital-asset-guarantee-token",
+    "name": "Digital Asset Guarantee Token",
+    "ticker": "DAGT",
+    "description": "A decentralized crypto loan platform",
+    "website": "https://www.dagt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DAGTofficial",
+    "telegram": "https://t.me/DAGTofficial",
+    "reddit": "https://www.reddit.com/user/DAGTofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "granddream"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x56D1aE30c97288DA4B58BC39F026091778e4E316",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

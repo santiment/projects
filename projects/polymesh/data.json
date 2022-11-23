@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "polymesh",
+    "name": "Polymesh",
+    "ticker": "POLYX",
+    "description": "The security token blockchain making tokenization accessible for institutions",
+    "website": "https://polymesh.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolymeshNetwork",
+    "discord": "https://discord.com/invite/Z9MAUtYaG7",
+    "reddit": "https://www.reddit.com/r/PolymathNetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "PolymeshAssociation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

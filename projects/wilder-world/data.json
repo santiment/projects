@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "wilder-world",
+    "name": "Wilder World",
+    "ticker": "WILD",
+    "description": "Immersive 5D Metaverse",
+    "website": "https://www.wilderworld.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WilderWorld",
+    "telegram": "https://t.me/wilder_world",
+    "blog": "https://medium.com/wilder-world"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

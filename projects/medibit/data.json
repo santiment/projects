@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "medibit",
+    "name": "MediBit",
+    "ticker": "MEDIBIT",
+    "description": "A globalized healthcare platform that also acts as a central hub for medical data exchange between insurance companies, veteran hospitals, government agencies, pharmacy networks, general hospitals, research organizations, and medical blockchains",
+    "website": "https://www.medibit.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialMedibit",
+    "telegram": "https://t.me/MediBit_EN"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x737fa0372c8d001904ae6acaf0552d4015f9c947",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

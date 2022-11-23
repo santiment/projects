@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wolves-of-wall-street",
+    "name": "Wolves of Wall Street",
+    "ticker": "WOWS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

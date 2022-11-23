@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "blocknet",
+    "name": "Blocknet",
+    "ticker": "BLOCK",
+    "description": "A 2nd layer blockchain interoperability protocol",
+    "website": "http://blocknet.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/The_Blocknet",
+    "telegram": "https://t.me/Blocknet",
+    "discord": "https://discord.gg/2e6s7H8",
+    "slack": "https://discord.gg/2e6s7H8",
+    "reddit": "https://www.reddit.com/r/theblocknet/",
+    "blog": "https://medium.com/@theblocknetchannel"
+  },
+  "development": {
+    "github_organizations": [
+      "blocknetdx"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

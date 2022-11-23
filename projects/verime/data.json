@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "verime",
+    "name": "VeriME",
+    "ticker": "VME",
+    "description": "Verification Authentication Protection",
+    "website": "https://www.verime.mobi/home"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VeriME_mobi",
+    "telegram": "https://t.me/joinchat/Gizz-A7awH81i3pEGgB1dw",
+    "slack": "https://verimemobi.slack.com/",
+    "reddit": "https://www.reddit.com/r/Verime/",
+    "blog": "https://medium.com/@verime.mobi"
+  },
+  "development": {
+    "github_organizations": [
+      "verime"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc343f099d3e41aa5c1b59470450e21e92e2d840b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

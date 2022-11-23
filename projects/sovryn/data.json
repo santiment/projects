@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "sovryn",
+    "name": "Sovryn",
+    "ticker": "SOV",
+    "description": "DeFi for Bitcoin",
+    "website": "https://sovryn.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SovrynBTC",
+    "telegram": "https://t.me/SovrynBitcoin",
+    "discord": "https://discord.gg/J22WS6z",
+    "reddit": "https://reddit.com/r/Sovryn"
+  },
+  "development": {
+    "github_organizations": [
+      "DistributedCollective"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

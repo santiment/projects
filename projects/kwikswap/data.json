@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kwikswap",
+    "name": "Kwikswap Protocol",
+    "ticker": "KWIK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "pitbull",
+    "name": "Pitbull",
+    "ticker": "PIT",
+    "description": "A community-driven meme token on the Binance Smart Chain",
+    "website": "http://pitbull.community/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BscPitbull",
+    "telegram": "https://telegram.me/Pitbull_BSC",
+    "discord": "https://discord.gg/yn69GXGZS5,",
+    "reddit": "https://www.reddit.com/r/pitbulltoken/",
+    "blog": "https://medium.com/pit-bsc-community"
+  },
+  "development": {
+    "github_organizations": [
+      "pitbullBSC"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

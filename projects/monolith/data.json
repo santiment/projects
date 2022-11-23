@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "monolith",
+    "name": "Monolith",
+    "ticker": "TKN",
+    "description": "A platform for the post-bank era",
+    "website": "https://monolith.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/monolith_web3",
+    "telegram": "http://t.me/TokenCard",
+    "discord": "https://discord.gg/YrrFpFd",
+    "slack": "https://discordapp.com/invite/YrrFpFd",
+    "reddit": "https://www.reddit.com/r/Monolith_Web3/",
+    "blog": "https://medium.com/@Monolith"
+  },
+  "development": {
+    "github_organizations": [
+      "tokencard"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaaf91d9b90df800df4f55c205fd6989c977e73a",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

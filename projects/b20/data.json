@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "b20",
+    "name": "B20",
+    "ticker": "B20",
+    "description": "Collectibles & NFTs",
+    "website": "https://b20.whalestreet.xyz/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

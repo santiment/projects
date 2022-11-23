@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "marshal-lion-group-coin",
+    "name": "Marshal Lion Group Coin",
+    "ticker": "MLGC",
+    "description": "Tokenizing the non-bank lending market",
+    "website": "https://mlgc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/marshal_lion",
+    "telegram": "https://t.me/marshal_lion",
+    "reddit": "https://www.reddit.com/user/MarshalLionGroup",
+    "blog": "https://medium.com/@marshal_lion"
+  },
+  "development": {
+    "github_organizations": [
+      "MarshalLionGroupcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4534492034a2cd3eab34c8f357cd139c95b09f52",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

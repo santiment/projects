@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "axe",
+    "name": "AXE",
+    "ticker": "AXE",
+    "description": "More decentralized version of Dash",
+    "website": "https://axerunners.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/axerunners",
+    "discord": "https://discord.gg/BqhteaU",
+    "slack": "https://discordapp.com/invite/BqhteaU",
+    "reddit": "https://www.reddit.com/r/AXErunners/"
+  },
+  "development": {
+    "github_organizations": [
+      "axerunners"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

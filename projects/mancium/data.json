@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mancium",
+    "name": "Mancium",
+    "ticker": "MANC",
+    "description": "A global gaming enterprise within the Mancium blockchain ecosystem",
+    "website": "http://www.mancium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/manciumtoken",
+    "telegram": "https://t.me/mancium",
+    "discord": "https://discord.com/invite/RkggcR6GYq",
+    "reddit": "https://medium.com/@mancium/mancium-ceb581b207b2",
+    "blog": "https://medium.com/@mancium/mancium-ceb581b207b2"
+  },
+  "development": {
+    "github_organizations": [
+      "mancium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe0c05ec44775e4ad62cdc2eecdf337aa7a143363",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

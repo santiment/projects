@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "nexty",
+    "name": "Nexty",
+    "ticker": "NTY",
+    "description": "A Fintech ecosystem which helps to raise funds",
+    "website": "https://nexty.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nextyio",
+    "telegram": "https://t.me/nextyio",
+    "blog": "https://medium.com/@nextyio"
+  },
+  "development": {
+    "github_organizations": [
+      "nextyio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

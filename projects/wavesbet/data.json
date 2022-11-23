@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "wavesbet",
+    "name": "Wavesbet",
+    "ticker": "WBET",
+    "description": "A betting platform",
+    "website": "https://wavesbet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Wavesbet",
+    "telegram": "https://t.me/Wavesbets",
+    "blog": "https://medium.com/@wavesbet/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

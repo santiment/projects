@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "nerva",
+    "name": "Nerva",
+    "ticker": "XNV",
+    "description": "Untraceable and secure cryptocurrency aiming to be GPU and ASIC resistant via the new Cryptonight Adaptive POW algorithm. With users and transfer amounts hidden from the public",
+    "website": "https://getnerva.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NervaCurrency",
+    "telegram": "https://t.me/NervaXNV",
+    "discord": "https://discord.gg/jsdbEns",
+    "slack": "https://discord.gg/jsdbEns",
+    "reddit": "https://www.reddit.com/r/Nerva/"
+  },
+  "development": {
+    "github_organizations": [
+      "angrywasp"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

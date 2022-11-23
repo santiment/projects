@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "star-link",
+    "name": "StarLink",
+    "ticker": "STARL",
+    "description": "Future of virtual real estate and gaming",
+    "website": "https://www.starltoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/starlinketh",
+    "telegram": "https://t.me/starlinkofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

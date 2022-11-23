@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "xrp",
+    "name": "delete",
+    "ticker": "XRP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

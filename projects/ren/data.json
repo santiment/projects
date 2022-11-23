@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "ren",
+    "name": "Ren",
+    "ticker": "REN",
+    "description": "Transfer any token between any blockchain",
+    "website": "http://renproject.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/renprotocol",
+    "telegram": "https://t.me/renproject",
+    "discord": "https://discord.com/invite/UJePYZR",
+    "slack": "https://discord.com/invite/UJePYZR",
+    "reddit": "https://www.reddit.com/r/republicprotocol/",
+    "blog": "https://medium.com/renproject"
+  },
+  "development": {
+    "github_organizations": [
+      "renproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

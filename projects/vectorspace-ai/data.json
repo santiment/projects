@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "vectorspace-ai",
+    "name": "Vectorspace",
+    "ticker": "VXV",
+    "description": "On-Demand Correlation Matrix Datasets",
+    "website": "http://vectorspace.ai/crowdsale.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thevectorspace",
+    "telegram": "https://t.me/joinchat/GrCYjA8rPgD8coAiEhRuBA",
+    "discord": "https://discord.gg/94s48Gq",
+    "slack": "https://discordapp.com/invite/94s48Gq",
+    "reddit": "https://www.reddit.com/r/vectorspaceAI"
+  },
+  "development": {
+    "github_organizations": [
+      "Vectorspace-API"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7D29A64504629172a429e64183D6673b9dAcbFCe",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

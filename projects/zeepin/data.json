@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "zeepin",
+    "name": "Zeepin",
+    "ticker": "ZPT",
+    "website": "https://www.zeepin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZeepinChain",
+    "telegram": "https://t.me/zeepin",
+    "reddit": "https://www.reddit.com/r/ZEEPIN/",
+    "blog": "https://medium.com/@zeepin"
+  },
+  "development": {
+    "github_organizations": [
+      "zeepin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

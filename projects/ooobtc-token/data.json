@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ooobtc-token",
+    "name": "OOOBTC TOKEN",
+    "ticker": "OBX",
+    "description": "A gateway and exchange for crypto-currency and crypto-ecosystem",
+    "website": "https://www.ooobtc.com/OBX"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ooobtcExchange",
+    "telegram": "https://t.me/joinchat/IEZE1wvNdZ8atK1qlhl5Og",
+    "reddit": "https://www.reddit.com/r/OOOBTC/"
+  },
+  "development": {
+    "github_organizations": [
+      "ooobtc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1367d4a67c1719b58c7e05df8768226fa768279a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

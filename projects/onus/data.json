@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "onus",
+    "name": "ONUS",
+    "ticker": "ONUS",
+    "description": "Mobile wallet and app",
+    "website": "https://goonus.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ONUSFinance",
+    "telegram": "https://t.me/onus_global"
+  },
+  "development": {
+    "github_organizations": [
+      "ONUS-APP"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

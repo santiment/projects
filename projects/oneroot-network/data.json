@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "oneroot-network",
+    "name": "OneRoot Network",
+    "ticker": "RNT",
+    "description": "Co-creating a value and data network for the age of asset digitalization",
+    "website": "https://www.oneroot.io/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OneRootNetwork",
+    "telegram": "https://t.me/OneRootProject",
+    "slack": "https://shang.qq.com/wpa/qunwpa?idkey=b4fc0957490cd96189015b025a05a9494bd80dc862a968a769afe77a5ba99f5b",
+    "reddit": "https://www.reddit.com/r/OneRoot/controversial/",
+    "blog": "https://medium.com/@oneroot"
+  },
+  "development": {
+    "github_organizations": [
+      "onerootproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff603f43946a3a28df5e6a73172555d8c8b02386",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

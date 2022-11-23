@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "pbtc35a",
+    "name": "pBTC35A",
+    "ticker": "pBTC35A",
+    "description": "Mars Project hashrate token",
+    "website": "https://mars.poolin.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MarsProject2020",
+    "telegram": "https://t.me/marsproject1",
+    "discord": "https://discord.gg/hjHAvJpaVM",
+    "slack": "https://discord.gg/hjHAvJpaVM",
+    "blog": "https://marsproject.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "MarsFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA8b12Cc90AbF65191532a12bb5394A714A46d358",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

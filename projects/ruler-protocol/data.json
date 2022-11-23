@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ruler-protocol",
+    "name": "Ruler Protocol",
+    "ticker": "RULER",
+    "description": "Non-liquidatable and fungible loans",
+    "website": "https://rulerprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RulerProtocol",
+    "telegram": "https://t.me/joinchat/VPsE3edCiDgJz1bv",
+    "discord": "https://discord.gg/XcAQKg2YGP",
+    "blog": "https://medium.com/@rulerprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Ruler-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

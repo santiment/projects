@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "glitch",
+    "name": "Glitch",
+    "ticker": "GLCH",
+    "description": "Custom DeFi Blockchain",
+    "website": "https://glitch.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/glitchprotocol",
+    "telegram": "https://t.me/glitchprotocol",
+    "blog": "https://medium.com/glitchfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "glitchprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

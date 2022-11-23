@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "streamr-datacoin",
+    "name": "Streamr",
+    "ticker": "DATA",
+    "description": "A real-time data messaging protocol",
+    "website": "https://www.streamr.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/streamr",
+    "telegram": "https://t.me/streamrdata",
+    "slack": "https://slack.streamr.com/",
+    "reddit": "https://www.reddit.com/r/streamr/",
+    "blog": "https://medium.com/streamrblog"
+  },
+  "development": {
+    "github_organizations": [
+      "streamr-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "cai-token",
+    "name": "Cai Token",
+    "ticker": "CAI",
+    "description": "Decentralized Betting Platform",
+    "website": "https://cai.today"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cai_today",
+    "blog": "https://medium.com/@caitoday"
+  },
+  "development": {
+    "github_organizations": [
+      "caitodayofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4fe9f52ec23f6805f2fd0332a34da4f1c135b024",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

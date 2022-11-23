@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "myx-network",
+    "name": "MYX Network",
+    "ticker": "MYX",
+    "description": "A DeFi Deflationary &amp;amp; Staking Platform",
+    "website": "https://myx.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/myxnetwork",
+    "telegram": "https://t.me/myxnetwork",
+    "discord": "https://discord.gg/UqaEt3X",
+    "slack": "https://discord.gg/UqaEt3X",
+    "reddit": "https://www.reddit.com/r/MYXNetwork/",
+    "blog": "https://medium.com/@myxnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "myxnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2129ff6000b95a973236020bcd2b2006b0d8e019",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

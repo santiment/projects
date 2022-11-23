@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "shroom-finance",
+    "name": "Niftyx Protocol",
+    "ticker": "SHROOM",
+    "description": "The global layer for NFTs exchange",
+    "website": "https://www.niftyx.org/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/NiftyxProtocol",
+    "telegram": "https://t.me/NiftyxProtocol",
+    "discord": "https://discord.com/invite/eZcFahS",
+    "blog": "https://niftyx.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "shroom-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

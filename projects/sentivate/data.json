@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "sentivate",
+    "name": "Sentivate",
+    "ticker": "SNTVT",
+    "description": "A Hybrid Topology Web",
+    "website": "https://sentivate.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sentivate",
+    "telegram": "https://t.me/sentivate",
+    "discord": "https://discord.gg/ekwEKqy",
+    "slack": "https://discordapp.com/invite/ekwEKqy",
+    "reddit": "https://www.reddit.com/r/sentivate/"
+  },
+  "development": {
+    "github_organizations": [
+      "sentivate"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

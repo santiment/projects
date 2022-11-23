@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "nexus",
+    "name": "Nexus",
+    "ticker": "NXS",
+    "description": "The World’s First Three Dimensional Blockchain",
+    "website": "http://www.nexusearth.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NxsEarth",
+    "telegram": "https://t.me/NexusEarth",
+    "discord": "https://discord.gg/wAg3YkJ",
+    "slack": "https://discord.gg/wAg3YkJ",
+    "reddit": "https://www.reddit.com/r/nexusearth/"
+  },
+  "development": {
+    "github_organizations": [
+      "nexusoft"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

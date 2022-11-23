@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "animalgo",
+    "name": "AnimalGo",
+    "ticker": "GOM2",
+    "description": "Rreward-type pet community app",
+    "website": "https://animalgo.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/H2mFeA_y4IU1Q8S4RDl18g"
+  },
+  "development": {
+    "github_organizations": [
+      "animalgogitadmin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

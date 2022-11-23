@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "callisto-network",
+    "name": "Callisto Network",
+    "ticker": "CLO",
+    "description": "Blockchain developed by Ethereum Commonwealth",
+    "website": "https://callisto.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CallistoSupport",
+    "telegram": "https://t.me/CallistoNetwork",
+    "reddit": "http://reddit.com/r/CallistoCrypto"
+  },
+  "development": {
+    "github_organizations": [
+      "callistonetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

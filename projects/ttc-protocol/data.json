@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ttc-protocol",
+    "name": "TTC",
+    "ticker": "TTC",
+    "description": "A decentralized and token incentivized protocol for the next generation social networks",
+    "website": "https://www.ttc.eco/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/ttceco",
+    "telegram": "https://t.me/ttc_en",
+    "reddit": "https://www.reddit.com/r/TTC_Protocol/",
+    "blog": "https://medium.com/@ttc.eco"
+  },
+  "development": {
+    "github_organizations": [
+      "ttcoffical"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+        "decimals": 18
+      }
+    ]
+  }
+}

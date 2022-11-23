@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "metamoneymarket",
+    "name": "MetaMoneyMarket",
+    "ticker": "MMM",
+    "description": "Earn the max Interest Rate for lending across multiple markets",
+    "website": "https://metamoneymarket.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/metamoneymarket",
+    "telegram": "https://t.me/joinchat/BhTqaRU6S32gP0U7NR8wbg",
+    "blog": "https://medium.com/primeradiant"
+  },
+  "development": {
+    "github_organizations": [
+      "primeradiant"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "finnexus",
+    "name": "FinNexus",
+    "ticker": "FNX",
+    "description": "A hub for connecting decentralized ledgers",
+    "website": "https://www.finnexus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fin_nexus/",
+    "telegram": "https://t.me/FinNexusOfficial",
+    "reddit": "https://www.reddit.com/r/finnexus/",
+    "blog": "https://medium.com/finnexus/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

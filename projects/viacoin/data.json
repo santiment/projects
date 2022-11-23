@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "viacoin",
+    "name": "Viacoin",
+    "ticker": "VIA",
+    "description": "Bitcoin fork",
+    "website": "http://viacoin.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/viacoin",
+    "telegram": "https://telegram.me/viacoin",
+    "reddit": "https://www.reddit.com/r/viacoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "viacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

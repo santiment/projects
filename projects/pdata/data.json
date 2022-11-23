@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pdata",
+    "name": "PDATA",
+    "ticker": "PDATA",
+    "description": "Marketplace for secure and transparent buying and selling of personal data",
+    "website": "https://opiria.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PDATA_Token",
+    "telegram": "https://t.me/pdatatoken",
+    "reddit": "https://www.reddit.com/r/PDATA/",
+    "blog": "https://medium.com/pdata-token"
+  },
+  "development": {
+    "github_organizations": [
+      "opiria-pdata"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0db03b6cde0b2d427c64a04feafd825938368f1f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

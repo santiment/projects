@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "1eco",
+    "name": "1eco",
+    "ticker": "1ECO",
+    "description": "Rewards users for solving real-world problems",
+    "website": "http://www.1eco.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1eco_official",
+    "telegram": "https://t.me/one_ecoGlobal",
+    "discord": "https://discord.gg/QC4Qr58V6B",
+    "blog": "https://medium.com/@1eco"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1af2eaeaf2b1d9dda800861268e6bbb3995a6c3b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "goose-finance",
+    "name": "Goose Finance",
+    "ticker": "EGG",
+    "description": "2nd generation yield farming on BSC",
+    "website": "https://www.goosedefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceGoose",
+    "telegram": "https://t.me/goosedefi",
+    "blog": "https://goosefinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "goosedefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

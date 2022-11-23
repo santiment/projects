@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "valuechain",
+    "name": "ValueChain",
+    "ticker": "VLC",
+    "website": "http://valuechain.biz/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f7b0b40e27e357540f90f187d90ce06366ac5a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

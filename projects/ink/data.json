@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ink",
+    "name": "Ink",
+    "ticker": "INK",
+    "description": "A decentralized solution harnessing the combined power of Consortium Blockchain, Public Blockchain and Cross-chain Interoperability",
+    "website": "https://ink.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/inklabsfound",
+    "telegram": "https://t.me/joinchat/GHiS0A7C841w1NbTNwIYIQ",
+    "reddit": "https://www.reddit.com/r/InkLabsFoundation/",
+    "blog": "https://medium.com/@inklabsfoundation/"
+  },
+  "development": {
+    "github_organizations": [
+      "inklabsfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

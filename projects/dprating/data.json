@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dprating",
+    "name": "DPRating",
+    "ticker": "RATING",
+    "description": "Aiming to become the “Moody’s” in the digital currency sector",
+    "website": "http://token.dprating.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DPRating",
+    "telegram": "http://t.me/DPRating",
+    "blog": "http://medium.com/@dprating"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe8663a64a96169ff4d95b4299e7ae9a76b905b31",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

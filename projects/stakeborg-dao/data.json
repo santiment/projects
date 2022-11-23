@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "stakeborg-dao",
+    "name": "Stakeborg DAO",
+    "ticker": "STANDARD",
+    "description": "A fully functional and profitable digital colony",
+    "website": "https://www.stakeborgdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stakeborgdao",
+    "discord": "https://discord.com/invite/rCZyx5cD"
+  },
+  "development": {
+    "github_organizations": [
+      "Stakeborg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda0c94c73d127ee191955fb46bacd7ff999b2bcd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

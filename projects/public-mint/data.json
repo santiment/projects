@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "public-mint",
+    "name": "Public Mint",
+    "ticker": "MINT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

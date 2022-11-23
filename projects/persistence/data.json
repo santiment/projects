@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "persistence",
+    "name": "Persistence",
+    "ticker": "XPRT",
+    "description": "Protocol powering next-gen financial products",
+    "website": "https://persistence.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PersistenceOne",
+    "telegram": "https://t.me/PersistenceOneChat",
+    "discord": "https://discord.com/invite/SaBKpjbnhH",
+    "reddit": "https://reddit.com/r/PersistenceOne",
+    "blog": "https://medium.com/persistence-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "persistenceOne"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

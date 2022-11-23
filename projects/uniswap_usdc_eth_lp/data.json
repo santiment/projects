@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "uniswap_usdc_eth_lp",
+    "name": "Uniswap V2: USDC",
+    "ticker": "UNI-V2 USDC/ETH LP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

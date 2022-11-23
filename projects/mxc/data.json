@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "mxc",
+    "name": "MXC",
+    "ticker": "MXC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

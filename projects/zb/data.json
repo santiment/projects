@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "zb",
+    "name": "ZB Token",
+    "ticker": "ZB",
+    "description": "an exchange token and the native currency of the ZB.COM crypto exchange",
+    "website": "https://www.zb.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZbTalk",
+    "telegram": "https://t.me/ZB_English"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

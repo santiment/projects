@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnb-chromia",
+    "name": "Chromia [on BNB]",
+    "ticker": "CHR",
+    "description": "Smart blockchain technology infrastructure",
+    "website": "https://chromia.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Chromia",
+    "telegram": "https://t.me/hellochromia",
+    "reddit": "https://www.reddit.com/r/Teamchromia/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf9CeC8d50f6c8ad3Fb6dcCEC577e05aA32B224FE",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 6
+      }
+    ]
+  }
+}

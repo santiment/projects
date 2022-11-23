@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "monero-v",
+    "name": "MoneroV",
+    "ticker": "XMV",
+    "description": "Monero hard fork",
+    "website": "https://monerov.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/monero_v",
+    "telegram": "https://t.me/monerovxmv",
+    "reddit": "https://www.reddit.com/r/MoneroV/",
+    "blog": "https://steemit.com/@monerov"
+  },
+  "development": {
+    "github_organizations": [
+      "monerov"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "poolz-finance",
+    "name": "Poolz Finance",
+    "ticker": "POOLZ",
+    "description": "A swapping protocol",
+    "website": "https://www.poolz.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Poolz__",
+    "discord": "https://discord.com/invite/xwtWw4sGPp",
+    "slack": "https://discord.com/invite/xwtWw4sGPp",
+    "blog": "https://poolz.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "The-Poolz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69a95185ee2a045cdc4bcd1b1df10710395e4e23",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

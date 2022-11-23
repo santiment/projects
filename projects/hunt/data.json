@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "hunt",
+    "name": "HUNT",
+    "ticker": "HUNT",
+    "description": "Gamified Lifestyle on Blockchain",
+    "website": "https://token.hunt.town/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/steemhunt",
+    "telegram": "https://t.me/steemhunt",
+    "discord": "https://discord.gg/vACTjVY",
+    "reddit": "https://www.reddit.com/r/steemhunt",
+    "blog": "https://steemit.com/@steemhunt"
+  },
+  "development": {
+    "github_organizations": [
+      "Steemhunt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "xensor",
+    "name": "Xensor",
+    "ticker": "XSR",
+    "description": "IOT network",
+    "website": "https://xensor.cc/index_en.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xensor_iot",
+    "telegram": "https://t.me/xensor_iot",
+    "blog": "https://medium.com/@xensor.iot"
+  },
+  "development": {
+    "github_organizations": [
+      "xenixstudio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda58fb36cdb37a0de8bb9cb6c78b8715dcd0d1e8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

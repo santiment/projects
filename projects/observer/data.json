@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "observer",
+    "name": "Observer",
+    "ticker": "OBSR",
+    "description": "Set up your own personal weather station  on your smartphone, automobile, or building, and join the OBSERVER. You can get OBSERVER coin, an innovative cryptocurrency,  in exchange for your weather data.",
+    "website": "http://www.obsr.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/observerfounda1",
+    "telegram": "https://t.me/obsrofficial",
+    "reddit": "https://www.reddit.com/r/OBSR/"
+  },
+  "development": {
+    "github_organizations": [
+      "observernet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x87def9265b40ba7f867f73d4af519cd9f074bed6",
+        "decimals": 8
+      }
+    ]
+  }
+}

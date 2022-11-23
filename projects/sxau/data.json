@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "sxau",
+    "name": "sXAU",
+    "ticker": "sXAU",
+    "description": "Synthetix gold token"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

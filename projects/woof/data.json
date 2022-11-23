@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "woof",
+    "name": "WOOF",
+    "ticker": "WOOF",
+    "description": "DEX and NFT Marketplace",
+    "website": "https://woofsolana.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WoofSolana",
+    "telegram": "https://t.me/woofsolana",
+    "discord": "https://discord.gg/Cbe7eyHD75"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

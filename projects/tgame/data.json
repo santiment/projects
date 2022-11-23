@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tgame",
+    "name": "TGAME",
+    "ticker": "TGAME",
+    "description": "Smart contract based games of chance",
+    "website": "https://ico.truegame.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/truegameSRL",
+    "telegram": "https://t.me/truegame_chat",
+    "reddit": "https://www.reddit.com/user/truegamesrl/",
+    "blog": "https://medium.com/@truegame"
+  },
+  "development": {
+    "github_organizations": [
+      "truegame"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8e06e4e4a80287fdca5b02dccecaa9d0954840f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "nss",
+    "name": "NSS Coin",
+    "ticker": "NSS",
+    "website": "http://www.nsscoin.net/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e3bddd468abfc6c88bc25daa5d894380ced5bc8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

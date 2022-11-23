@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "goldenfever",
+    "name": "GoldenFever",
+    "ticker": "GFR",
+    "description": "Fair Smart Contract Based Games Platform",
+    "website": "https://goldenfever.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoldenfeverG",
+    "telegram": "https://t.me/GoldenFever_Cryptocurrency",
+    "discord": "https://discord.gg/NM3pjyx",
+    "slack": "https://discord.gg/NM3pjyx",
+    "blog": "https://medium.com/@goldenfeavercrypto"
+  },
+  "development": {
+    "github_organizations": [
+      "goldenfever"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

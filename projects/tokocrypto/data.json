@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "tokocrypto",
+    "name": "Toko Token",
+    "ticker": "TKO",
+    "description": "Indonesian centralized exchange",
+    "website": "https://www.tokocrypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tkobytokocrypto",
+    "telegram": "https://t.me/tkogroupofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

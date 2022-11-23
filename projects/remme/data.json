@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "remme",
+    "name": "Remme",
+    "ticker": "REM",
+    "description": "Distributed Public Key Infrastructure protocol",
+    "website": "https://remme.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/remme_io",
+    "telegram": "https://t.me/remme",
+    "reddit": "https://www.reddit.com/r/remme/",
+    "blog": "https://medium.com/remme"
+  },
+  "development": {
+    "github_organizations": [
+      "remmeauth"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x83984d6142934bb535793a82adb0a46ef0f66b6d",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

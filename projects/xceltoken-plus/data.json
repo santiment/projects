@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xceltoken-plus",
+    "name": "XcelToken Plus",
+    "ticker": "XLAB",
+    "description": "Blockchain based travel platform",
+    "website": "https://www.xceltrip.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xceltrip",
+    "telegram": "https://t.me/joinchat/IFjp6g9oN8zIbp6wPNHJbg",
+    "blog": "https://medium.com/@xceltokengo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8c4E7f814d40f8929F9112C5D09016F923d34472",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

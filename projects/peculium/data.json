@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "peculium",
+    "name": "Peculium",
+    "ticker": "PCL",
+    "description": "First savings system in cryptocurrency",
+    "website": "http://peculium.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_Peculium",
+    "telegram": "https://t.me/joinchat/GdlCOw07yJbs2Pt1H8_zrg",
+    "slack": "https://peculium.slack.com/join/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
+    "reddit": "https://www.reddit.com/user/Peculium_pcl/",
+    "blog": "https://medium.com/@Peculium"
+  },
+  "development": {
+    "github_organizations": [
+      "peculiumpcl"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3618516f45cd3c913f81f9987af41077932bc40d",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

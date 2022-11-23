@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "birake",
+    "name": "Birake",
+    "ticker": "BIR",
+    "description": "White label crypto exchange",
+    "website": "https://birake.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/birakecom",
+    "telegram": "https://t.me/birakecom",
+    "slack": "https://birake.slack.com/",
+    "reddit": "https://www.reddit.com/r/birakecom",
+    "blog": "https://medium.com/@birakecom"
+  },
+  "development": {
+    "github_organizations": [
+      "birake"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

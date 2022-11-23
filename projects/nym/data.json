@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nym",
+    "name": "NYM",
+    "ticker": "NYM",
+    "description": "Privacy infrastructure",
+    "website": "https://nymtech.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nymproject",
+    "telegram": "https://t.me/nymchan",
+    "blog": "https://nymtech.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "nymtech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x525A8F6F3Ba4752868cde25164382BfbaE3990e1",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

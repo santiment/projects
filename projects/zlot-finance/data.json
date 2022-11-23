@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "zlot-finance",
+    "name": "zLOT Finance",
+    "ticker": "ZLOT",
+    "description": "Staking protocol built upon Hegic",
+    "website": "https://zlot.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zLOTFinance",
+    "discord": "https://discord.gg/XBfpw4c",
+    "slack": "https://discord.gg/XBfpw4c",
+    "blog": "https://zlot.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "zhegic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

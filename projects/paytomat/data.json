@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "paytomat",
+    "name": "Paytomat",
+    "ticker": "PTI",
+    "description": "An infrastructure platform enabling to use cryptocurrencies in the everyday life",
+    "website": "https://paytomat.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/paytomat",
+    "telegram": "https://t.me/paytomat",
+    "reddit": "https://www.reddit.com/r/Paytomat/",
+    "blog": "https://medium.com/paytomat"
+  },
+  "development": {
+    "github_organizations": [
+      "paytomat"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

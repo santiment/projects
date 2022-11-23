@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kangal",
+    "name": "Kangal",
+    "ticker": "KANGAL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

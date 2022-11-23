@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "torque",
+    "name": "Torque",
+    "ticker": "TRQ",
+    "description": "A borrowing platform with indefinite-term loans and fixed interest rates",
+    "website": "https://torque.loans/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/b0xNet"
+  },
+  "development": {
+    "github_organizations": [
+      "bzxnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

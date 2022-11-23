@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "high-performance-blockchain",
+    "name": "High Performance Blockchain",
+    "ticker": "HPB",
+    "description": "A new combination of hardware and software blockchain architecture",
+    "website": "http://www.gxn.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HPB_Global",
+    "telegram": "https://t.me/hpbglobal",
+    "reddit": "https://www.reddit.com/r/HPB_Global/"
+  },
+  "development": {
+    "github_organizations": [
+      "hpb-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2",
+        "decimals": 18
+      }
+    ]
+  }
+}

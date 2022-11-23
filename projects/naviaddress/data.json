@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "naviaddress",
+    "name": "Naviaddress",
+    "ticker": "NAVI",
+    "description": "A decentralized global unified address platform for real and virtual worlds",
+    "website": "https://naviaddress.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/naviaddress",
+    "telegram": "https://t.me/naviaddress",
+    "reddit": "https://www.reddit.com/r/Naviaddress/",
+    "blog": "https://medium.com/@naviaddress"
+  },
+  "development": {
+    "github_organizations": [
+      "naviworld"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x588047365df5ba589f923604aac23d673555c623",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

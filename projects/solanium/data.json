@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "solanium",
+    "name": "Solanium",
+    "ticker": "SLIM",
+    "description": "Fundraising and trading on Solana",
+    "website": "https://www.solanium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/solanium_io",
+    "telegram": "https://t.me/solanium_io_chat",
+    "blog": "https://solanium.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "solanium-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

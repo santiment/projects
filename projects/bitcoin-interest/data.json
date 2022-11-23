@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcoin-interest",
+    "name": "Bitcoin Interest",
+    "ticker": "BCI",
+    "description": "Competitive staking cryptocurrency",
+    "website": "http://bitcoininterest.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/btcinterest",
+    "telegram": "https://t.me/bitcoininterest",
+    "blog": "https://medium.com/@nick_45538"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoininterestofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

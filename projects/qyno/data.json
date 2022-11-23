@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "qyno",
+    "name": "QYNO",
+    "ticker": "QNO",
+    "description": "A cryptocurrency based project designed to provide financial services on blockchain technology",
+    "website": "https://www.qyno.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QynoCoin",
+    "discord": "https://discord.gg/rjWMT5r",
+    "slack": "https://discord.gg/rjWMT5r"
+  },
+  "development": {
+    "github_organizations": [
+      "qyno"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

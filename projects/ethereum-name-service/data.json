@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ethereum-name-service",
+    "name": "Ethereum Name Service",
+    "ticker": "ENS",
+    "description": "Decentralised naming for wallets, websites and more",
+    "website": "https://ens.domains/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ensdomains",
+    "discord": "https://discord.com/invite/ens",
+    "blog": "https://medium.com/the-ethereum-name-service"
+  },
+  "development": {
+    "github_organizations": [
+      "ensdomains"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

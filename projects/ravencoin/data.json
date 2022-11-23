@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "ravencoin",
+    "name": "Ravencoin",
+    "ticker": "RVN",
+    "description": "Bitcoin fork, a digital peer to peer network",
+    "website": "https://ravencoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ravencoin",
+    "telegram": "https://t.me/RavencoinDev",
+    "discord": "https://discord.gg/jn6uhur",
+    "slack": "https://discord.gg/jn6uhur",
+    "reddit": "https://www.reddit.com/r/Ravencoin/",
+    "blog": "https://medium.com/@ravencoin"
+  },
+  "development": {
+    "github_organizations": [
+      "ravenproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "online",
+    "name": "Online",
+    "ticker": "OIO",
+    "description": "Online.io platform aims at revolutionizing the browsing experience by making it faster, ad free, more reliable, secure and non-trackable, thus marking a groundbreaking change of the Internet.",
+    "website": "https://online.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Online_OIO",
+    "telegram": "https://t.me/OnlineIO",
+    "reddit": "https://www.reddit.com/r/onlineio/",
+    "blog": "https://medium.com/online-io-blockchain-technologies"
+  },
+  "development": {
+    "github_organizations": [
+      "online-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa3efef1a1e3d1ad72b9d0f4253e7c9c084c2c08b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

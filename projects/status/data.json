@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "status",
+    "name": "Status",
+    "ticker": "SNT",
+    "description": "Decentralized application browser",
+    "website": "http://status.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethstatus",
+    "slack": "http://slack.status.im/",
+    "reddit": "https://www.reddit.com/r/statusim/",
+    "blog": "https://blog.status.im/"
+  },
+  "development": {
+    "github_organizations": [
+      "status-im"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

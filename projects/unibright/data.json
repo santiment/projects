@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "unibright",
+    "name": "Unibright",
+    "ticker": "UBT",
+    "description": "The first unified framework for blockchain based business integration",
+    "website": "https://unibright.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UnibrightIO",
+    "telegram": "https://t.me/unibright_io",
+    "reddit": "https://www.reddit.com/r/Unibright/",
+    "blog": "https://medium.com/@UnibrightIO"
+  },
+  "development": {
+    "github_organizations": [
+      "unibrightio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

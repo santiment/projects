@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "auto",
+    "name": "Auto",
+    "ticker": "AUTO",
+    "description": "Automated yield farming platform",
+    "website": "https://autofarm.network/"
+  },
+  "social": {
+    "telegram": "https://t.me/autofarm_network",
+    "blog": "https://autofarm-network.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "autofarm-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

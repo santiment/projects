@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "forceprotocol",
+    "name": "The Force Protocol",
+    "ticker": "FOR",
+    "description": "The Protocol for Distributed Cryptofinance Services",
+    "website": "https://www.theforceprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Force_Protocol",
+    "telegram": "https://t.me/theforceprotocol666",
+    "slack": "https://theforceprotocol.slack.com/",
+    "reddit": "https://www.reddit.com/r/The_Force_Protocol/",
+    "blog": "https://medium.com/@theforceprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "theforceprotocolgroup"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1fcdce58959f536621d76f5b7ffb955baa5a672f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

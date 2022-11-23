@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "trueusd",
+    "name": "TrueUSD",
+    "ticker": "TUSD",
+    "description": "USD-backed ERC20 stablecoin",
+    "website": "https://www.trusttoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
+    "blog": "https://blog.trusttoken.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "trusttoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

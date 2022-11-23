@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "croat",
+    "name": "CROAT",
+    "ticker": "CROAT",
+    "description": "The Catalan Altcoin",
+    "website": "https://croat.cat/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CROATcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "croatproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

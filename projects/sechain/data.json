@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sechain",
+    "name": "SeChain",
+    "ticker": "SNN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

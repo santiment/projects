@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "presearch",
+    "name": "Presearch",
+    "ticker": "PRE",
+    "description": "A decentralized search engine,  powered by the community",
+    "website": "https://www.presearch.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/presearchnews",
+    "telegram": "https://t.me/presearch",
+    "reddit": "https://www.reddit.com/r/PresearchCommunity/",
+    "blog": "https://medium.com/@presearch"
+  },
+  "development": {
+    "github_organizations": [
+      "presearchofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

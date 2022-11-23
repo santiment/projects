@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "daostack",
+    "name": "DAOstack",
+    "ticker": "GEN",
+    "description": "Powers decentralized companies, funds and markets to make fast and innovative decisions at scale",
+    "website": "https://daostack.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/daostack",
+    "telegram": "https://t.me/daostackcommunity",
+    "reddit": "https://www.reddit.com/r/daostack/",
+    "blog": "https://medium.com/daostack"
+  },
+  "development": {
+    "github_organizations": [
+      "daostack"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x543ff227f64aa17ea132bf9886cab5db55dcaddf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "empty-set-dollar",
+    "name": "Empty Set Dollar",
+    "ticker": "ESD",
+    "description": "A fully decentralized elastic-supply stablecoin",
+    "website": "https://emptyset.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/emptysetsquad",
+    "telegram": "https://www.t.me/emptysetdollar",
+    "discord": "https://discord.gg/vPws9Vp",
+    "slack": "https://discord.gg/vPws9Vp",
+    "blog": "https://www.medium.com/@emptysetsquad"
+  },
+  "development": {
+    "github_organizations": [
+      "emptysetsquad"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

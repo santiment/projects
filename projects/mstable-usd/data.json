@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mstable-usd",
+    "name": "mStable USD",
+    "ticker": "MUSD",
+    "description": "A stablecoin on mStable Standard Protocol",
+    "website": "https://mstable.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mstable_",
+    "discord": "https://discord.com/invite/pgCVG7e",
+    "blog": "https://medium.com/mstable"
+  },
+  "development": {
+    "github_organizations": [
+      "mstable"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

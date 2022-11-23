@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "trustlines",
+    "name": "Trustlines Network Token",
+    "ticker": "TLN",
+    "description": "Promoting the financial & economic inclusion",
+    "website": "https://trustlines.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustlinesFound",
+    "telegram": "https://t.me/trustlines_network"
+  },
+  "development": {
+    "github_organizations": [
+      "trustlines-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x679131F591B4f369acB8cd8c51E68596806c3916",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "esports-token",
+    "name": "Esports Token",
+    "ticker": "EST",
+    "description": "Solving problems of games and Esports industry ",
+    "website": "https://esportschain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/esports_chain",
+    "telegram": "https://t.me/esportschain"
+  },
+  "development": {
+    "github_organizations": [
+      "esportschain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x18f5b4908e8861e3114ba9a0a9a4e84c5f180cc0",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "irisnet",
+    "name": "IRISnet",
+    "ticker": "IRIS",
+    "description": "Infrastructure for business applications",
+    "website": "https://www.irisnet.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/irisnetwork",
+    "telegram": "https://t.me/irisnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "irisnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

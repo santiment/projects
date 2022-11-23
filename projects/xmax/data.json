@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "xmax",
+    "name": "XMax",
+    "ticker": "XMX",
+    "description": "Developer Ecosystem for Entertainment DAPPs",
+    "website": "https://www.xmx.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XMax_io",
+    "telegram": "https://t.me/XMXblock_org",
+    "reddit": "https://www.reddit.com/r/XMax_Blockchain/"
+  },
+  "development": {
+    "github_organizations": [
+      "xmaxplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

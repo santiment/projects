@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "earth-token",
+    "name": "Earth Token",
+    "ticker": "EARTH",
+    "description": "Natural Asset Exchange Marketplace",
+    "website": "https://earth-token.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/earthtokens",
+    "telegram": "https://t.me/earthtokenofficial",
+    "reddit": "https://www.reddit.com/r/EarthToken/",
+    "blog": "https://medium.com/earthtokens"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x900b4449236a7bb26b286601dd14d2bde7a6ac6c",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

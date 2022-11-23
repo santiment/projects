@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "moeda-loyalty-points",
+    "name": "Moeda Loyalty Points",
+    "ticker": "MDA",
+    "description": "A cooperative banking system",
+    "website": "https://moeda.in/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/moedaseeds",
+    "telegram": "https://t.me/moedaproject",
+    "reddit": "https://www.reddit.com/r/MoedaBanking/",
+    "blog": "https://medium.com/moeda"
+  },
+  "development": {
+    "github_organizations": [
+      "moedabank"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

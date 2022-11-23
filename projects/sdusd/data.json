@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "sdusd",
+    "name": "SDUSD",
+    "ticker": "SDUSD",
+    "description": "The Dollar-pegged coin was created to hold the value of $1 and is locked to NEO",
+    "website": "http://alchemint.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alchemint_io",
+    "telegram": "https://t.me/alchemint",
+    "reddit": "https://www.reddit.com/r/Alchemint/",
+    "blog": "https://medium.com/@alchemintio"
+  },
+  "development": {
+    "github_organizations": [
+      "alchemint"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

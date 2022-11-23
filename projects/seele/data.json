@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "seele",
+    "name": "Seele-N",
+    "ticker": "SEELE",
+    "description": "A unique heterogeneous forest multi-chain ecosystem",
+    "website": "https://seele.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/n_seele",
+    "telegram": "https://t.me/seeletech",
+    "reddit": "https://www.reddit.com/user/seeletech",
+    "blog": "https://medium.com/seeletech"
+  },
+  "development": {
+    "github_organizations": [
+      "seeleteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "seelen_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

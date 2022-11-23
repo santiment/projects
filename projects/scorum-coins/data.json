@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "scorum-coins",
+    "name": "Scorum",
+    "ticker": "SCR",
+    "description": "Sports Media Powered by Blockchain",
+    "website": "https://scorumcoins.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/scorum_en",
+    "telegram": "https://telegram.me/SCORUM",
+    "reddit": "https://www.reddit.com/r/Scorum/",
+    "blog": "https://medium.com/@scorum"
+  },
+  "development": {
+    "github_organizations": [
+      "scorum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

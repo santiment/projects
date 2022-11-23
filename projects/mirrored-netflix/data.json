@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-netflix",
+    "name": "Mirrored Netflix",
+    "ticker": "mNFLX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

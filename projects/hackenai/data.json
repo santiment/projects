@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hackenai",
+    "name": "Hacken Token",
+    "ticker": "HAI",
+    "description": "Cybersecurity consulting",
+    "website": "https://hackenfoundation.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hackenclub",
+    "telegram": "https://t.me/hackenclub",
+    "reddit": "https://www.reddit.com/r/hacken/",
+    "blog": "https://hackenclub.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "hknio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

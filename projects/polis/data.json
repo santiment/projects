@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "polis",
+    "name": "Polis",
+    "ticker": "POLIS",
+    "description": "A community-driven cryptocurrency",
+    "website": "https://polispay.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolisBlockchain",
+    "telegram": "https://t.me/PolisPayOfficial",
+    "discord": "https://discord.gg/gwhHv8U",
+    "slack": "https://discord.gg/gwhHv8U",
+    "reddit": "https://www.reddit.com/user/Polispay",
+    "blog": "http://forum.polispay.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "polispay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "playchip",
+    "name": "PlayChip",
+    "ticker": "PLA",
+    "description": "Token at the centre of an existing online gaming ecosystem. PlayChip will serve as the payment and rewards system to an existing user base in the range of over one million in approximately 70 different countries",
+    "website": "https://www.playchip.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/teamplayup",
+    "telegram": "https://t.me/PlayChipTokenSale",
+    "blog": "https://medium.com/playchip"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0198f46f520F33cd4329bd4bE380a25a90536CD5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

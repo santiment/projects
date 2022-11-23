@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "wiki-token",
+    "name": "Wiki Token",
+    "ticker": "WIKI",
+    "description": "Crowdfunding campaign for the first online Crypto University",
+    "website": "https://wikitoken.bitcoinwiki.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wiki_token",
+    "telegram": "https://t.me/wikitoken_eng",
+    "reddit": "https://www.reddit.com/r/WikiToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x66bad545596fb17a0b4ebdc003a85def10e8f6ae",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

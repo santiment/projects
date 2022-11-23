@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "paragon",
+    "name": "Paragon",
+    "ticker": "PRG",
+    "website": "https://paragoncoin.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "paragon-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

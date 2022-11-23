@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "radio-caca",
+    "name": "Radio Caca",
+    "ticker": "RACA",
+    "description": "A native token for the Universal Metaverse",
+    "website": "https://www.radiocaca.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RadioCacaNFT",
+    "telegram": "https://t.me/RadioCaca",
+    "discord": "https://discord.gg/34qREVgv3h",
+    "reddit": "https://reddit.com/r/RadioCacaNFT",
+    "blog": "https://radiocaca.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "radiocaca"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x12BB890508c125661E03b09EC06E404bc9289040",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

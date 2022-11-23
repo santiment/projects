@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "stk",
+    "name": "STK",
+    "ticker": "STK",
+    "website": "https://stktoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stktoken",
+    "telegram": "https://t.me/stktoken",
+    "discord": "https://discord.gg/38EXN5D",
+    "slack": "https://discordapp.com/invite/38EXN5D",
+    "reddit": "https://www.reddit.com/r/STKToken/",
+    "blog": "https://medium.com/@STKtoken"
+  },
+  "development": {
+    "github_organizations": [
+      "stktoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xae73b38d1c9a8b274127ec30160a4927c4d71824",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

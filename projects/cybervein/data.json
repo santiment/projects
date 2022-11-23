@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cybervein",
+    "name": "CyberVein",
+    "ticker": "CVT",
+    "description": "Data value monetization platform based on DAG",
+    "website": "http://www.cybervein.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cyberveingroup",
+    "telegram": "https://t.me/Cyberveinofficial",
+    "slack": "https://cybervein.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "cyberveinofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

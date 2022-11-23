@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "rsk",
+    "name": "RSK",
+    "ticker": "RSK",
+    "description": "Smart contracts for Bitcoin",
+    "website": "https://www.rsk.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rsksmart",
+    "telegram": "https://t.me/rskofficialcommunity",
+    "reddit": "https://www.reddit.com/r/rootstock/",
+    "blog": "https://medium.com/@RSKNews"
+  },
+  "development": {
+    "github_organizations": [
+      "RSKSmart"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

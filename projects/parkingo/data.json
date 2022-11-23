@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "parkingo",
+    "name": "ParkinGo",
+    "ticker": "GOT",
+    "description": "Transportation network service",
+    "website": "https://parkingo.io/en/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/HijtbkwYo9ekRsq0T9m_yw"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x613fa2a6e6daa70c659060e86ba1443d2679c9d7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

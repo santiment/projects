@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "gaps",
+    "name": "GAPS",
+    "ticker": "GAP",
+    "description": "One Dapp available across all blockchains",
+    "website": "http://gapschain.io/main/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GAPS_chain",
+    "telegram": "https://t.me/gapschain_io",
+    "blog": "https://medium.com/@gapschain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcd8544defedec7c6b60b5a4232320365b1b21fcc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

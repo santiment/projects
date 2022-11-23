@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ark",
+    "name": "Ark",
+    "ticker": "ARK",
+    "description": "Blockchain switchboard",
+    "website": "http://ark.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ArkEcosystem",
+    "slack": "https://ark.io/slack",
+    "reddit": "https://www.reddit.com/r/ArkEcosystem/"
+  },
+  "development": {
+    "github_organizations": [
+      "arkecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

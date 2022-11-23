@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tosdis",
+    "name": "TosDis",
+    "ticker": "DIS",
+    "description": "DeFi as a service",
+    "website": "https://tosdis.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TosdisFinance",
+    "telegram": "https://t.me/Tosdis",
+    "blog": "https://tosdis-fi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "tosdis"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x220b71671b649c03714da9c621285943f3cbcdc6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

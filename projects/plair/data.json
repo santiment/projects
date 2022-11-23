@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "plair",
+    "name": "Plair",
+    "ticker": "PLA",
+    "description": "Plair is a gemer ecosystem created for gamers and gaming fans rewarding them for playing, creating content, viewing and social interaction",
+    "website": "https://plair.life/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/plair_life",
+    "telegram": "https://t.me/plair_life",
+    "reddit": "https://reddit.com/r/plair",
+    "blog": "http://www.medium.com/plairlife"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

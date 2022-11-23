@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "okb",
+    "name": "OKB",
+    "ticker": "OKB",
+    "description": "Trusted Digital Asset Exchange",
+    "website": "https://www.okex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OKEx",
+    "telegram": "https://t.me/okexofficial_en",
+    "reddit": "https://www.reddit.com/r/OKEx/",
+    "blog": "https://medium.com/okex-blog"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

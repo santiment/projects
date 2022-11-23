@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "celo",
+    "name": "Celo",
+    "ticker": "CELO",
+    "description": "Financial tools platform",
+    "website": "https://celo.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CeloOrg",
+    "telegram": "https://t.me/celoplatform",
+    "discord": "https://discord.com/invite/nfmTPV2",
+    "slack": "https://discord.com/invite/nfmTPV2",
+    "reddit": "https://www.reddit.com/r/CeloHQ/",
+    "blog": "https://medium.com/celoorg"
+  },
+  "development": {
+    "github_organizations": [
+      "celo-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

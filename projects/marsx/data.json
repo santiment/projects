@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "marsx",
+    "name": "MarsX",
+    "ticker": "MX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

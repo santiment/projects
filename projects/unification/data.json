@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "unification",
+    "name": "Unification",
+    "ticker": "UND",
+    "description": "Allows deployment of WRKChains",
+    "website": "https://www.unification.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unificationUND",
+    "blog": "https://medium.com/unificationfoundation"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbe6ac6b50f577205c9d107f37b6e205aa6acc5d4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

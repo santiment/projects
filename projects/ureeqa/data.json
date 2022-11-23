@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ureeqa",
+    "name": "UREEQA",
+    "ticker": "URQA",
+    "description": "Protecting, Managing and Monetizing creative work",
+    "website": "https://ureeqa.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ureeqa_inc",
+    "telegram": "https://t.me/UREEQAInc",
+    "discord": "https://discord.gg/Rd2jvnh3AB",
+    "blog": "https://medium.com/ureeqa-inc"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

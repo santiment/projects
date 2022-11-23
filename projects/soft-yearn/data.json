@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "soft-yearn",
+    "name": "Soft Yearn",
+    "ticker": "SYFI",
+    "description": "An adaptive cryptocurrency that will expand or contract its supply",
+    "website": "https://syfi.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/softyearnfi",
+    "telegram": "https://t.me/softyearnfi",
+    "discord": "https://discord.com/invite/vDTXmMk",
+    "slack": "https://discord.com/invite/vDTXmMk"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88093840aad42d2621e1a452bf5d7076ff804d61",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kanadecoin",
+    "name": "KanadeCoin",
+    "ticker": "KNDC",
+    "description": "Token to support monozukuri",
+    "website": "https://kanadecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KanadeCoin",
+    "telegram": "https://t.me/KanadeCoin_Off",
+    "discord": "https://discord.gg/sNBKBGp",
+    "slack": "https://discord.gg/sNBKBGp"
+  },
+  "development": {
+    "github_organizations": [
+      "kanadecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8E5610ab5E39d26828167640EA29823fe1dD5843",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

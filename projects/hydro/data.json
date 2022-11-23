@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hydro",
+    "name": "Hydro",
+    "ticker": "HYDRO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

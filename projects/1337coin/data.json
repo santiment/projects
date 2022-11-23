@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "1337coin",
+    "name": "Elite",
+    "ticker": "1337",
+    "website": "https://www.elitecurrency.net/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "xenonflux"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

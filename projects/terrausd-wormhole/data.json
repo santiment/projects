@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "terrausd-wormhole",
+    "name": "Terra Classic USD",
+    "ticker": "USTC",
+    "description": "Terra Classic USD (Wormhole)"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "herbalist-token",
+    "name": "Herbalist Token",
+    "ticker": "HERB",
+    "description": "Global rare herbs marketplace on blockchain. Protect Rare Herb Farmers using Blockchain technology and make Rare Herbs accessible to everyone by creating a Farmer to Consumer Marketplace",
+    "website": "http://www.herbalisttoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/herbalistoken",
+    "telegram": "https://t.me/Herbalist_Token",
+    "reddit": "https://www.reddit.com/user/Herbalist_Token"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x04a020325024f130988782bd5276e53595e8d16e",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

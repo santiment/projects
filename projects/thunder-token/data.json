@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "thunder-token",
+    "name": "Thunder Token",
+    "ticker": "TT",
+    "description": "Foundation for a better Bitcoin",
+    "website": "https://www.thundertoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "telegram": "https://t.me/thunder_official",
+    "reddit": "https://www.reddit.com/r/thundertoken/",
+    "blog": "https://medium.com/thundercore"
+  },
+  "development": {
+    "github_organizations": [
+      "thundercore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

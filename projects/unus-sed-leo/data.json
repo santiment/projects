@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "unus-sed-leo",
+    "name": "UNUS SED LEO",
+    "ticker": "LEO",
+    "description": "Digital asset trading platform",
+    "website": "https://www.bitfinex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitfinex",
+    "telegram": "https://t.me/bfxtelegram",
+    "blog": "https://medium.com/bitfinex"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

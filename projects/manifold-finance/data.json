@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "manifold-finance",
+    "name": "Manifold Finance",
+    "ticker": "FOLD",
+    "description": "Connecting capital to opportunities",
+    "website": "https://www.manifoldfinance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/foldfinance",
+    "telegram": "https://t.me/manifoldfinance",
+    "discord": "https://discord.gg/2JJTtDDVBj",
+    "blog": "https://medium.com/manifoldfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "manifoldfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

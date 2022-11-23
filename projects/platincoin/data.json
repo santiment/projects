@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "platincoin",
+    "name": "PLATINCOIN",
+    "ticker": "PLC",
+    "description": "Litecoin fork",
+    "website": "https://www.platincoin.site/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/platincoin",
+    "telegram": "https://t.me/PLCTrader"
+  },
+  "development": {
+    "github_organizations": [
+      "platincoin-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "stackos",
+    "name": "StackOs",
+    "ticker": "STACK",
+    "description": "Multi-chain decentralized cloud",
+    "website": "https://www.stackos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeployOnStackOS",
+    "telegram": "https://t.me/StackOS",
+    "blog": "https://medium.com/stackos"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x56a86d648c435dc707c8405b78e2ae8eb4e60ba4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

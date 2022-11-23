@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "gelato_uniswap_usdc_usdt_lp",
+    "name": "Gelato Uniswap USDC/USDT LP",
+    "ticker": "G-UNI USDC/USDT LP",
+    "description": "Wrapper around Uni v3 LP NFT for USDC/USDT LP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd2eec91055f07fe24c9ccb25828ecfefd4be0c41",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

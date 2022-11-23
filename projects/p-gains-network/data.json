@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "p-gains-network",
+    "name": "Gains Network",
+    "ticker": "GNS",
+    "description": "Leveraged trading on Polygon",
+    "website": "https://gains.trade/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GainsNetwork_io",
+    "telegram": "https://t.me/GainsNetwork",
+    "discord": "https://discord.gg/Zj6Uub2wZ7",
+    "reddit": "https://reddit.com/r/GainsNetwork",
+    "blog": "https://gainsnetwork-io.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

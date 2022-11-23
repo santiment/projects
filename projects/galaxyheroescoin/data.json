@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "galaxyheroescoin",
+    "name": "Duplicate",
+    "ticker": "GHC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

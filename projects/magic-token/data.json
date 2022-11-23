@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "magic-token",
+    "name": "MAGIC",
+    "ticker": "MAGIC",
+    "description": "The Metaverse Bridgeworld",
+    "website": "https://www.treasure.lol/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Treasure_NFT",
+    "discord": "https://discord.gg/CzRPER6S5K",
+    "blog": "https://medium.com/@TreasureNFT"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

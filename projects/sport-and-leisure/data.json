@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "sport-and-leisure",
+    "name": "Sport and Leisure",
+    "ticker": "SNL",
+    "description": "A token for sport and leisure",
+    "website": "https://snltoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/snltoken",
+    "telegram": "https://t.me/snltoken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa806b3fed6891136940cf81c4085661500aa2709",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

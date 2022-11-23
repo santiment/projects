@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "moonswap",
+    "name": "MoonSwap",
+    "ticker": "MOON",
+    "description": "Layer 2 solution to AMM",
+    "website": "https://moonswap.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/imMoonSwap",
+    "telegram": "https://t.me/moonswap",
+    "discord": "https://discord.com/invite/qANMYth",
+    "slack": "https://discord.com/invite/qANMYth",
+    "blog": "https://medium.com/@MoonSwap"
+  },
+  "development": {
+    "github_organizations": [
+      "moon-migration"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

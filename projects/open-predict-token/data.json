@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "open-predict-token",
+    "name": "Open Predict Token",
+    "ticker": "OPT",
+    "description": "Turns predictions into liquid assets",
+    "website": "https://openpredict.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OpenPredict",
+    "discord": "https://discord.com/invite/C7jyre3",
+    "slack": "https://discord.com/invite/C7jyre3"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4FE5851C9af07df9e5AD8217aFAE1ea72737Ebda",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

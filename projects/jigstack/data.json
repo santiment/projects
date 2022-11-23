@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "jigstack",
+    "name": "Jigstack",
+    "ticker": "STAK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

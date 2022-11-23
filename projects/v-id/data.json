@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "v-id",
+    "name": "VIDT Datalink",
+    "ticker": "VIDT",
+    "description": "Blockchain powered validation",
+    "website": "https://about.v-id.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/v_id_blockchain",
+    "telegram": "https://t.me/vidtoken",
+    "reddit": "https://www.reddit.com/r/VIDT/"
+  },
+  "development": {
+    "github_organizations": [
+      "v-id"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "vidt_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "mercury",
+    "name": "Mercury",
+    "ticker": "MER",
+    "description": "Fuel to link the private Jupiter blockchain to the public Waves blockchain",
+    "website": "https://www.darcr.us/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mercurytoken",
+    "telegram": "https://t.me/darcrus",
+    "discord": "https://discord.gg/K7z9DMv",
+    "slack": "https://discordapp.com/invite/K7z9DMv"
+  },
+  "development": {
+    "github_organizations": [
+      "sigwotechnologies"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

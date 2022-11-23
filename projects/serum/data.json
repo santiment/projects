@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "serum",
+    "name": "Serum",
+    "ticker": "SRM",
+    "description": "Decentralized derivatives exchange",
+    "website": "https://projectserum.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/projectserum",
+    "telegram": "https://t.me/ProjectSerum",
+    "discord": "https://discord.com/invite/MxZFT4v",
+    "slack": "https://discord.com/invite/MxZFT4v"
+  },
+  "development": {
+    "github_organizations": [
+      "project-serum"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x476c5e26a75bd202a9683ffd34359c0cc15be0ff",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "kiba-inu",
+    "name": "Kiba Inu",
+    "ticker": "KIBA",
+    "description": "NFT Anime Ecosystem",
+    "website": "https://kibainu.space/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kibainukiba",
+    "telegram": "https://t.me/KibaInuGlobal"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b2c54b80b77580dc02a0f6734d3bad733f50900",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

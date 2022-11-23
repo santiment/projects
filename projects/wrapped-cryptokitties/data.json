@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wrapped-cryptokitties",
+    "name": "Wrapped Basic CryptoKitties",
+    "ticker": "WCK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

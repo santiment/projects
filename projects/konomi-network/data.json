@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "konomi-network",
+    "name": "Konomi Network",
+    "ticker": "KONO",
+    "description": "Decentralised money market on Polkadot",
+    "website": "http://konomi.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KonomiNetwork",
+    "telegram": "https://t.me/konominetwork",
+    "blog": "https://medium.com/konomi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x850aAB69f0e0171A9a49dB8BE3E71351c8247Df4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "wanchain",
+    "name": "Wanchain",
+    "ticker": "WAN",
+    "description": "The main focus is on providing  infrastructure to make financial services accessible in a distributed manner across all existing blockchains.",
+    "website": "https://wanchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wanchain_org",
+    "telegram": "https://t.me/WanchainCHAT",
+    "discord": "https://discord.gg/3DpeV6W",
+    "slack": "https://discord.gg/3DpeV6W",
+    "reddit": "https://www.reddit.com/r/wanchain/"
+  },
+  "development": {
+    "github_organizations": [
+      "wanchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

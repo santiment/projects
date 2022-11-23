@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "odem",
+    "name": "ODEM",
+    "ticker": "ODE",
+    "description": "Verifiable education",
+    "website": "https://odem.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ODEM_IO",
+    "telegram": "http://t.me/odem_io",
+    "reddit": "https://www.reddit.com/r/ODEM/",
+    "blog": "https://medium.com/odem"
+  },
+  "development": {
+    "github_organizations": [
+      "odemio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

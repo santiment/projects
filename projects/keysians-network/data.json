@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "keysians-network",
+    "name": "Keysians Network",
+    "ticker": "KEN",
+    "description": "Financialization of Blockchain Infrastructure",
+    "website": "https://keysians.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/keysians",
+    "telegram": "https://t.me/keysians",
+    "blog": "https://medium.com/@keysiansnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "Keysians"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

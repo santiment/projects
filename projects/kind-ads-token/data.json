@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kind-ads-token",
+    "name": "Kind Ads Token",
+    "ticker": "KIND",
+    "description": "An advertising platform that serves user-friendly ads",
+    "website": "https://kindads.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KindAdsNetwork",
+    "telegram": "https://t.me/kindads",
+    "reddit": "https://www.reddit.com/r/KindAds/",
+    "blog": "https://medium.com/kindads"
+  },
+  "development": {
+    "github_organizations": [
+      "kindads"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4618519de4c304f3444ffa7f812dddc2971cc688",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

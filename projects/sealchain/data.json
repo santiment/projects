@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "sealchain",
+    "name": "Sealchain",
+    "ticker": "SEAL",
+    "description": "Securities Allocation",
+    "website": "https://sealchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ChainSeal/",
+    "telegram": "https://t.me/SealchainOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "sealchain-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x07bf5f95851ef2b2996f192569e406a6fea2a95a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "cutcoin",
+    "name": "CUTcoin",
+    "ticker": "CUT",
+    "description": "Concealed untraceable transactions coin",
+    "website": "https://cutcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CUTc0in",
+    "telegram": "https://t.me/cutcointalk",
+    "discord": "https://discord.gg/UNNzf3J",
+    "slack": "https://discordapp.com/invite/UNNzf3J",
+    "reddit": "https://www.reddit.com/r/cutc0in/",
+    "blog": "https://cutcoin.org/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "cutcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

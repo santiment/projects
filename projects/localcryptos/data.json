@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "localcryptos",
+    "name": "LocalCryptos ",
+    "ticker": "LCR",
+    "description": "Peer-to-peer marketplace for Ethereum",
+    "website": "https://localcryptos.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/localethereum",
+    "telegram": "https://t.me/localethereumdotcom",
+    "blog": "https://blog.localcryptos.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "localethereum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

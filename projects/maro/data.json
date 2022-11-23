@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "maro",
+    "name": "Maro",
+    "ticker": "MARO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

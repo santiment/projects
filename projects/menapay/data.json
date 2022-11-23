@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "menapay",
+    "name": "MenaPay",
+    "ticker": "MPAY",
+    "description": "Replacing traditional payment with blockchain based",
+    "website": "https://www.menapay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/menapayio",
+    "telegram": "https://t.me/MenaPay",
+    "reddit": "https://www.reddit.com/r/MenaPay/",
+    "blog": "https://medium.com/menapay"
+  },
+  "development": {
+    "github_organizations": [
+      "menapay"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3810a4ddf41e586fa0dba1463a7951b748cecfca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

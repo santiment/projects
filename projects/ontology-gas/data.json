@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "ontology-gas",
+    "name": "Ontology Gas",
+    "ticker": "ONG",
+    "description": "Ontology uses a dual token (ONT and ONG) model. ONT(Ontology Token) is the coin and can be used for staking in consensus, whereas ONG is the utility token used for on-chain services",
+    "website": "https://ont.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OntologyNetwork",
+    "telegram": "https://t.me/OntologyNetwork",
+    "discord": "https://discord.gg/4TQujHj",
+    "slack": "https://discord.gg/4TQujHj",
+    "reddit": "https://old.reddit.com/r/OntologyNetwork/",
+    "blog": "https://medium.com/ontologynetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "ontio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

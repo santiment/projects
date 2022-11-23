@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tepleton",
+    "name": "Tepleton",
+    "ticker": "TEP",
+    "description": "Blockchain-based financial solution",
+    "website": "http://tepleton.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tepleton",
+    "telegram": "https://t.me/TepletonCommunity",
+    "discord": "https://discord.gg/54qrF8b",
+    "slack": "https://discord.gg/54qrF8b",
+    "reddit": "https://www.reddit.com/r/Tepleton_Official/",
+    "blog": "https://medium.com/tepleton-official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e65e12b5f0fd1d58738c6f38da7d57f5f183d1c",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

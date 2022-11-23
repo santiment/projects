@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "s4fe",
+    "name": "S4FE",
+    "ticker": "S4F",
+    "description": "Identification of stolen or lost items",
+    "website": "https://www.s4fe.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/S4FE_i0",
+    "telegram": "https://t.me/s4fe_official",
+    "blog": "https://medium.com/@s4fe"
+  },
+  "development": {
+    "github_organizations": [
+      "nterteryan"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaec7d1069e3a914a3eb50f0bfb1796751f2ce48a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

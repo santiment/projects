@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "synlev",
+    "name": "SynLev",
+    "ticker": "SYN",
+    "description": "DeFi synthetic leveraged asset tokens",
+    "website": "https://synlev.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synlevdefi",
+    "telegram": "https://t.me/synlev",
+    "discord": "https://discord.gg/7Evcz9f",
+    "slack": "https://discord.gg/7Evcz9f",
+    "blog": "https://medium.com/@synlev"
+  },
+  "development": {
+    "github_organizations": [
+      "CryptoIcarus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1695936d6a953df699c38ca21c2140d497c08bd9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

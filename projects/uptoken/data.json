@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "uptoken",
+    "name": "UpToken",
+    "ticker": "UP",
+    "description": "A reward for ATM customers",
+    "website": "https://uptoken.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/uptoken",
+    "telegram": "https://t.me/Uptoken",
+    "reddit": "https://www.reddit.com/r/UpToken/",
+    "blog": "https://medium.com/coinme"
+  },
+  "development": {
+    "github_organizations": [
+      "coinme"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6ba460ab75cd2c56343b3517ffeba60748654d26",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

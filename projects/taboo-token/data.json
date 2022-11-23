@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "taboo-token",
+    "name": "TABOO TOKEN",
+    "ticker": "TABOO",
+    "description": "Adult NFT project",
+    "website": "https://taboo.community/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TABOOOFFICIAL2",
+    "telegram": "https://t.me/TABOO_OFFICIAL",
+    "discord": "https://discord.gg/FS9VpQQJ4d",
+    "reddit": "https://reddit.com/r/TABOO_OFFICIAL",
+    "blog": "https://tabootoken.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "TabooOFFICIAL"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "uquid_coin",
+    "name": "Uquid Coin",
+    "ticker": "UQC",
+    "description": "Mobile wallet",
+    "website": "https://uquidcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/uquidcard",
+    "telegram": "https://t.me/uquidcoin",
+    "reddit": "https://www.reddit.com/r/uquidcoin/",
+    "blog": "https://medium.com/@uquidcoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd01db73e047855efb414e6202098c4be4cd2423b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "terra-virtua-kolect",
+    "name": "Delete",
+    "ticker": "TVK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mimblewimblecoin",
+    "name": "MimbleWimbleCoin",
+    "ticker": "MWC",
+    "description": "Implementation of the MimbleWimble protocol",
+    "website": "https://www.mwc.mw/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/M_W_Coin",
+    "discord": "https://discordapp.com/invite/eUNwqf3"
+  },
+  "development": {
+    "github_organizations": [
+      "mwcproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

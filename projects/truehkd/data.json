@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "truehkd",
+    "name": "TrueHKD",
+    "ticker": "THKD",
+    "description": "A stablecoin backed by the Hong Kong dollar",
+    "website": "https://www.trusttoken.com/truehkd"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0000852600ceb001e08e00bc008be620d60031f2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

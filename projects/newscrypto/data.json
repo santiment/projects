@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "newscrypto",
+    "name": "Newscrypto",
+    "ticker": "NWC",
+    "description": "Education, information and trading tools",
+    "website": "https://newscrypto.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NwcPublic",
+    "telegram": "https://t.me/nwc_public"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "minexcoin",
+    "name": "MinexCoin",
+    "ticker": "MNX",
+    "description": "Low volatility payment coin",
+    "website": "https://minexcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/minexcoin",
+    "telegram": "https://t.me/minexcoin",
+    "reddit": "https://www.reddit.com/r/minexcoin/",
+    "blog": "https://medium.com/minecoin-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "minexcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "mithril-ore",
+    "name": "Mithril Ore",
+    "ticker": "MORE",
+    "description": "A Casper Ethereum Staking Pool",
+    "website": "https://www.mithrilore.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mithrilore",
+    "reddit": "https://www.reddit.com/r/MithrilOre/"
+  },
+  "development": {
+    "github_organizations": [
+      "mithrilore"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x501262281b2ba043e2fbf14904980689cddb0c78",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "goldenratioperliquidity",
+    "name": "Golden Ratio Per Liquidity",
+    "ticker": "GRPL",
+    "description": "An elastic supply token pegged to gold price",
+    "website": "https://grpl.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/grplfinance",
+    "telegram": "https://www.t.me/grpltalk",
+    "discord": "https://discord.gg/6VqnC6",
+    "slack": "https://discord.gg/6VqnC6",
+    "reddit": "https://www.reddit.com/user/GrplFinance/",
+    "blog": "https://medium.com/@grplfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "grpl-finance-git"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x15e4132dcd932e8990e794d1300011a472819cbd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

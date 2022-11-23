@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "valuecybertoken",
+    "name": "ValueCyberToken",
+    "ticker": "VCT",
+    "description": "Next-Generation Blockchain-based Digital Economy System with Flexibility",
+    "website": "http://www.valuecyber.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ValueCyber",
+    "telegram": "https://t.me/valuecyber"
+  },
+  "development": {
+    "github_organizations": [
+      "valuecyber"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9746953f5b1324a78132895cfd263f417b0faae3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

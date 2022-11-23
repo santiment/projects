@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gaj-finance",
+    "name": "Gaj Finance",
+    "ticker": "GAJ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

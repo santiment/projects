@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "transcodium",
+    "name": "Transcodium",
+    "ticker": "TNS",
+    "description": "Blockchain based Transcoding Platform",
+    "website": "https://transcodium.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/transcodium/",
+    "telegram": "https://t.me/transcodium",
+    "reddit": "https://www.reddit.com/r/transcodium/",
+    "blog": "https://medium.com/@transcodium/"
+  },
+  "development": {
+    "github_organizations": [
+      "transcodium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

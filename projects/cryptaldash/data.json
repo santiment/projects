@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "cryptaldash",
+    "name": "CryptalDash",
+    "ticker": "CRD",
+    "description": "A robust crypto exchange and trading platform",
+    "website": "https://www.cryptaldash.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptaldash",
+    "telegram": "https://t.me/Cryptal_Dash",
+    "reddit": "https://www.reddit.com/r/CryptalDashCommunity/",
+    "blog": "https://medium.com/@cryptaldashcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcaaa93712bdac37f736c323c93d4d5fdefcc31cc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

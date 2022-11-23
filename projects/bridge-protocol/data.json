@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bridge-protocol",
+    "name": "Bridge Protocol",
+    "ticker": "IAM",
+    "description": "Manage, protect and utilize sensitive information in new ways",
+    "website": "https://www.bridgeprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BridgeProtocol",
+    "telegram": "https://t.me/BridgeProtocol",
+    "discord": "https://discord.gg/yrj6p5K",
+    "slack": "https://discordapp.com/invite/yrj6p5K",
+    "reddit": "https://www.reddit.com/r/iambridgeprotocol/"
+  },
+  "development": {
+    "github_organizations": [
+      "bridge-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

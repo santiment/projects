@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "reserve-rights",
+    "name": "Reserve",
+    "ticker": "RSR",
+    "description": "Tokens for stabilizing RSV stablecoin",
+    "website": "https://www.reserve.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/reserveprotocol",
+    "telegram": "https://t.me/reservecurrency",
+    "blog": "https://reserve.org/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "reserve-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rangers-protocol",
+    "name": "Rangers Protocol",
+    "ticker": "RPG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

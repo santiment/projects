@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "pundix-new",
+    "name": "Pundi X[new]",
+    "ticker": "PUNDIX",
+    "description": "Digital currency payments and transactions",
+    "website": "https://pundix.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PundiXLabs",
+    "telegram": "https://t.me/pundix",
+    "blog": "https://medium.com/pundix"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "ilcoin",
+    "name": "ILCoin",
+    "ticker": "ILC",
+    "description": "An alternative to Bitcoin using SHA-256 encryption technology. ILCOIN is not dependent on the present banking system. It has its own independent value. There are 2.5 billion ILCOIN available",
+    "website": "https://ilcoincrypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RealILCoinDTeam",
+    "telegram": "https://t.me/ILCoinDevelopmentTeam/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

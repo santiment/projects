@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "project-seed",
+    "name": "SHILL Token",
+    "ticker": "SHILL",
+    "description": "A GameFi Metaverse Ecosystem",
+    "website": "https://projectseed.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProjectSeedGame",
+    "telegram": "https://t.me/projectseed",
+    "discord": "https://discord.gg/wDSyjZ7HvH",
+    "blog": "https://projectseed.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

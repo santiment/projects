@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "impossible-finance",
+    "name": "Impossible Finance",
+    "ticker": "IF",
+    "description": "Incubator, launchpad and swap platform",
+    "website": "https://impossible.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/impossiblefi",
+    "telegram": "https://t.me/impossibleann",
+    "discord": "https://discord.com/invite/SyF3RzxQCZ",
+    "blog": "https://medium.com/impossiblefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "ImpossibleFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb0e1fc65c1a741b4662b813eb787d369b8614af1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

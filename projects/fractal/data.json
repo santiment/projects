@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "fractal",
+    "name": "Fractal",
+    "ticker": "FCL",
+    "description": "An open source protocol for exchanging data",
+    "website": "https://protocol.fractal.id/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fractalprtcl",
+    "telegram": "https://t.me/fractal_protocol",
+    "blog": "https://medium.com/frctls"
+  },
+  "development": {
+    "github_organizations": [
+      "trustfractal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

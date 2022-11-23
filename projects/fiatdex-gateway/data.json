@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "fiatdex-gateway",
+    "name": "FiatDex Gateway",
+    "ticker": "FDG",
+    "description": "Trustlessly swap fiat to crypto",
+    "website": "https://happypsyduck.github.io/fiatdex-gateway/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "happypsyduck"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

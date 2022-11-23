@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "more-coin",
+    "name": "More Coin",
+    "ticker": "MORE",
+    "description": "Ownership of 5000 coins makes you a club member",
+    "website": "http://www.mre.live/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/getmorecoin",
+    "telegram": "http://t.me/more_coin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x59061b6f26BB4A9cE5828A19d35CFD5A4B80F056",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

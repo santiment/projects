@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "jewel",
+    "name": "Jewel",
+    "ticker": "JWL",
+    "description": "JEWEL (JWL) is a non – government-controlled digital advanced currency that enables you to send money anyplace on the planet immediately, safely and basically for nothing out of pocket.",
+    "website": "https://jewelpay.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jewelpay_org",
+    "telegram": "https://t.me/jewelpay",
+    "reddit": "https://www.reddit.com/user/jewelpay",
+    "blog": "https://medium.com/@jewelpay"
+  },
+  "development": {
+    "github_organizations": [
+      "jeveldev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8275ebf521dc217aa79c88132017a5bcef001dd9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

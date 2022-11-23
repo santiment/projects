@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "42-coin",
+    "name": "42-coin",
+    "ticker": "42"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

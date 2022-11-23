@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "tapmydata",
+    "name": "Tapmydata",
+    "ticker": "TAP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

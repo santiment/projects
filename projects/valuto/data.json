@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "valuto",
+    "name": "Valuto",
+    "ticker": "VLU",
+    "description": "A cryptocurrency with inherent value, as more and more merchants are signing up continuously. You can use Valuto to buy and sell everyday items on Valuto marketplace, exactly like you would with traditional FIAT money.",
+    "website": "https://valuto.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Valuto_io",
+    "telegram": "https://t.me/valuto_community"
+  },
+  "development": {
+    "github_organizations": [
+      "valuto"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

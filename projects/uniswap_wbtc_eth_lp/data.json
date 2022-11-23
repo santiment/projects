@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_wbtc_eth_lp",
+    "name": "Uniswap V2: WBTC",
+    "ticker": "UNI-V2 WBTC/ETH LP",
+    "description": "LP Token for the UNI-V2 WBTC-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

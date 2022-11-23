@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "well-token",
+    "name": "WELL",
+    "ticker": "WELL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

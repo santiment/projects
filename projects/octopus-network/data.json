@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "octopus-network",
+    "name": "Octopus Network",
+    "ticker": "OCT",
+    "description": "A NEAR-based multichain interoperable network for appchains",
+    "website": "https://oct.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oct_network",
+    "telegram": "https://t.me/octopusnetwork",
+    "discord": "https://discord.com/invite/6GTJBkZA9Q",
+    "blog": "https://medium.com/oct-network"
+  },
+  "development": {
+    "github_organizations": [
+      "octopus-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf5cfbc74057c610c8ef151a439252680ac68c6dc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

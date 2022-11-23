@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "biconomy",
+    "name": "BICONOMY",
+    "ticker": "BICO",
+    "description": "Next-Gen Multichain Relayer Protocol",
+    "website": "https://www.biconomy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/biconomy",
+    "telegram": "https://t.me/biconomy",
+    "discord": "https://discord.com/invite/tQPxHBT",
+    "blog": "https://medium.com/biconomy"
+  },
+  "development": {
+    "github_organizations": [
+      "bcnmy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

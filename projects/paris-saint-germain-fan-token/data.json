@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "paris-saint-germain-fan-token",
+    "name": "Paris Saint-Germain Fan Token",
+    "ticker": "PSG",
+    "website": "https://www.socios.com/paris-saint-germain/"
+  },
+  "social": {
+    "blog": "https://medium.com/socios"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "top",
+    "name": "TOP",
+    "ticker": "TOP",
+    "description": "A high-performance blockchain with a powerful array of service-level infrastructures, including the world’s first decentralized cloud communication services. ",
+    "website": "https://www.topnetwork.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/topnetwork_top",
+    "telegram": "https://t.me/topnetwork_top",
+    "discord": "https://discord.gg/ZE3Nv59",
+    "slack": "https://discordapp.com/invite/ZE3Nv59",
+    "reddit": "https://www.reddit.com/r/TOP_Network/",
+    "blog": "https://medium.com/top-network"
+  },
+  "development": {
+    "github_organizations": [
+      "top-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

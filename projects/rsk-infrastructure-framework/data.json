@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rsk-infrastructure-framework",
+    "name": "Delete",
+    "ticker": "RIF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

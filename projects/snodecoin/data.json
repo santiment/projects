@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "snodecoin",
+    "name": "SnodeCoin",
+    "ticker": "SND",
+    "description": "Сloud based shared and dedicated masternode for crypto currency",
+    "website": "https://snode.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/snode_co",
+    "discord": "https://discord.gg/u7uTYAA",
+    "slack": "https://discord.gg/u7uTYAA"
+  },
+  "development": {
+    "github_organizations": [
+      "snodeco"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sync-network",
+    "name": "SYNC Network",
+    "ticker": "SYNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

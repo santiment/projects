@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "wys-token",
+    "name": "wys Token",
+    "ticker": "WYS",
+    "description": "Blockchain-powered mobile shopping",
+    "website": "https://wysker.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wysker_",
+    "telegram": "https://t.me/wysker",
+    "slack": "https://goo.gl/forms/VxK4S4K3XZc7P69X2",
+    "reddit": "https://www.reddit.com/r/wysker/",
+    "blog": "https://medium.com/wysker"
+  },
+  "development": {
+    "github_organizations": [
+      "wysker"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd8950fdeaa10304b7a7fd03a2fc66bc39f3c711a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

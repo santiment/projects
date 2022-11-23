@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "lync-network",
+    "name": "LYNC Network",
+    "ticker": "LYNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "usdx-kava",
+    "name": "USDX [Kava]",
+    "ticker": "USDX",
+    "website": "https://kava.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kava_labs",
+    "telegram": "https://t.me/kavalabs",
+    "discord": "https://discord.com/invite/kQzh3Uv",
+    "blog": "https://medium.com/kava-labs"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

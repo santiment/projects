@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "zclassic",
+    "name": "ZClassic",
+    "ticker": "ZCL",
+    "description": "A fork of Zcash",
+    "website": "http://zclassic.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZclassicCoin",
+    "discord": "https://discord.gg/PmVX5jW",
+    "slack": "https://discord.gg/PmVX5jW",
+    "reddit": "https://www.reddit.com/r/ZClassic/"
+  },
+  "development": {
+    "github_organizations": [
+      "z-classic"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

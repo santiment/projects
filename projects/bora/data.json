@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bora",
+    "name": "BORA",
+    "ticker": "BORA",
+    "description": "BORA is a decentralized entertainment platform focused to distribute digital contents and provide incentives to participants",
+    "website": "https://boraecosystem.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bora_ecosystem",
+    "telegram": "https://t.me/boraofficial",
+    "blog": "https://medium.com/boraecosystem"
+  },
+  "development": {
+    "github_organizations": [
+      "boraecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "microbitcoin",
+    "name": "MicroBitcoin",
+    "ticker": "MBC",
+    "description": "A decentralized peer-to-peer transaction platform for the micro-economy based on the Bitcoin protocol",
+    "website": "https://microbitcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/microbitcoinorg",
+    "telegram": "https://t.me/microbitcoinorg",
+    "discord": "https://discord.io/microbitcoin",
+    "slack": "https://discord.io/microbitcoin",
+    "reddit": "https://reddit.com/r/microbitcoinorg"
+  },
+  "development": {
+    "github_organizations": [
+      "microbitcoinorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

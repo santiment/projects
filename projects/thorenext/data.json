@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "thorenext",
+    "name": "ThoreNext",
+    "ticker": "THX",
+    "description": "IoT &amp;amp; Privacy Centric Blockchain Network ",
+    "website": "https://www.thorenext.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Thr_Official",
+    "telegram": "https://t.me/ThorenetworkOfficial",
+    "discord": "https://discord.gg/KKUgZbv",
+    "slack": "https://discordapp.com/invite/KKUgZbv",
+    "reddit": "https://www.reddit.com/r/ThoreCoin/",
+    "blog": "https://medium.com/@Thorenetwork"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf08c68bd5f4194d994fd70726746bf529ee5a617",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

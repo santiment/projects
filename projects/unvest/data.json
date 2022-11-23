@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unvest",
+    "name": "Unvest",
+    "ticker": "UNV"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

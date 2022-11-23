@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tokenstars",
+    "name": "TokenStars",
+    "ticker": "TEAM",
+    "description": "First celebrity management platform",
+    "website": "https://tokenstars.com/team"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokenstars",
+    "telegram": "https://t.me/tokenstars_en",
+    "reddit": "https://reddit.com/r/tokenstars",
+    "blog": "https://medium.com/@tokenstars"
+  },
+  "development": {
+    "github_organizations": [
+      "tokenstars"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c79ab32c66acaa1e9e81952b8aaa581b43e54e7",
+        "blockchain": "ethereum",
+        "decimals": 4
+      }
+    ]
+  }
+}

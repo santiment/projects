@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "docademic",
+    "name": "Docademic",
+    "ticker": "MTC",
+    "description": "Free basic healthcare",
+    "website": "https://docademic.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/docademic",
+    "telegram": "https://t.me/joinchat/GWeOM0Nc_R_htbcpJha7mA",
+    "reddit": "https://www.reddit.com/r/Docademic/",
+    "blog": "https://news.docademic.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "docademic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

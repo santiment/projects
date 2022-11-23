@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "portis",
+    "name": "Portis",
+    "ticker": "PRT",
+    "description": "Non-custodial blockchain wallet",
+    "website": "https://www.portis.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/portis_io",
+    "telegram": "https://t.me/joinchat/FSICkFgEM48CEhz0NP3uPg",
+    "blog": "https://medium.com/@portis"
+  },
+  "development": {
+    "github_organizations": [
+      "portis-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "platoncoin",
+    "name": "PlatonCoin",
+    "ticker": "PLTC",
+    "description": "Platon Finance with its PlatonCoin token is an ecosystem that connects the digital crypto-world with the real one. Through the Platon Club, the project aims to drive adoption of cryptocurrencies",
+    "website": "https://platonfinance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/platonfinance",
+    "telegram": "https://t.me/platonfinance_official"
+  },
+  "development": {
+    "github_organizations": [
+      "platonfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0c6e8a8358cbde54f8e4cd7f07d5ac38aec8c5a4#balances",
+        "blockchain": "ethereum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "skyhub-coin",
+    "name": "SkyHub Coin",
+    "ticker": "SHB",
+    "description": "The world’s best blockchain-powered marketplace of services for online booking industry. SkyHub project’s unique business model will bridge the gap between online travel agency and a traditional travel agency by creating a trusted platform",
+    "website": "https://skyhubcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Skyhubcoin",
+    "telegram": "https://t.me/skyhubcoin",
+    "discord": "https://discord.gg/tKxaVEy",
+    "slack": "https://discord.gg/tKxaVEy",
+    "reddit": "https://www.reddit.com/user/skyhubcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "skyhubs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

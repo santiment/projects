@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sylo",
+    "name": "Sylo",
+    "ticker": "SYLO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

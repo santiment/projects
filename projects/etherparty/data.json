@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "etherparty",
+    "name": "Etherparty",
+    "ticker": "FUEL",
+    "description": "The smart contract creator",
+    "website": "https://etherparty.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/etherparty_io",
+    "telegram": "https://t.me/etherparty",
+    "reddit": "https://www.reddit.com/r/etherparty/",
+    "blog": "https://medium.com/@etherparty"
+  },
+  "development": {
+    "github_organizations": [
+      "etherparty"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

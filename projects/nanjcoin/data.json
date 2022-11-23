@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nanjcoin",
+    "name": "NANJCOIN",
+    "ticker": "NANJ",
+    "website": "https://nanjcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nanjcoin",
+    "discord": "https://discord.gg/xa94m8F",
+    "slack": "https://discordapp.com/invite/xa94m8F",
+    "blog": "https://nanjcoin.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "nanj-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "debitum-network",
+    "name": "Debitum",
+    "ticker": "DEB",
+    "description": "Borderless small business financing",
+    "website": "https://debitum.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DebitumNetwork",
+    "telegram": "https://t.me/debitum",
+    "reddit": "https://www.reddit.com/r/DebitumNetwork/",
+    "blog": "https://blog.debitum.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "debitum"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x151202c9c18e495656f372281f493eb7698961d5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

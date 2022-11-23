@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "plasma-finance",
+    "name": "Plasma Finance",
+    "ticker": "PPAY",
+    "description": "Bundles all DeFi in one dApp",
+    "website": "https://plasma.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xPlasma",
+    "telegram": "https://t.me/plasmapay_community",
+    "blog": "https://medium.com/plasmapay"
+  },
+  "development": {
+    "github_organizations": [
+      "plasmadlt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

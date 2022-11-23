@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "o-multi-collateral-dai",
+    "name": "Dai [on Optimism]",
+    "ticker": "DAI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "decimals": 18
+      }
+    ]
+  }
+}

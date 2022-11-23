@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "green-metaverse-token",
+    "name": "STEPN",
+    "ticker": "GMT",
+    "description": "GMT is the governance token of STEPN with a limited supply of 6 billion tokens",
+    "website": "https://www.stepn.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/STEPNofficial",
+    "telegram": "https://t.me/STEPNofficial",
+    "discord": "http://discord.gg/stepn",
+    "reddit": "https://reddit.com/r/StepN"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+        "decimals": 8
+      }
+    ]
+  }
+}

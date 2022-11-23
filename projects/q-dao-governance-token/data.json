@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "q-dao-governance-token",
+    "name": "Q DAO Governance token v1.0",
+    "ticker": "QDAO",
+    "website": "https://usdq.platinum.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/platinumqdao",
+    "telegram": "https://t.me/PlatinumQeng",
+    "blog": "https://medium.com/platinum-fund"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3166c570935a7d8554c8f4ea792ff965d2efe1f2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

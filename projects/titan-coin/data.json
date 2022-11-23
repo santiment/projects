@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "titan-coin",
+    "name": "Titan Coin",
+    "ticker": "TTN",
+    "description": "Powerful &amp;amp; Resourceful Coin",
+    "website": "https://titanprojects.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProjectsTitan",
+    "telegram": "https://t.me/TitanCoinOfficial",
+    "reddit": "https://www.reddit.com/r/tItanprojects/",
+    "blog": "https://medium.com/@titanprojectsco"
+  },
+  "development": {
+    "github_organizations": [
+      "Titan"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

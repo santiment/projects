@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "ultra-salescoud",
+    "name": "Ultra Salescloud",
+    "ticker": "UST",
+    "description": "The Next-generation Intelligent Marketing Chain",
+    "website": "http://www.ust.top/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UltraSalescloud",
+    "telegram": "https://t.me/UST_official",
+    "slack": "https://weibo.com/UltraSalescloud",
+    "reddit": "https://www.reddit.com/user/UltraSalescloudToken",
+    "blog": "https://weibo.com/UltraSalescloud"
+  },
+  "development": {
+    "github_organizations": [
+      "ultrasalescloud"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2bdbf15d055899a767f5459a151bed15fb8fd2f6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

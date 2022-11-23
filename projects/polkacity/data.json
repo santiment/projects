@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "polkacity",
+    "name": "Polkacity",
+    "ticker": "POLC",
+    "description": "The World's First 3D & AR NFT Multichain Platform and Video Game",
+    "website": "https://www.polkacity.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolkaCity",
+    "telegram": "https://t.me/Polkacity",
+    "reddit": "https://www.reddit.com/r/polkacity/",
+    "blog": "https://polkacity.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "POLKACITY"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

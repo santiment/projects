@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "fio-protocol",
+    "name": "FIO Protocol",
+    "ticker": "FIO",
+    "description": "A decentralized usability laye",
+    "website": "https://fioprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/joinFIO",
+    "telegram": "https://t.me/joinFIO",
+    "discord": "https://discord.gg/pHBmJCc",
+    "slack": "https://discord.gg/pHBmJCc",
+    "reddit": "https://www.reddit.com/r/officialFIO/",
+    "blog": "https://medium.com/fio-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "fioprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "steak-finance",
+    "name": "Steaks Finance",
+    "ticker": "STEAK",
+    "description": "Decentralized exchange and Fair Launch DeFi Token",
+    "website": "https://steaks.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/steaksfinance",
+    "telegram": "https://t.me/steaksfinancechat",
+    "discord": "https://discord.com/invite/qYZtSyV",
+    "slack": "https://discord.com/invite/qYZtSyV",
+    "blog": "https://medium.com/@steaksfinance/"
+  },
+  "development": {
+    "github_organizations": [
+      "rublixdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeed9e4f2450035d6426276a8aa2084966ee3b1bb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

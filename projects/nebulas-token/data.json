@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nebulas-token",
+    "name": "Nebulas",
+    "ticker": "NAS",
+    "description": "Decentralized Search Framework",
+    "website": "https://nebulas.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nebulasio",
+    "telegram": "https://t.me/nebulasio",
+    "slack": "https://nebulasio.slack.com/",
+    "blog": "https://medium.com/@nebulasio"
+  },
+  "development": {
+    "github_organizations": [
+      "nebulasio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d65d971895edc438f465c17db6992698a52318d",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

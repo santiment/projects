@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "metisdao",
+    "name": "MetisDAO",
+    "ticker": "METIS",
+    "description": "Layer2 Ethereum Rollup",
+    "website": "https://www.metis.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MetisDAO",
+    "telegram": "https://t.me/MetisDAO",
+    "blog": "https://metisdao.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "MetisProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

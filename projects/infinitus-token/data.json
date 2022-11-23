@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "infinitus-token",
+    "name": "Infinitus Token",
+    "ticker": "INF",
+    "description": "Smart Designation Repository",
+    "website": "https://inftech.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InfinitusToken",
+    "telegram": "https://t.me/infinitustoken"
+  },
+  "development": {
+    "github_organizations": [
+      "infinitustoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00e150d741eda1d49d341189cae4c08a73a49c95",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

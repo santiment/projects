@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "maps",
+    "name": "MAPS",
+    "ticker": "MAPS",
+    "description": "Online and offline maps",
+    "website": "https://maps.me/token/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maps_me",
+    "telegram": "https://t.me/Maps_Official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2b915b505c017abb1547aa5ab355fbe69865cc6d",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

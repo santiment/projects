@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "torn",
+    "name": "Tornado Cash",
+    "ticker": "TORN",
+    "description": "Non-custodial anonymous transactions on Ethereum",
+    "website": "https://tornado.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TornadoCash",
+    "telegram": "https://t.me/TornadoCashOfficial",
+    "blog": "https://tornado-cash.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "tornadocash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x77777feddddffc19ff86db637967013e6c6a116c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

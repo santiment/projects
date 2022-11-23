@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tena",
+    "name": "TENA",
+    "ticker": "TENA",
+    "description": "A blockchain-based payment protocol Where rewards come with every transaction",
+    "website": "https://tenaprotocol.io/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tenaprotocol",
+    "telegram": "https://t.me/tenaprotocol_en",
+    "blog": "https://medium.com/tenaprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "tenaprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xE14A603f7c77d4101A87859b8736a04CFD85C688",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

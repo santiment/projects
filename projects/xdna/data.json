@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "xdna",
+    "name": "XDNA",
+    "ticker": "XDNA",
+    "website": "https://xdna.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XDNA_Official",
+    "telegram": "https://t.me/xdna_official",
+    "discord": "https://discord.gg/M49t5gD",
+    "slack": "https://discord.gg/M49t5gD",
+    "reddit": "https://www.reddit.com/r/XDNA_Official",
+    "blog": "https://medium.com/@xdna.info"
+  },
+  "development": {
+    "github_organizations": [
+      "xdna-core"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

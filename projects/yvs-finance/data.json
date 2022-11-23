@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yvs-finance",
+    "name": "YVS.Finance",
+    "ticker": "YVS",
+    "description": "Yield farming, vaults and staking deflationary token with no admin control",
+    "website": "https://yvs.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YVSFinance",
+    "telegram": "https://t.me/YVSFinance",
+    "blog": "https://blog.yvs.finance/"
+  },
+  "development": {
+    "github_organizations": [
+      "yvs-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

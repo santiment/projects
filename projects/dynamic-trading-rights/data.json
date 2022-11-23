@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dynamic-trading-rights",
+    "name": "Dynamic Trading Rights",
+    "ticker": "DTR",
+    "description": "Next generation cryptocurrency trading platform",
+    "website": "http://www.tokens.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TokensNet",
+    "blog": "https://medium.com/@tokensnet"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd234bf2410a0009df9c3c63b610c09738f18ccd7",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

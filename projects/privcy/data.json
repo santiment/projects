@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "privcy",
+    "name": "PRiVCY",
+    "ticker": "PRIV",
+    "description": "Utilizing number of security elements to protect anonymity",
+    "website": "https://privcy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PRiVCY_COIN",
+    "telegram": "https://t.me/PRiVCY_community",
+    "discord": "https://discord.gg/dTar3DP",
+    "slack": "https://discord.gg/dTar3DP",
+    "reddit": "https://www.reddit.com/r/PRiVCY/"
+  },
+  "development": {
+    "github_organizations": [
+      "privcycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

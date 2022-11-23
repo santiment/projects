@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "the-midas-touch-gold",
+    "name": "The Midas Touch Gold",
+    "ticker": "TMTG",
+    "description": "Digital Gold Exchange",
+    "website": "https://dgex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tmtgdge",
+    "telegram": "http://t.me/officialtmtg"
+  },
+  "development": {
+    "github_organizations": [
+      "digitalgoldexchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x10086399dd8c1e3de736724af52587a2044c9fa2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

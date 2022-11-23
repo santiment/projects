@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "coinpoker",
+    "name": "CoinPoker",
+    "ticker": "CHP",
+    "description": "CryptoCurrency Online Poker",
+    "website": "https://coinpoker.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinPoker_OFF",
+    "telegram": "https://t.me/officialcoinpoker",
+    "reddit": "https://www.reddit.com/r/coinpoker/",
+    "blog": "https://medium.com/@CoinPoker"
+  },
+  "development": {
+    "github_organizations": [
+      "coinpokerofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3db7560e820834658b590c96234c333cd3d5e5e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "linear",
+    "name": "Linear",
+    "ticker": "LINA",
+    "description": "A Cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity",
+    "website": "https://linear.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LinearFinance",
+    "telegram": "https://t.me/Tb3iAhuMZsyfspxhEWQLvw",
+    "blog": "https://medium.com/@linear.finance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

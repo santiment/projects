@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "cvcoin",
+    "name": "CVCoin",
+    "ticker": "CVN",
+    "description": "The most secure social and business communication network on the blockchain",
+    "website": "http://crypviser.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/crypviser",
+    "telegram": "https://t.me/crypviser",
+    "reddit": "https://www.reddit.com/r/Crypviser/",
+    "blog": "https://medium.com/@crypviser"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

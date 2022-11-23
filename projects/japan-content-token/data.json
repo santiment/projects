@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "japan-content-token",
+    "name": "Japan Content Token",
+    "ticker": "JCT",
+    "description": "Re-sale and auction of ownership certification",
+    "website": "https://ja-cket.com/"
+  },
+  "social": {
+    "telegram": "http://t.me/JCT_Official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

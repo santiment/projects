@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "meter",
+    "name": "Meter",
+    "ticker": "MTRG",
+    "description": "A secure medium of exchange for DeFi apps",
+    "website": "https://www.meter.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Meter_IO",
+    "telegram": "https://t.me/Meter_IO",
+    "discord": "https://discord.gg/XZgZsCn",
+    "slack": "https://discord.gg/XZgZsCn",
+    "blog": "https://medium.com/meter-io"
+  },
+  "development": {
+    "github_organizations": [
+      "meterio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaa8d0e9A26853D51613ca75729CDE2564913BCfb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

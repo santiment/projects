@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "tenx",
+    "name": "TenX",
+    "ticker": "PAY",
+    "description": "Cryptocurrency credit card",
+    "website": "https://www.tenx.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tenxwallet",
+    "telegram": "http://t.me/PayTenX",
+    "slack": "https://ten-x.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/TenX/",
+    "blog": "https://medium.com/tenx-wallet"
+  },
+  "development": {
+    "github_organizations": [
+      "tenx-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb97048628db6b661d4c2aa833e95dbe1a905b280",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

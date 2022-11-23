@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "non-fungible-yearn",
+    "name": "Non-Fungible Yearn",
+    "ticker": "NFY",
+    "description": "A DeFi platform to utilize NFTs",
+    "website": "https://nfy.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NFYFinance",
+    "telegram": "https://t.me/NFYOfficial",
+    "discord": "http://discord.gg/wKgUcYr",
+    "slack": "http://discord.gg/wKgUcYr",
+    "blog": "https://medium.com/@NFY"
+  },
+  "development": {
+    "github_organizations": [
+      "NFYFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1cbb83ebcd552d5ebf8131ef8c9cd9d9bab342bc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

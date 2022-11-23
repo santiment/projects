@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zynecoin",
+    "name": "Zynecoin",
+    "ticker": "ZYN",
+    "description": "African cryptocurrency",
+    "website": "https://www.zynecoin.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zynecoin",
+    "telegram": "https://t.me/zynecoin"
+  },
+  "development": {
+    "github_organizations": [
+      "zynecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

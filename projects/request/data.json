@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "request",
+    "name": "Request",
+    "ticker": "REQ",
+    "description": "Allows to request a payment",
+    "website": "https://request.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/requestnetwork",
+    "telegram": "https://t.me/requestnetwork",
+    "slack": "https://requestnetwork.slack.com/",
+    "reddit": "https://www.reddit.com/r/RequestNetwork/",
+    "blog": "https://blog.request.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "requestnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

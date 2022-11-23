@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "intervalue",
+    "name": "InterValue",
+    "ticker": "INVE",
+    "description": "InterValue-Connect, Transfer and Exchange All Digital Assets Over the World",
+    "website": "http://www.inve.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/intervaluepro",
+    "telegram": "https://t.me/InterValueProject",
+    "reddit": "https://www.reddit.com/user/intervalue/",
+    "blog": "https://medium.com/@intervalueproject"
+  },
+  "development": {
+    "github_organizations": [
+      "intervalue"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdac4ae188ace3c8985765edc6c9b4739d4845ddc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

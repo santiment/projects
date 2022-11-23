@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "mexc",
+    "name": "MEXC Token",
+    "ticker": "MEXC",
+    "description": "An utility token for the Emergency Medical Services industry",
+    "website": "https://mexc.life/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mexc_life/",
+    "telegram": "https://t.me/mexclifea utility token for the Emergency Medical Services (EMS) industry",
+    "reddit": "https://www.reddit.com/r/mexc/",
+    "blog": "https://medium.com/mexc-life"
+  },
+  "development": {
+    "github_organizations": [
+      "mexclife"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7de2d123042994737105802d2abd0a10a7bde276",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "silverway",
+    "name": "Silverway",
+    "ticker": "SLV",
+    "description": "Buy and Sell Private Round Tokens",
+    "website": "https://silverway.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/silverwayotc",
+    "telegram": "https://t.me/silverwayotc",
+    "blog": "https://medium.com/silverwayplatform"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c1c4957d22d8f373aed54d0853b090666f6f9de",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unicorn-token",
+    "name": "UNICORN Token",
+    "ticker": "UNI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

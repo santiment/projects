@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "yearn-ecosystem-token-index",
+    "name": "Yearn Ecosystem Token Index",
+    "ticker": "YETI",
+    "description": "Yearn Finance ecosystem index token",
+    "website": "https://powerindex.io/#/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/powerpoolcvp",
+    "telegram": "https://t.me/powerpoolcvp",
+    "discord": "https://discord.com/invite/hYJXUBQ",
+    "slack": "https://discord.com/invite/hYJXUBQ",
+    "blog": "https://medium.com/@powerpoolcvp"
+  },
+  "development": {
+    "github_organizations": [
+      "powerpool-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

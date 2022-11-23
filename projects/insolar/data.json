@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "insolar",
+    "name": "Insolar",
+    "ticker": "XNS",
+    "description": "The Grocery Industry, Reinvented",
+    "website": "https://xns.insolar.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/insolario",
+    "telegram": "https://t.me/InsolarAnnouncements",
+    "reddit": "https://www.reddit.com/r/insolar/",
+    "blog": "https://medium.com/insolar"
+  },
+  "development": {
+    "github_organizations": [
+      "ins-ecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
+        "decimals": 10
+      }
+    ]
+  }
+}

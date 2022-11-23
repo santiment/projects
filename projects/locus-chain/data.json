@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "locus-chain",
+    "name": "Locus Chain",
+    "ticker": "LOCUS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

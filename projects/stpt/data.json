@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "stpt",
+    "name": "Standard Tokenization Protocol",
+    "ticker": "STPT",
+    "description": "Standard Tokenization Protocol",
+    "website": "https://stp.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/STP_Networks",
+    "telegram": "https://t.me/STPofficial",
+    "blog": "https://medium.com/@StandardTokenizationProtocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

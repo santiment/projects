@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "prom",
+    "name": "Prom",
+    "ticker": "PROM",
+    "description": "Gaming NFT marketplace & rental",
+    "website": "https://prom.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/prom_io",
+    "telegram": "https://t.me/prom_io",
+    "discord": "https://discord.com/invite/prom",
+    "blog": "https://prom-io.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "prom-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

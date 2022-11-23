@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "skale-network",
+    "name": "SKALE Network",
+    "ticker": "SKL",
+    "description": "Elastic Network for Ethereum Scaling",
+    "website": "https://skale.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SkaleNetwork",
+    "telegram": "https://t.me/skaleofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "skalenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

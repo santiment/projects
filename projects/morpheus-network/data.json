@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "morpheus-network",
+    "name": "Morpheus Network",
+    "ticker": "MNW",
+    "description": "A supply chain platform with an integrated cryptocurrency payment system ",
+    "website": "https://morpheus.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/morphcrypto",
+    "telegram": "https://t.me/themorpheusnetwork/",
+    "reddit": "https://www.reddit.com/r/MorpheusNetwork/",
+    "blog": "https://medium.com/@themorpheus"
+  },
+  "development": {
+    "github_organizations": [
+      "MorpheusNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "morpheus_contract",
+        "blockchain": "ethereum",
+        "decimals": 4,
+        "label": "main"
+      }
+    ]
+  }
+}

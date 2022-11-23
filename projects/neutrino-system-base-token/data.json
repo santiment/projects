@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "neutrino-system-base-token",
+    "name": "Neutrino Token",
+    "ticker": "NSBT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

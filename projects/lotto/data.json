@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "lotto",
+    "name": "Lotto",
+    "ticker": "LOTTO",
+    "description": "The Immutable World Lottery",
+    "website": "https://lotto.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LottoFinance",
+    "telegram": "https://t.me/lottofinance",
+    "reddit": "https://www.reddit.com/",
+    "blog": "https://medium.com/lottofinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

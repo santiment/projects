@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "wpp-token",
+    "name": "WPP",
+    "ticker": "WPP",
+    "description": "Repository for disruptive green energy",
+    "website": "https://wppenergy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wppenergycoin",
+    "telegram": "https://t.me/WPPEnergy"
+  },
+  "development": {
+    "github_organizations": [
+      "wppcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

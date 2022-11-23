@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "pivot-token",
+    "name": "Pivot Token",
+    "ticker": "PVT",
+    "description": "A cryptocurrency community",
+    "website": "https://www.pivot.one/pc/about"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pivot_pvt",
+    "telegram": "https://t.me/pivotglobal"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

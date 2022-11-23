@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aave-knc",
+    "name": "Aave KNC",
+    "ticker": "aKNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9d91be44c06d373a8a226e1f3b146956083803eb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

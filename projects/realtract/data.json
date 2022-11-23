@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "realtract",
+    "name": "RealTract",
+    "ticker": "RET",
+    "description": "The first 2.0 smartcontract in the world",
+    "website": "https://realtract.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realtract",
+    "telegram": "http://t.me/realtractchannel",
+    "reddit": "https://www.reddit.com/user/RealTract",
+    "blog": "https://medium.com/@realtractofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "retnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd7394087e1dbbe477fe4f1cf373b9ac9459565ff",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "xvix",
+    "name": "XVIX",
+    "ticker": "XVIX",
+    "description": "A token that absorbs value from volatility",
+    "website": "https://xvix.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XVIX_Finance",
+    "telegram": "https://t.me/XVIX_Finance",
+    "blog": "https://xvix.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "xvi10"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4bAE380B5D762D543d426331b8437926443ae9ec",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

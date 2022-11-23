@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "freyrchain",
+    "name": "Freyrchain",
+    "ticker": "FREC",
+    "description": "The world&amp;#39;s first collectibles data authentication platform",
+    "website": "http://www.freyrchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/freyrchain",
+    "telegram": "https://t.me/Freyrchain_Official",
+    "slack": "https://freyrchain.slack.com/",
+    "reddit": "https://www.reddit.com/r/Freyrchain/",
+    "blog": "https://medium.com/@freyrchain"
+  },
+  "development": {
+    "github_organizations": [
+      "freyrchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x17e67d1cb4e349b9ca4bc3e17c7df2a397a7bb64",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

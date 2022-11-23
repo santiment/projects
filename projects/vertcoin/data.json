@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "vertcoin",
+    "name": "Vertcoin",
+    "ticker": "VTC",
+    "description": "A decentralized currency owned by its users",
+    "website": "http://vertcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vertcoin",
+    "discord": "https://discord.gg/vertcoin",
+    "slack": "https://discord.gg/vertcoin",
+    "reddit": "https://www.reddit.com/r/vertcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "vertcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

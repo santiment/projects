@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "phonecoin",
+    "name": "Phonecoin",
+    "ticker": "PHON",
+    "description": "Cryptocurrency Network for Cellular Communications",
+    "website": "https://phonecoin.space/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/phonecoin_PHON",
+    "discord": "https://discord.gg/w5AWxqk",
+    "slack": "https://discord.gg/w5AWxqk"
+  },
+  "development": {
+    "github_organizations": [
+      "phonecoin-phon"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

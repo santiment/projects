@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "fintab",
+    "name": "FinTab",
+    "ticker": "FNTB",
+    "description": "The Accounting System for Cryptocurrency Portfolios",
+    "website": "https://fintab.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fintab_io",
+    "telegram": "https://t.me/fintab_chat_en",
+    "reddit": "https://www.reddit.com/r/FinTab/",
+    "blog": "https://medium.com/@fintab"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbD4B60a138b3fce3584EA01f50c0908c18f9677A",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

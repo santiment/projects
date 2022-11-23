@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "rakon",
+    "name": "Rakon",
+    "ticker": "RKN",
+    "website": "https://rkntoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RakonRkn",
+    "telegram": "https://t.me/rkntoken",
+    "blog": "https://medium.com/@rakontoken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6e5a43db10b04701385a34afb670e404bc7ea597",
+        "blockchain": "ethereum",
+        "decimals": 12,
+        "label": "main"
+      }
+    ]
+  }
+}

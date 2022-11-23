@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "stockchain",
+    "name": "StockChain",
+    "ticker": "SCC",
+    "description": "1st decentralized cryptocurrency quotation and exchange platform",
+    "website": "http://stockchain.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StockChain_Ltd",
+    "telegram": "https://t.me/stockchainSCC2",
+    "reddit": "https://www.reddit.com/user/stockchain_scc",
+    "blog": "https://medium.com/@StockChain_co"
+  },
+  "development": {
+    "github_organizations": [
+      "stockchainscc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x355a458d555151d3b27f94227960ade1504e526a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

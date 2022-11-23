@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "narrative",
+    "name": "Narrative Network",
+    "ticker": "NRV",
+    "description": "A social media network that rewards content creators",
+    "website": "https://tokensale.narrative.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/narrative_hq",
+    "telegram": "https://t.me/narrativenetwork",
+    "reddit": "https://www.reddit.com/r/NarrativeNetwork/",
+    "blog": "https://blog.narrative.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "narrativecompany"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

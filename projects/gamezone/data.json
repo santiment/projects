@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gamezone",
+    "name": "GameZone",
+    "ticker": "GZONE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

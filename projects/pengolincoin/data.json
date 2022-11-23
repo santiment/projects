@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "pengolincoin",
+    "name": "PengolinCoin",
+    "ticker": "PGO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

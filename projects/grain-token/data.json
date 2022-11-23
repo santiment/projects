@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "grain-token",
+    "name": "Grain",
+    "ticker": "GRAIN",
+    "description": "A buyback token for USDC/USDT depositors on Harvest Finance",
+    "website": "https://harvest.finance/"
+  },
+  "social": {
+    "reddit": "https://www.reddit.com/r/HarvestFinance/",
+    "blog": "https://medium.com/harvest-finance/announcing-the-grain-claims-portal-20dd12c4f631"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6589fe1271a0f29346796c6baf0cdf619e25e58e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

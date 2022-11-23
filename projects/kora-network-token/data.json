@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kora-network-token",
+    "name": "Kora Network Token",
+    "ticker": "KNT",
+    "description": "A digital banking solution",
+    "website": "https://kora.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Kora_Network",
+    "telegram": "https://t.me/kora_network",
+    "reddit": "https://www.reddit.com/r/KoraNetwork/",
+    "blog": "https://medium.com/kora-network"
+  },
+  "development": {
+    "github_organizations": [
+      "koranetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff5c25d2f40b47c4a37f989de933e26562ef0ac0",
+        "blockchain": "ethereum",
+        "decimals": 16
+      }
+    ]
+  }
+}

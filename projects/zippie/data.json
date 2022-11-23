@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "zippie",
+    "name": "Zippie",
+    "ticker": "ZIPT",
+    "description": "The easiest way to send and store digital currencies",
+    "website": "https://zippie.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zippiehq",
+    "telegram": "https://t.me/zippiehq",
+    "reddit": "https://www.reddit.com/r/Zippie/",
+    "blog": "https://medium.com/zippie"
+  },
+  "development": {
+    "github_organizations": [
+      "zippiehq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xedd7c94fd7b4971b916d15067bc454b9e1bad980",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

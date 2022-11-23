@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "wrapped-everscale",
+    "name": "Wrapped Everscale",
+    "ticker": "WEVER",
+    "description": "Decentralized world computer token on its native blockchain",
+    "website": "https://everscale.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Everscale_net",
+    "telegram": "https://t.me/everscale",
+    "discord": "https://discord.gg/everscale",
+    "reddit": "https://reddit.com/r/Everscale/",
+    "blog": "https://blog.everscale.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "tonlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sdefi",
+    "name": "Synth sDEFI",
+    "ticker": "sDEFI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_aave_eth_lp",
+    "name": "Uniswap V2: AAVE",
+    "ticker": "UNI-V2 AAVE/ETH LP",
+    "description": "LP Token for the UNI-V2 AAVE-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdfc14d2af169b0d36c4eff567ada9b2e0cae044f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pal-network",
+    "name": "Pal Network",
+    "ticker": "PAL",
+    "description": "The future of insurance for unbanked and cryptoassets",
+    "website": "https://www.policypal.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolicyPalNET",
+    "telegram": "https://t.me/PolicyPalNetwork",
+    "reddit": "https://www.reddit.com/r/PolicyPalNetwork",
+    "blog": "https://medium.com/@policypalnet"
+  },
+  "development": {
+    "github_organizations": [
+      "policypalnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfedae5642668f8636a11987ff386bfd215f942ee",
+        "decimals": 18
+      }
+    ]
+  }
+}

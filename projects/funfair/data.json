@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "funfair",
+    "name": "FUNToken",
+    "ticker": "FUN",
+    "description": "Decentralized gaming platform",
+    "website": "https://funtoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/funtoken_io",
+    "telegram": "https://t.me/officialFUNToken",
+    "discord": "https://discord.gg/TM5mcfpm",
+    "slack": "https://funfair.slack.com/",
+    "reddit": "https://reddit.com/r/FUN_Token",
+    "blog": "https://funfair.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "funfair-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

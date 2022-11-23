@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "liquity",
+    "name": "Liquity",
+    "ticker": "LQTY",
+    "description": "Interest-free borrowing",
+    "website": "https://www.liquity.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LiquityProtocol",
+    "discord": "https://discord.com/invite/2up5U32",
+    "blog": "https://medium.com/liquity"
+  },
+  "development": {
+    "github_organizations": [
+      "liquity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "roiyal-coin",
+    "name": "ROIyal Coin",
+    "ticker": "ROCO",
+    "description": "Team ROCO is building a platform that would help the investors eager to bring their funds to emerging projects at their early pre-launch stage, to filter off the vast streams of informational noise and thus save time and maximize the profits",
+    "website": "https://www.roiyalcoin.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinRoiyal",
+    "discord": "https://discord.gg/nCchPXJ",
+    "slack": "https://discord.gg/nCchPXJ"
+  },
+  "development": {
+    "github_organizations": [
+      "roiyalcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

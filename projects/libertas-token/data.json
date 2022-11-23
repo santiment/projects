@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "libertas-token",
+    "name": "Libertas Token",
+    "ticker": "LIBERTAS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

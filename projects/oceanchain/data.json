@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "oceanchain",
+    "name": "OceanChain",
+    "ticker": "OC",
+    "website": "https://oceanchain.club/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ocean_chain",
+    "telegram": "https://t.me/joinchat/EmUWVknGSr_tD7ZqJ4IQOQ",
+    "blog": "https://medium.com/@oceanchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

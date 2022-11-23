@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "spartan-protocol",
+    "name": "Spartan Protocol",
+    "ticker": "SPARTA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

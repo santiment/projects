@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "simdaq",
+    "name": "Simdaq",
+    "ticker": "SMDQ",
+    "description": "Platform for cryptotrading",
+    "website": "https://simdaq.com/"
+  },
+  "social": {
+    "twitter": "http://twitter.com/simdaq",
+    "telegram": "http://telegram.me/simdaq",
+    "blog": "http://medium.com/simdaq-blog"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

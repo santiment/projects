@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "publish",
+    "name": "PUBLISH",
+    "ticker": "NEWS",
+    "description": "Blockchain-based digital newsroom solutions",
+    "website": "https://publishprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PUBLISH_Inc",
+    "telegram": "https://t.me/PUBLISH_official_en",
+    "reddit": "https://www.reddit.com/r/PublishProtocol/",
+    "blog": "https://medium.com/publishprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "publishprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "poa",
+    "name": "Duplicate",
+    "ticker": "POA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

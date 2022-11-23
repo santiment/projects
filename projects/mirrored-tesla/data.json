@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-tesla",
+    "name": "Mirrored Tesla",
+    "ticker": "mTSLA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

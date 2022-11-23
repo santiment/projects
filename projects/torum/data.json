@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "torum",
+    "name": "Torum",
+    "ticker": "XTM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

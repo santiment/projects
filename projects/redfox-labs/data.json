@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "redfox-labs",
+    "name": "RedFOX Labs",
+    "ticker": "RFOX",
+    "description": "SEAs first blockchain Venture Builder",
+    "website": "https://redfoxlabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/redfoxlabs_io",
+    "telegram": "https://t.me/redfoxlabs",
+    "reddit": "https://www.reddit.com/r/redfoxlabs/",
+    "blog": "https://medium.com/@redfoxlabs.io"
+  },
+  "development": {
+    "github_organizations": [
+      "jl777"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

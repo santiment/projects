@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "meeb-master",
+    "name": "Meeb Master",
+    "ticker": "MEEB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

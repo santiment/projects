@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "warp-finance",
+    "name": "Warp Finance",
+    "ticker": "WARP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

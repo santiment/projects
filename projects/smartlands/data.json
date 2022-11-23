@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "smartlands",
+    "name": "Smartlands",
+    "ticker": "SLT",
+    "website": "https://smartlands.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Smartlands",
+    "telegram": "https://t.me/smartlandschat",
+    "blog": "https://medium.com/@smartlands"
+  },
+  "development": {
+    "github_organizations": [
+      "smartlands-platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

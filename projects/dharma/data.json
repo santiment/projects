@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dharma",
+    "name": "Dharma",
+    "ticker": "DHA",
+    "website": "https://www.dharma.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dharma_HQ",
+    "discord": "https://discord.gg/qvKTDgR",
+    "slack": "https://discord.gg/qvKTDgR",
+    "blog": "https://blog.dharma.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "dharmaprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

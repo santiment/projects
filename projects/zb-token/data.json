@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "zb-token",
+    "name": "delete",
+    "ticker": "ZB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

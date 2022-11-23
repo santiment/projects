@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "solrise-finance",
+    "name": "Solrise Finance",
+    "ticker": "SLRS",
+    "description": "Decentralized, trust-minimized investment funds on Solana",
+    "website": "https://solrise.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SolriseFinance",
+    "telegram": "https://t.me/solrisefinance",
+    "discord": "https://discord.gg/XG5EU3hq2g",
+    "blog": "https://blog.solrise.finance/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

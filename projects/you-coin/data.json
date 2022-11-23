@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "you-coin",
+    "name": "YOU COIN",
+    "ticker": "YOU",
+    "description": "Produce and trade personal virtual items",
+    "website": "http://youchain.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YOUCOIN2",
+    "telegram": "https://t.me/youchainclub"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

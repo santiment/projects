@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "woodcoin",
+    "name": "Woodcoin",
+    "ticker": "LOG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

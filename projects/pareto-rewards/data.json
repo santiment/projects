@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "pareto-rewards",
+    "name": "Pareto Network",
+    "ticker": "PARETO",
+    "website": "https://pareto.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ParetoNetwork",
+    "telegram": "https://t.me/paretonetworkdiscussion",
+    "slack": "https://slack-invite.pareto.network/",
+    "reddit": "https://www.reddit.com/r/ParetoNetwork/",
+    "blog": "https://blog.pareto.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "paretonetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

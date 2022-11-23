@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mfit-coin",
+    "name": "MFIT COIN",
+    "ticker": "MFIT",
+    "description": "Top MMA Gym in Asia Launches Cryptocurrency for the Fitness Industry to reward its loyal network of gyms owners, fight event organisers, sponsors, over 500 fighters and 12,000 members, and more than 100,000 social media supporters.",
+    "website": "https://mfitcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinMfit",
+    "telegram": "https://t.me/joinchat/AAAAAEY6o04lr1YFjq5Svg"
+  },
+  "development": {
+    "github_organizations": [
+      "muayfitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

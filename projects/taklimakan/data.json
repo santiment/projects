@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "taklimakan",
+    "name": "Taklimakan Network",
+    "ticker": "TAN",
+    "description": "Business platform for cryptocurrency investors",
+    "website": "https://www.taklimakan.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/taklimakan_net",
+    "telegram": "https://t.me/taklimakan_news",
+    "blog": "https://medium.com/@taklimakan"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c36204a0712a2a50e54a62f7c4f01867e78cb53",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

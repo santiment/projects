@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "fortem-capital",
+    "name": "Fortem Capital",
+    "ticker": "FCQ",
+    "description": "Real Estate tokenized",
+    "website": "https://fortemcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CapitalFortem",
+    "telegram": "https://t.me/fortemcapital",
+    "reddit": "https://www.reddit.com/user/Fortemcapital",
+    "blog": "https://medium.com/@CapitalFortem"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6710cee627fa3a988200ffd5687cc1c814cef0f6",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

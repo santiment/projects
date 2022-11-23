@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "carinet",
+    "name": "CariNet",
+    "ticker": "CIT",
+    "description": "Caribbean Digital Finance and Free Trade System",
+    "website": "http://www.carinet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/carinet_io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc54083e77f913a4f99e1232ae80c318ff03c9d17",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

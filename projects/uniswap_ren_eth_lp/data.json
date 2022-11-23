@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_ren_eth_lp",
+    "name": "Uniswap V2: REN",
+    "ticker": "UNI-V2 REN/ETH LP",
+    "description": "LP Token for the UNI-V2 REN-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8bd1661da98ebdd3bd080f0be4e6d9be8ce9858c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sparkster",
+    "name": "Sparkster",
+    "ticker": "SPRK",
+    "description": "Build software without writing code",
+    "website": "http://sparkster.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Sparkster_Me",
+    "telegram": "https://t.me/SparksterICO",
+    "reddit": "https://www.reddit.com/user/Sparkster_me/",
+    "blog": "https://medium.com/sparkster"
+  },
+  "development": {
+    "github_organizations": [
+      "sparkster-me"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x971d048e737619884f2df75e31c7eb6412392328",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "nucypher",
+    "name": "NuCypher",
+    "ticker": "NU",
+    "description": "Encryption and cryptographic access controls",
+    "website": "https://nucypher.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nucypher",
+    "telegram": "https://t.me/nucypher",
+    "discord": "https://discord.gg/7rmXa3S",
+    "slack": "https://discordapp.com/invite/7rmXa3S",
+    "reddit": "https://www.reddit.com/r/nucypherkms/",
+    "blog": "https://blog.nucypher.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "nucypher"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

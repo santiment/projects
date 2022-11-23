@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "the-champcoin",
+    "name": "The ChampCoin",
+    "ticker": "TCC",
+    "website": "http://thechampcoin.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "tcc-world"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

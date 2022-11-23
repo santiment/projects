@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wrapped-velas",
+    "name": "Wrapped Velas",
+    "ticker": "WVLX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

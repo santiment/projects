@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nix-bridge-token",
+    "name": "NIX Bridge Token",
+    "ticker": "NBT",
+    "description": "Rewards participants with DAO governance rights over the NIX Bridge private DeFi protocol",
+    "website": "http://bridge.nixplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nixplatform",
+    "telegram": "https://t.me/nixplatform",
+    "discord": "https://discord.gg/HGuvDTW",
+    "slack": "https://discordapp.com/invite/HGuvDTW"
+  },
+  "development": {
+    "github_organizations": [
+      "nixplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e2364966267B5D7D2cE6CD9A9B5bD19d9C7C6A9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

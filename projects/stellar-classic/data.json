@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "stellar-classic",
+    "name": "Stellar Classic",
+    "ticker": "XLMX",
+    "description": "Freelance marketplace",
+    "website": "https://stellar-classics.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/classicsstellar",
+    "telegram": "https://telegram.me/stellarclassics",
+    "reddit": "https://reddit.com/user/Stellarclassic"
+  },
+  "development": {
+    "github_organizations": [
+      "stellarclassics"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1e66008a24a486456a796e0c771fdc0cdf43cad9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

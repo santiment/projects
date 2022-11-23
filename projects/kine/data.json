@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kine",
+    "name": "KINE",
+    "ticker": "KINE",
+    "description": "Derivative Markets with Unlimited Liquidity",
+    "website": "https://kine.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KineProtocol",
+    "telegram": "https://t.me/kineprotocol",
+    "discord": "https://discord.com/invite/rzFpssXHcT",
+    "blog": "https://medium.com/@KineProtocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Kine-Technology"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "swarm-fund",
+    "name": "Swarm",
+    "ticker": "SWM",
+    "description": "First security token blockchain",
+    "website": "https://www.swarm.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/theswarmfund",
+    "telegram": "https://t.me/swarmfund",
+    "slack": "https://swarmnetworkgroup.slack.com/",
+    "reddit": "https://www.reddit.com/r/swarm/",
+    "blog": "https://blog.swarm.fund/"
+  },
+  "development": {
+    "github_organizations": [
+      "swarmfund"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

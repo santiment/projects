@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "88mph",
+    "name": "88mph",
+    "ticker": "MPH",
+    "description": "Lend your crypto assets at a fixed interest rate",
+    "website": "https://88mph.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/88mphapp",
+    "discord": "https://discord.gg/95pw2uQ7PE",
+    "slack": "https://discord.gg/95pw2uQ7PE",
+    "blog": "https://medium.com/88mphapp"
+  },
+  "development": {
+    "github_organizations": [
+      "88mphapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

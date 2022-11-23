@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "social-lending-token",
+    "name": "Social Lending Token",
+    "ticker": "SLT",
+    "description": "Social Finance Ecosystem",
+    "website": "https://sociallending.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/renmaibao",
+    "telegram": "https://t.me/SocialLending"
+  },
+  "development": {
+    "github_organizations": [
+      "rdsociallendingio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x851017523ae205adc9195e7f97d029f4cfe7794c",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

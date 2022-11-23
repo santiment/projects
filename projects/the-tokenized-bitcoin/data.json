@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "the-tokenized-bitcoin",
+    "name": "The Tokenized Bitcoin",
+    "ticker": "imBTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

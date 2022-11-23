@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "lendingblock",
+    "name": "Lendingblock",
+    "ticker": "LND",
+    "description": "Borrow and Lend Any Digital Currency",
+    "website": "https://lendingblock.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lendingblock",
+    "telegram": "https://t.me/lendingblock",
+    "reddit": "https://www.reddit.com/r/Lendingblock/",
+    "blog": "https://blog.lendingblock.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "lendingblock"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0947b0e6d821378805c9598291385ce7c791a6b2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

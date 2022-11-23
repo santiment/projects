@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitcoinhd",
+    "name": "BitcoinHD",
+    "ticker": "BHD",
+    "description": "Proof of Capacity cryptocurrency",
+    "website": "http://www.btchd.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@btchdcommunity",
+    "telegram": "https://t.me/joinchat/KMU_Qwx_Zyg4s-vU28pvVw",
+    "discord": "https://discord.gg/pWde3gn",
+    "slack": "https://discord.gg/pWde3gn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-amazon",
+    "name": "Mirrored Amazon",
+    "ticker": "mAMZN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

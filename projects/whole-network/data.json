@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "whole-network",
+    "name": "Whole Network",
+    "ticker": "NODE",
+    "description": "Acute Angle Blockchain Phone",
+    "website": "https://www.wn.work/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WNNODE",
+    "telegram": "https://t.me/chat/KDIE8BIBpp3PUmqiMwqRYg",
+    "blog": "https://www.wn.work/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0c3ef32f802967db75b9d49fe1e76620151ccb81",
+        "blockchain": "ethereum",
+        "decimals": 5,
+        "label": "main"
+      }
+    ]
+  }
+}

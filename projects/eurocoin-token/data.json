@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "eurocoin-token",
+    "name": "EurocoinToken",
+    "ticker": "ECTE",
+    "description": "Eurocoinpay is an app developed with the best technology, that allows you to be able to pay for any service or product you buy with the cryptocurrency you wish",
+    "website": "https://eurocoinpay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eurocoinpay",
+    "telegram": "https://t.me/eurocoinpay",
+    "blog": "https://medium.com/@eurocoinpay"
+  },
+  "development": {
+    "github_organizations": [
+      "eurocoinpaygit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe9fa21e671bcfb04e6868784b89c19d5aa2424ea",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

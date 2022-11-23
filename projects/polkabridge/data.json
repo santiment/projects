@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "polkabridge",
+    "name": "PolkaBridge",
+    "ticker": "PBR",
+    "description": "A bridge between Polkadot and other blockchains",
+    "website": "https://polkabridge.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realpolkabridge",
+    "telegram": "https://t.me/polkabridgegroup",
+    "blog": "https://medium.com/@polkabridge"
+  },
+  "development": {
+    "github_organizations": [
+      "cyclese96"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0d6ae2a429df13e44a07cd2969e085e4833f64a0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

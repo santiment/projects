@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "thekey",
+    "name": "THEKEY",
+    "ticker": "TKY",
+    "description": "A decentralized ecosystem of an identity verification tool using national big-data and blockchain",
+    "website": "https://www.thekey.vip"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thekeyvip",
+    "telegram": "https://t.me/joinchat/FkZtERGQ1qUEU7iAzC6xVQ",
+    "reddit": "https://www.reddit.com/user/TheKeyVIP/",
+    "blog": "https://medium.com/@thekeyvip"
+  },
+  "development": {
+    "github_organizations": [
+      "thekeygithub"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "mcontent",
+    "name": "MContent",
+    "ticker": "MCONTENT",
+    "description": "Tokenized Content Ecosystem",
+    "website": "https://www.mcontent.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MContent_",
+    "telegram": "https://t.me/mcontentofficialchat",
+    "discord": "https://discord.gg/vrzdQSdUqU",
+    "reddit": "https://www.reddit.com/r/MContent/"
+  },
+  "development": {
+    "github_organizations": [
+      "mcontent-v2"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tokendesk",
+    "name": "TokenDesk",
+    "ticker": "TDS",
+    "description": "A blockchain based web platform and a marketplace for cryptocurrency crowdfunding",
+    "website": "https://www.tokendesk.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokendesk",
+    "telegram": "https://t.me/joinchat/GbiT9kLyrTuWeccOqm2s5w",
+    "blog": "https://medium.com/@Tokendesk"
+  },
+  "development": {
+    "github_organizations": [
+      "tokedesk"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6295ab2be04a617747481b292c390bfca592cf28",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "truebit",
+    "name": "Truebit",
+    "ticker": "TRU",
+    "description": "Scalable, trustless computation",
+    "website": "http://www.truebit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Truebitprotocol",
+    "reddit": "https://reddit.com/r/truebit",
+    "blog": "https://medium.com/truebit"
+  },
+  "development": {
+    "github_organizations": [
+      "TruebitProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf65B5C5104c4faFD4b709d9D60a185eAE063276c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

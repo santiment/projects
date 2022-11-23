@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "jamaicoin",
+    "name": "JamaiCoin",
+    "ticker": "YAH",
+    "description": "Jamaican charity and remittance",
+    "website": "http://jamaicoin.com/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/jamaicoin",
+    "telegram": "https://t.me/jamaicoin"
+  },
+  "development": {
+    "github_organizations": [
+      "JamaiCoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc2856a8310af421a2a65de16428c2dec6ceacb36",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "polkadot",
+    "name": "Polkadot OLD",
+    "ticker": "DOT",
+    "description": "Enables blockchain networks to operate together",
+    "website": "https://polkadot.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Polkadot",
+    "telegram": "https://t.me/PolkadotOfficial",
+    "reddit": "https://www.reddit.com/r/dot/",
+    "blog": "https://medium.com/polkadot-network"
+  },
+  "development": {
+    "github_organizations": [
+      "w3f"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

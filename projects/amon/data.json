@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "amon",
+    "name": "Amon",
+    "ticker": "AMN",
+    "description": "An every-day Crypto debit card for everyone",
+    "website": "https://amon.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/amonwallet",
+    "telegram": "https://t.me/amontech",
+    "reddit": "https://www.reddit.com/user/amon_card",
+    "blog": "https://medium.com/@amontech"
+  },
+  "development": {
+    "github_organizations": [
+      "amontech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x737f98ac8ca59f2c68ad658e3c3d8c8963e40a4c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

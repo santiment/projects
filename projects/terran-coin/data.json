@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "terran-coin",
+    "name": "Terran Coin",
+    "ticker": "TRR",
+    "website": "https://terrancoin.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/terrancoin"
+  },
+  "development": {
+    "github_organizations": [
+      "terran-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x490e3f4af13e1616ec97a8c6600c1061a8d0253e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

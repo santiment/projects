@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "solarcoin",
+    "name": "SolarCoin",
+    "ticker": "SLR",
+    "website": "http://solarcoin.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "onsightit"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

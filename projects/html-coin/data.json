@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "html-coin",
+    "name": "HTMLCOIN",
+    "ticker": "HTML",
+    "description": "A hybrid blockchain platform with numerous user capabilities",
+    "website": "http://www.htmlcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HTMLCOIN",
+    "telegram": "https://t.me/officialhtmlcoin",
+    "reddit": "https://www.reddit.com/r/htmlcoin_community/",
+    "blog": "https://www.htmlcoin.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "htmlcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

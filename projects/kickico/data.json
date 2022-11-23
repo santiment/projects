@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "kickico",
+    "name": "KickToken",
+    "ticker": "KICK",
+    "description": "Buy tokens of new groundbreaking projects in their early stages",
+    "website": "https://www.kickico.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KICKICOplatform",
+    "telegram": "https://t.me/kickico",
+    "reddit": "https://www.reddit.com/r/KICKICO_Platform/",
+    "blog": "https://medium.com/@kickico"
+  },
+  "development": {
+    "github_organizations": [
+      "kickico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

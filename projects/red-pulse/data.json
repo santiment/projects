@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "red-pulse",
+    "name": "Red Pulse",
+    "ticker": "PHX",
+    "description": "Sharing Economy for Research",
+    "website": "https://www.red-pulse.com/landing"
+  },
+  "social": {
+    "twitter": "https://twitter.com/red_pulse_china",
+    "telegram": "https://t.me/redpulse",
+    "discord": "https://discord.gg/H8PbeNg",
+    "slack": "https://discord.gg/H8PbeNg",
+    "reddit": "https://www.reddit.com/r/RedPulseToken/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "tranche-finance",
+    "name": "Tranche Finance",
+    "ticker": "SLICE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

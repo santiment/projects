@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ig-gold",
+    "name": "IG Gold",
+    "ticker": "IGG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

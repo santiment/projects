@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tesra",
+    "name": "Tesra",
+    "ticker": "TSR",
+    "description": "A community-based AI computing network",
+    "website": "https://tesra.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TesraSupernet",
+    "telegram": "https://t.me/TesraSupernet"
+  },
+  "development": {
+    "github_organizations": [
+      "TesraSupernet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x58959e0c71080434f237bd42d07cd84b74cef438",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}

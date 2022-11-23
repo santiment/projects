@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "veros",
+    "name": "Veros",
+    "ticker": "VRS",
+    "description": "A fundraising platform for individuals, NGO&amp;#39;s and projects around the globe. With the aim to better our planet, Veros redistributes over 50% of all revenues directly back into causes fundraising to better our world.",
+    "website": "http://vedh.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Veros_currency",
+    "telegram": "https://t.me/veros_coin",
+    "reddit": "https://www.reddit.com/user/TeamVerosDH/"
+  },
+  "development": {
+    "github_organizations": [
+      "verosdh"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xAbC430136A4dE71c9998242de8c1b4B97D2b9045",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

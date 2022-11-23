@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "iq",
+    "name": "IQ",
+    "ticker": "IQ",
+    "description": "Formerly Everipedia",
+    "website": "https://iq.wiki/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/everipedia",
+    "telegram": "https://t.me/everipedia",
+    "reddit": "https://www.reddit.com/r/Everipedia/",
+    "blog": "https://everipedia.org/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "EveripediaNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

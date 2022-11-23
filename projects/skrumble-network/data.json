@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "skrumble-network",
+    "name": "Skrumble Network",
+    "ticker": "SKM",
+    "description": "Secure Communication-Centric Blockchain",
+    "website": "https://skrumble.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/skrumblehq",
+    "telegram": "https://t.me/skrumble"
+  },
+  "development": {
+    "github_organizations": [
+      "skrumblenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

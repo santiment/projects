@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rotharium",
+    "name": "Rotharium",
+    "ticker": "RTH",
+    "description": "Connection of standard cloud or on-premise database solutions to the blockchain",
+    "website": "https://www.rotharium.io/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/Rotharium",
+    "telegram": "https://t.me/rothariumplatform",
+    "reddit": "https://www.reddit.com/r/rotharium",
+    "blog": "https://blog.rotharium.io/en"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptofuturegmbh"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3fd8f39a962efda04956981c31ab89fab5fb8bc8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

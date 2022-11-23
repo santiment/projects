@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blockchain-certified-data-token",
+    "name": "Blockchain Certified Data Token",
+    "ticker": "BCDT",
+    "description": "Certified, encrypted data available on-demand",
+    "website": "https://www.bcdiploma.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BCDiploma",
+    "telegram": "https://t.me/BCDiploma",
+    "blog": "https://medium.com/@BCDiploma"
+  },
+  "development": {
+    "github_organizations": [
+      "vincebcd"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

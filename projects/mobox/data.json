@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mobox",
+    "name": "MOBOX",
+    "ticker": "MBOX",
+    "description": "DeFi and Gaming NFT",
+    "website": "http://www.mobox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MOBOX_Official",
+    "telegram": "https://t.me/mobox_io",
+    "discord": "https://discord.gg/ZSEhP2AbQ9",
+    "reddit": "https://www.reddit.com/r/Mobox/",
+    "blog": "https://mbox.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

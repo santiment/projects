@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "robotina",
+    "name": "Robotina",
+    "ticker": "ROX",
+    "description": "A state-of-the-art-technology to reduce electric energy consumption",
+    "website": "https://www.robotinaico.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/robotinaICO",
+    "telegram": "https://t.me/Robotinaico",
+    "reddit": "https://www.reddit.com/r/RobotinaTokenROX/",
+    "blog": "https://medium.com/@robotinaico"
+  },
+  "development": {
+    "github_organizations": [
+      "robotinaico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x574f84108a98c575794f75483d801d1d5dc861a5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

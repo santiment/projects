@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "degenvc",
+    "name": "DegenVC",
+    "ticker": "DGVC",
+    "description": "Curation market for Uniswap listings",
+    "website": "http://www.degen.vc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vcdegen",
+    "telegram": "https://t.me/joinchat/OmcDQ1QJHsUcjtDpAjCxQQ",
+    "blog": "https://medium.com/degen-vc"
+  },
+  "development": {
+    "github_organizations": [
+      "degen-vc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x26E43759551333e57F073bb0772F50329A957b30",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

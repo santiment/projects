@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "dforce",
+    "name": "dForce",
+    "ticker": "DF",
+    "description": "An Integrated Platform for Decentralized Finance Protocols",
+    "website": "https://dforce.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dForcenet",
+    "telegram": "https://t.me/dforcenet",
+    "discord": "https://discord.gg/Gbtd3MR",
+    "slack": "https://discord.gg/Gbtd3MR",
+    "reddit": "https://www.reddit.com/r/dForceNetwork/",
+    "blog": "https://medium.com/dforcenet"
+  },
+  "development": {
+    "github_organizations": [
+      "dforcenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x431ad2ff6a9c365805ebad47ee021148d6f7dbe0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

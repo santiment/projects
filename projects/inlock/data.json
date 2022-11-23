@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "inlock",
+    "name": "INLOCK",
+    "ticker": "ILK",
+    "description": "Lending platform",
+    "website": "https://inlock.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/inlock_token",
+    "telegram": "https://t.me/inlock",
+    "reddit": "https://www.reddit.com/r/INLOCK/",
+    "blog": "https://medium.com/@INLOCK"
+  },
+  "development": {
+    "github_organizations": [
+      "hIncomeLocker"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf784682c82526e245f50975190ef0fff4e4fc077",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

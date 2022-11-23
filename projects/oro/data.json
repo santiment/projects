@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "oro",
+    "name": "ORO",
+    "ticker": "ORO",
+    "description": "Real world assets via on-chain synthetics",
+    "website": "https://opendefi.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oropocket",
+    "telegram": "https://t.me/oropocket",
+    "reddit": "https://www.reddit.com/r/OroPocket/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc3Eb2622190c57429aac3901808994443b64B466",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

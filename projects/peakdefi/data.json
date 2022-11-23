@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "peakdefi",
+    "name": "PEAKDEFI",
+    "ticker": "PEAK",
+    "description": "Asset management fund",
+    "website": "https://peakdefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PEAKDEFI",
+    "telegram": "https://t.me/peakdefi_official",
+    "discord": "https://discord.gg/3ENv5QCtcs",
+    "blog": "https://medium.com/@PeakDeFi"
+  },
+  "development": {
+    "github_organizations": [
+      "peakdefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

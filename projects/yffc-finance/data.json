@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "yffc-finance",
+    "name": "yffc.finance",
+    "ticker": "YFFC",
+    "description": "Simple farming for everyone",
+    "website": "https://yffc.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yffc_finance",
+    "telegram": "https://t.me/yffcfinance",
+    "blog": "https://medium.com/yffcfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "yffcfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea004e8fa3701b8e58e41b78d50996e0f7176cbd",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

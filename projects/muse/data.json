@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "muse",
+    "name": "Muse",
+    "ticker": "MUSE",
+    "description": "Tamagotchi game with MUSE rewards and battles",
+    "website": "https://gallery.verynifty.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/niftymuseum",
+    "telegram": "https://t.me/verynifty",
+    "discord": "https://discord.gg/kfByfux",
+    "slack": "https://discord.gg/kfByfux",
+    "blog": "https://verynifty.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "verynifty"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6ca7399b4f9ca56fc27cbff44f4d2e4eef1fc81",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

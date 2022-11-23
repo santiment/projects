@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "mmocoin",
+    "name": "MMOCoin",
+    "ticker": "MMO",
+    "description": "A cryptocurrency developed by Gaming Community",
+    "website": "https://mmocoin.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MMOProOfficial",
+    "telegram": "https://t.me/mmoprocoin",
+    "discord": "https://discord.gg/MVh5AR8",
+    "slack": "https://discord.gg/MVh5AR8",
+    "reddit": "https://www.reddit.com/r/mmoofficial/",
+    "blog": "https://medium.com/@peasantforhire/mmocoin-a-juggernaut-waiting-in-the-wings-b32bda51234c"
+  },
+  "development": {
+    "github_organizations": [
+      "MMO-Coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

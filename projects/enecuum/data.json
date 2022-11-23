@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "enecuum",
+    "name": "Enecuum",
+    "ticker": "ENQ",
+    "description": "Blockchain Mobile Network for Decentralized Applications",
+    "website": "https://new.enecuum.com/#/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/enq_enecuum",
+    "telegram": "https://t.me/Enecuum_EN",
+    "blog": "https://medium.com/@EnqBlockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "enecuum"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x16ea01acb4b0bca2000ee5473348b6937ee6f72f",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

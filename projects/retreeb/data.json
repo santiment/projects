@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "retreeb",
+    "name": "Retreeb",
+    "ticker": "TREEB",
+    "description": "Ethical payment solutions",
+    "website": "https://retreeb.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/retreeb_io",
+    "telegram": "https://t.me/retreebnetwork",
+    "blog": "https://retreeb.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "RetreebInc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

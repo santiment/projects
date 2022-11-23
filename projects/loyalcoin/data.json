@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "loyalcoin",
+    "name": "LoyalCoin",
+    "ticker": "LYL",
+    "description": "Reinventing customer loyalty",
+    "website": "http://loyalcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LoyalCoin",
+    "telegram": "https://t.me/loyalcoin",
+    "reddit": "https://www.reddit.com/r/loyalcoin/",
+    "blog": "https://medium.com/loyalcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "nemproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

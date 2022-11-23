@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "uniswap_uni_eth_lp",
+    "name": "Uniswap V2: UNI 6",
+    "ticker": "Uniswap UNI/ETH LP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

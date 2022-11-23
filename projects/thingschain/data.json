@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "thingschain",
+    "name": "Thingschain",
+    "ticker": "TIC",
+    "description": "Platform for IoT devices based on blockchain technology",
+    "website": "https://thingschain.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Things_chain",
+    "telegram": "https://t.me/thingschain_group",
+    "blog": "https://medium.com/@thingschain"
+  },
+  "development": {
+    "github_organizations": [
+      "ticnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

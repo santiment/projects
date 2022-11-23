@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nest",
+    "name": "NEST",
+    "ticker": "NEST",
+    "description": "Decentralized Financial Services Ecosystem",
+    "website": "https://nestdapp.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NestCore",
+    "telegram": "https://t.me/nestdapp_en"
+  },
+  "development": {
+    "github_organizations": [
+      "nest-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x04abeda201850ac0124161f037efd70c74ddc74c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ietc",
+    "name": "Synth iETC",
+    "ticker": "iETC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd50c1746d835d2770dda3703b69187bffeb14126",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

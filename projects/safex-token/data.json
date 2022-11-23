@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "safex-token",
+    "name": "Safex Token",
+    "ticker": "SFT",
+    "description": "A decentralized marketplace",
+    "website": "https://safex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/safex",
+    "reddit": "https://www.reddit.com/r/safex/"
+  },
+  "development": {
+    "github_organizations": [
+      "safex"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

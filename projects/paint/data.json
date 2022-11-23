@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "paint",
+    "name": "Paint",
+    "ticker": "PAINT",
+    "description": "A digital collaborative mural",
+    "website": "https://murall.art/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MurAll_art",
+    "discord": "https://discord.gg/kwyJDTX",
+    "blog": "https://murall.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "MurAll-canvas"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

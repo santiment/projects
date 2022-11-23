@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "paxos-standard",
+    "name": "Paxos Standard",
+    "ticker": "USDP",
+    "description": "Stablecoin by a regulated Trust company",
+    "website": "https://paxos.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PaxosStandard",
+    "blog": "https://medium.com/@PaxosStandard"
+  },
+  "development": {
+    "github_organizations": [
+      "paxosglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

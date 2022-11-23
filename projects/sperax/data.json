@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sperax",
+    "name": "Sperax",
+    "ticker": "SPA",
+    "description": "Infrastructure for the decentralized economy",
+    "website": "https://sperax.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sperax_io",
+    "telegram": "https://t.me/sperax",
+    "blog": "https://medium.com/sperax"
+  },
+  "development": {
+    "github_organizations": [
+      "Sperax"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf7623a0a44045b907d81aad8479aa3c4a818211d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "metronome",
+    "name": "Metronome",
+    "ticker": "MET",
+    "description": "Сross-blockchain cryptocurrency",
+    "website": "https://metronome.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MTNToken",
+    "telegram": "https://t.me/metronometoken",
+    "reddit": "https://www.reddit.com/r/metronometoken",
+    "blog": "https://medium.com/@MetronomeToken"
+  },
+  "development": {
+    "github_organizations": [
+      "autonomoussoftware"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa3d58c4e56fedcae3a7c43a725aee9a71f0ece4e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

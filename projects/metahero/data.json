@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "metahero",
+    "name": "Metahero",
+    "ticker": "HERO",
+    "description": "Ultra-realistic 3D avatars and virtual items",
+    "website": "https://metahero.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/metahero_io",
+    "telegram": "https://t.me/metahero_io"
+  },
+  "development": {
+    "github_organizations": [
+      "metahero-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

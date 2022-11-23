@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "project-pai",
+    "name": "Project Pai",
+    "ticker": "PAI",
+    "description": "Intelligent avatars",
+    "website": "https://projectpai.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ProjectPai",
+    "telegram": "https://t.me/projectpai",
+    "discord": "https://discord.gg/YP74pnw",
+    "slack": "https://discord.gg/YP74pnw",
+    "reddit": "https://www.reddit.com/r/ProjectPAI/",
+    "blog": "https://medium.com/project-pai"
+  },
+  "development": {
+    "github_organizations": [
+      "projectpai"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

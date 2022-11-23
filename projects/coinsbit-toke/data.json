@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "coinsbit-toke",
+    "name": "Coinsbit Token",
+    "ticker": "CNB",
+    "description": "a service token of the Coinsbit exchange",
+    "website": "https://coinsbit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/c0insbit",
+    "telegram": "https://t.me/coinsbit_chat"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC538143202f3b11382D8606aae90a96b042a19DB",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

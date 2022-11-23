@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "shift",
+    "name": "Shift",
+    "ticker": "SHIFT",
+    "description": "Decentralized Storage Solution",
+    "website": "https://www.shiftproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShiftNrg",
+    "telegram": "https://t.me/shiftproject",
+    "discord": "https://discord.gg/fgzxABX",
+    "slack": "https://discord.gg/fgzxABX",
+    "reddit": "https://www.reddit.com/r/ShiftProject/"
+  },
+  "development": {
+    "github_organizations": [
+      "shiftproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

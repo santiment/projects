@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "goldfinch-protocol",
+    "name": "Goldfinch",
+    "ticker": "GFI",
+    "description": "Decentralized credit protocol",
+    "website": "https://goldfinch.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/goldfinch_fi",
+    "telegram": "https://t.me/goldfinch_finance",
+    "discord": "https://discord.gg/HVeaca3fN8",
+    "blog": "https://medium.com/goldfinch-fi"
+  },
+  "development": {
+    "github_organizations": [
+      "goldfinch-eng"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

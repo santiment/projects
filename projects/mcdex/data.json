@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "mcdex",
+    "name": "MCDex",
+    "ticker": "MCB",
+    "description": "A decentralized exchange for perpetual contracts",
+    "website": "https://mcdex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MonteCarloDEX",
+    "telegram": "https://t.me/Mcdex",
+    "reddit": "https://www.reddit.com/r/MCDEX/"
+  },
+  "development": {
+    "github_organizations": [
+      "mcdexio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mint-club",
+    "name": "Mint Club",
+    "ticker": "MINT",
+    "description": "Smart token building platform",
+    "website": "https://mint.club/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MintClubPro",
+    "telegram": "https://t.me/mint_club"
+  },
+  "development": {
+    "github_organizations": [
+      "Steemhunt"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

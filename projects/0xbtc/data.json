@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "0xbtc",
+    "name": "0xBitcoin",
+    "ticker": "0xBTC",
+    "description": "The mined bitcoin-like token for Ethereum",
+    "website": "https://0xbitcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xBitcoinMining",
+    "discord": "https://discord.gg/xNGQThV",
+    "slack": "https://discord.gg/xNGQThV",
+    "reddit": "https://reddit.com/r/0xbitcoin",
+    "blog": "https://medium.com/@admazzola/the-case-for-the-mineable-erc20-token-78cbb4c34331"
+  },
+  "development": {
+    "github_organizations": [
+      "0xbitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

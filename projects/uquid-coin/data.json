@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "uquid-coin",
+    "name": "Delete",
+    "ticker": "UQC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd01db73e047855efb414e6202098c4be4cd2423b",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "friends",
+    "name": "Friendz",
+    "ticker": "FDZ",
+    "description": "A digital marketing revolution on the blockchain",
+    "website": "https://friendz.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Friendz_ICO",
+    "telegram": "https://t.me/friendzICO",
+    "reddit": "https://www.reddit.com/r/FriendzICO/",
+    "blog": "https://medium.com/friendz"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x23352036e911a22cfc692b5e2e196692658aded9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

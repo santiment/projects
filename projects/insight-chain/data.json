@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "insight-chain",
+    "name": "Insight Chain",
+    "ticker": "INB",
+    "description": "A Decentralized Research Ecosystem Chain Based On Blockchain",
+    "website": "http://www.insightchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsightChain",
+    "telegram": "https://t.me/InsightChain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x17aa18a4b64a55abed7fa543f2ba4e91f2dce482",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

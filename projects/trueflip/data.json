@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "trueflip",
+    "name": "TFL.io",
+    "ticker": "TFL",
+    "description": "Blockchain games with instant payouts",
+    "website": "http://trueflip.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/AAAAAELcwT-fgH2zG7xEng",
+    "slack": "https://trueflip.io/slack",
+    "reddit": "http://reddit.com/r/TrueFlip",
+    "blog": "https://steemit.com/@trueflip"
+  },
+  "development": {
+    "github_organizations": [
+      "trueflip"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa7f976c360ebbed4465c2855684d1aae5271efa9",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

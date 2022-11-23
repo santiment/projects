@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "venus",
+    "name": "Venus",
+    "ticker": "XVS",
+    "description": "Algorithmic Money Market and Synthetic Stablecoin DeFi Protocol on Binance Smart Chain",
+    "website": "https://venus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VenusProtocol",
+    "telegram": "https://t.me/VenusProtocol",
+    "blog": "https://medium.com/VenusProtocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

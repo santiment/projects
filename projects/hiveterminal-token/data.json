@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hiveterminal-token",
+    "name": "Hiveterminal Token",
+    "ticker": "HVN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "wave-edu-coin",
+    "name": "WaveEduCoin",
+    "ticker": "WEC",
+    "description": "For educational initiatives",
+    "website": "https://www.waveeducoins.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/waveeducoin1"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

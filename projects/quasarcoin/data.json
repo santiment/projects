@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "quasarcoin",
+    "name": "Quasarcoin",
+    "ticker": "QAC",
+    "description": "Ecosystem platform of fair travel",
+    "website": "http://quasarcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Quasarcoingroup",
+    "telegram": "https://t.me/joinchat/H7eFpg0_tqP-70h3rCLsWQ",
+    "blog": "https://medium.com/@quasarcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "quasarcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

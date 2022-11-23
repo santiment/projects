@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "manchester-city-fan-token",
+    "name": "Manchester City Fan Token",
+    "ticker": "CITY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

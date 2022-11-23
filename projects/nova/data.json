@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "nova",
+    "name": "NOVA",
+    "ticker": "NOVA",
+    "description": "Consensus-inspired content ecology",
+    "website": "http://www.85nova.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/Nova_zh"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xB48B7E5bF6563B3e0A85055821A83Deb8CFc12f6",
+        "blockchain": "ethereum",
+        "decimals": 3
+      }
+    ]
+  }
+}

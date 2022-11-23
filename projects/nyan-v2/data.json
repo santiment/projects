@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "nyan-v2",
+    "name": "Nyan V2",
+    "ticker": "NYAN-2",
+    "description": "Vote on where liquidity goes",
+    "website": "https://v2.nyan.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nyanfinance",
+    "telegram": "https://t.me/nyanfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "geass-zero"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbf4a9a37ecfc21825011285222c36ab35de51f14",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

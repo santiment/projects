@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "phoenix-global",
+    "name": "Phoenix Global",
+    "ticker": "PHB",
+    "description": "Powering the Next Generation of  Consumer Applications",
+    "website": "https://www.phoenix.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Phoenix_Chain",
+    "telegram": "https://t.me/APEXcommunity",
+    "reddit": "https://reddit.com/r/PhoenixGlobal",
+    "blog": "https://phoenixglobal.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "phoenixglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

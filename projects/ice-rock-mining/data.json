@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ice-rock-mining",
+    "name": "Ice Rock Mining",
+    "ticker": "ROCK2",
+    "description": "Commercial Bitcoin Mining",
+    "website": "https://icerockmining.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/icerockmining",
+    "telegram": "https://t.me/IceRockMining_Rus",
+    "blog": "https://medium.com/@dias.kurmanov"
+  },
+  "development": {
+    "github_organizations": [
+      "icerockmining"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

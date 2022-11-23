@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "hashcoin",
+    "name": "HashCoin",
+    "ticker": "HSC",
+    "description": "The Next-generation Blockchain Platform For Digital Assets Affirmation And Circulation",
+    "website": "https://www.hashfuture.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hashworld_hsc",
+    "telegram": "https://t.me/hashworldglobal",
+    "reddit": "https://www.reddit.com/r/hashworld/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2bba3cf6de6058cc1b4457ce00deb359e2703d7f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

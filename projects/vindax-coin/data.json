@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "vindax-coin",
+    "name": "VinDax Coin",
+    "ticker": "VD",
+    "description": "Native asset of the VinDAX Digital Asset Exchange",
+    "website": "https://vindax.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VinDAXOfficial",
+    "telegram": "https://t.me/vindax",
+    "reddit": "https://www.reddit.com/r/vindax/",
+    "blog": "https://medium.com/@VindaxExchange"
+  },
+  "development": {
+    "github_organizations": [
+      "vindaxcom"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

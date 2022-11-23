@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "proton",
+    "name": "Proton",
+    "ticker": "XPR",
+    "description": "The blockchain that interacts directly with your bank",
+    "website": "https://www.protonchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/protonxpr",
+    "telegram": "https://t.me/protonxpr",
+    "discord": "https://discord.gg/d5ZfKtT",
+    "slack": "https://discordapp.com/invite/d5ZfKtT",
+    "blog": "https://medium.com/protonchain/proton-xid-915bda660817"
+  },
+  "development": {
+    "github_organizations": [
+      "ProtonProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+        "blockchain": "ethereum",
+        "decimals": 4,
+        "label": "main"
+      }
+    ]
+  }
+}

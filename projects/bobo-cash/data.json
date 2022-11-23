@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bobo-cash",
+    "name": "Bobo Cash",
+    "ticker": "BOBO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

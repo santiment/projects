@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bondly",
+    "name": "Bondly",
+    "ticker": "BONDLY",
+    "description": "Turning a wallet into crypto and NFT marketplace",
+    "website": "https://www.bondly.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BondlyFinance",
+    "telegram": "https://t.me/bondlyfinance",
+    "discord": "https://discord.com/invite/5AkCCuw",
+    "slack": "https://discord.com/invite/5AkCCuw",
+    "blog": "https://bondlyfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "bondly"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd2dda223b2617cb616c1580db421e4cfae6a8a85",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

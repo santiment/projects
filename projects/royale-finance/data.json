@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "royale-finance",
+    "name": "Royale Finance",
+    "ticker": "ROYA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

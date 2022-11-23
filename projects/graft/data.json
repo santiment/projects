@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "graft",
+    "name": "Graft",
+    "ticker": "GRFT",
+    "description": "Universal payment blockchain",
+    "website": "https://www.graft.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/graftnetwork",
+    "telegram": "https://t.me/joinchat/EneBw0RALAOjkSL2mdt2Gw",
+    "reddit": "https://www.reddit.com/user/graft-project/",
+    "blog": "https://medium.com/@graftnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "graft-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

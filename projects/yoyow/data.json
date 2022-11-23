@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yoyow",
+    "name": "YOYOW",
+    "ticker": "YOYOW",
+    "description": "YOYOW is aiming to quantify contribution and give rewards of participants in the content producing sector with decentralized consensus methods so that content producers, investors and consumers can be provided with incentives and returns as appropriate.",
+    "website": "https://www.yoyow.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InfoYoyow",
+    "telegram": "https://t.me/HelloYOYOW",
+    "reddit": "https://www.reddit.com/r/YOYOW/"
+  },
+  "development": {
+    "github_organizations": [
+      "yoyow-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcbeaec699431857fdb4d37addbbdc20e132d4903",
+        "decimals": 18
+      }
+    ]
+  }
+}

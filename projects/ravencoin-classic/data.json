@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ravencoin-classic",
+    "name": "Ravencoin Classic",
+    "ticker": "RVC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

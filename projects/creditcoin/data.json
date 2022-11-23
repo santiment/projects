@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "creditcoin",
+    "name": "Creditcoin",
+    "ticker": "CTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

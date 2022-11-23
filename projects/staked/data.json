@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "staked",
+    "name": "Staked",
+    "ticker": "STK",
+    "description": "Compound your crypto through staking and lending",
+    "website": "https://staked.us/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/staked_us/"
+  },
+  "development": {
+    "github_organizations": [
+      "stakedllc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

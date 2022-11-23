@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "fibos",
+    "name": "FIBOS",
+    "ticker": "FO",
+    "description": "Create your own value network",
+    "website": "https://fibos.io/en-us"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fibos_io",
+    "telegram": "https://t.me/FIBOSIO"
+  },
+  "development": {
+    "github_organizations": [
+      "fibosio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

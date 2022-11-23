@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mith-cash",
+    "name": "MITH Cash",
+    "ticker": "MIC",
+    "description": "An algorithmic stablecoin forged from Mithril",
+    "website": "https://mith.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mithcash",
+    "telegram": "https://t.me/mithcash",
+    "discord": "https://discord.com/invite/WftfjSbNyc",
+    "slack": "https://discord.com/invite/WftfjSbNyc",
+    "blog": "https://mithcash.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "mithio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

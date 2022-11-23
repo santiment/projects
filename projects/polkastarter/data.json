@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "polkastarter",
+    "name": "Polkastarter",
+    "ticker": "POLS",
+    "description": "Cross-chain token sales and auctions",
+    "website": "https://www.polkastarter.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polkastarter",
+    "telegram": "https://t.me/polkastarter",
+    "blog": "https://medium.com/@polkastarter"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

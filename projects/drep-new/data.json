@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "drep-new",
+    "name": "Drep [new]",
+    "ticker": "DREP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

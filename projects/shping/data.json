@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "shping",
+    "name": "Shping",
+    "ticker": "SHPING",
+    "description": "Makes Shopping Smarter",
+    "website": "https://tokensale.shping.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShpingApp",
+    "telegram": "https://t.me/ShpingCommunity",
+    "reddit": "https://reddit.com/r/ShpingCoin",
+    "blog": "https://medium.com/@Shping"
+  },
+  "development": {
+    "github_organizations": [
+      "shping"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7c84e62859d0715eb77d1b1c4154ecd6abb21bec",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sirin-labs-token",
+    "name": "SIRIN LABS Token",
+    "ticker": "SRN",
+    "description": "Secure open source consumer electronics",
+    "website": "http://www.sirinlabs.com/"
+  },
+  "social": {
+    "twitter": "https://t.me/sirinlabs",
+    "telegram": "https://t.me/sirinlabs",
+    "reddit": "https://www.reddit.com/r/SirinLabs/",
+    "blog": "https://medium.com/@sirinlabs"
+  },
+  "development": {
+    "github_organizations": [
+      "sirin-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

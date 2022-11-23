@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "smartcash",
+    "name": "SmartCash",
+    "ticker": "SMART",
+    "description": "Community governance via blockchain",
+    "website": "https://smartcash.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/scashofficial",
+    "telegram": "http://bit.do/smartcash",
+    "discord": "https://discord.gg/BDUh8jr",
+    "slack": "https://discord.gg/BDUh8jr",
+    "reddit": "http://reddit.com/r/smartcash"
+  },
+  "development": {
+    "github_organizations": [
+      "smartcash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

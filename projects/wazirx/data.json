@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "wazirx",
+    "name": "WazirX",
+    "ticker": "WRX",
+    "description": "Indian centralized exchange",
+    "website": "https://wazirx.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WazirXIndia",
+    "telegram": "https://t.me/wazirx",
+    "blog": "https://medium.com/@wazirx"
+  },
+  "development": {
+    "github_organizations": [
+      "WazirX"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

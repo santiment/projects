@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "nestree",
+    "name": "Nestree",
+    "ticker": "EGG",
+    "description": "Reward-based blockchain integrated messenger",
+    "website": "https://www.nestree.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nestree_io",
+    "telegram": "https://t.me/nestree_en",
+    "blog": "https://medium.com/nestree"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x65ccd72c0813ce6f2703593b633202a0f3ca6a0c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

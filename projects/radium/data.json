@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "radium",
+    "name": "Radium",
+    "ticker": "RADS",
+    "description": "Easy and simple identity management and verification services including secure voting, file signing, and proof-of-ownership coupled with our energy efficient, Proof-of-Stake protocol",
+    "website": "https://radiumcore.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/radiumcore",
+    "telegram": "https://telegram.me/RadiumOfficial",
+    "blog": "http://blog.radiumcore.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "radiumcore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

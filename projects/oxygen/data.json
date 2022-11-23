@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "oxygen",
+    "name": "Oxygen",
+    "ticker": "OXY",
+    "description": "Decentralized Prime Brokerage",
+    "website": "https://www.oxygen.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Oxygen_protocol",
+    "telegram": "https://t.me/oxygen_protocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

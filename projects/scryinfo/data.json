@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "scryinfo",
+    "name": "Scry.info",
+    "ticker": "DDD",
+    "description": "The world's first blockchain-based quantifiable data exchange platform for real data storage, validation, sharing, analysis and trading",
+    "website": "https://home.scry.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/scryscry8",
+    "telegram": "https://t.me/scryinfo1",
+    "blog": "https://medium.com/@scryscry8"
+  },
+  "development": {
+    "github_organizations": [
+      "scryinfo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f5f3cfd7a32700c93f971637407ff17b91c7342",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

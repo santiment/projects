@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "syscoin",
+    "name": "Syscoin",
+    "ticker": "SYS",
+    "description": "Trustless interoperability, token & asset microtransactions",
+    "website": "http://syscoin.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/syscoin",
+    "telegram": "http://t.me/SyscoinOfficial",
+    "reddit": "https://www.reddit.com/r/SysCoin/",
+    "blog": "https://www.syscoin.org/medium-blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "syscoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

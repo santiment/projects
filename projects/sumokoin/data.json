@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "sumokoin",
+    "name": "Sumokoin",
+    "ticker": "SUMO",
+    "description": "Monero fork",
+    "website": "https://www.sumokoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sumokoin",
+    "telegram": "https://t.me/joinchat/F8RH2kPmFCnA-igHBKSCAA",
+    "slack": "https://sumokoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/sumokoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "sumoprojects"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ultranote-coin",
+    "name": "UltraNote Coin",
+    "ticker": "XUN",
+    "description": "Decentralized privacy protected blockchain platform ",
+    "website": "https://ultranote.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ultranotecoin",
+    "reddit": "https://www.reddit.com/r/UltraNote/",
+    "blog": "https://blog.ultranote.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "xun-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

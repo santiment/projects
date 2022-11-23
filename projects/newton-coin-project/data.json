@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "newton-coin-project",
+    "name": "Newton Coin Project",
+    "ticker": "NCP",
+    "description": "A cryptocurrency to support science and community",
+    "website": "https://www.newtoncoin.site/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Newton_NCP",
+    "telegram": "https://t.me/newton_coin"
+  },
+  "development": {
+    "github_organizations": [
+      "livenet123"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

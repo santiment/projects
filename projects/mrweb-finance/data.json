@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "mrweb-finance",
+    "name": "Mrweb Finance",
+    "ticker": "AMA",
+    "description": "A simplified and trusted Decentralized financial system",
+    "website": "https://mrweb.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MrwebFinance",
+    "telegram": "https://t.me/mrwebfinance",
+    "reddit": "https://reddit.com/r/Mrweb_Finance",
+    "blog": "https://mrwebfi.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

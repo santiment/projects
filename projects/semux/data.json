@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "semux",
+    "name": "Semux",
+    "ticker": "SEM",
+    "description": "An innovative high-performance blockchain platform",
+    "website": "https://www.semux.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/semuxproject",
+    "telegram": "https://t.me/semuxproject",
+    "discord": "https://discord.gg/qQVckKZ",
+    "slack": "https://discordapp.com/invite/qQVckKZ"
+  },
+  "development": {
+    "github_organizations": [
+      "semuxproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

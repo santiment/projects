@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "pillar",
+    "name": "Pillar",
+    "ticker": "PLR",
+    "description": "Dashboard for the digital life",
+    "website": "https://pillarproject.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PillarWallet",
+    "telegram": "https://t.me/pillarofficial",
+    "reddit": "https://www.reddit.com/r/PillarProject/",
+    "blog": "https://medium.com/@pullnews"
+  },
+  "development": {
+    "github_organizations": [
+      "pillarwallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

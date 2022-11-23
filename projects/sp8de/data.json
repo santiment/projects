@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sp8de",
+    "name": "Sp8de",
+    "ticker": "SPX",
+    "description": "The game of chance. Changed.",
+    "website": "https://sp8de.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SP8DE_Official",
+    "telegram": "https://t.me/joinchat/B-YJaQ_ULpPKAzPHFPUa-Q",
+    "reddit": "https://www.reddit.com/r/sp8de/",
+    "blog": "https://medium.com/@sp8de"
+  },
+  "development": {
+    "github_organizations": [
+      "sp8de"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05aaaa829afa407d83315cded1d45eb16025910c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "medical-chain",
+    "name": "Medicalchain",
+    "ticker": "MTN",
+    "description": "Medical data on blockchain",
+    "website": "https://medicalchain.com/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/medical_chain",
+    "telegram": "https://t.me/medicalchain",
+    "slack": "https://join.slack.com/t/medicalchain/shared_invite/MjI4MzQ4NTk0OTAwLTE1MDMwMTI4NzAtZWVlMTkzMThkOQ",
+    "blog": "https://medicalchain.com/en/news/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

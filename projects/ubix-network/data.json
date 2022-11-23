@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ubix-network",
+    "name": "UBIX.Network",
+    "ticker": "UBX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

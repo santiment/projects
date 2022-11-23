@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "luxcoin",
+    "name": "LUXCoin",
+    "ticker": "LUX",
+    "description": "Ecosystem for Enterprise Privacy/Security",
+    "website": "https://luxcore.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LUX_COIN",
+    "telegram": "https://t.me/LUXcoreOfficial",
+    "discord": "https://discord.gg/ndUg9va",
+    "slack": "https://discord.gg/ndUg9va",
+    "reddit": "https://www.reddit.com/r/LUXCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "lux-core"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

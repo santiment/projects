@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "vabble",
+    "name": "Vabble",
+    "ticker": "VAB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

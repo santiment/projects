@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "trinity-protocol",
+    "name": "Trinity Protocol",
+    "ticker": "TRI",
+    "description": "Automatically generates liquidity for its native and partner pools",
+    "website": "https://trinityprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/triprotocol",
+    "telegram": "https://t.me/trinitytoken",
+    "blog": "https://triprotocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "trinityprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc299004a310303d1c0005cb14c70ccc02863924d",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

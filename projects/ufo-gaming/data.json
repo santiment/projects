@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ufo-gaming",
+    "name": "UFO Gaming",
+    "ticker": "UFO",
+    "description": "Inter-galactic social gaming token",
+    "website": "https://www.ufogaming.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheUFOtoken",
+    "telegram": "https://t.me/ufotokenofficial",
+    "discord": "https://discord.com/invite/Zjdmt62H24",
+    "blog": "https://medium.com/@UFOtruth"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

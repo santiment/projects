@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "polkadex",
+    "name": "Polkadex",
+    "ticker": "PDEX",
+    "description": "The trading engine for Web3 and DeFi",
+    "website": "https://www.polkadex.trade/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polkadex",
+    "telegram": "https://t.me/Polkadex",
+    "reddit": "https://www.reddit.com/r/polkadex/",
+    "blog": "https://polkadex.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Polkadex-Substrate"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

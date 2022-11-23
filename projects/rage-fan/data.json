@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "rage-fan",
+    "name": "Rage Fan",
+    "ticker": "RAGE",
+    "description": "Fan sports platform with NFTs",
+    "website": "https://www.rage.fan/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RageFanSocial",
+    "telegram": "https://t.me/rage_fan",
+    "blog": "https://medium.com/@ragefan"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

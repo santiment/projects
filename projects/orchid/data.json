@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "orchid",
+    "name": "Orchid",
+    "ticker": "OXT",
+    "description": "Decentralized VPN",
+    "website": "https://www.orchid.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OrchidProtocol",
+    "telegram": "https://www.t.me/OrchidOfficial",
+    "reddit": "https://www.reddit.com/r/orchid/",
+    "blog": "https://medium.com/orchid-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "OrchidTechnologies"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

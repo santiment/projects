@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "unilayer",
+    "name": "UniLayer",
+    "ticker": "LAYER",
+    "description": "Trading platform built on top of Uniswap",
+    "website": "https://unilayer.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unilayer_",
+    "telegram": "https://t.me/Unilayer",
+    "discord": "https://discord.gg/BV5y3dd",
+    "slack": "https://discord.gg/BV5y3dd",
+    "blog": "https://medium.com/@UniLayer/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

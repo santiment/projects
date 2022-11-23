@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "polkacover",
+    "name": "Polkacover",
+    "ticker": "CVR",
+    "description": "An insurance marketplace",
+    "website": "https://www.polkacover.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/polkacover",
+    "telegram": "https://t.me/Polkacoverannouncement",
+    "blog": "https://polkacover.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Polkacover"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kwhcoin",
+    "name": "KWHCoin",
+    "ticker": "KWH",
+    "description": "Renewable Energy Cryptocurrency",
+    "website": "https://kwhcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KwhCoin",
+    "telegram": "https://t.me/joinchat/Hb6FqhIgWqn9lJ5rNSCGMg",
+    "slack": "https://kwhcoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/kwhcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "kwhcoindev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xebc7cd2684dd96619841c7994343c5a8bda94b10",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

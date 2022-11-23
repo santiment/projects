@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "totle",
+    "name": "Totle",
+    "ticker": "TTL",
+    "description": "Decentralized Liquidity on Autopilot",
+    "website": "https://www.totle.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/totleinc",
+    "reddit": "https://www.reddit.com/r/Totle/",
+    "blog": "https://medium.com/totle"
+  },
+  "development": {
+    "github_organizations": [
+      "TotlePlatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

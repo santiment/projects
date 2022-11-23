@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ultralpha",
+    "name": "UltrAlpha",
+    "ticker": "UAT",
+    "description": "Asset management services",
+    "website": "https://ultralpha.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UAT_Official",
+    "telegram": "https://t.me/UltrAlphaInternationalOfficial",
+    "blog": "https://medium.com/@UAT_official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x01c0987e88f778df6640787226bc96354e1a9766",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

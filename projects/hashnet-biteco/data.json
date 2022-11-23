@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "hashnet-biteco",
+    "name": "HashNet BitEco",
+    "ticker": "HNB",
+    "description": "Decentralized blockchain economy",
+    "website": "https://hnb.eco/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HNB_ECO",
+    "telegram": "https://t.me/HNB_ECO",
+    "discord": "https://discord.gg/MK3D8uj",
+    "slack": "https://discord.gg/MK3D8uj",
+    "blog": "https://medium.com/@hnb.eco"
+  },
+  "development": {
+    "github_organizations": [
+      "hnb-eco"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9c197c4b58527faaab67cb35e3145166b23d242e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

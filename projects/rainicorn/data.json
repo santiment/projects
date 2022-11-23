@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rainicorn",
+    "name": "Rainicorn",
+    "ticker": "RAINI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

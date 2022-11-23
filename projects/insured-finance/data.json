@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "insured-finance",
+    "name": "Insured Finance",
+    "ticker": "INFI",
+    "description": "P2P insurance marketplace",
+    "website": "https://www.insured.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsuredFin",
+    "telegram": "https://t.me/insuredfinance",
+    "blog": "https://insuredfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x159751323a9e0415dd3d6d42a1212fe9f4a0848c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

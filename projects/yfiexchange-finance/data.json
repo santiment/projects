@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "yfiexchange-finance",
+    "name": "YFIEXCHANGE.FINANCE",
+    "ticker": "YFIE",
+    "description": "Simplifies user interaction with popular DeFi protocols",
+    "website": "https://yfiexchange.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YfiexchangeF",
+    "telegram": "https://t.me/yfiexchange",
+    "blog": "https://medium.com/@YFIEXCHANGE.FINANCE"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f57e8e38e61975a0433fa792542f453d8ed4d7d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

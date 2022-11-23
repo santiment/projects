@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yield-farming",
+    "name": "Yield-Farming",
+    "ticker": "YIELD",
+    "description": "A yield farming project",
+    "website": "https://yield-farming.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yieldfarmingio",
+    "telegram": "https://t.me/yieldfarmingio",
+    "discord": "https://discord.gg/9RhP7u6",
+    "slack": "https://discord.gg/9RhP7u6"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6768063279e2b185dc0c972b97f11f231d0b45ad",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

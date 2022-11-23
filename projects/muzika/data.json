@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "muzika",
+    "name": "Muzika",
+    "ticker": "MZK",
+    "description": "Closing the Gap Between Music Artists and Fans",
+    "website": "https://muzika.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/muzika_official",
+    "telegram": "https://t.me/muzika_english",
+    "reddit": "https://www.reddit.com/r/muzikaofficial/",
+    "blog": "https://medium.com/muzika-official"
+  },
+  "development": {
+    "github_organizations": [
+      "muzikafoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f35a281036be57e64e7e7a2a556b4f888a1b829",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

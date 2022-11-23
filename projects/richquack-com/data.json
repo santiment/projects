@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "richquack-com",
+    "name": "RichQUACK.com",
+    "ticker": "QUACK",
+    "description": "Deflationary token with blackhole",
+    "website": "https://richquack.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/richquack",
+    "telegram": "https://t.me/richquack",
+    "discord": "https://discord.gg/madYcV4GNV",
+    "reddit": "https://www.reddit.com/r/RichQuack_Quack"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

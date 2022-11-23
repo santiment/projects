@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "chronotech",
+    "name": "Chrono.tech",
+    "ticker": "TIME",
+    "description": "Streamlining access to work and payments",
+    "website": "https://chrono.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ChronotechNews",
+    "telegram": "https://t.me/chronotech",
+    "reddit": "https://www.reddit.com/r/ChronoBank/"
+  },
+  "development": {
+    "github_organizations": [
+      "ChronoBank"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x47DFa143923E3e0Bd3C3Fb6B70e0d2629EB4432d",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "ipchain",
+    "name": "IPChain",
+    "ticker": "IPC",
+    "website": "http://exploer.ipchainglobal.com/insight/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IPChainGlobal"
+  },
+  "development": {
+    "github_organizations": [
+      "ipcchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "usdq",
+    "name": "USDQ",
+    "ticker": "USDQ",
+    "description": "Stablecoin backed by bitcoin and pegged to dollar",
+    "website": "https://usdq.platinum.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/platinumqdao",
+    "telegram": "https://t.me/platinumfund",
+    "reddit": "https://www.reddit.com/user/Platinum_QDAO",
+    "blog": "https://blog.platinum.fund/"
+  },
+  "development": {
+    "github_organizations": [
+      "platinumengineering"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4954db6391f4feb5468b6b943d4935353596aec9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

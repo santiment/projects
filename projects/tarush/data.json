@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "tarush",
+    "name": "Tarush",
+    "ticker": "TAS",
+    "description": "Privacy, scalability, and fungibility through a MimbleWimble implementation",
+    "website": "https://tarush.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TarushTech",
+    "telegram": "https://t.me/TarushTech",
+    "blog": "https://medium.com/TarushTech"
+  },
+  "development": {
+    "github_organizations": [
+      "tarushtech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

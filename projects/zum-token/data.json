@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "zum-token",
+    "name": "ZUM TOKEN",
+    "ticker": "ZUM",
+    "description": "Gaming and yield farming",
+    "website": "https://zumtoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Zum_Token",
+    "telegram": "https://t.me/ZumToken",
+    "blog": "https://medium.com/@tournamenttoken"
+  },
+  "development": {
+    "github_organizations": [
+      "TournamentGameToken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

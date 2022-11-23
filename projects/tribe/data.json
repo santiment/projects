@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tribe",
+    "name": "Tribe",
+    "ticker": "TRIBE",
+    "description": "Governing the Fei Protocol DAO",
+    "website": "https://fei.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/feiprotocol",
+    "telegram": "https://t.me/feiprotocol",
+    "discord": "https://discord.com/invite/2prhYdQ5jP",
+    "blog": "https://medium.com/@fei-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "fei-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

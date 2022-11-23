@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "insurepal",
+    "name": "InsurePal",
+    "ticker": "IPL",
+    "website": "https://insurepal.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsurePal_io",
+    "telegram": "https://t.me/InsurePal",
+    "blog": "https://medium.com/@InsurePal_io"
+  },
+  "development": {
+    "github_organizations": [
+      "insurepal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "stater",
+    "name": "Stater",
+    "ticker": "STR",
+    "description": "Lending platform for NFT",
+    "website": "https://stater.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StaterFinance",
+    "telegram": "https://t.me/staterlending",
+    "discord": "https://discord.com/invite/hBGgjhe",
+    "blog": "https://medium.com/@staterco"
+  },
+  "development": {
+    "github_organizations": [
+      "stater-co"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x84bb947fcedba6b9c7dcead42df07e113bb03007",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "coin-artist",
+    "name": "Coin Artist",
+    "ticker": "COIN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

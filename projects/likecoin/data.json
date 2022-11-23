@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "likecoin",
+    "name": "Like",
+    "ticker": "LIKE",
+    "description": "Rewarding Contents by Proof of Creativity",
+    "website": "https://like.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/likecoin_fdn",
+    "telegram": "https://t.me/likecoin",
+    "blog": "https://medium.com/likecoin"
+  },
+  "development": {
+    "github_organizations": [
+      "likecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x02f61fd266da6e8b102d4121f5ce7b992640cf98",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

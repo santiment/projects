@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "soda-token",
+    "name": "Soda Token",
+    "ticker": "SODA",
+    "description": "A yield farming liquidity protocol",
+    "website": "https://soda.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/soda_finance",
+    "discord": "https://discord.gg/Tbzh8tF",
+    "slack": "https://discord.gg/Tbzh8tF",
+    "blog": "https://medium.com/soda-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "soda-contracts"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7AfB39837Fd244A651e4F0C5660B4037214D4aDF",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

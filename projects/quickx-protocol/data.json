@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "quickx-protocol",
+    "name": "QuickX Protocol",
+    "ticker": "QCX",
+    "description": "Fast crypto payment protocol",
+    "website": "https://www.quickx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/quickxprotocol",
+    "telegram": "https://t.me/quickxprotocol",
+    "reddit": "https://www.reddit.com/r/QuickX/",
+    "blog": "https://medium.com/quickxprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "quickxprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf9e5af7b42d31d51677c75bbbd37c1986ec79aee",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

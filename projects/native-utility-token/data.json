@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "native-utility-token",
+    "name": "Native Utility Token",
+    "ticker": "NUT",
+    "description": "Generates asset-backed EOSDT stablecoins",
+    "website": "https://eosdt.com/"
+  },
+  "social": {
+    "reddit": "https://www.reddit.com/r/Equilibrium_eosdt/",
+    "blog": "https://medium.com/equilibrium-eosdt"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "o-tether",
+    "name": "Tether [on Optimism]",
+    "ticker": "USDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "decimals": 6
+      }
+    ]
+  }
+}

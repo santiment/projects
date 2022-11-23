@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "eterbase-utility-token",
+    "name": "Delete",
+    "ticker": "XBASE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

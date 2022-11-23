@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "versess-coin",
+    "name": "Versess Coin",
+    "ticker": "VERS",
+    "description": "A platform for blockchain-based multiplayer games",
+    "website": "https://versesscoin.com/"
+  },
+  "social": {
+    "discord": "https://discord.gg/BmUh56u",
+    "slack": "https://discord.gg/BmUh56u"
+  },
+  "development": {
+    "github_organizations": [
+      "VersessCTO"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

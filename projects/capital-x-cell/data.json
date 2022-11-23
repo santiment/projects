@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "capital-x-cell",
+    "name": "CAPITAL X CELL",
+    "ticker": "CXC",
+    "description": "Decentralized cross-chain trading",
+    "website": "https://www.cxcblock.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "cxcblock"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

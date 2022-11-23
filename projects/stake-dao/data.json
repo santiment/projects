@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "stake-dao",
+    "name": "Stake DAO",
+    "ticker": "SDT",
+    "description": "Staking aggregator",
+    "website": "https://stakedao.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StakedaoHQ",
+    "telegram": "https://t.me/StakedaoHQ",
+    "blog": "https://stake-dao.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

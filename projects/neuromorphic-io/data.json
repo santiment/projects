@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "neuromorphic-io",
+    "name": "Neuromorphic.io",
+    "ticker": "NMP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

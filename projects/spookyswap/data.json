@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "spookyswap",
+    "name": "SpookySwap",
+    "ticker": "BOO",
+    "description": "DEX and DeFi hub on Fantom",
+    "website": "https://spookyswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/spookyswap",
+    "discord": "https://discord.gg/weXbvPAH4Q",
+    "blog": "https://spookyswap.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "SpookySwap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

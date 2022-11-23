@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "cyclone-protocol",
+    "name": "Cyclone Protocol",
+    "ticker": "CYC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

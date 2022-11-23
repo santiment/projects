@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "pepe-cash",
+    "name": "Pepe Cash",
+    "ticker": "PEPECASH",
+    "description": "PEPECASH is just like any other card except its alot more liquid. Its also what is used to pay the submission fee into the RarePepe directory",
+    "website": "http://rarepepedirectory.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/myrarepepe",
+    "telegram": "https://telegram.me/rarepepetradergroup",
+    "reddit": "https://www.reddit.com/r/pepetraders/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

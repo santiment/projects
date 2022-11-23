@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dws",
+    "name": "DWS",
+    "ticker": "DWS",
+    "description": "A Decentralized WI-FI Sharing Ecosystem",
+    "website": "https://dwswifi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dwswifi",
+    "telegram": "https://t.me/dwswifiofficial",
+    "blog": "https://dwswifi.com/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf4b54874cd8a6c863e3a904c18fda964661ec363",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ondori",
+    "name": "Ondori",
+    "ticker": "RSTR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

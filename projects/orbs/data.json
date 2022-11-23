@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "orbs",
+    "name": "Orbs",
+    "ticker": "ORBS",
+    "description": "Blockchain infrastructure-as-a-service",
+    "website": "https://www.orbs.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/orbs_network",
+    "telegram": "https://t.me/orbs_network",
+    "slack": "https://orbs-network.slack.com/",
+    "reddit": "https://www.reddit.com/r/ORBS_Network/",
+    "blog": "https://medium.com/orbs-network"
+  },
+  "development": {
+    "github_organizations": [
+      "orbs-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

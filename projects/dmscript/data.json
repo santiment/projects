@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dmscript",
+    "name": "DMScript",
+    "ticker": "DMST",
+    "description": "Blockchain gaming",
+    "website": "http://dmscript.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DMScript",
+    "telegram": "https://t.me/dmscriptgroup"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF29992D7b589A0A6bD2de7Be29a97A6EB73EaF85",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "oxen",
+    "name": "Delete",
+    "ticker": "OXEN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

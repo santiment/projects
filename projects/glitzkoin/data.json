@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "glitzkoin",
+    "name": "GlitzKoin",
+    "ticker": "GTN",
+    "description": "Diamond industry supply chain",
+    "website": "https://www.glitzkoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GlitzkoinToken",
+    "telegram": "https://t.me/glitzkoin_token",
+    "reddit": "https://www.reddit.com/r/glitzkoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

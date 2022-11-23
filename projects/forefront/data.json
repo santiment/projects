@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "forefront",
+    "name": "Forefront",
+    "ticker": "FF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

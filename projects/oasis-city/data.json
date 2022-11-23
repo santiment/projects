@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "oasis-city",
+    "name": "Oasis City",
+    "ticker": "OSC",
+    "description": "VR-interlinked cryptocurrency ecosystem platform",
+    "website": "https://www.oasiscity.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oasiscity_io",
+    "telegram": "https://t.me/oasiscity_global",
+    "discord": "https://discord.gg/2vnhDev",
+    "slack": "https://discordapp.com/invite/2vnhDev",
+    "blog": "https://medium.com/@oasiscity"
+  },
+  "development": {
+    "github_organizations": [
+      "oasiscityproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x24700a297960e8477ce3ca6c58b70a7af3410398",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "vestchain",
+    "name": "VestChain",
+    "ticker": "VEST",
+    "description": "VestChain is the unique blockchain platform that has full capacity to tackle the problems inherent to the existing blockchains, i.e that of expandability and time needed for confirmation.",
+    "website": "https://vestchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vestchain",
+    "telegram": "https://t.me/vestchainio",
+    "reddit": "https://www.reddit.com/r/vestchain"
+  },
+  "development": {
+    "github_organizations": [
+      "vestchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

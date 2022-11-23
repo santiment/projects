@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bitcapitalvendor",
+    "name": "BitCapitalVendor",
+    "ticker": "BCV",
+    "description": "Blockchain Digital Asset Management Service Platform",
+    "website": "https://www.bitcv.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BCVofficial",
+    "telegram": "https://t.me/bcvtoken",
+    "slack": "https://weibo.com/bitcv"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcv"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1014613e2b3cbc4d575054d4982e580d9b99d7b1",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

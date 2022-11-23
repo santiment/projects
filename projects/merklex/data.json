@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "merklex",
+    "name": "merkleX",
+    "ticker": "MKX",
+    "description": "DEX that uses a decentralized clearing network",
+    "website": "https://merklex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/merklex_io",
+    "discord": "https://discord.gg/Dh6W6mh",
+    "slack": "https://discord.gg/Dh6W6mh",
+    "blog": "https://merklex.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "merklex"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

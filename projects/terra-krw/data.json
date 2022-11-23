@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "terra-krw",
+    "name": "TerraKRW",
+    "ticker": "KRT",
+    "description": "1 KRT = 1 Korean Won",
+    "website": "https://terra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terra_money",
+    "telegram": "https://t.me/terra_announcements",
+    "discord": "https://discord.gg/bYfyhUT",
+    "slack": "https://discordapp.com/invite/bYfyhUT",
+    "blog": "https://medium.com/terra-money"
+  },
+  "development": {
+    "github_organizations": [
+      "terra-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

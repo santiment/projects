@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "simone",
+    "name": "Simone",
+    "ticker": "SON",
+    "description": "An investment/payment network",
+    "website": "https://simonecoin.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

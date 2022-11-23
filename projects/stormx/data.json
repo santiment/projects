@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "stormx",
+    "name": "StormX",
+    "ticker": "STMX",
+    "description": "A micro-task marketplace",
+    "website": "https://stormx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stormxio",
+    "telegram": "https://t.me/stormxio",
+    "reddit": "https://www.reddit.com/r/stormxio/",
+    "blog": "https://blog.stormtoken.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "stormxio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

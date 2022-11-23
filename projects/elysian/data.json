@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "elysian",
+    "name": "Elysian",
+    "ticker": "ELY",
+    "description": "A blockchain-based platform for online stores",
+    "website": "https://elycoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Elysian_ELY",
+    "telegram": "https://t.me/elysian_ely",
+    "reddit": "https://www.reddit.com/r/Elysian_ELY/",
+    "blog": "https://medium.com/@Elysian_Ely"
+  },
+  "development": {
+    "github_organizations": [
+      "elysian-ely"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa95592dcffa3c080b4b40e459c5f5692f67db7f8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

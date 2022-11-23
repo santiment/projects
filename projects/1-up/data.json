@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "1-up",
+    "name": "1-UP Platform",
+    "ticker": "1-UP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "secrets-of-zurich",
+    "name": "Secrets of Zurich",
+    "ticker": "SOZ",
+    "description": "Trading Academy",
+    "website": "https://soz.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/secretsofzurich",
+    "telegram": "https://t.me/secretsofzurich",
+    "blog": "https://medium.com/@secretsofzurich"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3a10b7a22ae98e0f53276923f19f99b259f61778",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "omisego",
+    "name": "OMG Network",
+    "ticker": "OMG",
+    "description": "Value transfer network for ETH and ERC20 tokens",
+    "website": "https://omg.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bobanetwork",
+    "telegram": "https://t.me/omgnetwork",
+    "discord": "https://discord.com/invite/m7NysJjKhm",
+    "slack": "https://www.reddit.com/r/omise_go/",
+    "reddit": "https://www.reddit.com/r/omise_go/",
+    "blog": "https://omisego.co/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "omisego"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

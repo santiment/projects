@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "white-standard",
+    "name": "White Standard",
+    "ticker": "WSD",
+    "description": "The first trusted usd-backed platform",
+    "website": "https://thewhitecompanyus.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheWcomp",
+    "telegram": "https://t.me/thewcomp",
+    "slack": "https://publicslack.com/slacks/whitestandard-slack-com/invites/new",
+    "reddit": "https://www.reddit.com/r/WhiteStandard"
+  },
+  "development": {
+    "github_organizations": [
+      "thewhitecompany"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "songbird",
+    "name": "Songbird",
+    "ticker": "SGB",
+    "description": "Unlocking Value",
+    "website": "https://flare.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FlareNetworks",
+    "telegram": "https://t.me/FlareNetwork",
+    "discord": "https://discord.com/invite/XqNa7Rq",
+    "reddit": "https://reddit.com/r/FlareNetworks"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

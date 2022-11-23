@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mango-markets",
+    "name": "Mango Markets",
+    "ticker": "MNGO",
+    "description": "Trading and derivatives on Solana",
+    "website": "https://mango.markets/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mangomarkets",
+    "discord": "https://discord.gg/PAudpMcEaR",
+    "blog": "https://medium.com/blockworks-foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "blockworks-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

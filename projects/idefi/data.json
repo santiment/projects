@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "idefi",
+    "name": "Synth iDEFI",
+    "ticker": "iDEFI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x14d10003807ac60d07bb0ba82caeac8d2087c157",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

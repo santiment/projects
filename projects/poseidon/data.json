@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "poseidon",
+    "name": "Poseidon Network",
+    "ticker": "QQQ",
+    "description": "A worldwide P2P infrastructure",
+    "website": "https://poseidon.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QQQtoken",
+    "telegram": "https://t.me/POSEIDONNETWORKQQQtoken",
+    "blog": "https://medium.com/poseidonnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "poseidon-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

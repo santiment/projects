@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "joe",
+    "name": "JOE",
+    "ticker": "JOE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

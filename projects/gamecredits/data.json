@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "gamecredits",
+    "name": "GameCredits",
+    "ticker": "GAME",
+    "description": "A universal currency and virtual wallet for 2.6 billion gamers worldwide",
+    "website": "http://gamecredits.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gamecredits",
+    "telegram": "https://telegram.gamecredits.com/",
+    "discord": "https://discord.gamecredits.com/",
+    "slack": "https://discord.gamecredits.com/",
+    "reddit": "https://www.reddit.com/r/GameCreditsCrypto/",
+    "blog": "https://gamecredits.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "gamecredits-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+        "decimals": 18
+      }
+    ]
+  }
+}

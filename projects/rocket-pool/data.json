@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "rocket-pool",
+    "name": "Rocket Pool",
+    "ticker": "RPL",
+    "description": "Next Generation Ethereum Proof of Stake Pool",
+    "website": "https://www.rocketpool.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "discord": "https://discord.gg/tCRG54c",
+    "slack": "https://discordapp.com/invite/tCRG54c",
+    "reddit": "https://www.reddit.com/r/rocketpool/",
+    "blog": "https://medium.com/rocket-pool"
+  },
+  "development": {
+    "github_organizations": [
+      "rocket-pool"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

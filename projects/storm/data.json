@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "storm",
+    "name": "Storm",
+    "ticker": "STORM",
+    "description": "Decentralized micro-task marketplace",
+    "website": "https://stormtoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Storm_Token",
+    "telegram": "https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg",
+    "reddit": "https://www.reddit.com/r/stormtoken/",
+    "blog": "https://blog.stormtoken.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "stormx-inc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd0a4b8946cb52f0661273bfbc6fd0e0c75fc6433",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "rizon-blockchain",
+    "name": "RIZON",
+    "ticker": "ATOLO",
+    "description": "Tendermint-based digital currency and asset hub blockchain",
+    "website": "https://rizon.world/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hdac_rizon",
+    "telegram": "https://t.me/rizon_atolo_eng",
+    "discord": "https://discord.gg/DvZFA7mpuX",
+    "blog": "https://medium.com/hdac"
+  },
+  "development": {
+    "github_organizations": [
+      "rizon-world"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

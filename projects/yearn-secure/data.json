@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "yearn-secure",
+    "name": "Yearn Secure",
+    "ticker": "YSEC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

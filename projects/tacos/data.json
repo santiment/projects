@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tacos",
+    "name": "Tacos",
+    "ticker": "TACO",
+    "description": "A social experiment, crypto game and meme machine",
+    "website": "https://www.taconomics.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Taconomics101",
+    "telegram": "https://t.me/TacoGram",
+    "reddit": "https://www.reddit.com/r/Taconomics/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

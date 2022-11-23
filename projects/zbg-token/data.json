@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zbg-token",
+    "name": "ZBG Token",
+    "ticker": "ZT",
+    "description": "Native currency of ZBG exchange",
+    "website": "https://www.zbg.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZBGofficial",
+    "telegram": "https://t.me/zbg_official",
+    "blog": "https://medium.com/@ZBGofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfe39e6a32acd2af7955cb3d406ba2b55c901f247",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

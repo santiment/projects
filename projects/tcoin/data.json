@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "tcoin",
+    "name": "TCOIN",
+    "ticker": "TCN",
+    "description": "TCN Tcoin is a completely different coin from Tcoin (TCOIN)",
+    "website": "https://tcoin.eu/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TCN_TCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "tcoin-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

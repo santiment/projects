@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ympl",
+    "name": "YMPL",
+    "ticker": "YMPL",
+    "description": "A probabilistic DeFi protocol ",
+    "website": "https://ymplprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ymplofficial",
+    "telegram": "https://t.me/YMPLofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "ympl-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb7ba8461664dE526A3ae44189727DFC768625902",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

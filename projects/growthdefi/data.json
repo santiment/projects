@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "growthdefi",
+    "name": "Growth DeFi",
+    "ticker": "GRO",
+    "description": "Liquidity provider exposure without impermanent loss",
+    "website": "https://growthdefi.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/growthdefi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

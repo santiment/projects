@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "lamden",
+    "name": "Lamden",
+    "ticker": "TAU",
+    "description": "Leverage the practicalities of a distributed ledger: auditable transaction logs, unique and tradable assets, consortium chains with other market participants, without the long-winded nonsense you've used before. Focus on building. Focus on saving money",
+    "website": "https://lamden.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LamdenTau/",
+    "telegram": "https://t.me/lamdenchat",
+    "reddit": "https://www.reddit.com/r/lamden/",
+    "blog": "https://blog.lamden.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "lamden"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

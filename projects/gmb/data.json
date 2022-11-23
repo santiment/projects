@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gmb",
+    "name": "GMB",
+    "ticker": "GMB",
+    "description": "GMB is a fast blockchain platform with dual-cryptocurrency that can be connected into the real world",
+    "website": "https://gmbplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMBplatform",
+    "telegram": "https://t.me/gmbplatform",
+    "slack": "https://open.kakao.com/o/gbWm12M",
+    "blog": "https://medium.com/gmbofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "gmbplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1d464ac5e046e5fe280c9588edf8eb681b07008f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

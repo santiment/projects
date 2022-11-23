@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unicly-hashmasks-collection",
+    "name": "Unicly Hashmasks Collection",
+    "ticker": "UMASK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "nav-coin",
+    "name": "NavCoin",
+    "ticker": "NAV",
+    "description": "A decentralized cryptocurrency",
+    "website": "http://www.navcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NavCoin",
+    "telegram": "https://t.me/navcoin",
+    "discord": "https://discord.gg/y4Vu9jw",
+    "slack": "https://discord.gg/y4Vu9jw",
+    "reddit": "https://www.reddit.com/r/NavCoin/",
+    "blog": "http://medium.com/nav-coin"
+  },
+  "development": {
+    "github_organizations": [
+      "navcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

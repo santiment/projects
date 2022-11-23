@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "mobilinktoken",
+    "name": "MobilinkToken",
+    "ticker": "MOLK",
+    "description": "Decentralized Mobile Service Telecom Company",
+    "website": "https://mobilink.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mobilinkcoin",
+    "telegram": "https://t.me/mobilinkcointechnical",
+    "discord": "https://discord.gg/JprkXvF",
+    "slack": "https://discord.gg/JprkXvF",
+    "reddit": "https://www.reddit.com/r/mobilinkcoin/",
+    "blog": "https://medium.com/@mobilinkcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "mobilink-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x97cb5cc1b2e10cc56dc16ab9179f06dfedbe41a2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

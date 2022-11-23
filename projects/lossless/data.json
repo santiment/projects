@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lossless",
+    "name": "Lossless",
+    "ticker": "LSS",
+    "description": "The first DeFi hack mitigation tool for token creators",
+    "website": "https://lossless.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/losslessdefi",
+    "telegram": "https://t.me/losslesscash",
+    "blog": "https://losslesscash.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Lossless-Cash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3b9be07d622accaed78f479bc0edabfd6397e320",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

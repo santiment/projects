@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rentberry",
+    "name": "Rentberry",
+    "ticker": "BERRY",
+    "description": "Fully operational long-term rental platform",
+    "website": "https://ico.rentberry.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rentberry_",
+    "telegram": "https://t.me/joinchat/E6YjkQ2yQwBk9WaP0q-zMQ",
+    "reddit": "https://www.reddit.com/r/Rentberry/",
+    "blog": "https://rentberry.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "rentberry"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+        "blockchain": "ethereum",
+        "decimals": 14
+      }
+    ]
+  }
+}

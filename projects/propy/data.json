@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "propy",
+    "name": "Propy",
+    "ticker": "PRO",
+    "description": "Property Transactions Secured Through Blockchain",
+    "website": "https://propy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/propyinc",
+    "telegram": "https://t.me/propy",
+    "slack": "https://propy.slack.com/",
+    "reddit": "https://www.reddit.com/user/PropyInc/",
+    "blog": "https://medium.com/@propy"
+  },
+  "development": {
+    "github_organizations": [
+      "propy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

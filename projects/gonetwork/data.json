@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "gonetwork",
+    "name": "GoNetwork",
+    "ticker": "GOT",
+    "description": "Mobile first network infrastructure for Ethereum",
+    "website": "https://gonetwork.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gonetwork_co",
+    "telegram": "https://t.me/joinchat/Geu7vA2LFdDv5RqxFYqCtw",
+    "blog": "https://medium.com/@gonetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "gonetwork-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x423b5f62b328d0d6d44870f4eee316befa0b2df5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

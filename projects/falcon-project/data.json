@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "falcon-project",
+    "name": "Falcon Project",
+    "ticker": "FNT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

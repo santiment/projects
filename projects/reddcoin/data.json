@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "reddcoin",
+    "name": "Redd",
+    "ticker": "RDD",
+    "description": "The social currency that enriches people’s social lives and makes digital currency easy",
+    "website": "http://www.reddcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/reddcoin",
+    "reddit": "https://www.reddit.com/r/reddCoin/",
+    "blog": "https://www.reddcoin.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "reddcoin-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

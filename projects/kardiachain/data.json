@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "kardiachain",
+    "name": "KardiaChain",
+    "ticker": "KAI",
+    "description": "Hybrid Blockchain Solution",
+    "website": "https://www.kardiachain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@kardiachain",
+    "telegram": "https://t.me/kardiachain",
+    "reddit": "https://www.reddit.com/user/KardiaChain",
+    "blog": "https://medium.com/@KardiaChain"
+  },
+  "development": {
+    "github_organizations": [
+      "kardiachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "kai_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

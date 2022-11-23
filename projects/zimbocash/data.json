@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "zimbocash",
+    "name": "ZIMBOCASH",
+    "ticker": "ZASH",
+    "description": "Decentralised Currency for Zimbabwe",
+    "website": "https://www.zimbo.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zimbocash",
+    "telegram": "https://t.me/zimbocash"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

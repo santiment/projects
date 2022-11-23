@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "levolution",
+    "name": "Levolution",
+    "ticker": "LEVL",
+    "description": "All-in-one platform to create ITO projects",
+    "website": "https://levolution.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LevolutionP",
+    "telegram": "https://t.me/levolutionITO",
+    "reddit": "https://www.reddit.com/user/Levolution_Platform"
+  },
+  "development": {
+    "github_organizations": [
+      "levl-llc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x09970aec766b6f3223aca9111555e99dc50ff13a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

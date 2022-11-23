@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tripio",
+    "name": "Tripio",
+    "ticker": "TRIO",
+    "description": "Decentralized travel marketplace",
+    "website": "https://trip.io/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thetripio",
+    "telegram": "https://t.me/tripioglobal",
+    "blog": "https://medium.com/@thetripio"
+  },
+  "development": {
+    "github_organizations": [
+      "thetripio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8b40761142b9aa6dc8964e61d0585995425c3d94",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

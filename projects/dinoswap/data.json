@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dinoswap",
+    "name": "DinoSwap",
+    "ticker": "DINO",
+    "description": "Multi-chain farming powerhouse",
+    "website": "https://dinoswap.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DinoSwapHQ",
+    "telegram": "https://t.me/DinoSwapOfficial",
+    "reddit": "https://www.reddit.com/r/DinoSwapOfficial/",
+    "blog": "https://medium.com/dinoswapofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "DinoSwap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

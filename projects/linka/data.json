@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "linka",
+    "name": "LINKA",
+    "ticker": "LINKA",
+    "description": "A value linking platform",
+    "website": "https://www.linka.io/en/"
+  },
+  "social": {
+    "telegram": "https://t.me/linkaofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x578b49c45961f98d8df92854b53f1641af0a5036",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

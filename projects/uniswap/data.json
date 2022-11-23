@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "uniswap",
+    "name": "Uniswap [on Ethereum]",
+    "ticker": "UNI",
+    "description": "Governance system on highly decentralized financial infrastructure",
+    "website": "https://uniswap.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Uniswap",
+    "discord": "https://discord.gg/5Wfqau",
+    "slack": "https://discord.gg/5Wfqau",
+    "reddit": "https://www.reddit.com/r/UniSwap/",
+    "blog": "https://uniswap.org/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "uniswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

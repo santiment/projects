@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "illuvium",
+    "name": "Illuvium",
+    "ticker": "ILV",
+    "description": "Collection and Auto Battler Game",
+    "website": "https://illuvium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/illuviumio",
+    "telegram": "https://t.me/illuvium",
+    "discord": "https://discord.gg/illuvium",
+    "blog": "https://illuvium.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "IlluviumGame"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

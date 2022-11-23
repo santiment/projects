@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "platon",
+    "name": "PlatON",
+    "ticker": "LAT",
+    "description": "Privacy-Preserving AI Network",
+    "website": "https://www.platon.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlatON_Network",
+    "telegram": "https://t.me/PlatONNetwork",
+    "reddit": "https://reddit.com/r/PlatONNetwork",
+    "blog": "https://medium.com/platon-network"
+  },
+  "development": {
+    "github_organizations": [
+      "PlatONnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

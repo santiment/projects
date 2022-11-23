@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nam-coin",
+    "name": "NAM COIN",
+    "ticker": "NAM",
+    "description": "AI and blockchain technology to bring innovation in the medical system",
+    "website": "https://namchain.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/inc_nam",
+    "telegram": "https://t.me/joinchat/HC0xYw-SyajoO9u2wjR3tw",
+    "slack": "https://nam-inc.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "nam-inc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05984006707585f66465e8a6505341f46b64fa7a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

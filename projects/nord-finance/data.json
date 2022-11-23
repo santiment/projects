@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nord-finance",
+    "name": "Nord Finance",
+    "ticker": "NORD",
+    "description": "An advanced DeFi ecosystem",
+    "website": "https://nordfinance.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Nord_Finance",
+    "telegram": "https://t.me/NordFinance",
+    "blog": "https://nordfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "nordfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pixel",
+    "name": "PIXEL",
+    "ticker": "PXL",
+    "description": "Digital contents ecosystem",
+    "website": "https://piction.network/"
+  },
+  "social": {
+    "telegram": "https://t.me/pictionnetwork",
+    "slack": "https://open.kakao.com/o/gyVQbDM",
+    "blog": "https://medium.com/piction"
+  },
+  "development": {
+    "github_organizations": [
+      "piction-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf88951d7b676798705fd3a362ba5b1dbca2b233b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

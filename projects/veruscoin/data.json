@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "veruscoin",
+    "name": "VerusCoin",
+    "ticker": "VRSC",
+    "description": "Privacy, Identity, Public Blockchains",
+    "website": "http://www.veruscoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VerusCoin",
+    "discord": "https://discord.gg/VRKMP2S",
+    "slack": "https://discord.gg/VRKMP2S",
+    "reddit": "https://www.reddit.com/r/VerusCoin/",
+    "blog": "https://medium.com/@veruscoin"
+  },
+  "development": {
+    "github_organizations": [
+      "veruscoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

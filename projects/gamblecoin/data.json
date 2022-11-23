@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "gamblecoin",
+    "name": "GambleCoin",
+    "ticker": "GMCN",
+    "description": "Forming anonymous gambling",
+    "website": "https://gamblecoin.fun/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMCN_Official",
+    "reddit": "https://www.reddit.com/r/GambleCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "gamblecoin-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

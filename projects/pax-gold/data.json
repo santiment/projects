@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "pax-gold",
+    "name": "PAX Gold",
+    "ticker": "PAXG",
+    "description": "Each token is backed by an ounce of allocated gold",
+    "website": "https://www.paxos.com/paxgold/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/paxosglobal",
+    "blog": "https://medium.com/paxos"
+  },
+  "development": {
+    "github_organizations": [
+      "paxosglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

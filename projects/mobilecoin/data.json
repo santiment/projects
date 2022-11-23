@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mobilecoin",
+    "name": "MobileCoin",
+    "ticker": "MOB",
+    "description": "Secure Payment Systems for Mobile",
+    "website": "https://www.mobilecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mobilecoin",
+    "reddit": "https://reddit.com/r/mobilecoin",
+    "blog": "https://medium.com/mobilecoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "mobilecoinfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

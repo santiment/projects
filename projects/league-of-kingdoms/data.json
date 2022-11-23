@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "league-of-kingdoms",
+    "name": "League of Kingdoms Arena",
+    "ticker": "LOKA",
+    "description": "MMORTS game",
+    "website": "https://www.leagueofkingdoms.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LeagueKingdoms",
+    "telegram": "https://t.me/LoK_global",
+    "discord": "https://discord.gg/leagueofkingdoms",
+    "blog": "https://medium.com/league-of-kingdoms-eng"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x61e90a50137e1f645c9ef4a0d3a4f01477738406",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

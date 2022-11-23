@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tokenclub",
+    "name": "TokenClub",
+    "ticker": "TCT",
+    "description": "A blockchain-based cryptocurrency investment service community",
+    "website": "http://www.tokenclub.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Token8Club",
+    "telegram": "https://t.me/token_club",
+    "slack": "https://m.weibo.cn/u/6428288074"
+  },
+  "development": {
+    "github_organizations": [
+      "tokenclubtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

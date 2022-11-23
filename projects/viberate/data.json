@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "viberate",
+    "name": "Viberate",
+    "ticker": "VIB",
+    "description": "A smarter way to explore live music. Viberate enables you to browse through the biggest music database in the world.  Compare the stats gathered here to determine who’s going to shoot up to the stars.",
+    "website": "https://www.viberate.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/viberate_com",
+    "telegram": "https://t.me/joinchat/F-zenkQffjbGY7YqqSQl1w",
+    "reddit": "https://www.reddit.com/r/viberate/",
+    "blog": "https://medium.com/viberate-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "viberate"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

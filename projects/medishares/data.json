@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "medishares",
+    "name": "MediShares",
+    "ticker": "MDS",
+    "description": "The World's First Mutual Aid Marketplace On BlockChain",
+    "website": "http://www.medishares.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MediShares",
+    "telegram": "https://t.me/medishares",
+    "blog": "https://medium.com/@MediShares"
+  },
+  "development": {
+    "github_organizations": [
+      "medishares"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x66186008c1050627f979d464eabb258860563dbe",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

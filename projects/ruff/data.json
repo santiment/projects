@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ruff",
+    "name": "Ruff",
+    "ticker": "RUFF",
+    "website": "http://ruffchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ruff_Chain",
+    "telegram": "https://t.me/RuffChain"
+  },
+  "development": {
+    "github_organizations": [
+      "ruffnotes"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf278c1ca969095ffddded020290cf8b5c424ace2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

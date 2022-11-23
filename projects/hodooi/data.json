@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hodooi",
+    "name": "HoDooi.com",
+    "ticker": "HOD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

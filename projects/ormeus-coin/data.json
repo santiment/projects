@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "ormeus-coin",
+    "name": "Ormeus Coin",
+    "ticker": "ORME",
+    "description": "A new digital money system backed by a fully-audited USD250 Million industrial crypto mining operation",
+    "website": "https://ormeuscoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ormeuscoin",
+    "reddit": "https://www.reddit.com/user/ormeuscoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x516e5436bafdc11083654de7bb9b95382d08d5de",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

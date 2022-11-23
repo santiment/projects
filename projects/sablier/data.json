@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "sablier",
+    "name": "Sablier",
+    "ticker": "SAB",
+    "description": "The protocol for real-time finance on the Ethereum blockchain",
+    "website": "https://www.sablier.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sablierhq",
+    "telegram": "https://t.me/sablier",
+    "blog": "https://medium.com/sablier"
+  },
+  "development": {
+    "github_organizations": [
+      "sablierhq"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sonm-bep20",
+    "name": "Duplicate",
+    "ticker": "SNM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

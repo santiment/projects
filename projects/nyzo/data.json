@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "nyzo",
+    "name": "Nyzo",
+    "ticker": "NYZO",
+    "description": "Efficient Proof-of-Diversity (PoD) blockchain",
+    "website": "https://nyzo.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nyzo_currency",
+    "telegram": "https://t.me/NyzoCo",
+    "discord": "https://discord.gg/fYyn7Aw",
+    "slack": "https://discord.gg/fYyn7Aw",
+    "reddit": "https://www.reddit.com/r/Nyzo/",
+    "blog": "https://medium.com/@nyzoco/the-nyzo-mesh-time-and-diversity-as-a-currency-85c676631516"
+  },
+  "development": {
+    "github_organizations": [
+      "n-y-z-o"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

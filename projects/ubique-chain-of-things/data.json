@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ubique-chain-of-things",
+    "name": "Ubique Chain Of Things",
+    "ticker": "UCT",
+    "description": "A blockchain powered smart IoT ecosystem",
+    "website": "https://www.ucot.world/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UcotMedia",
+    "telegram": "http://t.me/ucot_official_international",
+    "reddit": "https://www.reddit.com/r/UCOT/",
+    "blog": "https://www.ucot.world/news/"
+  },
+  "development": {
+    "github_organizations": [
+      "ucot"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

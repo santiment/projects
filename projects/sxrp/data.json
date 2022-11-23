@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sxrp",
+    "name": "Synth sXRP",
+    "ticker": "sXRP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa2b0fde6d710e201d0d608e924a484d1a5fed57c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

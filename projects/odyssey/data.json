@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "odyssey",
+    "name": "Odyssey",
+    "ticker": "OCN",
+    "description": "A universal protocol based on trust&credit for sharing economy",
+    "website": "http://www.ocnex.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OdysseyOCN",
+    "telegram": "https://t.me/OdysseyOfficial",
+    "reddit": "https://www.reddit.com/r/OdysseyOCN/"
+  },
+  "development": {
+    "github_organizations": [
+      "odysseyocn"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

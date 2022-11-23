@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "theta",
+    "name": "Theta Network",
+    "ticker": "THETA",
+    "description": "Next generation video delivery powered by you",
+    "website": "https://www.thetatoken.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "telegram": "https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg",
+    "reddit": "https://www.reddit.com/r/thetatoken/",
+    "blog": "https://medium.com/@ThetaLabs"
+  },
+  "development": {
+    "github_organizations": [
+      "thetatoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+        "decimals": 18
+      }
+    ]
+  }
+}

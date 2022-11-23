@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "elixxir",
+    "name": "Elixxir",
+    "ticker": "XX",
+    "description": "Communications layer of the xx network",
+    "website": "https://elixxir.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/elixxir_io",
+    "telegram": "https://t.me/elixxir_io",
+    "discord": "https://discord.gg/DwfJgHj",
+    "slack": "https://discordapp.com/invite/DwfJgHj",
+    "reddit": "https://www.reddit.com/r/elixxir_io",
+    "blog": "https://medium.com/@elixxir_io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

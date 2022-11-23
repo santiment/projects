@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "fluz-fluz",
+    "name": "Fluz Fluz",
+    "ticker": "FLUZ",
+    "description": "Make Money Helping Others Save",
+    "website": "https://www.fluzfluz.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FluzFluzGlobal",
+    "telegram": "https://t.me/fluzfluzico",
+    "reddit": "https://www.reddit.com/r/FluzFluzGlobal/",
+    "blog": "https://medium.com/@fluzfluz"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x954b5de09a55e59755acbda29e1eb74a45d30175",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

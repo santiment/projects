@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "feathercoin",
+    "name": "Feathercoin",
+    "ticker": "FTC",
+    "description": "An upgraded and customised version of Bitcoin",
+    "website": "http://feathercoin.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Feathercoin",
+    "reddit": "https://www.reddit.com/r/FeatherCOin/"
+  },
+  "development": {
+    "github_organizations": [
+      "feathercoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

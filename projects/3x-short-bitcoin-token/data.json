@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "3x-short-bitcoin-token",
+    "name": "3X Short Bitcoin Token",
+    "ticker": "BEAR",
+    "description": "Corresponds to -3 times the daily return of BTC",
+    "website": "https://ftx.com/tokens/BEAR"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FTX_official",
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

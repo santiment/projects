@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "jesus-coin",
+    "name": "Jesus Coin",
+    "ticker": "JC",
+    "description": "Decentralizing Jesus on the Blockchain",
+    "website": "https://jesuscoin.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Jesuscoinico",
+    "telegram": "https://t.me/realjesuscoinico",
+    "reddit": "https://www.reddit.com/r/Jesus_Coin/",
+    "blog": "https://medium.com/@davidr_785"
+  },
+  "development": {
+    "github_organizations": [
+      "jesusico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe2d82dc7da0e6f882e96846451f4fabcc8f90528",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

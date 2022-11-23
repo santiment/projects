@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "zcoin",
+    "name": "Firo",
+    "ticker": "XZC",
+    "description": "Firo, formerly Zcoin, has been the gold standard of trustless, on-chain privacy since 2016",
+    "website": "https://firo.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/firoorg",
+    "telegram": "https://t.me/firoproject",
+    "discord": "https://discord.gg/4FjnQ2q",
+    "slack": "https://discordapp.com/invite/4FjnQ2q",
+    "reddit": "https://www.reddit.com/r/firoproject/",
+    "blog": "https://zcoin.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "zcoinofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

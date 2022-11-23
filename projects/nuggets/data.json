@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "nuggets",
+    "name": "Nuggets",
+    "ticker": "NUG",
+    "description": "Payment and ID without sharing personal data",
+    "website": "https://nuggets.life/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nuggetsPAYandID",
+    "telegram": "https://t.me/nuggetsblockchain",
+    "reddit": "https://www.reddit.com/r/nuggetsPayandID/",
+    "blog": "https://medium.nuggets.life/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

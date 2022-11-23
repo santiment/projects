@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "uchain",
+    "name": "UChain",
+    "ticker": "UCN",
+    "description": "The Next Generation Distributed Smart Network Blockchain for the Sharing Economy",
+    "website": "https://uchain.world/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UChainEcosystem",
+    "telegram": "https://t.me/UchainEcosystem",
+    "reddit": "https://www.reddit.com/r/UChain/",
+    "blog": "https://medium.com/@uchain"
+  },
+  "development": {
+    "github_organizations": [
+      "uchainecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaf37055188feee4869de63464937e683d61b2a1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

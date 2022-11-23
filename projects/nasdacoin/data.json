@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "nasdacoin",
+    "name": "Nasdacoin",
+    "ticker": "NSD",
+    "description": "Open source, peer-to-peer cryptocurrency, developed with the scrypt algorithm in the POW / POS hybrid format",
+    "website": "https://nasdacoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nasdacoin_io",
+    "telegram": "https://t.me/nasdacoin_official",
+    "reddit": "https://www.reddit.com/user/Nasdacoin_official"
+  },
+  "development": {
+    "github_organizations": [
+      "nasdacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

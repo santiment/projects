@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "stakinglab",
+    "name": "Stakinglab",
+    "ticker": "LABX",
+    "description": "A masternode and POS service provider. Established in 2017 in Germany, Stakinglab was launched with an objective to offer a comprehensive platform to investors and project owners for Proof of Stake coins, masternode coins, and other relevant services.",
+    "website": "https://labcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Staking_LAB",
+    "discord": "https://discord.gg/WabU6c7",
+    "slack": "https://discord.gg/WabU6c7"
+  },
+  "development": {
+    "github_organizations": [
+      "stakinglab"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

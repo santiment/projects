@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cult-dao",
+    "name": "Cult DAO",
+    "ticker": "CULT",
+    "website": "https://cultdao.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wearecultdao",
+    "telegram": "https://t.me/cultdao",
+    "discord": "https://discord.gg/Dx2eHfJfr6",
+    "reddit": "https://www.reddit.com/r/cultdao/",
+    "blog": "https://wearecultdao.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "cultdao-developer"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "venus-bnb",
+    "name": "Venus BNB",
+    "ticker": "vBNB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

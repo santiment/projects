@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "jet8",
+    "name": "JET8",
+    "ticker": "J8T",
+    "description": "Decentralized mobile engagement network",
+    "website": "https://jet8.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jet8app",
+    "telegram": "https://t.me/Jet8_ecosystem",
+    "reddit": "https://www.reddit.com/r/JET8/",
+    "blog": "https://medium.com/@jet8"
+  },
+  "development": {
+    "github_organizations": [
+      "jet8"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0d262e5dc4a06a0f1c90ce79c7a60c09dfc884e4",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

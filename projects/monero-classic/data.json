@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "monero-classic",
+    "name": "Monero Classic",
+    "ticker": "XMC",
+    "description": "Monero Fork",
+    "website": "http://monero-classic.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xmccurrency",
+    "telegram": "https://t.me/xmccurrency"
+  },
+  "development": {
+    "github_organizations": [
+      "monero-classic"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

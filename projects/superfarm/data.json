@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "superfarm",
+    "name": "SuperFarm",
+    "ticker": "SUPER",
+    "description": "Launch a DeFi farm without coding",
+    "website": "https://www.superfarm.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SuperFarmDAO",
+    "telegram": "https://t.me/SuperFarmDAO",
+    "blog": "https://medium.com/superfarm"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

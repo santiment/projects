@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "oin-finance",
+    "name": "OIN Finance",
+    "ticker": "OIN",
+    "description": "Liquidity mining and loans on Ontology and other platforms",
+    "website": "https://oin.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceOin",
+    "telegram": "https://t.me/OIN_Finance_Eng",
+    "blog": "https://medium.com/oin-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "oinfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

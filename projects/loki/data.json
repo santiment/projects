@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "loki",
+    "name": "Oxen",
+    "ticker": "LOKI",
+    "description": "Private transactions, decentralised communication",
+    "website": "https://loki.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Oxen_io",
+    "telegram": "https://t.me/Oxen_Community",
+    "discord": "https://discord.com/invite/67GXfD6",
+    "reddit": "https://www.reddit.com/r/oxen_io/",
+    "blog": "https://oxen.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "loki-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

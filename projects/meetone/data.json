@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "meetone",
+    "name": "MEET.ONE",
+    "ticker": "MEETONE",
+    "description": "The Portal to EOS Ecology",
+    "website": "https://meet.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MeetDotOne",
+    "telegram": "https://t.me/MeetOneEnglish",
+    "blog": "https://medium.com/@MEET.ONE"
+  },
+  "development": {
+    "github_organizations": [
+      "meet-one"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "eosiomeetone",
+        "decimals": 0
+      }
+    ]
+  }
+}

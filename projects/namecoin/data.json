@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "namecoin",
+    "name": "Namecoin",
+    "ticker": "NMC",
+    "description": "A domain name registry service",
+    "website": "https://www.namecoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Namecoin",
+    "telegram": "https://telegram.me/namecoin",
+    "reddit": "https://www.reddit.com/r/Namecoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "namecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

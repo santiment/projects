@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "yuno-finance",
+    "name": "YUNo.finance",
+    "ticker": "YUNO",
+    "description": "A fork of SushiSwap",
+    "website": "https://yuno.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YUNoFinance",
+    "telegram": "https://t.me/yunofarm"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

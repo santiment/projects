@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "metaverse-index",
+    "name": "Metaverse Index",
+    "ticker": "MVI",
+    "description": "NFT, VR and Entertainment tokens index",
+    "website": "https://www.indexcoop.com/mvi"
+  },
+  "social": {
+    "twitter": "https://twitter.com/indexcoop",
+    "discord": "https://discord.gg/RKZ4S3b"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x72e364f2abdc788b7e918bc238b21f109cd634d7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pumapay",
+    "name": "PumaPay",
+    "ticker": "PMA",
+    "description": "Comprehensive Pull Payment Protocol",
+    "website": "https://pumapay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PumaPay",
+    "telegram": "https://t.me/PumaPay",
+    "reddit": "https://www.reddit.com/r/PumaPay/",
+    "blog": "https://blog.pumapay.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "pumapayio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

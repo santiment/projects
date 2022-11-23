@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pegs-usd",
+    "name": "PegsUSD",
+    "ticker": "PUSD",
+    "description": "Algorithmic stablecoin",
+    "website": "https://www.pegs.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pegscash",
+    "telegram": "https://t.me/pegscash",
+    "blog": "https://pegscash.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "pegsfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x412e5a36bde71aa2c38e1c0e26baaf7f2f0bc24a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

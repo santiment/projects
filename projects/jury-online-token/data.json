@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "jury-online-token",
+    "name": "Jury.Online Token",
+    "ticker": "JOT",
+    "description": "A platform for secure investment in responsible ICOs",
+    "website": "https://jury.online/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jury2beonline",
+    "telegram": "https://t.me/juryonline_community",
+    "slack": "https://juryonline.slack.com/",
+    "reddit": "https://www.reddit.com/user/JuryOnline",
+    "blog": "https://medium.com/@Jury.Online"
+  },
+  "development": {
+    "github_organizations": [
+      "juryonline"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdb455c71c1bc2de4e80ca451184041ef32054001",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

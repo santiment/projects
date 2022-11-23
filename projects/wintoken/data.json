@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "wintoken",
+    "name": "WinToken",
+    "ticker": "WIN",
+    "description": "Lottery systems",
+    "website": "http://www.winchainos.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/winchainos",
+    "telegram": "https://0.plus/WinChainOfficial",
+    "slack": "https://weibo.com/winchain?topnav=1&amp;amp;wvr=6&amp;amp;topsug=1&amp;amp;is_hot=1",
+    "reddit": "https://www.reddit.com/r/winchain/",
+    "blog": "https://medium.com/@winchainofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "winchainos"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbfaa8cf522136c6fafc1d53fe4b85b4603c765b8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

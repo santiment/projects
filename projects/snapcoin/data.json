@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "snapcoin",
+    "name": "SnapCoin",
+    "ticker": "SNPC",
+    "description": "App rewarding fairly Content Creators and Viewers",
+    "website": "https://www.snapparazzi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SnapparazziDApp",
+    "telegram": "https://t.me/joinchat/J6Vn8RJYKBo4mj-bakTemA",
+    "reddit": "https://www.reddit.com/user/Snapparazzi",
+    "blog": "https://medium.com/@Snapparazzi1"
+  },
+  "development": {
+    "github_organizations": [
+      "snapparazzi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x752FF65b884b9C260D212C804E0b7ACEea012473",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ibch",
+    "name": "Synth iBCH",
+    "ticker": "iBCH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf6e9b246319ea30e8c2fa2d1540aaebf6f9e1b89",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mainframe",
+    "name": "Hifi Finance",
+    "ticker": "MFT",
+    "description": "Fixed-rate borrowing against crypto",
+    "website": "https://hifi.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HifiFinance",
+    "telegram": "https://t.me/joinchat/Fg15zkUxeHmhSLNEulTSGw",
+    "discord": "https://discord.gg/mhtSRz6",
+    "reddit": "https://www.reddit.com/r/mainframe/",
+    "blog": "https://blog.mainframe.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "mainframehq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

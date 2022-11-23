@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "nash-exchange",
+    "name": "Nash Exchange",
+    "ticker": "NEX",
+    "description": "DEX on NEO blockchain",
+    "website": "https://nash.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nashsocial",
+    "reddit": "https://www.reddit.com/r/Nash/",
+    "blog": "https://medium.com/nashsocial"
+  },
+  "development": {
+    "github_organizations": [
+      "nash-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

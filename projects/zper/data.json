@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "zper",
+    "name": "ZPER",
+    "ticker": "ZPR",
+    "description": "A revolutionary method of fund transactions between borrowers and lenders",
+    "website": "https://zper.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZPER_team",
+    "telegram": "https://t.me/zper_kr_official",
+    "blog": "https://medium.com/@zper"
+  },
+  "development": {
+    "github_organizations": [
+      "zperteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb5b8f5616fe42d5ceca3e87f3fddbdd8f496d760",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

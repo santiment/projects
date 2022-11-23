@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "trueaud",
+    "name": "TrueAUD",
+    "ticker": "TAUD",
+    "description": "The first tradable stablecoin backed 1-for-1 with Australian dollars",
+    "website": "https://www.trusttoken.com/trueaud/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

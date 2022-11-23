@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "komet",
+    "name": "Komet",
+    "ticker": "KOMET",
+    "description": "New ERA of Decentralized Hedge Fund",
+    "website": "https://komet.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceKomet",
+    "telegram": "https://t.me/kometFinance",
+    "blog": "https://financekomet.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6cfb6df56bbdb00226aeffcdb2cd1fe8da1abda7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

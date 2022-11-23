@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "noia-network",
+    "name": "Syntropy",
+    "ticker": "NOIA",
+    "description": "Secure and Optimized Internet for All",
+    "website": "http://syntropynet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Syntropynet",
+    "telegram": "https://t.me/NoiaNetwork/",
+    "reddit": "https://www.reddit.com/r/NOIA/",
+    "blog": "https://medium.com/syntropynet"
+  },
+  "development": {
+    "github_organizations": [
+      "noia-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "noia_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

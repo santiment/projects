@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "joint-ventures",
+    "name": "Joint Ventures",
+    "ticker": "JOINT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

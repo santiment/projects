@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "idle",
+    "name": "Idle",
+    "ticker": "IDLE",
+    "description": "Always get the best interest rate by investing in a single token",
+    "website": "https://idle.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/idlefinance",
+    "telegram": "https://t.me/idlefinance",
+    "discord": "https://discord.gg/mpySAJp",
+    "slack": "https://discord.gg/mpySAJp",
+    "blog": "https://medium.com/@idlefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "bugduino"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x10eC0D497824e342bCB0EDcE00959142aAa766dD",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "blox",
+    "name": "Blox",
+    "ticker": "CDT",
+    "description": "Insights about crypto portfolios",
+    "website": "https://blox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Blox_Official",
+    "telegram": "https://t.me/blox_product_discussion",
+    "reddit": "https://www.reddit.com/r/Blox_io/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

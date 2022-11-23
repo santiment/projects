@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "pickle-finance",
+    "name": "Pickle Finance",
+    "ticker": "PICKLE",
+    "description": "Stabilizing stablecoins with the farmers collective",
+    "website": "https://pickle.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/picklefinance",
+    "discord": "http://discord.gg/gR85hmC",
+    "slack": "http://discord.gg/gR85hmC"
+  },
+  "development": {
+    "github_organizations": [
+      "pickle-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

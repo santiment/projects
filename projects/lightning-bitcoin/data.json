@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "lightning-bitcoin",
+    "name": "Lightning Bitcoin",
+    "ticker": "LBTC",
+    "description": "IoV protocol based on DPoS 3.0 consensus",
+    "website": "http://lbtc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LightningBTC",
+    "telegram": "https://t.me/LightningBTC",
+    "discord": "https://discord.gg/mSmDvxV",
+    "slack": "https://discordapp.com/invite/mSmDvxV",
+    "blog": "https://medium.com/lightning-bitcoin-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "lbtcio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

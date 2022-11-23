@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "xovbank",
+    "name": "XOVBank",
+    "ticker": "XOV",
+    "description": "Global Decentralised Banking",
+    "website": "http://www.xov.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XOVercoin",
+    "telegram": "https://t.me/xovercoin",
+    "discord": "https://discord.gg/ShmNuNf",
+    "slack": "https://discord.gg/ShmNuNf",
+    "reddit": "https://www.reddit.com/r/Xovercoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "xovercoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x153ed9cc1b792979d2bde0bbf45cc2a7e436a5f9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

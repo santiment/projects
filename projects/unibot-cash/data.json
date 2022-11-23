@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "unibot-cash",
+    "name": "unibot.cash",
+    "ticker": "UNDB",
+    "description": "Traditional trading instruments for Uniswap",
+    "website": "https://unibot.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unidexbot",
+    "telegram": "https://t.me/usw_bot"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

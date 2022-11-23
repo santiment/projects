@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "waletoken",
+    "name": "Waletoken",
+    "ticker": "WTN",
+    "description": "A social media project, developing Live video streaming social network application, allowing to connect with people through live videos and messaging.",
+    "website": "https://waletoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/waletokenpro",
+    "telegram": "https://t.me/waletokenfamily",
+    "blog": "https://medium.com/@waletoken"
+  },
+  "development": {
+    "github_organizations": [
+      "waletoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0ea984e789302b7b612147e4e4144e64f21425eb",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

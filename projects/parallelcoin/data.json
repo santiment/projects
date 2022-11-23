@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "parallelcoin",
+    "name": "ParallelCoin",
+    "ticker": "DUO",
+    "description": "Multi-algo proof of work cryptocurrency",
+    "website": "http://parallelcoin.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/parallelcoinduo",
+    "discord": "https://discord.gg/9vkNPFQ",
+    "slack": "https://discordapp.com/invite/9vkNPFQ"
+  },
+  "development": {
+    "github_organizations": [
+      "p9c"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

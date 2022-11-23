@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "maecenas",
+    "name": "Maecenas",
+    "ticker": "ART",
+    "description": "Decentralized Art Gallery",
+    "website": "http://www.maecenas.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maecenasart",
+    "telegram": "https://t.me/maecenasart",
+    "slack": "https://slack.maecenas.co/",
+    "reddit": "https://www.reddit.com/r/Maecenas/",
+    "blog": "https://medium.com/maecenas"
+  },
+  "development": {
+    "github_organizations": [
+      "cofoundit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfec0cf7fe078a500abf15f1284958f22049c2c7e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

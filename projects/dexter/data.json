@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "dexter",
+    "name": "DEXTER",
+    "ticker": "DXR",
+    "website": "https://www.coinbit.co.kr"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

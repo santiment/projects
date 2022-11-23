@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "kishu-inu",
+    "name": "Kishu Inu",
+    "ticker": "KISHU",
+    "description": "DOGE’s little brother",
+    "website": "https://kishuinu.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InuKishu",
+    "telegram": "https://t.me/KishuInuCommunity",
+    "reddit": "https://reddit.com/r/KishuInu"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unimex-network",
+    "name": "UniMex Network",
+    "ticker": "UMX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

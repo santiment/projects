@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "vexanium",
+    "name": "Vexanium",
+    "ticker": "VEX",
+    "description": "A Decentralized Marketing Ecosystem",
+    "website": "https://www.vexanium.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vexanium",
+    "telegram": "https://www.vexanium.com/#http://t.me/vexaniuminfo",
+    "blog": "https://medium.com/@vexanium"
+  },
+  "development": {
+    "github_organizations": [
+      "vexanium"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pton",
+    "name": "PTON",
+    "ticker": "PTON",
+    "description": "Foresting is a blockchain based social media that deviates from the distribution system of traditional social media platforms, and provides a fair value distribution system for users.",
+    "website": "https://foresting.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/foresting_io",
+    "telegram": "https://t.me/foresting_global",
+    "reddit": "https://www.reddit.com/user/ForestingHQ/",
+    "blog": "https://medium.com/foresting"
+  },
+  "development": {
+    "github_organizations": [
+      "forestingnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4946583c5b86e01ccd30c71a05617d06e3e73060",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "maincoin",
+    "name": "Maincoin",
+    "ticker": "MNC",
+    "description": "ERC20 Cryptocurrency and wallet",
+    "website": "https://maincoin.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maincoin_M",
+    "telegram": "https://t.me/MainCoinChannel",
+    "reddit": "https://www.reddit.com/r/MainCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "main-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f0f1be08591ab7d990faf910b38ed5d60e4d5bf",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

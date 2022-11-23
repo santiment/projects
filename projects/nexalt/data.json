@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "nexalt",
+    "name": "Nexalt",
+    "ticker": "XLT",
+    "description": "Mass marketing and referral solutions for payment and transactional purposes",
+    "website": "https://nexalt.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NexaltOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "nexalt-core"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "radix",
+    "name": "Radix",
+    "ticker": "EXRD",
+    "description": "The first layer 1 protocol specifically built to serve DeFi",
+    "website": "https://www.radixdlt.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RadixDLT",
+    "telegram": "https://t.me/radix_dlt",
+    "discord": "https://discord.gg/WkB2USt",
+    "slack": "https://discord.gg/WkB2USt",
+    "reddit": "https://www.reddit.com/r/Radix/",
+    "blog": "https://medium.com/@radixdlt"
+  },
+  "development": {
+    "github_organizations": [
+      "radixdlt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

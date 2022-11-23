@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "t-os",
+    "name": "T.OS",
+    "ticker": "TOSC",
+    "description": "T.OS is a kind of digital coin which has been based on block-chain technology  t and aiming the new payment market virtual currency system",
+    "website": "http://www.tosblock.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tosblock_en",
+    "telegram": "https://t.me/joinchat/IcgTikkqIa3T6mOj36vJfA"
+  },
+  "development": {
+    "github_organizations": [
+      "tos-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

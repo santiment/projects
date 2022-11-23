@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "diamond-launch",
+    "name": "Diamond Launch",
+    "ticker": "DLC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "wom-protocol",
+    "name": "WOM Protocol",
+    "ticker": "WOM",
+    "description": "A brand new user-generated marketing channel",
+    "website": "https://womprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WOMProtocol",
+    "telegram": "https://t.me/WOMProtocolChat",
+    "blog": "https://medium.com/wom-protocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa982b2e19e90b2d9f7948e9c1b65d119f1ce88d6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

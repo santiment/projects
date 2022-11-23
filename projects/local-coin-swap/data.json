@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "local-coin-swap",
+    "name": "LocalCoinSwap",
+    "ticker": "LCS",
+    "description": "The Community-Owned P2P Exchange",
+    "website": "https://www.localcoinswap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Localcoinswap_",
+    "telegram": "https://t.me/localcoinswap",
+    "reddit": "https://www.reddit.com/r/LocalCoinSwap/",
+    "blog": "https://medium.com/localcoinswap"
+  },
+  "development": {
+    "github_organizations": [
+      "localcoinswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

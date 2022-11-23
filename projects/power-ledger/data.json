@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "power-ledger",
+    "name": "Power Ledger",
+    "ticker": "POWR",
+    "description": "Airbnb for electricity",
+    "website": "https://powerledger.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PowerLedger_io",
+    "telegram": "https://t.me/joinchat/Gop-90DIMiPF7N_EtvFzjA",
+    "reddit": "https://www.reddit.com/r/icocrypto/comments/6mr791/power_ledger_token_sale_powr/",
+    "blog": "https://medium.com/power-ledger"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

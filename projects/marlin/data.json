@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "marlin",
+    "name": "Marlin",
+    "ticker": "POND",
+    "description": "High-performance Layer 0 infrastructure",
+    "website": "https://www.marlin.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/marlinprotocol",
+    "telegram": "https://t.me/marlinprotocol",
+    "discord": "https://www.marlin.pro/discord",
+    "slack": "https://www.marlin.pro/discord",
+    "reddit": "https://www.reddit.com/r/marlinprotocol/"
+  },
+  "development": {
+    "github_organizations": [
+      "marlinprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

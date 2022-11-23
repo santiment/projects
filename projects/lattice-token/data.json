@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "lattice-token",
+    "name": "Lattice Token",
+    "ticker": "LTX",
+    "description": "Сross-chain liquidity",
+    "website": "https://lattice.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LatticeExchange",
+    "telegram": "https://t.me/Lattice_exchange",
+    "blog": "https://latticeexchange.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa393473d64d2F9F026B60b6Df7859A689715d092",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

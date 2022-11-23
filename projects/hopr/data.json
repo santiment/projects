@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "hopr",
+    "name": "HOPR",
+    "ticker": "HOPR",
+    "description": "Privacy-preserving messaging protocol",
+    "website": "https://hoprnet.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hoprnet",
+    "telegram": "https://t.me/hoprnet",
+    "discord": "https://discord.com/invite/dEAWC4G",
+    "reddit": "https://www.reddit.com/r/HOPR/",
+    "blog": "https://medium.com/hoprnet"
+  },
+  "development": {
+    "github_organizations": [
+      "hoprnet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

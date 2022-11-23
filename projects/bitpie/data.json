@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitpie",
+    "name": "Bitpie",
+    "ticker": "BTP",
+    "description": "Multi-blockchain wallet",
+    "website": "https://bitpie.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitpieWallet",
+    "telegram": "https://t.me/BitpieInternational",
+    "reddit": "https://www.reddit.com/r/BitpieWallet/",
+    "blog": "https://medium.com/@Bitpie/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitpie-wallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

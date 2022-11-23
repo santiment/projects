@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "valobit",
+    "name": "Valobit",
+    "ticker": "VBIT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

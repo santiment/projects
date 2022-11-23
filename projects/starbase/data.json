@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "starbase",
+    "name": "Starbase",
+    "ticker": "STAR",
+    "description": "Skyrocket your idea",
+    "website": "https://starbase.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/starbaseco",
+    "telegram": "https://t.me/starbase",
+    "slack": "https://slack.starbase.co/",
+    "reddit": "https://www.reddit.com/r/starbase/",
+    "blog": "https://blog.starbase.co/"
+  },
+  "development": {
+    "github_organizations": [
+      "starbaseco"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

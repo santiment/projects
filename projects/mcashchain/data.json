@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mcashchain",
+    "name": "Mcashchain",
+    "ticker": "MCASH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

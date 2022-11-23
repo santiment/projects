@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "usdk",
+    "name": "USDK",
+    "ticker": "USDK",
+    "description": "Stablecoin Powered by Blockchain and US Licenced Trust Company",
+    "website": "https://www.oklink.com/lang/en-US/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OKLink"
+  },
+  "development": {
+    "github_organizations": [
+      "oklink"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

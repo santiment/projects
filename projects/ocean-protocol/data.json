@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "ocean-protocol",
+    "name": "Ocean Protocol",
+    "ticker": "OCEAN",
+    "description": "Decentralized data exchange protocol ",
+    "website": "https://oceanprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oceanprotocol",
+    "telegram": "https://t.me/OceanProtocol_Community",
+    "slack": "https://oceanprotocol.slack.com/join/shared_invite/enQtMjc3NjM3NzcxNDMwLTg1MWI3NjRmODk5NTEyNGIwZTI1M2FkOWZkM2FmOTI1MTgzNTU3ZjcxYzY4MmM0NDA4ODFkM2M5YzczNTY5NTQ",
+    "reddit": "https://www.reddit.com/r/oceanprotocol/",
+    "blog": "https://blog.oceanprotocol.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "oceanprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "ocean_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

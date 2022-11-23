@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "smartfox",
+    "name": "SmartFox",
+    "ticker": "FOX",
+    "description": "Decentralized cloud data storage solutions",
+    "website": "http://smartfox.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/smartfox_coin",
+    "discord": "https://discord.gg/xVss7rh",
+    "slack": "https://discord.gg/xVss7rh"
+  },
+  "development": {
+    "github_organizations": [
+      "smartfoxteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

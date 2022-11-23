@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "flowchain",
+    "name": "Flowchain",
+    "ticker": "FLC",
+    "description": "Flowchain/IPFS: Distributed Storage using Blockchain Technology. Aims to implement the IoT blockchain technology and already proposed the virtual blocks technology that can ensure data stream transactions in a near real-time manner",
+    "website": "https://flowchain.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jollen",
+    "telegram": "https://t.me/Flowchain_Overseas_Group",
+    "blog": "https://medium.com/flowchain-tw"
+  },
+  "development": {
+    "github_organizations": [
+      "flowchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b53f9755f82439cba66007ec7073c59e0da4a7d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

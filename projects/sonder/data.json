@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "sonder",
+    "name": "SONDER",
+    "ticker": "SNR",
+    "description": "High-secure payment algorithm for e-commerce. Developed to overcome the main barriers to full integration of blockchain technologies into e-commerce market",
+    "website": "https://sonder.vision/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sonder_vision",
+    "telegram": "https://t.me/SONDER_official",
+    "blog": "https://medium.com/@jokubassonder"
+  },
+  "development": {
+    "github_organizations": [
+      "sondervision"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x47d1a59cbdd19aee060c859c0009277e245328ae",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

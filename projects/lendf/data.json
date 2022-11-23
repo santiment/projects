@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "lendf",
+    "name": "Lendf",
+    "ticker": "LFM",
+    "description": "Lending market",
+    "website": "https://www.lendf.me/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "Lendfme"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

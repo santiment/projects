@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "polybius",
+    "name": "Polybius",
+    "ticker": "PLBT",
+    "description": "Regulated bank for the digital generation",
+    "website": "https://polybius.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolybiusEU",
+    "telegram": "https://t.me/polybius_eng",
+    "blog": "http://blog.polybius.io/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

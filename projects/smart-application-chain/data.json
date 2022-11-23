@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "smart-application-chain",
+    "name": "Smart Application Chain",
+    "ticker": "SAC",
+    "description": "An application ecosystem based on blockchain and artificial intelligence",
+    "website": "https://www.sachain.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SACchain",
+    "telegram": "https://t.me/SACgroup"
+  },
+  "development": {
+    "github_organizations": [
+      "sacchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xabc1280a0187a2020cc675437aed400185f86db6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

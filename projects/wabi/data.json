@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wabi",
+    "name": "Delete",
+    "ticker": "WABI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

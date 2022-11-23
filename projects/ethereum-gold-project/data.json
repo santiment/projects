@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ethereum-gold-project",
+    "name": "Ethereum Gold Project",
+    "ticker": "ETGP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hive-blockchain",
+    "name": "Delete",
+    "ticker": "HIVE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

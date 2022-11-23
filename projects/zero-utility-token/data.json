@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "zero-utility-token",
+    "name": "Zero Utility Token",
+    "ticker": "ZUT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

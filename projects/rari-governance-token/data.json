@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rari-governance-token",
+    "name": "Rari Governance Token",
+    "ticker": "RGT",
+    "description": "DeFi robo-advisor",
+    "website": "https://www.rari.capital/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RariCapital",
+    "telegram": "https://t.me/RariCapitalChat",
+    "discord": "https://discord.gg/HzUMPuT",
+    "blog": "https://medium.com/@raricapital"
+  },
+  "development": {
+    "github_organizations": [
+      "Rari-Capital"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

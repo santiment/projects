@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "portion",
+    "name": "Portion",
+    "ticker": "PRT",
+    "description": "Marketplace for digital and physical art and collectibles",
+    "website": "https://portion.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/portionapp",
+    "telegram": "https://t.me/portionofficial",
+    "blog": "https://medium.com/portion"
+  },
+  "development": {
+    "github_organizations": [
+      "Portion-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

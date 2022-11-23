@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "binemon",
+    "name": "Binemon",
+    "ticker": "BIN",
+    "description": "NFT game combined with elements of RPG",
+    "website": "https://binemon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binemonnft",
+    "telegram": "https://t.me/binemonchat"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

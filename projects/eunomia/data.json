@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "eunomia",
+    "name": "EUNOMIA",
+    "ticker": "ENTS",
+    "description": "A decentralized marketing ecosystem",
+    "website": "https://ent.zone/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EunomiaToken",
+    "telegram": "https://t.me/eunomiaglobal",
+    "reddit": "https://www.reddit.com/user/eunomiatoken",
+    "blog": "https://ent.zone/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "entsproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f612a09ead55bb81b6534e80ed5a21bf0a27b16",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

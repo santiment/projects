@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sportyco",
+    "name": "SportyCo",
+    "ticker": "SPF",
+    "description": "Decentralized Sports Investment & Funding Ecosystem",
+    "website": "https://www.sportyco.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sportyco_io",
+    "telegram": "https://t.me/SportyCo_official",
+    "reddit": "https://www.reddit.com/r/SportyCo/",
+    "blog": "https://news.sportyco.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "sportyfi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

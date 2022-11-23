@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "komodo",
+    "name": "Komodo",
+    "ticker": "KMD",
+    "description": "Decentralized ICOs",
+    "website": "https://komodoplatform.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KomodoPlatform",
+    "telegram": "http://t.me/KomodoPlatform",
+    "reddit": "https://www.reddit.com/r/komodoplatform/"
+  },
+  "development": {
+    "github_organizations": [
+      "komodoplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

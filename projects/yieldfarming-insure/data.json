@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yieldfarming-insure",
+    "name": "yieldfarming.insure",
+    "ticker": "SAFE",
+    "description": "Governance token for the yieldfarming.insure ecosystem",
+    "website": "https://yieldfarming.insure/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsuranceMining",
+    "telegram": "https://t.me/joinchat/GuxE8RuXGNUPuJEuwF3-3A",
+    "discord": "https://discord.gg/8HuTB22",
+    "slack": "https://discord.gg/8HuTB22"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1aa61c196e76805fcbe394ea00e4ffced24fc469",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

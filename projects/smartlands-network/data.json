@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "smartlands-network",
+    "name": "Smartlands Network",
+    "ticker": "SLT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "palletone",
+    "name": "PalletOne",
+    "ticker": "PTN",
+    "description": "Aims to establish an ‘IP protocol’ for the blockchain industry, allowing value to flow freely between different blockchains. ",
+    "website": "https://pallet.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PalletOne_org",
+    "telegram": "https://t.me/PalletOneOfficialEN"
+  },
+  "development": {
+    "github_organizations": [
+      "palletone"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfe76be9cec465ed3219a9972c21655d57d21aec6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

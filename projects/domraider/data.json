@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "domraider",
+    "name": "DomRaider",
+    "ticker": "DRT",
+    "description": "Blockchain auction house",
+    "website": "https://www.domraider.io/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/domraider",
+    "telegram": "https://t.me/Domraider_ICO",
+    "slack": "https://domraiderico.slack.com/",
+    "reddit": "https://www.reddit.com/r/DomRaider/",
+    "blog": "https://medium.com/@domraider"
+  },
+  "development": {
+    "github_organizations": [
+      "Domraider"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

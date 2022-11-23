@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "market-protocol",
+    "name": "MARKET Protocol",
+    "ticker": "MPX",
+    "website": "https://mpexchange.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MarketProtocol/",
+    "telegram": "https://t.me/Market_Protocol_Chat",
+    "blog": "https://medium.com/market-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "marketprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

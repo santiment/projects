@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "tent",
+    "name": "TENT",
+    "ticker": "TENT",
+    "description": "A coin to trade, a wallet to save and a card to spend",
+    "website": "https://tent.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tentpay",
+    "telegram": "https://t.me/TENTofficial",
+    "discord": "https://discord.gg/78rVJcH"
+  },
+  "development": {
+    "github_organizations": [
+      "TENTOfficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

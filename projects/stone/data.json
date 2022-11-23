@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "stone",
+    "name": "Stone DeFi",
+    "ticker": "STN",
+    "description": "Cross chain income aggregation platform",
+    "website": "https://www.stonedefi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DefiStone",
+    "telegram": "https://t.me/stonefortress",
+    "blog": "https://stonedefi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "stonedefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

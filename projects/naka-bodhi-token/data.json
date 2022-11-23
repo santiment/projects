@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "naka-bodhi-token",
+    "name": "Naka Bodhi Token",
+    "ticker": "NBOT",
+    "description": "Governance token for the Naka Chain",
+    "website": "https://www.nakachain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NakaCoin",
+    "telegram": "https://t.me/nakachain",
+    "discord": "https://discord.gg/t4kpdMn",
+    "slack": "https://discordapp.com/invite/t4kpdMn",
+    "blog": "https://medium.com/@nakachain"
+  },
+  "development": {
+    "github_organizations": [
+      "nakachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

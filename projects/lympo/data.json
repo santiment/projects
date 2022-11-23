@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "lympo",
+    "name": "Lympo",
+    "ticker": "LYM",
+    "description": "Monetizing sports and wellness data",
+    "website": "https://lympo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Lympo_io",
+    "telegram": "https://t.me/lympo",
+    "reddit": "https://www.reddit.com/r/LYMPO/",
+    "blog": "https://medium.com/@lympo.io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x57ad67acf9bf015e4820fbd66ea1a21bed8852ec",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "trust",
+    "name": "WeTrust",
+    "ticker": "TRST",
+    "description": "Сollaborative saving and insurance platform",
+    "website": "https://www.wetrust.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wetrustplatform",
+    "slack": "https://www.wetrust.io/#home-section-slack",
+    "reddit": "https://www.reddit.com/r/WeTrustPlatform/",
+    "blog": "https://medium.com/wetrust-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "wetrustplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "shentu",
+    "name": "Shentu",
+    "ticker": "CTK",
+    "description": "Security-oriented blockchain that enables provable trust for all",
+    "website": "https://www.shentu.technology/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShentuChain",
+    "telegram": "https://t.me/certikfoundation",
+    "discord": "https://discord.com/invite/PsJ95xPqbC",
+    "blog": "https://medium.com/shentu-foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "ShentuChain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

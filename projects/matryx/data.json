@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "matryx",
+    "name": "Matryx",
+    "ticker": "MTX",
+    "description": "Research & Development Engine of VR toolset",
+    "website": "https://matryx.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/matryx_ai",
+    "telegram": "https://t.me/matryxtoken",
+    "reddit": "https://www.reddit.com/r/matryx/",
+    "blog": "https://blog.matryx.ai/"
+  },
+  "development": {
+    "github_organizations": [
+      "matryx"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0af44e2784637218dd1d32a322d44e603a8f0c6a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

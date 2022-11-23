@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "defi-saver",
+    "name": "DeFi Saver",
+    "ticker": "DFS",
+    "description": "A fully functional CDP dashboard",
+    "website": "https://defisaver.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defisaver",
+    "discord": "https://discord.gg/XGDJHhZ",
+    "slack": "https://discord.gg/XGDJHhZ",
+    "blog": "https://medium.com/defi-saver"
+  },
+  "development": {
+    "github_organizations": [
+      "DecenterApps"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

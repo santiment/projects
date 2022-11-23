@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tolar",
+    "name": "Tolar",
+    "ticker": "TOL",
+    "description": "Community governed cryptocurrency",
+    "website": "https://tolar.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TolarHashNET",
+    "telegram": "https://t.me/tolarofficial",
+    "reddit": "https://www.reddit.com/user/TolarHashNET/",
+    "blog": "https://medium.com/@TolarHashNET"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd07d9fe2d2cc067015e2b4917d24933804f42cfa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

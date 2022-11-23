@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "origami",
+    "name": "Origami",
+    "ticker": "ORI",
+    "description": "A network of Decentralized Marketplaces",
+    "website": "https://ori.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/origami_network",
+    "telegram": "https://t.me/ori_network_ICO",
+    "discord": "https://discord.gg/UHW6Fe",
+    "slack": "https://discord.gg/UHW6Fe",
+    "reddit": "https://www.reddit.com/r/OrigamiNetwork/",
+    "blog": "https://medium.com/@origaminetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "origamimp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

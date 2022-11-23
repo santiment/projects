@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "stellite",
+    "name": "Stellite",
+    "ticker": "XTL",
+    "description": "A completely decentralized, private, and modern cryptocurrency",
+    "website": "https://stellite.cash"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stellitecash",
+    "telegram": "https://t.me/Stellite_EN",
+    "discord": "https://discord.gg/8PhF342",
+    "slack": "https://discord.gg/8PhF342",
+    "reddit": "https://www.reddit.com/r/stellite/",
+    "blog": "https://steemit.com/@stellite"
+  },
+  "development": {
+    "github_organizations": [
+      "stellitecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

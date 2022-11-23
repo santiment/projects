@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "student-coin",
+    "name": "bitJob",
+    "ticker": "STC",
+    "description": "Decentralized Marketplace for Student Employment",
+    "website": "https://bitjob.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitJob_Team",
+    "telegram": "https://t.me/bitjob",
+    "blog": "https://medium.com/bitjob"
+  },
+  "development": {
+    "github_organizations": [
+      "bitjobteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0371a82e4a9d0a4312f3ee2ac9c6958512891372",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "punk",
+    "name": "Punk",
+    "ticker": "PUNK",
+    "website": "https://nftx.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NFTX_",
+    "discord": "https://discord.com/invite/SAZRt6m5Yw",
+    "blog": "https://blog.nftx.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "NFTX-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9cea2ed9e47059260c97d697f82b8a14efa61ea5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

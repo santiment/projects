@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "naga",
+    "name": "NAGA",
+    "ticker": "NGC",
+    "description": "Smart Cryptocurrency for gaming and trading",
+    "website": "https://www.thenagacoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/naga_coin",
+    "telegram": "https://t.me/nagaico",
+    "blog": "https://medium.com/@thenagaico"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

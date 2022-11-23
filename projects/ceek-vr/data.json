@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ceek-vr",
+    "name": "CEEK",
+    "ticker": "CEEK",
+    "description": "Celebrity Coin Cast and Smart Virtual Reality Tokens",
+    "website": "https://www.ceek.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ceek",
+    "telegram": "https://t.me/ceekvrtokensale",
+    "reddit": "https://www.reddit.com/r/Ceek/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

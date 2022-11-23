@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "klever",
+    "name": "Klever",
+    "ticker": "KLV",
+    "description": "Public Blockchain Infrastructure",
+    "website": "https://klever.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/klever_io",
+    "telegram": "https://t.me/Klever_io",
+    "discord": "https://discord.gg/klever-io"
+  },
+  "development": {
+    "github_organizations": [
+      "klever-app"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "libra-credit",
+    "name": "Cred",
+    "ticker": "LBA",
+    "description": "A decentralized lending ecosystem",
+    "website": "https://www.mycred.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ihaveCred",
+    "telegram": "https://t.me/ihaveCred",
+    "reddit": "https://www.reddit.com/r/Libra_Credit/",
+    "blog": "https://medium.com/libracredit"
+  },
+  "development": {
+    "github_organizations": [
+      "libracredit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfe5f141bf94fe84bc28ded0ab966c16b17490657",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

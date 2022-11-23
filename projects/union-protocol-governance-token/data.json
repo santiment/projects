@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "union-protocol-governance-token",
+    "name": "UNION Protocol Governance Token",
+    "ticker": "UNN",
+    "description": "The cornerstone of full-stack protection, reducing the risks and costs of DeFi",
+    "website": "https://www.unn.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unnfinance",
+    "telegram": "https://t.me/UNNFinance",
+    "discord": "https://discord.gg/f5EQ4AH",
+    "slack": "https://discord.gg/f5EQ4AH",
+    "reddit": "https://www.reddit.com/r/UNNFinance/",
+    "blog": "https://medium.com/union-finance-updates-ideas"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

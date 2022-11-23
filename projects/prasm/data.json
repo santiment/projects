@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "prasm",
+    "name": "PRASM",
+    "ticker": "PSM",
+    "description": "AI-Based Decentralized Bioinformatic Network",
+    "website": "http://prasm.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PRASM_Official",
+    "telegram": "https://t.me/prasmnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "prasm-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1a66e09f7dccc10eae46e27cfa6b8d44a50df1e7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

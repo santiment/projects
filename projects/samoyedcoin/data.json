@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "samoyedcoin",
+    "name": "Samoyedcoin",
+    "ticker": "SAMO",
+    "description": "A memecoin on Solana",
+    "website": "https://samoyedcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/samoyedcoin",
+    "telegram": "https://t.me/samoyedcoin",
+    "discord": "https://discord.com/invite/TCgpY3dTDc",
+    "reddit": "https://www.reddit.com/r/SamoyedCoin/",
+    "blog": "https://samoyedcoin.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

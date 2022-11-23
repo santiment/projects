@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "unitrade",
+    "name": "Unitrade",
+    "ticker": "TRADE",
+    "description": "Trading platform built on top of Uniswap liquidity pools",
+    "website": "https://unitrade.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UniTradeApp",
+    "telegram": "https://t.me/UniTradeApp",
+    "discord": "https://discord.gg/tvH5bMm",
+    "slack": "https://discord.gg/tvH5bMm"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

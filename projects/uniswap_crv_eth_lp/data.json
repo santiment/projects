@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_crv_eth_lp",
+    "name": "Uniswap V2: CRV",
+    "ticker": "UNI-V2 CRV/ETH LP",
+    "description": "LP Token for the UNI-V2 CRV-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3da1313ae46132a397d90d95b1424a9a7e3e0fce",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

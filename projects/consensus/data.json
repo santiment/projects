@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "consensus",
+    "name": "Consensus",
+    "ticker": "SEN",
+    "description": "Decentralized AI platform",
+    "website": "https://consensus.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/consensus_ai",
+    "telegram": "https://t.me/consensus_ai",
+    "blog": "https://medium.com/consensus-ai/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd53370acf66044910bb49cbcfe8f3cd020337f60",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

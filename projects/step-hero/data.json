@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "step-hero",
+    "name": "Step Hero",
+    "ticker": "HERO",
+    "description": "NFT marketplace and RPG game",
+    "website": "https://stephero.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StepHeroNFTs",
+    "telegram": "https://t.me/stephero_chat",
+    "discord": "https://discord.gg/A5guPpQcdu",
+    "reddit": "https://www.reddit.com/user/StepHeroNFTs",
+    "blog": "https://stephero.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

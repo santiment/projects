@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "usdg",
+    "name": "USDG",
+    "ticker": "USDG",
+    "description": "A value-keeper project",
+    "website": "https://aca.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/acashCoin",
+    "telegram": "https://t.me/AcashCoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xAF4421F0D43c5c1d54380736e3f738B159417744",
+        "blockchain": "ethereum",
+        "decimals": 3
+      }
+    ]
+  }
+}

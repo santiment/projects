@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "tchain",
+    "name": "Tchain",
+    "ticker": "TCH",
+    "description": "Decentralized Cloud Computing OS",
+    "website": "http://tchain.cloud/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Tchain13",
+    "telegram": "https://t.me/blockchaincccc"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

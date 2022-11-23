@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "invacio",
+    "name": "Invacio",
+    "ticker": "INV",
+    "description": "Artificial Intelligence, Communications, Finance and Big Data",
+    "website": "https://www.invacio.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Invacio",
+    "telegram": "https://t.me/InvacioICO"
+  },
+  "development": {
+    "github_organizations": [
+      "invacio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xece83617db208ad255ad4f45daf81e25137535bb",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_wbtc_usdc_lp",
+    "name": "Uniswap V2: WBTC-USDC",
+    "ticker": "UNI-V2 WBTC/USDC LP",
+    "description": "LP Token for the UNI-V2 WBTC-USDC Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x004375dff511095cc5a197a54140a24efef3a416",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

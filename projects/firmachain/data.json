@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "firmachain",
+    "name": "FirmaChain",
+    "ticker": "FCT,FCT2",
+    "description": "A blockchain based E-Document platform",
+    "website": "https://firmachain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/firmachain ",
+    "telegram": "https://t.me/firmachain_announcement",
+    "blog": "https://medium.com/firmachain"
+  },
+  "development": {
+    "github_organizations": [
+      "firmachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe1bad922f84b198a08292fb600319300ae32471b",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

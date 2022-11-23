@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "sdchain",
+    "name": "SDChain",
+    "ticker": "SDA",
+    "description": "Blockchain network where data producers and data users conduct digital asset exchange, within an open partnership ecosystem, based on globally standardized IoT six-domain model",
+    "website": "https://www.sdchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sixdomainchain",
+    "telegram": "https://t.me/sdchainen",
+    "reddit": "https://www.reddit.com/r/SDChain/",
+    "blog": "https://medium.com/@sixdomainchain"
+  },
+  "development": {
+    "github_organizations": [
+      "sdchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "unizen",
+    "name": "Unizen",
+    "ticker": "ZCX",
+    "description": "Smart Exchange Ecosystem",
+    "website": "https://unizen.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unizen_io",
+    "telegram": "https://t.me/unizen_io",
+    "reddit": "https://www.reddit.com/r/unizen/",
+    "blog": "https://unizen-io.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "unizen-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc52c326331e9ce41f04484d3b5e5648158028804",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

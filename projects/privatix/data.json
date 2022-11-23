@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "privatix",
+    "name": "Privatix",
+    "ticker": "PRIX",
+    "description": "Internet Broadband Marketplace powered by P2P VPN Network on Blockchain",
+    "website": "https://privatix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Privatix1",
+    "telegram": "https://t.me/Privatix",
+    "reddit": "https://www.reddit.com/user/privatix",
+    "blog": "https://medium.com/privatix"
+  },
+  "development": {
+    "github_organizations": [
+      "privatix"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

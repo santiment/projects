@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sharetoken",
+    "name": "ShareToken",
+    "ticker": "SHR",
+    "description": "The world’s first system designed to share things",
+    "website": "https://sharering.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ShareRingCo",
+    "telegram": "https://t.me/ShareRing",
+    "reddit": "https://www.reddit.com/r/ShareRing/",
+    "blog": "https://medium.com/sharering"
+  },
+  "development": {
+    "github_organizations": [
+      "sharering"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

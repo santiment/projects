@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "tether-eurt",
+    "name": "Euro Tether",
+    "ticker": "EURT",
+    "description": "Stablecoin backed by Euro",
+    "website": "https://tether.to/"
+  },
+  "social": {
+    "telegram": "https://t.me/OfficialTether"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc581b735a1688071a1746c968e0798d642ede491",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

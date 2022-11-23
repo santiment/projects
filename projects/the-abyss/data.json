@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "the-abyss",
+    "name": "The Abyss",
+    "ticker": "ABYSS",
+    "description": "Distribution platform for MMO games",
+    "website": "https://www.theabyss.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/theabyss",
+    "telegram": "https://t.me/theabyss",
+    "discord": "https://discord.gg/uRe8h57",
+    "slack": "https://discordapp.com/invite/uRe8h57",
+    "reddit": "https://www.reddit.com/r/theabyssplatform/",
+    "blog": "https://medium.com/theabyss"
+  },
+  "development": {
+    "github_organizations": [
+      "theabyssportal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

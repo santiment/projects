@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gourmet-galaxy",
+    "name": "Gourmet Galaxy",
+    "ticker": "GUM",
+    "description": "NFT, gaming and yield farming",
+    "website": "https://gourmetgalaxy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gourmetfinance",
+    "telegram": "https://t.me/gourmetgalaxy_chat",
+    "reddit": "https://www.reddit.com/r/gourmetfinance/",
+    "blog": "https://gourmetgalaxy.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "gourmetgalaxy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

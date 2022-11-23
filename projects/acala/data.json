@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "acala",
+    "name": "Acala Token",
+    "ticker": "ACA",
+    "description": "DeFi Hub of Polkadot",
+    "website": "https://acala.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AcalaNetwork",
+    "telegram": "https://t.me/acalaofficial",
+    "discord": "https://discord.com/invite/6QHVY4X",
+    "reddit": "https://reddit.com/r/acalanetwork",
+    "blog": "https://medium.com/acalanetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "AcalaNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "trinity-network-credit",
+    "name": "Trinity Network Credit",
+    "ticker": "TNC",
+    "description": "A lightning network for NEO",
+    "website": "https://trinity.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrinityProtocol",
+    "telegram": "https://t.me/TrinityStateChannels",
+    "reddit": "https://www.reddit.com/r/TrinityTNC/"
+  },
+  "development": {
+    "github_organizations": [
+      "trinity-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

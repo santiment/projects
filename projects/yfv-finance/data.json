@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "yfv-finance",
+    "name": "YFValue",
+    "ticker": "YFV",
+    "description": "Governance token of YFValue protocol",
+    "website": "https://yfv.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceYfv",
+    "telegram": "https://t.me/FinanceYFV",
+    "discord": "https://discord.gg/Dpvd7tp",
+    "slack": "https://discord.gg/Dpvd7tp",
+    "blog": "https://medium.com/@yfv.finance"
+  },
+  "development": {
+    "github_organizations": [
+      "yfv-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x45f24baeef268bb6d63aee5129015d69702bcdfa",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

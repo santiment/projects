@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "jade-protocol",
+    "name": "Jade Protocol",
+    "ticker": "JADE",
+    "description": "DeFi's First Decentralized VC Fund",
+    "website": "https://jadeprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jadeprotocol",
+    "telegram": "https://t.me/jadeprotocolofficial",
+    "discord": "https://discord.gg/smartcoin",
+    "blog": "https://medium.com/@SmartCoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

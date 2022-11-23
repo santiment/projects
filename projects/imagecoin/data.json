@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "imagecoin",
+    "name": "ImageCoin",
+    "ticker": "IMG",
+    "description": "Scalable decentralized digital currency",
+    "website": "https://imagecoin.imagehosty.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Imagehosty",
+    "telegram": "https://t.me/ImageCoin/",
+    "discord": "https://discord.gg/SevUBrA",
+    "slack": "https://discord.gg/SevUBrA"
+  },
+  "development": {
+    "github_organizations": [
+      "mceme"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

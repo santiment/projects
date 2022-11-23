@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "genaro-network",
+    "name": "Genaro Network",
+    "ticker": "GNX",
+    "description": "The First Blockchain 3.0 Ecosystem Built on a Turing-Complete Public Chain with Decentralized Storage",
+    "website": "https://genaro.network/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GenaroNetwork",
+    "telegram": "https://t.me/GenaroNetworkOfficial",
+    "slack": "https://genaronetwork.slack.com/",
+    "reddit": "http://www.reddit.com/user/GenaroNetwork/",
+    "blog": "https://medium.com/@GenaroNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "genaronetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6ec8a24cabdc339a06a172f8223ea557055adaa5",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

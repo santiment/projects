@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "indorse-token",
+    "name": "Indorse Token",
+    "ticker": "IND",
+    "description": "Decentralized professional networking platform",
+    "website": "https://indorse.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/joinIndorse",
+    "telegram": "https://t.me/joinchat/AAAAAA1WIyLU_WrlA3b3zw",
+    "slack": "https://joinindorse.herokuapp.com/",
+    "blog": "https://medium.com/joinIndorse"
+  },
+  "development": {
+    "github_organizations": [
+      "indorseio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8e386eda857484f5a12e4b5daa9984e06e73705",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

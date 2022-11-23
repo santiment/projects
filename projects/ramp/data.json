@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ramp",
+    "name": "RAMP",
+    "ticker": "RAMP",
+    "description": "Allows staking non ERC20 tokens on Ethereum",
+    "website": "https://rampdefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RampDefi",
+    "telegram": "https://t.me/rampdefiofficial",
+    "discord": "https://discord.gg/WY5TU7b",
+    "blog": "https://medium.com/rampdefi"
+  },
+  "development": {
+    "github_organizations": [
+      "RAMP-DEFI"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

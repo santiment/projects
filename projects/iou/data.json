@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "iou",
+    "name": "IOU",
+    "ticker": "IOUX",
+    "description": "P2P e-commerce loyalty platform",
+    "website": "https://iou.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iouico",
+    "telegram": "http://t.me/IOUCommunity",
+    "reddit": "https://www.reddit.com/r/iouplatform",
+    "blog": "https://medium.com/@realIOU"
+  },
+  "development": {
+    "github_organizations": [
+      "iouico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8ad6739649f1fbf079882c14d27862d5c2206660",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

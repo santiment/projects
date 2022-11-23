@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "sparkpoint",
+    "name": "SparkPoint",
+    "ticker": "SRK",
+    "description": "Decentralized services ecosystem",
+    "website": "https://sparkpoint.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sparkpointio",
+    "telegram": "https://t.me/SparkPointOfficial",
+    "reddit": "https://reddit.com/sparkpoint.io",
+    "blog": "https://medium.com/theecosystem"
+  },
+  "development": {
+    "github_organizations": [
+      "sparkpointio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

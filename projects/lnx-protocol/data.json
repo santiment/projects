@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "lnx-protocol",
+    "name": "LNX Protocol",
+    "ticker": "LNX",
+    "description": "The World’s First DAG infused Blockchain",
+    "website": "https://lnxprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lnxprotocol",
+    "telegram": "https://t.me/lnxprotocol",
+    "blog": "https://medium.com/lnxprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5e3845a1d78db544613edbe43dc1ea497266d3b8#balances",
+        "blockchain": "ethereum"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hoqu",
+    "name": "HOQU",
+    "ticker": "HQX",
+    "description": "World's first decentralized blockchain affiliate marketing platform",
+    "website": "https://www.hoqu.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HOQU_IO",
+    "telegram": "https://t.me/HOQUIO",
+    "reddit": "https://www.reddit.com/r/HOQU/",
+    "blog": "https://blog.hoqu.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "hoqu-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1b957dc4aefeed3b4a2351a6a6d5cbfbba0cecfa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

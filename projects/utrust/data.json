@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "utrust",
+    "name": "UTRUST",
+    "ticker": "UTK",
+    "description": "Crypto payments made simple",
+    "website": "https://utrust.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UTRUST",
+    "telegram": "https://t.me/utrustofficial",
+    "reddit": "https://www.reddit.com/r/UTRUST_Official/",
+    "blog": "https://medium.com/@UTRUST"
+  },
+  "development": {
+    "github_organizations": [
+      "utrustdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "utrust_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

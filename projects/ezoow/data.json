@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "ezoow",
+    "name": "EZOOW",
+    "ticker": "EZW",
+    "description": "A blockchain booking solution that facilitates an easy way to travel. Designed to book and reserve flight tickets, hotels, train tickets and taxi service with its own cryptocurrency",
+    "website": "https://www.ezoow.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EzoowToken",
+    "telegram": "https://t.me/ezoowtoken",
+    "reddit": "https://www.reddit.com/user/ezoowtoken",
+    "blog": "https://medium.com/@Ezoow/ezoow-the-blockchain-booking-solution-f19e2c94aad0"
+  },
+  "development": {
+    "github_organizations": [
+      "ezoowtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x78a2a1029e3168b49d3a276c787050ff5106dcf2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

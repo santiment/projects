@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "earnx",
+    "name": "EarnX",
+    "ticker": "EARNX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

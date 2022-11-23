@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "yobit",
+    "name": "Yobit Token",
+    "ticker": "YO",
+    "description": "The native asset of Yobit Exchange",
+    "website": "https://yobit.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YobitExchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xebf4ca5319f406602eeff68da16261f1216011b5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

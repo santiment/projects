@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "cybereits",
+    "name": "Cybereits",
+    "ticker": "CRE",
+    "description": "The No.1 Global blockchain real estate trading platform",
+    "website": "https://cybereits.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cybereits",
+    "telegram": "https://t.me/joinchat/HJivSA3RRwBtzkXvoqDHeA"
+  },
+  "development": {
+    "github_organizations": [
+      "cybereits"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x61f33da40594cec1e3dc900faf99f861d01e2e7d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

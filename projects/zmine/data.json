@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "zmine",
+    "name": "ZMINE",
+    "ticker": "ZMN",
+    "description": "Real Hardware, Real Mining",
+    "website": "https://zmine.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zmineofficial",
+    "telegram": "https://t.me/zminegroupchat",
+    "blog": "https://medium.com/zmineofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x554ffc77f4251a9fb3c0e3590a6a205f8d4e067d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

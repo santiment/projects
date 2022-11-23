@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "skycoin",
+    "name": "Skycoin",
+    "ticker": "SKY",
+    "description": "The most advanced blockchain application ecosystem in the world",
+    "website": "http://skycoin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Skycoinproject",
+    "telegram": "https://t.me/Skycoin",
+    "discord": "https://discord.gg/EgBenrW",
+    "slack": "https://discord.gg/EgBenrW",
+    "reddit": "https://www.reddit.com/r/SkycoinProject/",
+    "blog": "https://medium.com/@Skycoinproject"
+  },
+  "development": {
+    "github_organizations": [
+      "skycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

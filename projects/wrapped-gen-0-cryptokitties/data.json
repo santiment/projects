@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wrapped-gen-0-cryptokitties",
+    "name": "Wrapped Gen-0 CryptoKitties",
+    "ticker": "WG0"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

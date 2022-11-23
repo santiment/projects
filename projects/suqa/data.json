@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "suqa",
+    "name": "SUQA",
+    "ticker": "SUQA",
+    "description": "Created to help and enlarge the crypto community for mass adoption of the technology by giving out the rewards",
+    "website": "https://suqa.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SUQAfoundation",
+    "telegram": "https://t.me/joinchat/KHrlAUd3hwzgV6dS8qMu4A",
+    "discord": "https://discord.gg/BvgTkd2",
+    "slack": "https://discord.gg/BvgTkd2"
+  },
+  "development": {
+    "github_organizations": [
+      "suqaorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

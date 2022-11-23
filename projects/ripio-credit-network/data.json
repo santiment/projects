@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ripio-credit-network",
+    "name": "Ripio Credit Network",
+    "ticker": "RCN",
+    "description": "A global credit network",
+    "website": "https://ripiocredit.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RCN_token",
+    "telegram": "https://t.me/RCNtalk",
+    "reddit": "https://www.reddit.com/r/rcn_token/"
+  },
+  "development": {
+    "github_organizations": [
+      "ripio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

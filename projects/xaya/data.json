@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "xaya",
+    "name": "Xaya",
+    "ticker": "CHI"
+  },
+  "social": {
+    "twitter": "https://mobile.twitter.com/XAYA_tech"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

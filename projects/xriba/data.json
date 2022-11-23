@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xriba",
+    "name": "Xriba",
+    "ticker": "XRA",
+    "description": "Blockchain Applied to Business Treasury Management",
+    "website": "https://xriba.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xribapay",
+    "telegram": "https://t.me/xriba"
+  },
+  "development": {
+    "github_organizations": [
+      "xriba"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7025bab2ec90410de37f488d1298204cd4d6b29d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

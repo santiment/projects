@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "haven-protocol",
+    "name": "Haven Protocol",
+    "ticker": "XHV",
+    "description": "Untraceable payments meets offshore banking",
+    "website": "https://havenprotocol.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HavenProtocol",
+    "discord": "https://discord.gg/vWQ2GZX",
+    "slack": "https://discord.gg/vWQ2GZX",
+    "reddit": "https://www.reddit.com/r/havenprotocol/",
+    "blog": "https://medium.com/@havencurrency"
+  },
+  "development": {
+    "github_organizations": [
+      "havenprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

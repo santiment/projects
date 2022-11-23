@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "raiden-network-token",
+    "name": "Raiden Network Token",
+    "ticker": "RDN",
+    "description": "Ethereum scalability technology",
+    "website": "https://raiden.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/raiden_network",
+    "slack": "https://riot.im/app/#/room/#raiden-network:matrix.org",
+    "reddit": "https://www.reddit.com/r/raidennetwork/",
+    "blog": "https://www.medium.com/@raiden_network"
+  },
+  "development": {
+    "github_organizations": [
+      "raiden-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

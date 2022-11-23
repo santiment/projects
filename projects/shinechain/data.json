@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "shinechain",
+    "name": "ShineChain",
+    "ticker": "SHE",
+    "description": "A Global Mutual Insurance Community Based on Blockchain Technology",
+    "website": "https://www.shinechain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_shinechain",
+    "telegram": "https://t.me/shinechainofficial",
+    "blog": "https://medium.com/shinechain"
+  },
+  "development": {
+    "github_organizations": [
+      "shinechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9064c91e51d7021A85AD96817e1432aBf6624470",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

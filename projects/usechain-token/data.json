@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "usechain-token",
+    "name": "Usechain Token",
+    "ticker": "USE",
+    "description": "The World's First Mirror Identity Blockchain",
+    "website": "http://www.usechain.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/usechain",
+    "telegram": "https://t.me/usechaingroup",
+    "reddit": "https://www.reddit.com/r/UseChain/",
+    "blog": "https://medium.com/usechain/"
+  },
+  "development": {
+    "github_organizations": [
+      "usechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd9485499499d66b175cf5ed54c0a19f1a6bcb61a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

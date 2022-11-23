@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "insights-network",
+    "name": "Insights Network",
+    "ticker": "INSTAR",
+    "description": "Decentralized Big Data",
+    "website": "https://www.insights.network"
+  },
+  "social": {
+    "twitter": "https://twitter.com/instartoken",
+    "telegram": "https://t.me/InsightsNetwork",
+    "blog": "https://medium.com/@InsightsNetwork"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "purex",
+    "name": "Pure",
+    "ticker": "PUREX",
+    "description": "Cryptocurrency that supports masternodes and anonymous transactions",
+    "website": "https://purealt.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

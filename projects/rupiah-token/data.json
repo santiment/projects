@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "rupiah-token",
+    "name": "Rupiah Token",
+    "ticker": "IDRT",
+    "description": "A stablecoin to represent Indonesian Rupiah",
+    "website": "https://rupiahtoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RupiahTokenIDRT",
+    "telegram": "https://t.me/rupiahtokenindonesia",
+    "blog": "https://medium.com/rupiahtoken-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "rupiah-token"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+        "blockchain": "ethereum",
+        "decimals": 2,
+        "label": "main"
+      }
+    ]
+  }
+}

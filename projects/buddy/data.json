@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "buddy",
+    "name": "BUDDY",
+    "ticker": "BUD",
+    "description": "Buddy is building a full-stack solution for decentralized cloud hosting/cloud computing & decentralized application development & deployment.",
+    "website": "https://investors.buddy.cloud/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BuddyGit",
+    "telegram": "https://t.me/Buddycloud",
+    "slack": "https://open.kakao.com/o/gReEiY0",
+    "reddit": "https://www.reddit.com/r/buddyhq/",
+    "blog": "https://medium.com/@BuddyWorks"
+  },
+  "development": {
+    "github_organizations": [
+      "buddy-works"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x57652fc91f522f9eff0b38cdf1d51f5fb5764215",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

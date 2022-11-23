@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-proshares-vix-short-term-futures-etf",
+    "name": "Mirrored ProShares VIX",
+    "ticker": "mVIXY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

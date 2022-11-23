@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "keydonix",
+    "name": "Keydonix",
+    "ticker": "KDN",
+    "description": "Tokenizing interest-bearing DAI",
+    "website": "https://dai-hrd.keydonix.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Keydonix",
+    "discord": "https://discord.gg/b88nb2S",
+    "slack": "https://discord.gg/b88nb2S",
+    "blog": "https://medium.com/@keydonix/"
+  },
+  "development": {
+    "github_organizations": [
+      "Keydonix"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

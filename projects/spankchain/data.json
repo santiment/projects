@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "spankchain",
+    "name": "SpankChain",
+    "ticker": "SPANK",
+    "description": "Payments infrastructure for the adult industry",
+    "website": "https://spankchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/spankchain",
+    "discord": "https://discord.gg/Rz48YYy",
+    "slack": "https://discordapp.com/invite/Rz48YYy",
+    "reddit": "https://www.reddit.com/r/SpankChain/",
+    "blog": "https://medium.com/spankchain"
+  },
+  "development": {
+    "github_organizations": [
+      "spankchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

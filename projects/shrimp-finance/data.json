@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "shrimp-finance",
+    "name": "Shrimp Finance",
+    "ticker": "SHRIMP",
+    "description": "First Defi Gem DAO",
+    "website": "https://shrimp.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FinanceShrimp",
+    "telegram": "https://t.me/shrimping"
+  },
+  "development": {
+    "github_organizations": [
+      "shrimp-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x38c4102d11893351ced7ef187fcf43d33eb1abe6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

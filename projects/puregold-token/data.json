@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "puregold-token",
+    "name": "Puregold.io",
+    "ticker": "PGT",
+    "description": "Gold trading and electronic gold exchanges",
+    "website": "https://puregold.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Puregold_SG",
+    "telegram": "https://t.me/joinchat/G6LYPxIjyzw5AOX7f1BVRw",
+    "reddit": "https://www.reddit.com/user/puregold_SG"
+  },
+  "development": {
+    "github_organizations": [
+      "puregoldsg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b3e946e1a8ea0112b147af4e6e020752f2446bc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

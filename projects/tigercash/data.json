@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tigercash",
+    "name": "TigerCash",
+    "ticker": "TCH",
+    "description": "Tiger Cash (TCH) is a decentralized token issued by CoinTiger exchange. It runs natively on Ethereum blockchain and follows ERC20 token standard.",
+    "website": "https://www.cointiger.com/en-us/#/index"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinTigerEX",
+    "telegram": "https://t.me/Cointiger_en",
+    "slack": "https://weibo.com/CoinTiger",
+    "reddit": "https://www.reddit.com/r/CoinTigerExchange",
+    "blog": "https://medium.com/cointiger"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfb54c2a6b2a4fc3af9b781585215da8ee6bce363",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "polkadomain",
+    "name": "PolkaDomain",
+    "ticker": "NAME"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

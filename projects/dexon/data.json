@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dexon",
+    "name": "Dexon",
+    "ticker": "DXN",
+    "description": "An ultimate solution for hosting industry-level DApps",
+    "website": "https://dexon.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dexonfoundation",
+    "telegram": "https://t.me/dexon_foundation",
+    "discord": "https://discord.gg/WwZUTFj",
+    "slack": "https://discordapp.com/invite/WwZUTFj",
+    "reddit": "https://www.reddit.com/r/DEXONFoundation/",
+    "blog": "https://medium.com/dexon"
+  },
+  "development": {
+    "github_organizations": [
+      "dexon-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

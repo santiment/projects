@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "quadrantprotocol",
+    "name": "Quadrant Protocol",
+    "ticker": "EQUAD",
+    "description": "A blockchain-based protocol that enables the access, creation, and distribution of data products and services",
+    "website": "https://www.quadrantprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/explorequadrant",
+    "telegram": "https://t.me/quadrantprotocol",
+    "reddit": "https://www.reddit.com/r/quadrantprotocol/",
+    "blog": "https://medium.com/quadrantprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

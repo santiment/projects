@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "welltrado",
+    "name": "Welltrado",
+    "ticker": "WTL",
+    "description": "Connecting p2p investment platforms into a single network",
+    "website": "https://www.welltrado.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Welltrado",
+    "telegram": "https://t.me/welltrado",
+    "reddit": "https://www.reddit.com/r/welltrado/",
+    "blog": "https://www.welltrado.com/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9a0587eae7ef64b2b38a10442a44cfa43edd7d2a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "origin-sport",
+    "name": "Origin Sport",
+    "ticker": "ORS",
+    "description": "Next Generation of Blockchain based Sport Betting Social Platform",
+    "website": "https://www.originsport.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OriginSport_io",
+    "telegram": "https://t.me/OriginSport_EN",
+    "reddit": "https://www.reddit.com/r/OriginSport",
+    "blog": "https://medium.com/origin-sport"
+  },
+  "development": {
+    "github_organizations": [
+      "originsport"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeb9a4b185816c354db92db09cc3b50be60b901b6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

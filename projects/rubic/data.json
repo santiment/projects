@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rubic",
+    "name": "Rubic",
+    "ticker": "RBC",
+    "description": "Cross chain swaps",
+    "website": "https://rubic.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoRubic",
+    "telegram": "https://t.me/cryptorubic_chat",
+    "discord": "https://discord.gg/hayrHU2Tvh"
+  },
+  "development": {
+    "github_organizations": [
+      "Cryptorubic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa4eed63db85311e22df4473f87ccfc3dadcfa3e3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

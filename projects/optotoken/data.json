@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "optotoken",
+    "name": "OptiToken",
+    "ticker": "OPTI",
+    "description": "A Hyper-Deflationary Cryptocurrency",
+    "website": "https://optitoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OptiToken",
+    "telegram": "https://t.me/joinchat/Cif2ylI6SNVwxLXHAETG0Q",
+    "reddit": "https://reddit.com/r/OptiToken",
+    "blog": "https://medium.com/@OptiToken"
+  },
+  "development": {
+    "github_organizations": [
+      "optitoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x832904863978b94802123106e6eb491bdf0df928",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

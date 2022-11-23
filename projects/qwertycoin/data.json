@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "qwertycoin",
+    "name": "Qwertycoin",
+    "ticker": "QWC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

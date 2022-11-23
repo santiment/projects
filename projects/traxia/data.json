@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "traxia",
+    "name": "TRAXIA",
+    "ticker": "TM2",
+    "description": "A blockchain solution to disrupt trade finance",
+    "website": "http://traxia.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TraxiaNetwork",
+    "telegram": "https://t.me/traxiafoundation",
+    "reddit": "https://www.reddit.com/r/traxia/",
+    "blog": "https://blog.traxia.co/@Traxia"
+  },
+  "development": {
+    "github_organizations": [
+      "teamtraxia"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3209f98bebf0149b769ce26d71f7aea8e435efea",
+        "blockchain": "bnb-beacon-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

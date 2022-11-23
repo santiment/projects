@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "youcash",
+    "name": "yOUcash",
+    "ticker": "YOUC",
+    "description": "Tokenized advertising platform",
+    "website": "https://www.youengine.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/younive87630435",
+    "telegram": "https://t.me/YouEngineGroup",
+    "reddit": "https://www.reddit.com/user/You_Engine",
+    "blog": "https://youengine.io/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "daex",
+    "name": "DAEX",
+    "ticker": "DAX",
+    "description": "A cryptocurrency clearing solution based on distributed ledger technology",
+    "website": "https://daex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DaexBlockchain",
+    "telegram": "https://t.me/daexofficialgroup_en",
+    "reddit": "https://www.reddit.com/r/DAEX_Blockchain/",
+    "blog": "https://medium.com/daex"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0b4bdc478791897274652dc15ef5c135cae61e60",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

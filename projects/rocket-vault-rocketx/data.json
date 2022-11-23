@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rocket-vault-rocketx",
+    "name": "RocketX",
+    "ticker": "RVF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

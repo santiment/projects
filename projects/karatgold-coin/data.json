@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "karatgold-coin",
+    "name": "Karatgold Coin",
+    "ticker": "KBC",
+    "website": "https://karatgold.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/karatbarsgmbh",
+    "telegram": "https://t.me/joinchat/HwdcMEWPPAX1NNBwtEC56Q",
+    "reddit": "https://www.reddit.com/user/karatgoldcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3586684107ce0859c44aa2b2e0fb8cd8731a15a",
+        "blockchain": "ethereum",
+        "decimals": 7
+      }
+    ]
+  }
+}

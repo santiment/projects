@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_link_eth_lp",
+    "name": "Uniswap V2: LINK",
+    "ticker": "UNI-V2 LINK/ETH LP",
+    "description": "LP Token for the UNI-V2 LINK-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

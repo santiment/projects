@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "superior-coin",
+    "name": "Superior Coin",
+    "ticker": "SUP",
+    "description": "Secure, private and untraceable currency",
+    "website": "http://superior-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/superiorcoins",
+    "telegram": "https://t.me/SuperiorCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "thesuperiorcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kineko",
+    "name": "Kineko",
+    "ticker": "KKO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

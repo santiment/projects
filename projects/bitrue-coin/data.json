@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bitrue-coin",
+    "name": "Bitrue Coin",
+    "ticker": "BTR",
+    "description": "Platform token issued by the Bitrue Exchange",
+    "website": "https://www.bitrue.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitrueOfficial",
+    "telegram": "https://t.me/BitrueOfficial",
+    "reddit": "https://www.reddit.com/r/BitrueOfficial/",
+    "blog": "https://medium.com/@bitrue"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd433138d12beB9929FF6fd583DC83663eea6Aaa5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "veriblock",
+    "name": "VeriBlock",
+    "ticker": "VBK",
+    "description": "Securing blockchains using Bitcoin",
+    "website": "https://www.veriblock.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/veriblock",
+    "telegram": "https://t.me/VeriBlock",
+    "reddit": "https://www.reddit.com/r/veriblock"
+  },
+  "development": {
+    "github_organizations": [
+      "veriblock"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

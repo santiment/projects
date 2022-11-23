@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bidipass",
+    "name": "BidiPass",
+    "ticker": "BDP",
+    "description": "An identity authentication protocol",
+    "website": "https://bidipass.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bidipass",
+    "telegram": "https://t.me/joinchat/F2QNgUcAswpRj_dkooFLLQ",
+    "blog": "https://medium.com/@bidipass"
+  },
+  "development": {
+    "github_organizations": [
+      "bidipasscompany"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x593114f03a0a575aece9ed675e52ed68d2172b8c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

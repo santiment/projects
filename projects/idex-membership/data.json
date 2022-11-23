@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "idex-membership",
+    "name": "IDEX Membership",
+    "ticker": "IDXM",
+    "description": "Grants holders the ability to reduce their trading fees",
+    "website": "https://auroradao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aurora_dao",
+    "telegram": "https://t.me/joinchat/FT1IVA8AWHiyUkU3adehxA",
+    "reddit": "https://www.reddit.com/r/auroradao/",
+    "blog": "https://medium.com/aurora-dao"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

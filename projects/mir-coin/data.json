@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "mir-coin",
+    "name": "MIR COIN",
+    "ticker": "MIR",
+    "description": "A cryptocurrency closely related to everyday life",
+    "website": "http://www.mircoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mircoin01",
+    "telegram": "https://t.me/mircoin_en",
+    "blog": "https://medium.com/@blockchainmir"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

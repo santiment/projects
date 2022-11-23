@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bnb-magiccraft",
+    "name": "MagicCraft",
+    "ticker": "MCRT",
+    "description": "Player vs Player battle league",
+    "website": "https://www.magiccraft.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MagicCraftGame",
+    "telegram": "https://t.me/magiccraftgamechat",
+    "discord": "https://discord.com/invite/c4bgnsqzQR",
+    "blog": "https://medium.com/@MagicCraftGame"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b8285aB433D8f69CB48d5Ad62b415ed1a221e4f",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 9
+      }
+    ]
+  }
+}

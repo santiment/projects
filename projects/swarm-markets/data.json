@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "swarm-markets",
+    "name": "Swarm Markets",
+    "ticker": "SMT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

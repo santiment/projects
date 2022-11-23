@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "vitae",
+    "name": "Vitae",
+    "ticker": "VITAE",
+    "description": "Cryptocurrency with a purpose: Growing Global Prosperity",
+    "website": "https://www.vitaetoken.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialVitae",
+    "discord": "https://discord.gg/kjBgDSs",
+    "slack": "https://discord.gg/kjBgDSs",
+    "reddit": "https://www.reddit.com/r/VitaeTeam/"
+  },
+  "development": {
+    "github_organizations": [
+      "vitaeteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

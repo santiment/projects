@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "index-cooperative",
+    "name": "Index Cooperative",
+    "ticker": "INDEX",
+    "description": "Crypto index primitives",
+    "website": "https://www.indexcoop.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/indexcoop",
+    "discord": "https://discord.gg/RKZ4S3b",
+    "blog": "https://medium.com/indexdao/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

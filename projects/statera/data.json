@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "statera",
+    "name": "STATERA",
+    "ticker": "STA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

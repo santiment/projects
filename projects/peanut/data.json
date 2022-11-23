@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "peanut",
+    "name": "Peanut",
+    "ticker": "NUX",
+    "description": "Advanced price balancer tool",
+    "website": "https://peanut.trade/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/peanuttrade",
+    "telegram": "https://t.me/peanuttrade"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

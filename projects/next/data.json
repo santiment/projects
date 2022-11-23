@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "next",
+    "name": "NEXT",
+    "ticker": "NET",
+    "description": "Korean exchange",
+    "website": "https://www.coinbit.co.kr/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coinbit_coinbit/",
+    "slack": "https://open.kakao.com/o/gg0JFd6"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF29226914595052a04F5AFbe6410D0C3eD707548",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "morpheus-labs",
+    "name": "Morpheus Labs",
+    "ticker": "MITX",
+    "description": "Rapidly develop, test and deploy enterprise blockchain applications at a fraction of the cost",
+    "website": "https://token.morpheuslabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/morpheuslabs_io",
+    "telegram": "https://t.me/morpheuslabs"
+  },
+  "development": {
+    "github_organizations": [
+      "morpheuslabs-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

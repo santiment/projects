@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "rally",
+    "name": "Rally",
+    "ticker": "RLY",
+    "description": "The Future of Creator Support",
+    "website": "https://rally.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rally_io",
+    "discord": "https://discord.gg/PVMdQBq",
+    "blog": "https://medium.com/rallynetwork"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

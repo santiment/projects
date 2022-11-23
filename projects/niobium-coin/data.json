@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "niobium-coin",
+    "name": "Niobium Coin",
+    "ticker": "NBC",
+    "description": "A corporate business crypto exchange ",
+    "website": "https://niobiumcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NiobiumCoins",
+    "telegram": "https://t.me/joinchat/AfuUABAOfiR53OVq6ItSCA",
+    "slack": "https://niobiumbomesp.slack.com/join/shared_invite/enQtMzAyMTQzNDc4NTgzLWY2ZGYxYzMyM2ZhYmExNWJiYmRkZDk3ZDU1OTM1NzhiMTVmNTA0ZTE3MmI5NWNiYTcxNTUwNGEwZTA3NjYwZjg",
+    "reddit": "https://www.reddit.com/r/NiobiumBomesp/"
+  },
+  "development": {
+    "github_organizations": [
+      "niobiumfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f195617fa8fbad9540c5d113a99a0a0172aaedc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pooltogether",
+    "name": "PoolTogether",
+    "ticker": "POOL",
+    "description": "A protocol for no-loss prize games",
+    "website": "https://www.pooltogether.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PoolTogether_",
+    "discord": "https://discord.gg/hxPhPDW",
+    "reddit": "https://www.reddit.com/r/PoolTogether/",
+    "blog": "https://medium.com/pooltogether"
+  },
+  "development": {
+    "github_organizations": [
+      "pooltogether"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

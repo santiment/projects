@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "decentralized-machine-learning",
+    "name": "Decentralized Machine Learning",
+    "ticker": "DML",
+    "description": "Blockchain-based decentralized machine learning protocol",
+    "website": "https://decentralizedml.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DecentralizedML",
+    "telegram": "https://t.me/DecentralizedML",
+    "reddit": "https://www.reddit.com/r/decentralizedML/",
+    "blog": "https://medium.com/@decentralizedml"
+  },
+  "development": {
+    "github_organizations": [
+      "decentralizedml"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbcdfe338d55c061c084d81fd793ded00a27f226d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

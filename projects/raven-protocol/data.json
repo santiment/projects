@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "raven-protocol",
+    "name": "Raven Protocol",
+    "ticker": "RAVEN",
+    "description": "Вeep-learning training protocol",
+    "website": "https://www.ravenprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Raven_Protocol",
+    "telegram": "https://t.me/ravenprotocol",
+    "blog": "https://medium.com/@ravenprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

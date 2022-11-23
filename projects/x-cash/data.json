@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "x-cash",
+    "name": "X-CASH",
+    "ticker": "XCASH"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

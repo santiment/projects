@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "npcoin",
+    "name": "NPCoin",
+    "ticker": "NPC",
+    "description": "A utility cryptocurrency",
+    "website": "https://npcoin.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/npcoin1",
+    "reddit": "https://www.reddit.com/user/NPCoin/",
+    "blog": "https://medium.com/@npcoin.international"
+  },
+  "development": {
+    "github_organizations": [
+      "npcoincoreteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

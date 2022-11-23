@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "xpower",
+    "name": "X-power Chain",
+    "ticker": "XPO",
+    "description": "A Cloud Screen Ecosystem",
+    "website": "http://xpower.one/english.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xpowerxpo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "savedroid",
+    "name": "Savedroid",
+    "ticker": "SVD",
+    "description": "Democratizing cryptocurrencies",
+    "website": "https://ico.savedroid.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/savedroidHQ",
+    "telegram": "https://t.me/savedroidico",
+    "reddit": "https://www.reddit.com/r/savedroid_ico/",
+    "blog": "https://medium.com/@ico_8796"
+  },
+  "development": {
+    "github_organizations": [
+      "savedroid"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

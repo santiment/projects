@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "router-protocol",
+    "name": "Router Protocol",
+    "ticker": "ROUTE",
+    "description": "Crosschain liquidity aggregator",
+    "website": "https://routerprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/routerprotocol",
+    "telegram": "https://t.me/routerprotocol",
+    "blog": "https://routerprotocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "router-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

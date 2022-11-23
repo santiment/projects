@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "libera",
+    "name": "Libera",
+    "ticker": "LIB",
+    "description": "DeFi protocol for non-custodial crosschain trading",
+    "website": "https://libera.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Libera_protocol",
+    "telegram": "https://t.me/liberaprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0bf6261297198d91d4fa460242c69232146a5703",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

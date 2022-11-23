@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rai-finance-sofi",
+    "name": "RAI Finance",
+    "ticker": "SOFI",
+    "description": "RAI Finance aims to become the epicenter of the Web 3.0 world",
+    "website": "https://rai.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RaiFinance",
+    "telegram": "https://t.me/RaiFinance",
+    "blog": "https://medium.com/rai-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "RaiFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

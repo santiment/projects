@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "tera",
+    "name": "TERA",
+    "ticker": "TERA",
+    "description": "High-performance blockchain platform",
+    "website": "https://terafoundation.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terafoundation",
+    "telegram": "https://web.telegram.org/#/im?p=@terafoundation"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

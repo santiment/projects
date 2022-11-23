@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "theta-fuel",
+    "name": "Theta Fuel",
+    "ticker": "TFUEL",
+    "description": "Theta Fuel is the second token (gas token) of the Theta Network. Theta Fuel is a native token on the Theta blockchain.",
+    "website": "https://www.thetatoken.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Theta_Network",
+    "telegram": "https://t.me/thetanetwork",
+    "reddit": "https://www.reddit.com/r/theta_network/"
+  },
+  "development": {
+    "github_organizations": [
+      "thetatoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "brokernekonetwork",
+    "name": "BrokerNekoNetwork",
+    "ticker": "BNN",
+    "description": "Smart Contract For Corporations And Individuals",
+    "website": "https://www.brokerneko.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NekoBroker",
+    "telegram": "https://t.me/brokernekogroup",
+    "blog": "https://medium.com/@brokerneko"
+  },
+  "development": {
+    "github_organizations": [
+      "brokernekonetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda80b20038bdf968c7307bb5907a469482cf6251",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

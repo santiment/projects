@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "kattana",
+    "name": "Kattana",
+    "ticker": "KTN",
+    "description": "Crypto trading app",
+    "website": "https://kattana.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kattanatrade",
+    "telegram": "https://t.me/kattana_trade",
+    "blog": "https://kattana-trade.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

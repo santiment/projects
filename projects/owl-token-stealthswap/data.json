@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "owl-token-stealthswap",
+    "name": "OWL Token (StealthSwap)",
+    "ticker": "OWL",
+    "description": "A privacy-preserving protocol for transactions",
+    "website": "https://stealthswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stealthswap",
+    "telegram": "https://t.me/StealthSwapETH",
+    "blog": "https://medium.com/stealthswap"
+  },
+  "development": {
+    "github_organizations": [
+      "stealthswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2a7f709ee001069771ceb6d42e85035f7d18e736",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

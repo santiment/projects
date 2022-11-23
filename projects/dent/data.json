@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dent",
+    "name": "Dent",
+    "ticker": "DENT",
+    "description": "Mobile Data Industry tokenizer",
+    "website": "https://www.dentcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dentcoin",
+    "telegram": "https://t.me/dentcoin",
+    "slack": "https://dentcoin.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/dentcoin/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

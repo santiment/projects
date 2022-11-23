@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "albos",
+    "name": "ALBOS",
+    "ticker": "ALB",
+    "description": "Artificial Intelligence crypto gateway",
+    "website": "http://www.albos.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/albos_official_korea"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3e70642c28f3f707408c56624c2f30ea9f9fce3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

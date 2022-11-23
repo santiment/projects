@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "playfuel",
+    "name": "PlayFuel",
+    "ticker": "PLF",
+    "description": "A platform for gamers and developers",
+    "website": "https://playfuel.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/playfuelteam",
+    "telegram": "https://t.me/playfuelteam"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

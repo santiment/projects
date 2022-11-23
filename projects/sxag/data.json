@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "sxag",
+    "name": "Synth sXAG",
+    "ticker": "sXAG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6a22e5e94388464181578aa7a6b869e00fe27846",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "k21",
+    "name": "K21",
+    "ticker": "K21",
+    "description": "NFT art for the next 100 years",
+    "website": "https://kanon.art/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KanonDotArt",
+    "discord": "https://discord.com/invite/5ywahgEqT8",
+    "blog": "https://kanondotart.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "kanonart"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9d99c33ea2d86ec5ec6b8a4dd816ebba64404af",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

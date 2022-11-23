@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "999-coin",
+    "name": "999",
+    "ticker": "999"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbf05571988daab22d33c28bbb13566eae9dee626",
+        "decimals": 3
+      }
+    ]
+  }
+}

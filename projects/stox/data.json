@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "stox",
+    "name": "Stox",
+    "ticker": "STX",
+    "description": "Blockchain Prediction Markets Platform",
+    "website": "https://www.stox.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stx_coin",
+    "telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg",
+    "reddit": "https://www.reddit.com/r/STOX/",
+    "blog": "https://medium.com/@stoxhq"
+  },
+  "development": {
+    "github_organizations": [
+      "stx-technologies"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

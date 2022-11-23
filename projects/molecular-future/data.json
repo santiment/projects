@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "molecular-future",
+    "name": "Molecular Future",
+    "ticker": "MOF",
+    "description": "Blockchain technology services",
+    "website": "http://www.molecular.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/molecular_cc",
+    "telegram": "https://t.me/joinchat/Hix2Ow7xE6jnK4WTpOie-w"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x653430560be843c4a3d143d0110e896c2ab8ac0d",
+        "blockchain": "ethereum",
+        "decimals": 16
+      }
+    ]
+  }
+}

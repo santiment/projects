@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "srcoin",
+    "name": "SRCOIN",
+    "ticker": "SRCOIN",
+    "description": "The First Subscription Revenue Cryptocurrency",
+    "website": "https://www.srcoin.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SRCoin_ICO",
+    "telegram": "https://t.me/SRCOIN_EN",
+    "blog": "https://medium.com/@SRCOIN"
+  },
+  "development": {
+    "github_organizations": [
+      "srcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xef8cf79c21637fc6f951bcac348915508a639a41",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "global-currency-reserve",
+    "name": "Global Currency Reserve",
+    "ticker": "GCR",
+    "description": "Empowers personal wealth building with business opportunity to mine digital currency crypto coins",
+    "website": "http://gcrcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GCRWorldwide"
+  },
+  "development": {
+    "github_organizations": [
+      "globalcurrencyreserve"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

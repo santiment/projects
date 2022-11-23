@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "uos",
+    "name": "UOS Network",
+    "ticker": "UOS",
+    "description": "Translates social and economic actions into reputation",
+    "website": "https://uos.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/uos_network",
+    "telegram": "https://t.me/uos_network_en",
+    "reddit": "https://www.reddit.com/r/uosnetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "uosnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x430bd07726423A54f6d82Ab0F578CE62A3b8054D",
+        "decimals": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rrcoin",
+    "name": "RRCoin",
+    "ticker": "RRC",
+    "description": "Collects the most use of the unused computing power",
+    "website": "http://www.rrchain.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RRC_IO",
+    "telegram": "https://t.me/RRChain",
+    "blog": "http://blog.rrnc.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "rrncio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

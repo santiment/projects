@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "vanta-network",
+    "name": "Vanta Network",
+    "ticker": "VANTA",
+    "description": "Decentralized Network for Real-time, Secure, and Private Connectivity.",
+    "website": "https://vanta.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vantanetwork",
+    "telegram": "https://t.me/vantanetwork",
+    "reddit": "https://www.reddit.com/r/vantanetwork/",
+    "blog": "https://medium.com/vantanetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "vantanetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdcc27bbaa14cafd8a6aeb847e1b01c5dffb70935",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gravity-finance",
+    "name": "Gravity Finance",
+    "ticker": "GFI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "peos",
+    "name": "pEOS",
+    "ticker": "PEOS",
+    "description": "Private & untraceable transactions on EOS",
+    "website": "https://peos.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/peos_one",
+    "telegram": "https://t.me/pEOSone",
+    "blog": "https://medium.com/@pEOS_one"
+  },
+  "development": {
+    "github_organizations": [
+      "peosdev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

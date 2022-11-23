@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "maidsafecoin",
+    "name": "MaidSafeCoin",
+    "ticker": "MAID",
+    "description": "The World's First Autonomous Data Network",
+    "website": "http://maidsafe.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maidsafe",
+    "slack": "https://slack.safenetwork.org/",
+    "reddit": "https://www.reddit.com/r/safenetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "maidsafe"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "seur",
+    "name": "Synth sEUR",
+    "ticker": "sEUR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

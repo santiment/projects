@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "vnt-chain",
+    "name": "VNT Chain",
+    "ticker": "VNT",
+    "description": "A global distributed smart value network",
+    "website": "http://vntchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VNTChainLabs",
+    "telegram": "https://t.me/VNTChainLabs",
+    "reddit": "https://www.reddit.com/r/VNTChain/",
+    "blog": "https://medium.com/vnt-chain-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "vntchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69d2779533a4d2c780639713558b2cc98c46a9b7",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

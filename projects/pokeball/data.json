@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "pokeball",
+    "name": "Pokeball",
+    "ticker": "POKE",
+    "description": "Yield Farming on Binance Smart Chain",
+    "website": "https://pokeball.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PokeballFinance",
+    "telegram": "https://t.me/pokefi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

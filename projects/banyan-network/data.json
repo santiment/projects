@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "banyan-network",
+    "name": "Banyan Network",
+    "ticker": "BBN",
+    "description": "Global Data Fusion Network",
+    "website": "http://www.banyanbbt.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/banyan_network",
+    "telegram": "https://t.me/BBNGlobalFans",
+    "reddit": "https://www.reddit.com/r/BanyanNetwork",
+    "blog": "https://medium.com/BanyanNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "banyanbbt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x35a69642857083ba2f30bfab735dacc7f0bac969",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "gxchain",
+    "name": "GXChain",
+    "ticker": "GXC",
+    "description": "Data transaction and credit verification",
+    "website": "https://gxs.gxb.io/"
+  },
+  "social": {
+    "twitter": "https://t.me/GXB_International"
+  },
+  "development": {
+    "github_organizations": [
+      "gxchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

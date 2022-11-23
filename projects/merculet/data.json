@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "merculet",
+    "name": "Merculet",
+    "ticker": "MVP",
+    "description": "Turning the information-based internet into the value-based internet",
+    "website": "http://merculet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Merculet_io",
+    "telegram": "https://t.me/merculet",
+    "reddit": "https://www.reddit.com/r/Merculet/",
+    "blog": "https://medium.com/merculet"
+  },
+  "development": {
+    "github_organizations": [
+      "merculet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a77e40936bbc27e80e9a3f526368c967869c86d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

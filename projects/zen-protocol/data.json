@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "zen-protocol",
+    "name": "Zen Protocol",
+    "ticker": "ZP",
+    "description": "A blockchain built for finance",
+    "website": "https://www.zenprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zen_protocol",
+    "telegram": "https://t.me/zenprotocol",
+    "reddit": "https://www.reddit.com/r/zenprotocol/",
+    "blog": "https://blog.zenprotocol.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "zenprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

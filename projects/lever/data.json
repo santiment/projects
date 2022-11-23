@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lever",
+    "name": "LeverFi",
+    "ticker": "LEVER",
+    "description": "Leverage trading using yield-bearing collateral",
+    "website": "https://www.leverfi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LeverFi",
+    "telegram": "https://t.me/LeverFi",
+    "blog": "https://medium.com/leverfi"
+  },
+  "development": {
+    "github_organizations": [
+      "LeverFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4B5f49487ea7B3609b1aD05459BE420548789f1f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nobrainer-finance",
+    "name": "Nobrainer Finance",
+    "ticker": "BRAIN",
+    "description": "Farm limited edition NFTs",
+    "website": "https://www.nobrainer.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NobrainFinance",
+    "telegram": "https://t.me/NobrainerFinance",
+    "blog": "https://medium.com/@NobrainerFinance"
+  },
+  "development": {
+    "github_organizations": [
+      "NobrainerFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea3cb156745a8d281a5fc174186c976f2dd04c2e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

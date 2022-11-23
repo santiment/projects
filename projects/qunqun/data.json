@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "qunqun",
+    "name": "QunQun",
+    "ticker": "QUN",
+    "description": "A blockchain-based incentive community platform",
+    "website": "https://qunqun.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/qunqun_io",
+    "telegram": "https://t.me/qunqunglobal",
+    "reddit": "https://www.reddit.com/r/QunQun/",
+    "blog": "https://medium.com/@qunqun_io/"
+  },
+  "development": {
+    "github_organizations": [
+      "qunqun-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x264dc2dedcdcbb897561a57cba5085ca416fb7b4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

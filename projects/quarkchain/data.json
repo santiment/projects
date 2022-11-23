@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "quarkchain",
+    "name": "QuarkChain",
+    "ticker": "QKC",
+    "description": "A high-throughput blockchain that aims to achieve millions of TPS",
+    "website": "https://www.quarkchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Quark_Chain",
+    "telegram": "https://t.me/QuarkChainio",
+    "reddit": "https://www.reddit.com/r/QuarkChain/",
+    "blog": "https://steemit.com/@quarkchain"
+  },
+  "development": {
+    "github_organizations": [
+      "quarkchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

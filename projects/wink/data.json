@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wink",
+    "name": "WINk",
+    "ticker": "WIN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

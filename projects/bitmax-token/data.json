@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bitmax-token",
+    "name": "Bitmax Token",
+    "ticker": "ASD",
+    "description": "BitMax is global operator of digital asset exchanges for diverse groups of clients from retail to institutions",
+    "website": "https://bitmax.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitMax_Official",
+    "telegram": "https://t.me/BitMaxioEnglishOfficial",
+    "reddit": "https://www.reddit.com/user/BitMax_Support"
+  },
+  "development": {
+    "github_organizations": [
+      "bitmax-exchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c289a12a8552b314d0d153d6991fd27a54aa640",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

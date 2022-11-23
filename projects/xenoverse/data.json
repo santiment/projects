@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xenoverse",
+    "name": "Xenoverse",
+    "ticker": "XENO",
+    "description": "Transforms the pawnbroker capital industry",
+    "website": "https://xenoverse.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XenoverseI",
+    "telegram": "https://t.me/Xenoverse_official"
+  },
+  "development": {
+    "github_organizations": [
+      "xenoverseio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf2705d4368cd2ee3bbff73594ae47244064dffb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

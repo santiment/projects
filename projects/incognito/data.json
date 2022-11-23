@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "incognito",
+    "name": "Incognito",
+    "ticker": "PRV",
+    "website": "https://incognito.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "incognitochain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

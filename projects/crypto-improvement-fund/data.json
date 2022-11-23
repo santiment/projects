@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "crypto-improvement-fund",
+    "name": "Crypto improvement fund",
+    "ticker": "CIF",
+    "description": "An incentive, marketing tool and software suite for businesses ",
+    "website": "https://www.cryptoimprovementfund.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CIF_Team",
+    "telegram": "https://t.me/cif_team",
+    "reddit": "https://www.reddit.com/r/CryptoImprovementFund/",
+    "blog": "https://www.cryptoimprovementfund.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "jumpa1"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

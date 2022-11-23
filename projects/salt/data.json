@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "salt",
+    "name": "SALT",
+    "ticker": "SALT",
+    "description": "Cryptocurrency backed loans",
+    "website": "https://www.saltlending.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SALTLending",
+    "telegram": "https://t.me/joinchat/BmtZ5kKgf4ekiNLggHRDmQ",
+    "discord": "https://discord.gg/4S9eFBK",
+    "slack": "https://discord.gg/4S9eFBK",
+    "reddit": "https://www.reddit.com/r/SALTLending/",
+    "blog": "https://blog.saltlending.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4156d3342d5c385a87d264f90653733592000581",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "position-exchange",
+    "name": "Position Exchange",
+    "ticker": "POSI",
+    "description": "The Next-Gen Decentralized Trading Protocol fully on BSC",
+    "website": "https://position.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PositionEx",
+    "telegram": "https://t.me/PositionExchange",
+    "reddit": "https://reddit.com/r/PositionExchange",
+    "blog": "https://positionex.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "PositionExchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

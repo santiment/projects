@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "essentia",
+    "name": "Essentia",
+    "ticker": "ESS",
+    "description": "Decentralized identities and data",
+    "website": "https://essentia.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/essentia_one",
+    "telegram": "https://t.me/essentia_one",
+    "reddit": "https://www.reddit.com/r/essentia/",
+    "blog": "https://medium.com/essentia_one"
+  },
+  "development": {
+    "github_organizations": [
+      "essentiaone"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc05987bd2be489ACCF0f509E44B0145d68240f7",
+        "decimals": 18
+      }
+    ]
+  }
+}

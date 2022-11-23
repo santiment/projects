@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "c20",
+    "name": "CRYPTO20",
+    "ticker": "C20",
+    "description": "A completely open and autonomous Crypto Index fund, fully transparent and on the blockchain",
+    "website": "https://crypto20.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/CRYPTO20",
+    "blog": "https://medium.crypto20.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptotwenty"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x26e75307fc0c021472feb8f727839531f112f317",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

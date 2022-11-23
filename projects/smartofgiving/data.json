@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "smartofgiving",
+    "name": "smARTOFGIVING",
+    "ticker": "AOG",
+    "description": "Coins for charity",
+    "website": "https://www.smartofgiving.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Helpico_Coin",
+    "telegram": "https://t.me/Helpico_Coin",
+    "discord": "https://discord.gg/EcTjccm",
+    "slack": "https://discord.gg/EcTjccm"
+  },
+  "development": {
+    "github_organizations": [
+      "anonymousdo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8578530205cecbe5db83f7f29ecfeec860c297c2",
+        "decimals": 18
+      }
+    ]
+  }
+}

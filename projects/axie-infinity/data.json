@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "axie-infinity",
+    "name": "Axie Infinity",
+    "ticker": "AXS",
+    "description": "A Pokemon-inspired digital pet universe",
+    "website": "https://axieinfinity.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AxieInfinity",
+    "telegram": "https://t.me/axieinfinity",
+    "discord": "https://discord.gg/axie",
+    "slack": "https://discord.gg/axie",
+    "reddit": "https://www.reddit.com/r/AxieInfinity",
+    "blog": "https://axieinfinity.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "axieinfinity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "axie_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

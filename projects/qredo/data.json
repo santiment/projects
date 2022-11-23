@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "qredo",
+    "name": "Qredo",
+    "ticker": "QRDO",
+    "description": "DeFi Infrastructure",
+    "website": "https://www.qredo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QredoNetwork",
+    "telegram": "https://t.me/qredonetwork",
+    "discord": "https://discord.com/invite/bgVPvf6",
+    "blog": "https://medium.com/qredo"
+  },
+  "development": {
+    "github_organizations": [
+      "qredo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

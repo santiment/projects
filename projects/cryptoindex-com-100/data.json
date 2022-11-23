@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cryptoindex-com-100",
+    "name": "Cryptoindex.com 100",
+    "ticker": "CIX100",
+    "description": "A digital expression of top 100 coins",
+    "website": "https://cryptoindex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IndexCrypto",
+    "telegram": "https://t.me/indexcrypto",
+    "reddit": "https://www.reddit.com/r/CryptoIndex_io/",
+    "blog": "https://medium.com/@CryptoIndex"
+  },
+  "development": {
+    "github_organizations": [
+      "phenom-company"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6393e822874728f8afa7e1c9944e417d37ca5878",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

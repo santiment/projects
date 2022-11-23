@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ytsla-finance",
+    "name": "yTSLA Finance",
+    "ticker": "YTSLA",
+    "description": "A MEME fork, pegged to TSLA",
+    "website": "https://ytsla.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yTSLAFi",
+    "telegram": "https://telegram.me/yTSLA_lounge",
+    "blog": "https://medium.com/@memeytsla"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5322a3556f979ce2180b30e689a9436fddcb1021",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

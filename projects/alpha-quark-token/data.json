@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "alpha-quark-token",
+    "name": "Alpha Quark Token",
+    "ticker": "AQT",
+    "description": "NFT Marketplace and Metaverse Platform",
+    "website": "https://alphaquark.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alphaquark_",
+    "telegram": "https://t.me/AlphaQuark"
+  },
+  "development": {
+    "github_organizations": [
+      "alphaquark"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

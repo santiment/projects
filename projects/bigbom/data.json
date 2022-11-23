@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bigbom",
+    "name": "Bigbom",
+    "ticker": "BBO",
+    "description": "Decentralized Advertising Ecosystem",
+    "website": "https://bigbom.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bigbomglobal",
+    "telegram": "https://t.me/bigbomicogroup",
+    "reddit": "https://www.reddit.com/r/Bigbom/",
+    "blog": "https://medium.com/@bigbomeco"
+  },
+  "development": {
+    "github_organizations": [
+      "bigbomio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x84f7c44b6fed1080f647e354d552595be2cc602f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

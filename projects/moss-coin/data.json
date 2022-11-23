@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "moss-coin",
+    "name": "Mossland",
+    "ticker": "MOC",
+    "description": "Location-based AR mobile game based on real estate",
+    "website": "http://moss.land/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheMossland",
+    "telegram": "https://t.me/mossland",
+    "blog": "https://medium.com/@realityreflection"
+  },
+  "development": {
+    "github_organizations": [
+      "realityreflection"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x865ec58b06bf6305b886793aa20a2da31d034e68",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

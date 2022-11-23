@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "vimworld",
+    "name": "VIMworld",
+    "ticker": "VEED"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

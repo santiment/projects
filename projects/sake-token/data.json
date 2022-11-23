@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "sake-token",
+    "name": "SakeToken",
+    "ticker": "SAKE",
+    "description": "Yield farming",
+    "website": "https://sakeswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sakeswap",
+    "discord": "https://discord.gg/uYFVyNX",
+    "slack": "https://discord.gg/uYFVyNX",
+    "blog": "https://medium.com/@sakeswap/introducing-sakeswap-and-sake-token-8638d50b0b58"
+  },
+  "development": {
+    "github_organizations": [
+      "Sakeswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "skale",
+    "name": "Skale",
+    "ticker": "SKALE",
+    "description": "An elastic blockchain network",
+    "website": "https://skale.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/skalelabs",
+    "telegram": "https://t.me/skaleofficial",
+    "blog": "https://medium.com/skale"
+  },
+  "development": {
+    "github_organizations": [
+      "skalenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

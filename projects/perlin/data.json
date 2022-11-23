@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "perlin",
+    "name": "Perlin",
+    "ticker": "PERL",
+    "description": "A trustless market around an untapped computing power supply",
+    "website": "http://perlin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PerlinNetwork",
+    "telegram": "https://t.me/perlinnetworkchat",
+    "discord": "https://discord.gg/dMYfDPM",
+    "slack": "https://discordapp.com/invite/dMYfDPM",
+    "reddit": "https://www.reddit.com/r/perlin/",
+    "blog": "https://medium.com/perlin-network"
+  },
+  "development": {
+    "github_organizations": [
+      "perlin-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb5a73f5fc8bbdbce59bfd01ca8d35062e0dad801",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

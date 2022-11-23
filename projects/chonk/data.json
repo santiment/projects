@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "chonk",
+    "name": "Chonk",
+    "ticker": "CHONK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

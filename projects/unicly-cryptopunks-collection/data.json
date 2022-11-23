@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "unicly-cryptopunks-collection",
+    "name": "Unicly CryptoPunks Collection",
+    "ticker": "UPUNK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

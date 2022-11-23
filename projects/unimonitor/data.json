@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "unimonitor",
+    "name": "Unimonitor",
+    "ticker": "UNT",
+    "description": "Monitor the newly listed tokens on Uniswap",
+    "website": "https://www.unimonitor.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UniMonitor",
+    "telegram": "https://t.me/UniMonitorTools"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6dddf4111ad997a8c7be9b2e502aa476bf1f4251",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

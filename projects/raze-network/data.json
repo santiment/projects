@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "raze-network",
+    "name": "Raze Network",
+    "ticker": "RAZE",
+    "description": "Cross-chain privacy protocol",
+    "website": "https://raze.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/R4ZE_Network",
+    "telegram": "https://t.me/Raze_Net",
+    "blog": "https://raze-net.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Raze-Net"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

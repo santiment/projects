@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "sharpe-platform-token",
+    "name": "Sharpe Platform Token",
+    "ticker": "SHP",
+    "website": "https://sharpe.capital/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sharpecapital",
+    "telegram": "https://t.me/sharpecapital",
+    "slack": "https://sharpe.capital/slack",
+    "reddit": "https://www.reddit.com/r/SharpeCapital/",
+    "blog": "https://medium.com/sharpecapital"
+  },
+  "development": {
+    "github_organizations": [
+      "sharpe-capital"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xef2463099360a085f1f10b076ed72ef625497a06",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

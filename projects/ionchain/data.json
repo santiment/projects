@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ionchain",
+    "name": "IONChain",
+    "ticker": "IONC",
+    "description": "A platform to design and automate transactions between smart devices. Every IoT device that provides valuable data can act as a mining machine.",
+    "website": "http://ionchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IONChain",
+    "telegram": "https://t.me/ionchain",
+    "reddit": "https://www.reddit.com/user/ionchain/",
+    "blog": "https://medium.com/@ionchain"
+  },
+  "development": {
+    "github_organizations": [
+      "ionchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbc647aad10114b89564c0a7aabe542bd0cf2c5af",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "pluton",
+    "name": "Pluton",
+    "ticker": "PLU",
+    "description": "Seamlessly convert and then spend your digital currencies via our mobile app or Plutus Debit Card and earn a reward on the blockchain",
+    "website": "https://plutus.it/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/plutus",
+    "telegram": "https://t.me/plutus_group"
+  },
+  "development": {
+    "github_organizations": [
+      "plutusit"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

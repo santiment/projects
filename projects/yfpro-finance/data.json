@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "yfpro-finance",
+    "name": "YFPRO Finance",
+    "ticker": "YFPRO",
+    "description": "An aggregator that distributes YFPRO token as reward",
+    "website": "https://yfpro.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yield_farm",
+    "telegram": "https://t.me/yield_farm",
+    "blog": "https://medium.com/@yield_farm/yield-farm-protocol-aggregator-5b36b0aa2ef3"
+  },
+  "development": {
+    "github_organizations": [
+      "yfprofinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0fdc5313333533cc0c00c22792bff7383d3055f2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

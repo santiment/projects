@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "zoracles",
+    "name": "Zoracles",
+    "ticker": "ZORA",
+    "description": "Zero knowledge oracles",
+    "website": "https://zoracles.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/z0racles",
+    "telegram": "https://t.me/zoracles",
+    "discord": "https://discord.com/invite/DSYQYAqEUX",
+    "slack": "https://discord.com/invite/DSYQYAqEUX",
+    "reddit": "https://www.reddit.com/r/Zoracles/",
+    "blog": "https://zoracles.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "zoracles"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

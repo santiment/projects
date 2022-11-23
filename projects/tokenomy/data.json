@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "tokenomy",
+    "name": "Tokenomy",
+    "ticker": "TEN",
+    "description": "Blockchain projects incubator and token exchange",
+    "website": "https://www.tokenomy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokenomy",
+    "telegram": "https://t.me/tokenomyinfo",
+    "reddit": "https://www.reddit.com/user/tokenomy/",
+    "blog": "https://medium.com/@tokenomy"
+  },
+  "development": {
+    "github_organizations": [
+      "tokenomy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

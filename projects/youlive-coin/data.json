@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "youlive-coin",
+    "name": "YouLive Coin",
+    "ticker": "UC",
+    "description": "The First Cryptocurrency Liveshow-App",
+    "website": "http://www.youlive.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialYouLive",
+    "telegram": "https://t.me/OfficialYouLive"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF84df2db2C87dd650641f8904aF71EbFC3ddE0Ea",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

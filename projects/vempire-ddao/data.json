@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "vempire-ddao",
+    "name": "vEmpire DDAO",
+    "ticker": "VEMP",
+    "description": "DeFi-esque staking strategies of Metaverse Tokens",
+    "website": "https://v-empire.digital/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vEmpiredigital",
+    "telegram": "https://t.me/vEmpirediscussion",
+    "reddit": "https://www.reddit.com/r/vEmpireDDAO/",
+    "blog": "https://medium.com/@v-empire.digital"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcfeb09c3c5f0f78ad72166d55f9e6e9a60e96eec",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

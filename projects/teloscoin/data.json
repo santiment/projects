@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "teloscoin",
+    "name": "Teloscoin",
+    "ticker": "TELOS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

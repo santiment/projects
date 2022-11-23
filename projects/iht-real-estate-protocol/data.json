@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "iht-real-estate-protocol",
+    "name": "IHT Real Estate Protocol",
+    "ticker": "IHT",
+    "description": "Global Real Estate Blockchain Cloud Platform",
+    "website": "https://ihtcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ihtcoin",
+    "telegram": "https://t.me/IHTcoin",
+    "blog": "https://medium.com/ihtoffical"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeda8b016efa8b1161208cf041cd86972eee0f31e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

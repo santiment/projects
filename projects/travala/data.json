@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "travala",
+    "name": "Travala",
+    "ticker": "AVA",
+    "description": "Travel Booking Marketplace",
+    "website": "http://token.concierge.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/travalacom",
+    "telegram": "https://t.me/travala",
+    "reddit": "https://www.reddit.com/r/Travala/",
+    "blog": "https://medium.com/@travala"
+  },
+  "development": {
+    "github_organizations": [
+      "travala"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

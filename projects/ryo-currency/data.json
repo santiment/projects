@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "ryo-currency",
+    "name": "Ryo Currency",
+    "ticker": "RYO",
+    "description": "Confidently Transact with the Highest Degree of Anonymity",
+    "website": "https://ryo-currency.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RyocurrencyO",
+    "telegram": "https://t.me/ryocurrency",
+    "discord": "https://discord.gg/GFQmFtx",
+    "slack": "https://discord.gg/GFQmFtx",
+    "reddit": "https://www.reddit.com/r/ryocurrency/",
+    "blog": "https://medium.com/@ryo.currency"
+  },
+  "development": {
+    "github_organizations": [
+      "ryo-currency"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

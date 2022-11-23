@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "burger-swap",
+    "name": "Burger Swap",
+    "ticker": "BURGER",
+    "description": "AMM on Binance Smart Chain",
+    "website": "https://burgerswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/burger_swap",
+    "telegram": "https://telegram.me/burgerswap"
+  },
+  "development": {
+    "github_organizations": [
+      "burgerswap-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

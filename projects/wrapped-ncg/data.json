@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "wrapped-ncg",
+    "name": "Wrapped NCG (Nine Chronicles Gold)",
+    "ticker": "WNCG",
+    "description": "Decentralized RPG Network",
+    "website": "https://nine-chronicles.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NineChronicles",
+    "discord": "https://discord.com/invite/planetarium",
+    "blog": "https://ninechronicles.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "planetarium"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

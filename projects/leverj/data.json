@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "leverj",
+    "name": "Leverj",
+    "ticker": "LEV",
+    "description": "Decentralized leveraged exchange",
+    "website": "https://leverj.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Leverj_io",
+    "telegram": "https://t.me/joinchat/C-gLzkMqKr1zmoeS-ZQePg",
+    "reddit": "https://www.reddit.com/r/Leverj/",
+    "blog": "https://blog.leverj.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "coinpit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f4ca92660efad97a9a70cb0fe969c755439772c",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

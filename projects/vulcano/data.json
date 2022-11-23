@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "vulcano",
+    "name": "Vulcano",
+    "ticker": "VULC",
+    "description": "A cryptocurrency with a focus on geothermal research and development",
+    "website": "https://vulcano.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VulcanoCoin",
+    "telegram": "https://t.me/vulcanocoin",
+    "discord": "http://discord.me/vulcanocrypto",
+    "slack": "http://discord.me/vulcanocrypto",
+    "reddit": "https://www.reddit.com/r/Vulcano/"
+  },
+  "development": {
+    "github_organizations": [
+      "vulcanocrypto"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

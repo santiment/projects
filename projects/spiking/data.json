@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "spiking",
+    "name": "Spiking",
+    "ticker": "SPIKE",
+    "description": "Decentralized Universal Trading Protocol",
+    "website": "https://spiking.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StockSpiking",
+    "telegram": "https://t.me/SpikingOfficial",
+    "reddit": "https://www.reddit.com/r/stockspiking/",
+    "blog": "https://blog.spiking.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "spiking-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa7fc5d2453e3f68af0cc1b78bcfee94a1b293650",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

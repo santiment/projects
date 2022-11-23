@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "spell-token",
+    "name": "Spell Token",
+    "ticker": "SPELL",
+    "description": "Lending platform",
+    "website": "https://abracadabra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MIM_Spell",
+    "discord": "https://discord.com/invite/mim",
+    "blog": "https://abracadabramoney.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Abracadabra-money"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

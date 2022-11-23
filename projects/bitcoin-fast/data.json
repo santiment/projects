@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bitcoin-fast",
+    "name": "Bitcoin Fast",
+    "ticker": "BTCF",
+    "description": "A protocol for global payments",
+    "website": "https://bitcfast.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BTCFcoin",
+    "telegram": "https://t.me/btcfastcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x225927f8fa71d16ee07968b8746364d1d9f839bd",
+        "decimals": 8
+      }
+    ]
+  }
+}

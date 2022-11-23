@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "kleros",
+    "name": "Kleros",
+    "ticker": "PNK",
+    "description": "The Blockchain Dispute Resolution Layer",
+    "website": "https://kleros.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kleros_io",
+    "telegram": "https://t.me/kleros",
+    "slack": "https://slack.kleros.io/",
+    "reddit": "https://www.reddit.com/r/Kleros/",
+    "blog": "https://medium.com/kleros"
+  },
+  "development": {
+    "github_organizations": [
+      "kleros"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

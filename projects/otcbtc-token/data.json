@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "otcbtc-token",
+    "name": "OTCBTC Token",
+    "ticker": "OTB",
+    "description": "OTC and crypto exchange platform",
+    "website": "https://otcbtc.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/otcbtc",
+    "telegram": "https://t.me/otcbtc_en",
+    "reddit": "https://www.reddit.com/r/otcbtc/",
+    "blog": "https://medium.com/otcbtc"
+  },
+  "development": {
+    "github_organizations": [
+      "otcbtc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa86a0da9d05d0771955df05b44ca120661af16de",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

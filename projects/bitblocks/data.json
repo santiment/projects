@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitblocks",
+    "name": "Bitblocks",
+    "ticker": "BBK",
+    "description": "A Rewarding Proof-of-Stake Currency",
+    "website": "https://bitblocksproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitBlocks_",
+    "telegram": "https://t.me/joinchat/H7jgKwz107hDDMtONzz8ig",
+    "discord": "https://discord.gg/ff6Z2T6",
+    "slack": "https://discord.gg/ff6Z2T6"
+  },
+  "development": {
+    "github_organizations": [
+      "bitblocksproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

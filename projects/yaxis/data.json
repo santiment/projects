@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yaxis",
+    "name": "yAxis",
+    "ticker": "YAXIS",
+    "description": "An experiment in DAO-directed yield farming",
+    "website": "https://yaxis.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yaxis_project",
+    "discord": "https://discord.gg/cuK2QzE",
+    "slack": "https://discord.gg/cuK2QzE"
+  },
+  "development": {
+    "github_organizations": [
+      "yaxis-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb1dc9124c395c1e97773ab855d66e879f053a289",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

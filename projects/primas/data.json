@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "primas",
+    "name": "Primas",
+    "ticker": "PST",
+    "description": "A platform for premium quality content based on DTCP",
+    "website": "https://primas.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PrimasOfficial",
+    "slack": "https://primasio.slack.com/",
+    "reddit": "https://www.reddit.com/r/Primas/",
+    "blog": "https://medium.com/@Primas_Official"
+  },
+  "development": {
+    "github_organizations": [
+      "primasio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

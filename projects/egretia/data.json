@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "egretia",
+    "name": "Egretia",
+    "ticker": "EGT",
+    "description": "The World's First HTML5 Blockchain Engine and Platform",
+    "website": "http://egretia.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Egretia_io",
+    "telegram": "https://t.me/Egretia",
+    "reddit": "https://www.reddit.com/user/Egretia/",
+    "blog": "https://medium.com/egretia"
+  },
+  "development": {
+    "github_organizations": [
+      "egretia"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

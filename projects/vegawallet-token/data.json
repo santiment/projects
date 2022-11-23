@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "vegawallet-token",
+    "name": "VegaWallet Token",
+    "ticker": "VGW",
+    "description": "Providing Real World Applications For Blockchain Based Payment Systems",
+    "website": "https://vegawallet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VegaWallet",
+    "telegram": "https://t.me/VegaWalletSupport",
+    "reddit": "https://www.reddit.com/r/VegaWallet/"
+  },
+  "development": {
+    "github_organizations": [
+      "vegawallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x94236591125e935f5ac128bb3d5062944c24958c",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}

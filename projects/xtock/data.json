@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "xtock",
+    "name": "Xtock",
+    "ticker": "XTX",
+    "description": "OTC Market Finance Network Platform",
+    "website": "https://xtock.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xtock_io",
+    "telegram": "https://t.me/xtock_en",
+    "blog": "https://medium.com/xtock"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1822126feedb4c7d61eecdbe3682fe61e91383d6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "catex-token",
+    "name": "Catex Token",
+    "ticker": "CATT",
+    "description": "Native asset of the Catex exchange",
+    "website": "https://www.catex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/catexofficial",
+    "telegram": "https://t.me/catex_group",
+    "discord": "https://discord.gg/sVEXYWk",
+    "slack": "https://discord.gg/sVEXYWk",
+    "reddit": "https://www.reddit.com/r/Catex/"
+  },
+  "development": {
+    "github_organizations": [
+      "catex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6e605c269e0c92e70beeb85486f1fc550f9380bd",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

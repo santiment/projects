@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "switcheo",
+    "name": "Switcheo",
+    "ticker": "SWTH",
+    "description": "A Decentralized Exchange (DEX) built on the NEO platform",
+    "website": "https://switcheo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/switcheonetwork",
+    "telegram": "https://t.me/switcheo",
+    "reddit": "https://www.reddit.com/r/Switcheo/",
+    "blog": "https://medium.com/@switcheo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

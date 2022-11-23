@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gmcoin",
+    "name": "GMCoin",
+    "ticker": "GMCOIN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

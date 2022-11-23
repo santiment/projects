@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ankr",
+    "name": "Ankr",
+    "ticker": "ANKR",
+    "description": "Distributed Cloud Computing on Trusted Hardware",
+    "website": "https://ankr.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AnkrNetwork",
+    "telegram": "https://t.me/ankrnetwork",
+    "blog": "https://medium.com/ankr-network"
+  },
+  "development": {
+    "github_organizations": [
+      "ankr-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "zeronet",
+    "name": "ZeroNet",
+    "ticker": "ZNT",
+    "description": "Open, free and uncensorable websites",
+    "website": "https://zeronet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HelloZeroNet",
+    "reddit": "http://www.reddit.com/r/zeronet/"
+  },
+  "development": {
+    "github_organizations": [
+      "hellozeronet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

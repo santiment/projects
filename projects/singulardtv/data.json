@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "singulardtv",
+    "name": "SingularDTV",
+    "ticker": "SNGLS",
+    "description": "Decentralized Netflix",
+    "website": "https://www.breaker.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WeAreBreaker",
+    "telegram": "http://t.me/Singulardtv",
+    "discord": "https://discord.gg/xQNf6f9",
+    "slack": "https://discordapp.com/invite/xQNf6f9",
+    "reddit": "https://www.reddit.com/r/WeAreBreaker",
+    "blog": "https://medium.com/@breakerworldwide"
+  },
+  "development": {
+    "github_organizations": [
+      "singulardtv"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

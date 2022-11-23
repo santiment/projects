@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "commerceblock",
+    "name": "CommerceBlock",
+    "ticker": "CBT",
+    "description": "Financial infrastructure on public blockchains",
+    "website": "https://www.commerceblock.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/commerceblock",
+    "telegram": "https://t.me/joinchat/Ge36IURXhKAS_6HTznUXUg",
+    "reddit": "https://reddit.com/r/commerceblock",
+    "blog": "https://blog.commerceblock.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "commerceblock"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x076c97e1c869072ee22f8c91978c99b4bcb02591",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

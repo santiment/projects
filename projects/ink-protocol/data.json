@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ink-protocol",
+    "name": "Ink Protocol",
+    "ticker": "XNK",
+    "description": "Peer-to-peer transactions on any platform",
+    "website": "https://paywithink.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PayWithInk",
+    "telegram": "https://t.me/paywithink",
+    "reddit": "https://www.reddit.com/r/PayWithInk/",
+    "blog": "https://medium.com/ink-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "inkprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbc86727e770de68b1060c91f6bb6945c73e10388",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

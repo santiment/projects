@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "pchain",
+    "name": "PCHAIN",
+    "ticker": "PI",
+    "description": "The first native multi-chain system that supports EVM",
+    "website": "https://pchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pchain_org",
+    "telegram": "https://t.me/pchain_org",
+    "blog": "https://medium.com/@dianajia"
+  },
+  "development": {
+    "github_organizations": [
+      "pchain-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb9bb08ab7e9fa0a1356bd4a39ec0ca267e03b0b3",
+        "decimals": 18
+      }
+    ]
+  }
+}

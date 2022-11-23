@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "project-coin",
+    "name": "Project Coin",
+    "ticker": "PRJ",
+    "description": "Support launching new currencies",
+    "website": "https://projectcoin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/projectcoin1",
+    "discord": "https://discord.gg/sjWwU5U",
+    "slack": "https://discord.gg/sjWwU5U"
+  },
+  "development": {
+    "github_organizations": [
+      "projectcoincore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "steem-dollars",
+    "name": "Steem Dollars",
+    "ticker": "SBD",
+    "description": "Liquid stable-value currency tokens designed to be pegged to $1 USD",
+    "website": "https://steem.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/steemit",
+    "reddit": "https://www.reddit.com/r/steemit/",
+    "blog": "https://steemit.com/@steemitblog"
+  },
+  "development": {
+    "github_organizations": [
+      "steemit"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

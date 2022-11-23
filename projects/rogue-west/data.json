@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rogue-west",
+    "name": "Rogue West",
+    "ticker": "ROGUE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

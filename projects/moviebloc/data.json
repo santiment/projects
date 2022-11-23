@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "moviebloc",
+    "name": "Moviebloc",
+    "ticker": "MBL",
+    "description": "Movies and content distribution platform",
+    "website": "http://moviebloc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/moviebloc",
+    "telegram": "https://t.me/moviebloc"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

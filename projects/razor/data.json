@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "razor",
+    "name": "Razor Network",
+    "ticker": "RZR",
+    "description": "Oracle network for DeFi",
+    "website": "https://razor.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/razor_network",
+    "telegram": "https://t.me/razornetwork",
+    "blog": "https://medium.com/razor-network"
+  },
+  "development": {
+    "github_organizations": [
+      "razor-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

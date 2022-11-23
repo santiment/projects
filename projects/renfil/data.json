@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "renfil",
+    "name": "Ren: renFIL Token",
+    "ticker": "RENFIL",
+    "description": "FIL token represented on RenVM",
+    "website": "https://renproject.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd5147bc8e386d91cc5dbe72099dac6c9b99276f5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

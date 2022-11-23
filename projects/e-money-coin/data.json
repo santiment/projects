@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "e-money-coin",
+    "name": "e-Money",
+    "ticker": "NGM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnb-green-satoshi-token",
+    "name": "Green Satoshi Token [on BNB Chain]",
+    "ticker": "GST",
+    "description": "Game token of STEPN",
+    "website": "https://stepn.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Stepnofficial",
+    "telegram": "https://t.me/stepnofficial",
+    "discord": "https://discord.com/invite/stepn",
+    "reddit": "https://reddit.com/r/StepN/",
+    "blog": "https://stepnofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 8
+      }
+    ]
+  }
+}

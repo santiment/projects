@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "neoworld-cash",
+    "name": "NeoWorld Cash",
+    "ticker": "NASH",
+    "description": "A multiplayer online virtual world",
+    "website": "https://neoworld.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NeoWorld_Tech",
+    "telegram": "https://t.me/Neoworldio",
+    "discord": "https://discord.gg/szF9aZU",
+    "slack": "https://discord.gg/szF9aZU",
+    "blog": "https://medium.com/@neoworldtech.io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

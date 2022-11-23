@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "zenswap-network-token",
+    "name": "Zenswap Network Token",
+    "ticker": "ZNT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

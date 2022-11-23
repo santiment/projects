@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "republicnote",
+    "name": "Republic Note",
+    "ticker": "RPN",
+    "description": "A profit sharing token",
+    "website": "https://republic.co/note"
+  },
+  "social": {
+    "twitter": "https://twitter.com/joinrepublic",
+    "telegram": "https://t.me/joinrepublic"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

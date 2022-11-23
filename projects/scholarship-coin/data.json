@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "scholarship-coin",
+    "name": "Scholarship Coin",
+    "ticker": "SCHO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

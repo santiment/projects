@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "rio-defi",
+    "name": "Rio DeFi",
+    "ticker": "RFUEL",
+    "website": "https://riochain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/riodefiofficial",
+    "telegram": "https://t.me/Riodefiofficial",
+    "blog": "https://medium.com/@riodefiofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "riodefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "sapphire",
+    "name": "Sapphire",
+    "ticker": "SAPP",
+    "description": "The pragmatic coin for rewards and payments",
+    "website": "https://sappcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Sapphire_Core",
+    "telegram": "https://t.me/sapphirecore"
+  },
+  "development": {
+    "github_organizations": [
+      "sappcoin-com"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

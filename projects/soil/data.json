@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "soil",
+    "name": "Synth sOIL",
+    "ticker": "sOIL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6d16cf3ec5f763d4d99cb0b0b110eefd93b11b56",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

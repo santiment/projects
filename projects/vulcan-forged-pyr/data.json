@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "vulcan-forged-pyr",
+    "name": "Vulcan Forged PYR",
+    "ticker": "PYR",
+    "description": "Game studio, cross-chain NFT marketplace",
+    "website": "https://vulcanforged.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VulcanForged",
+    "telegram": "https://t.me/VeriArti",
+    "discord": "https://discord.gg/ZyjTvFM",
+    "reddit": "https://reddit.com/r/vulcanforged"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "vulcan_forged_pyr_contract",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "translateme-network-token",
+    "name": "TranslateMe Network Token",
+    "ticker": "TMN",
+    "description": "Rewards users for correcting language output",
+    "website": "https://translateme.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/translatemenet",
+    "telegram": "https://t.me/joinchat/IH2fQBE5n5baIK2glyAAXQ",
+    "reddit": "https://www.reddit.com/r/TranslateMe/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

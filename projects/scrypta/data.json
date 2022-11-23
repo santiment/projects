@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "scrypta",
+    "name": "Scrypta",
+    "ticker": "LYRA",
+    "description": "A Peer-to-Peer infrastructure designed for new business model",
+    "website": "https://scryptachain.org/en/homepage"
+  },
+  "social": {
+    "twitter": "https://twitter.com/scryptachain",
+    "telegram": "https://t.me/scryptachain_official",
+    "discord": "https://discord.gg/8mfDRVK",
+    "slack": "https://discord.gg/8mfDRVK",
+    "blog": "https://medium.com/@scryptachain"
+  },
+  "development": {
+    "github_organizations": [
+      "scryptachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "rsk-smart-bitcoin",
+    "name": "Delete",
+    "ticker": "RBTC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

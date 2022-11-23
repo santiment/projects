@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "v-dimension",
+    "name": "V-Dimension",
+    "ticker": "VOLLAR",
+    "description": "Noncentralized Consensus Society Full Ecology Future Currency Network",
+    "website": "http://vollarinfo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VDS_20190214",
+    "telegram": "https://t.me/V_Dimension"
+  },
+  "development": {
+    "github_organizations": [
+      "v-dimension"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

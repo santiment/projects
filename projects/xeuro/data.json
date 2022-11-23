@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "xeuro",
+    "name": "xEURO",
+    "ticker": "xEUR",
+    "description": "Euro stablecoin",
+    "website": "https://xeuro.online/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xEuroOnline",
+    "telegram": "https://t.me/xeuro"
+  },
+  "development": {
+    "github_organizations": [
+      "xeuro"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe577e0B200d00eBdecbFc1cd3F7E8E04C70476BE",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

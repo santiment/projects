@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bobs-repair",
+    "name": "Bob’s Repair",
+    "ticker": "BOB",
+    "description": "Using Blockchain to eliminate review fraud and provide lower pricing in the home repair industry",
+    "website": "https://bobsrepair.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bobsrepair",
+    "telegram": "tg://resolve?domain=Bobtoken",
+    "reddit": "https://www.reddit.com/user/bobsrepair/",
+    "blog": "https://medium.com/@bobsrepair"
+  },
+  "development": {
+    "github_organizations": [
+      "bobsrepair"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf347911910b6c9a4286ba8e2ee5ea4a39eb2134",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

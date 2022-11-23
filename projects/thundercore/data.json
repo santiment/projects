@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "thundercore",
+    "name": "ThunderCore",
+    "ticker": "TT",
+    "description": "No. 1 Blockchain for Game Dapp Developers and Metaverse explorers",
+    "website": "https://www.thundercore.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ThunderProtocol",
+    "telegram": "https://t.me/thunder_official",
+    "discord": "https://discordapp.com/invite/5EbxXfw",
+    "reddit": "https://reddit.com/r/thundertoken",
+    "blog": "https://medium.com/thunderofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "thundercore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

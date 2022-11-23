@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "okcash",
+    "name": "Okcash",
+    "ticker": "OK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

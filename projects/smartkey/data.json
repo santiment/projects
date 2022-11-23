@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "smartkey",
+    "name": "SmartKey",
+    "ticker": "SKEY",
+    "description": "A platform that connects the physical world with the blockchain",
+    "website": "https://smartkeyplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SmartKeyDeFi",
+    "telegram": "https://t.me/SmartKeyNews",
+    "discord": "https://discord.gg/vgXf3tm",
+    "slack": "https://discord.gg/vgXf3tm"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

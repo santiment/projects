@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nucleus-vision",
+    "name": "Nucleus Vision",
+    "ticker": "NCASH",
+    "description": "Contactless identification system",
+    "website": "https://nucleus.vision/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NucleusVision",
+    "telegram": "https://t.me/NucleusVision",
+    "reddit": "https://www.reddit.com/r/NucleusVision/",
+    "blog": "https://medium.com/@NucleusVision"
+  },
+  "development": {
+    "github_organizations": [
+      "nucleusvision"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x809826cceab68c387726af962713b64cb5cb3cca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

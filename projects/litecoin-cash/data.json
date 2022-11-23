@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "litecoin-cash",
+    "name": "Litecoin Cash",
+    "ticker": "LCC",
+    "description": "The SHA256 Litecoin fork",
+    "website": "https://litecoinca.sh/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "litecoincash-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

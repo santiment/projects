@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "rivetz",
+    "name": "Rivetz",
+    "ticker": "RVT",
+    "description": "Decentralized, secure device identity for mobile, IoT &amp;amp; PCs",
+    "website": "https://rivetz.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/rivetzcorp",
+    "telegram": "https://t.me/rivet_group",
+    "discord": "https://discord.gg/VNrDBUV",
+    "slack": "https://discord.gg/VNrDBUV",
+    "reddit": "https://www.reddit.com/r/Rivetz/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "shiba-inu",
+    "name": "SHIBA INU",
+    "ticker": "SHIB",
+    "description": "Half tokens sent to Vitalik, another half locked in LP, keys burned",
+    "website": "https://shibatoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shibtoken",
+    "telegram": "https://t.me/shibainuthedogecoinkiller",
+    "reddit": "https://reddit.com/r/SHIBArmy",
+    "blog": "https://medium.com/@allhailtheshiba/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

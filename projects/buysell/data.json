@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "buysell",
+    "name": "BuySell",
+    "ticker": "BULL",
+    "description": "Helps wild animals",
+    "website": "http://buysellcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/buysell_coin",
+    "telegram": "https://t.me/BuySellBULLchat",
+    "discord": "https://discord.gg/dvPPChW"
+  },
+  "development": {
+    "github_organizations": [
+      "buysellcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

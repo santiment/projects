@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "0xtracker",
+    "name": "0x Tracker",
+    "ticker": "ZRT",
+    "description": "A trade explorer for 0x protocol",
+    "website": "https://0xtracker.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xTracker",
+    "discord": "https://discord.gg/tnV8hud",
+    "slack": "https://discord.gg/tnV8hud"
+  },
+  "development": {
+    "github_organizations": [
+      "0xtracker"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

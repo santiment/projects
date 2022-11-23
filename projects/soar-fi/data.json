@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "soar-fi",
+    "name": "SOAR.FI",
+    "ticker": "SOAR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "metahash",
+    "name": "MetaHash",
+    "ticker": "MHC",
+    "description": "Aims to significantly increase the number of transactions per day, transition from proof-of-work (mining) to multi proof-of-stake (forging) and protect the network from attacks that might interfere with the network",
+    "website": "https://metahash.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/themetahash",
+    "telegram": "https://t.me/metahash_ENG",
+    "reddit": "https://www.reddit.com/user/MetaHash/",
+    "blog": "https://medium.com/@themetahash"
+  },
+  "development": {
+    "github_organizations": [
+      "metahashorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

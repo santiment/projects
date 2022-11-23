@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ibnb",
+    "name": "Synth iBNB",
+    "ticker": "iBNB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xafd870f32ce54efdbf677466b612bf8ad164454b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

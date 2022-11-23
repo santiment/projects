@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blank-wallet",
+    "name": "Blank Wallet",
+    "ticker": "BLANK",
+    "description": "The most private, non-custodial Ethereum browser wallet",
+    "website": "https://www.goblank.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlankWallet",
+    "telegram": "https://t.me/blankwallet",
+    "blog": "https://blankwallet.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Blank-Wallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaec7e1f531bb09115103c53ba76829910ec48966",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

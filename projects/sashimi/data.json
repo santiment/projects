@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "sashimi",
+    "name": "Sashimi",
+    "ticker": "SASHIMI",
+    "description": "SashimiSwap is a Uniswap-inspired investment platform dedicated to ‘multiplying’ the passive income of the liquidity providers",
+    "website": "https://sashimi.cool/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/KABj-Bz6CVzyi23HK2rjzA",
+    "discord": "https://discord.gg/zTdmUkb",
+    "slack": "https://discord.gg/zTdmUkb"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC28E27870558cF22ADD83540d2126da2e4b464c2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

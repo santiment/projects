@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "fnkos",
+    "name": "FNKOS",
+    "ticker": "FNKOS",
+    "description": "A fog computing-based blockchain operating system",
+    "website": "https://www.foglink.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FNKOSofficial",
+    "telegram": "https://t.me/fnkofficial",
+    "blog": "https://www.weibo.com/FNKOSofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "foglink"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeb021dd3e42dc6fdb6cde54d0c4a09f82a6bca29",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

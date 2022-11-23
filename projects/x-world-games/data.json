@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "x-world-games",
+    "name": "X World Games",
+    "ticker": "XWG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

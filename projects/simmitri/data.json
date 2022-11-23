@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "simmitri",
+    "name": "Simmitri",
+    "ticker": "SIM",
+    "description": "Smart Grid solutions to help save and produce clean energy",
+    "website": "http://token.simmitri.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/simmitritoken",
+    "telegram": "https://t.me/joinchat/C7VAlg9dSwYlWsv3HKkiCw"
+  },
+  "development": {
+    "github_organizations": [
+      "simmitri"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7528e3040376edd5db8263db2f5bd1bed91467fb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

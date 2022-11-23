@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "zvchain",
+    "name": "ZVCHAIN",
+    "ticker": "ZVC",
+    "description": "Secured, scalable and regulatory-compliant financial blockchain",
+    "website": "https://www.zvchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zv_chain",
+    "telegram": "https://t.me/ZVChain_Official",
+    "reddit": "https://www.reddit.com/r/ZVChain_ZVC/",
+    "blog": "https://www.medium.com/zvchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

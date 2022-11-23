@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "safemoon-inu",
+    "name": "SafeMoon Inu",
+    "ticker": "SMI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

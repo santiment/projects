@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bigone-token",
+    "name": "BigONE Token",
+    "ticker": "ONE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

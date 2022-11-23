@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "futurax",
+    "name": "FUTURAX",
+    "ticker": "FTXT",
+    "description": "A cryptocurrency exchange platform",
+    "website": "https://www.futurax.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FuturaxProject",
+    "telegram": "https://t.me/futurax_info",
+    "reddit": "http://reddit.com/",
+    "blog": "http://medium.com/@FuturaxProject"
+  },
+  "development": {
+    "github_organizations": [
+      "futuraxproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x41875c2332b0877cdfaa699b641402b7d4642c32",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

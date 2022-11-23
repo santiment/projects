@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "mobilego",
+    "name": "MobileGo",
+    "ticker": "MGO",
+    "description": "Mobile gaming platform",
+    "website": "https://mobilego.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MobileGoToken",
+    "telegram": "https://t.me/mobilego",
+    "slack": "https://gamecredits.com/slack.html",
+    "reddit": "https://www.reddit.com/r/MobileGo/",
+    "blog": "https://mobilego.io/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "audius",
+    "name": "Audius",
+    "ticker": "AUDIO",
+    "description": "Streaming platform",
+    "website": "https://audius.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AudiusProject",
+    "discord": "https://discord.gg/ah5CcqW",
+    "slack": "https://discord.gg/ah5CcqW",
+    "reddit": "https://www.reddit.com/r/audius/",
+    "blog": "https://medium.com/audius"
+  },
+  "development": {
+    "github_organizations": [
+      "AudiusProject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

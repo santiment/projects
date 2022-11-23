@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "pigeoncoin",
+    "name": "Pigeoncoin",
+    "ticker": "PGN",
+    "description": "A mineable cryptocurrency to build a social network",
+    "website": "https://pigeoncoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Pigeoncoin",
+    "telegram": "https://t.me/Pigeoncoin",
+    "discord": "https://discord.gg/SZcf63h",
+    "slack": "https://discord.gg/SZcf63h",
+    "reddit": "https://www.reddit.com/r/Pigeoncoin/",
+    "blog": "https://medium.com/@pigeoncoin"
+  },
+  "development": {
+    "github_organizations": [
+      "pigeoncoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

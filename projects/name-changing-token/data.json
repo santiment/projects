@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "name-changing-token",
+    "name": "Name Changing Token",
+    "ticker": "NCT",
+    "description": "Digital art collectibles",
+    "website": "https://www.thehashmasks.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheHashmasks",
+    "slack": "https://discord.com/invite/crJmxxzGuZ",
+    "blog": "https://thehashmasks.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

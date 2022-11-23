@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "vethor-token",
+    "name": "VeThor Token",
+    "ticker": "VTHO",
+    "description": "A global enterprise level public blockchain platform",
+    "website": "https://www.vechain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vechainofficial",
+    "telegram": "https://t.me/vechain_official_english",
+    "discord": "https://discord.gg/HHvXvUX",
+    "slack": "https://discord.gg/HHvXvUX",
+    "reddit": "https://www.reddit.com/r/Vechain/",
+    "blog": "https://medium.com/@vechainofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "vechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

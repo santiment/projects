@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "innovative-bioresearch-classic",
+    "name": "InnovativeBioresearchClassic",
+    "ticker": "INNBCL",
+    "description": "INNBCL is a Token issued by Innovative Bioresearch Ltd, a biotech company developing novel AIDS cure research and decentralized solutions for processing clinical data",
+    "website": "https://www.innovativebioresearch.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InnBioresearch",
+    "telegram": "https://t.me/innovativebioresearch",
+    "blog": "https://www.innovativebioresearch.com/blog"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8cc3e2bdc17682c622eb789eda23fbd6988c84da",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

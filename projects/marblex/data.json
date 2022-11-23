@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "marblex",
+    "name": "MARBLEX",
+    "ticker": "MBX",
+    "description": "Blockchain with AAA Quality Games",
+    "website": "https://marblex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MARBLEXofficial",
+    "telegram": "https://t.me/MARBLEX_official_ENG"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

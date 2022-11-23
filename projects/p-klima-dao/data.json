@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "p-klima-dao",
+    "name": "KlimaDAO",
+    "ticker": "KLIMA",
+    "description": "A carbon-backed digital currency and algorithmic climate protocol",
+    "website": "https://klimadao.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KlimaDAO",
+    "discord": "https://discord.gg/kx4pahaFw8",
+    "blog": "https://klimadao.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+        "blockchain": "polygon",
+        "decimals": 9
+      }
+    ]
+  }
+}

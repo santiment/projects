@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mantra",
+    "name": "Duplicate",
+    "ticker": "OM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

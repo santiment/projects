@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "onx-finance",
+    "name": "OnX Finance",
+    "ticker": "ONX",
+    "description": "The first DeFi platform for collateralized tokens",
+    "website": "https://onx.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OnXFinance",
+    "telegram": "https://t.me/OnXFi",
+    "blog": "https://onxfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "OnXFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

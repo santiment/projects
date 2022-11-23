@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "fortuna",
+    "name": "Fortuna",
+    "ticker": "FOTA",
+    "description": "The First Blockchain Platform for Global OTC Derivatives Market",
+    "website": "https://www.fota.top/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FortunaBlockch1",
+    "telegram": "https://t.me/joinchat/HLLR30itYzsgzml2cPkzCA",
+    "slack": "https://fortunablockchain.slack.com/",
+    "reddit": "https://www.reddit.com/r/FortunaBlockchain/",
+    "blog": "https://medium.com/@Fota"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4270bb238f6dd8b1c3ca01f96ca65b2647c06d3c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

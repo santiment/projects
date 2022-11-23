@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "videocoin",
+    "name": "VideoCoin",
+    "ticker": "VID",
+    "description": "Video Infrastructure",
+    "website": "https://www.videocoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VividLabsHQ",
+    "telegram": "https://t.me/videocoin",
+    "reddit": "https://www.reddit.com/r/VideoCoin/",
+    "blog": "https://medium.com/videocoin"
+  },
+  "development": {
+    "github_organizations": [
+      "videocoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c9023bbc572ff8dc1228c7858a280046ea8c9e5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

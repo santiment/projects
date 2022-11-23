@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "p-peri-finance",
+    "name": "PERI Finance",
+    "ticker": "PERI",
+    "description": "Synthetics issuance and derivatives market",
+    "website": "https://www.pynths.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PERIfinance",
+    "telegram": "https://t.me/peri_global",
+    "discord": "https://discord.com/invite/FF8U8A458j",
+    "reddit": "https://www.reddit.com/r/PERI_Finance/",
+    "blog": "https://medium.com/perifinance"
+  },
+  "development": {
+    "github_organizations": [
+      "perifinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdc0e17eae3b9651875030244b971fa0223a1764f",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

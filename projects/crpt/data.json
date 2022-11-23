@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "crpt",
+    "name": "Crypterium",
+    "ticker": "CRPT",
+    "website": "https://crypterium.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@crypterium",
+    "telegram": "https://t.me/crypterium",
+    "blog": "https://medium.com/@crypterium"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

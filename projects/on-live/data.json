@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "on-live",
+    "name": "On.Live",
+    "ticker": "ONL",
+    "description": "Content for money",
+    "website": "https://on.live/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/on_live",
+    "telegram": "https://t.me/OnLive",
+    "reddit": "http://www.reddit.com/r/onlivetv",
+    "blog": "https://medium.com/@On.Live"
+  },
+  "development": {
+    "github_organizations": [
+      "onliveplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6863be0e7cf7ce860a574760e9020d519a8bdc47",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

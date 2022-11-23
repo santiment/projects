@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wagyuswap",
+    "name": "WagyuSwap",
+    "ticker": "WAG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

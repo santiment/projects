@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "margix",
+    "name": "MargiX",
+    "ticker": "MGX",
+    "description": "Trading signals",
+    "website": "https://margix.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MargixMGX",
+    "telegram": "https://t.me/MargixGlobal"
+  },
+  "development": {
+    "github_organizations": [
+      "margix"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1412f6Aa5ADC77C620715BB2a020AA690B85F68A",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

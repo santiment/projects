@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zeuxcoin",
+    "name": "ZeuxCoin",
+    "ticker": "ZUC",
+    "description": "The simpler way to pay, bank and invest",
+    "website": "https://www.zeux.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zeuxapp",
+    "telegram": "https://t.me/zeuxapp",
+    "blog": "https://medium.com/zeux"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6b4689e4514957699edeb2ee91c947f18e439806",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

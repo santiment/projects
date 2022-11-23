@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "tokenpay",
+    "name": "TokenPay",
+    "ticker": "TPAY",
+    "description": "A decentralized and self-verifying payment platform project",
+    "website": "https://www.tokenpay.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokenpay",
+    "telegram": "https://t.me/joinchat/GgZih0NrYt2F11oXwQ11Cg",
+    "blog": "http://medium.com/tokenpay"
+  },
+  "development": {
+    "github_organizations": [
+      "tokenpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

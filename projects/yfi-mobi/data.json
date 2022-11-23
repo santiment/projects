@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "yfi-mobi",
+    "name": "Yfi.mobi",
+    "ticker": "YFIM",
+    "description": "YFI fork",
+    "website": "https://app.yfi.mobi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yfimobi"
+  },
+  "development": {
+    "github_organizations": [
+      "yfim2020"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2e2f3246b6c65ccc4239c9ee556ec143a7e5de2c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

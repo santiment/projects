@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nftx",
+    "name": "NFTX",
+    "ticker": "NFTX",
+    "description": "Magic NFT Machine",
+    "website": "https://nftx.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nftx_",
+    "discord": "https://discord.gg/5ygF8rxdYR",
+    "blog": "https://blog.nftx.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "NFTX-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

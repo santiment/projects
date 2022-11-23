@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "zkswap",
+    "name": "ZKSwap",
+    "ticker": "ZKS",
+    "description": "ZK-Rollups based layer-2 DEX",
+    "website": "https://zks.org/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZKSwapOfficial",
+    "telegram": "https://t.me/zkswapofficial",
+    "slack": "https://app.slack.com/client/T01B201DRHQ",
+    "blog": "https://zkswapofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "l2labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

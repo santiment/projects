@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "liquidity-network",
+    "name": "Liquidity Network",
+    "ticker": "LQD",
+    "description": "Blockchain based payment hub platform",
+    "website": "https://liquidity.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/liquiditynet",
+    "telegram": "http://t.me/liquiditynetwork",
+    "blog": "https://medium.com/@liquidity.network"
+  },
+  "development": {
+    "github_organizations": [
+      "liquidity-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

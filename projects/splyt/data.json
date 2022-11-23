@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "splyt",
+    "name": "Splyt",
+    "ticker": "SHOPX",
+    "description": "eNFT infrastructure for e-comm &amp;amp; finance markets",
+    "website": "https://spl.yt/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/splytcore",
+    "telegram": "https://t.me/splytcore",
+    "blog": "https://medium.com/splytcore"
+  },
+  "development": {
+    "github_organizations": [
+      "splytcore"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

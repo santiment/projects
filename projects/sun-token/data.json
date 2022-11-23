@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "sun-token",
+    "name": "Sun (New)",
+    "ticker": "SUN",
+    "description": "Stablecoin swap, stake-mining, and self-governance on TRON",
+    "website": "https://sun.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defi_sunio",
+    "telegram": "https://t.me/SunIO_Defi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

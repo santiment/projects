@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bitcicoin",
+    "name": "Bitcicoin",
+    "ticker": "BITCI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

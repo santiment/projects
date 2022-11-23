@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "waykichain-governance-coin",
+    "name": "WaykiChain Governance Coin",
+    "ticker": "WGRT",
+    "description": "WaykiChain decentralized lending platform governance token",
+    "website": "https://cdp.waykichain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wayki_chain",
+    "telegram": "https://t.me/wiccofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "WaykiChain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

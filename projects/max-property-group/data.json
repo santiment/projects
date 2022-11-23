@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "max-property-group",
+    "name": "Max Property Group",
+    "ticker": "MPG",
+    "description": "Real Estate investments. MPG token is used to pay for transactions which include listing property, creating an asset, buying/selling investments, and buying and renting out property",
+    "website": "https://maxcrowdfund.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maxpropertyG",
+    "telegram": "https://t.me/MaxPropGrp",
+    "blog": "https://medium.com/maxpropertygroup"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

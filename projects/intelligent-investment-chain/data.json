@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "intelligent-investment-chain",
+    "name": "Intelligent Investment Chain",
+    "ticker": "IIC",
+    "description": "Financial Investment Strategy Management Platform",
+    "website": "http://www.iicoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iichain",
+    "telegram": "https://t.me/iichain01",
+    "blog": "https://medium.com/@iichain"
+  },
+  "development": {
+    "github_organizations": [
+      "iichain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6f43025b29196af2dddd69b0a58afba079cd600",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

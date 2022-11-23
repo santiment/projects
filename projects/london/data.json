@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "london",
+    "name": "$LONDON",
+    "ticker": "LONDON"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

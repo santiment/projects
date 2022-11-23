@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dimecoin",
+    "name": "Dimecoin",
+    "ticker": "DIME",
+    "description": "A decentralized, secure, trusted, and borderless solution for transferring digital money extremely fast with nearly zero fees",
+    "website": "https://www.dimecoinnetwork.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dimecoin_",
+    "telegram": "https://t.me/Dimecoinofficialpublic",
+    "discord": "https://discord.gg/JqcKF4v",
+    "slack": "https://discord.gg/JqcKF4v",
+    "reddit": "https://www.reddit.com/r/dimecoin/",
+    "blog": "https://medium.com/@dimecoinnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "dime-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

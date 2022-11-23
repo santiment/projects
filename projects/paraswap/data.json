@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "paraswap",
+    "name": "ParaSwap",
+    "ticker": "PSP",
+    "description": "Decentralized Exchange",
+    "website": "https://paraswap.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/paraswap",
+    "telegram": "https://t.me/paraswap",
+    "discord": "https://discord.com/invite/cRGUUFsW89",
+    "blog": "https://medium.com/paraswap"
+  },
+  "development": {
+    "github_organizations": [
+      "paraswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

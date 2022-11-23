@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "obyte",
+    "name": "Obyte",
+    "ticker": "GBYTE",
+    "description": "DAG based cryptocurrency platform ready for real world adoption.",
+    "website": "https://byteball.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ObyteOrg",
+    "telegram": "https://t.me/obyteorg",
+    "slack": "https://slack.obyte.org/",
+    "reddit": "https://www.reddit.com/r/obyte/",
+    "blog": "https://medium.com/byteball"
+  },
+  "development": {
+    "github_organizations": [
+      "byteball"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

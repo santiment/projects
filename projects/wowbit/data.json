@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "wowbit",
+    "name": "Wowbit",
+    "ticker": "WWB",
+    "description": "Create value towards inspiring contents",
+    "website": "http://wowoonet.com/"
+  },
+  "social": {
+    "twitter": "http://twitter.com/share?text=Create%20Inspiring%20Value%20with%20Wowoo%21%21&amp;amp;url=http://wowoonet.com",
+    "telegram": "https://t.me/wowooofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

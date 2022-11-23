@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "synthetify",
+    "name": "Synthetify",
+    "ticker": "SNY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

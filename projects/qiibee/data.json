@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "qiibee",
+    "name": "qiibee",
+    "ticker": "QBX",
+    "description": "Loyalty Standard",
+    "website": "https://qiibee.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/qiibee",
+    "telegram": "https://t.me/qiibee",
+    "reddit": "https://www.reddit.com/r/qiibee",
+    "blog": "https://blog.qiibee.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "qiibee"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

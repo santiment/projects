@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "innovaminex",
+    "name": "InnovaMinex",
+    "ticker": "MINX",
+    "description": "Precious Metal Mines",
+    "website": "https://innovaminex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/innovaminex",
+    "telegram": "https://t.me/InnovaMinex",
+    "reddit": "https://www.reddit.com/r/InnovaMinex/",
+    "blog": "https://medium.com/@innovaminex"
+  },
+  "development": {
+    "github_organizations": [
+      "innovaminex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xae353daeed8dcc7a9a12027f7e070c0a50b7b6a4",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

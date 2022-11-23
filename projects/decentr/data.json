@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "decentr",
+    "name": "Decentr",
+    "ticker": "DEC",
+    "description": "Makes your data payable and tradeable",
+    "website": "https://decentr.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DecentrNet",
+    "telegram": "https://t.me/DecentrNet",
+    "blog": "https://medium.com/@DecentrNet"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

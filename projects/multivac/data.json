@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "multivac",
+    "name": "MultiVAC",
+    "ticker": "MTV",
+    "description": "A high-throughput and flexible blockchain",
+    "website": "https://www.mtv.ac/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MultiVAC_Global",
+    "telegram": "https://t.me/MTVCommunity",
+    "blog": "https://medium.com/@MultiVAC_Global"
+  },
+  "development": {
+    "github_organizations": [
+      "multivactech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

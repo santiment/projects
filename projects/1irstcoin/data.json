@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "1irstcoin",
+    "name": "1irstcoin",
+    "ticker": "FST",
+    "website": "https://1irstcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1irstcoin",
+    "telegram": "https://t.me/m1irstcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "1irstcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

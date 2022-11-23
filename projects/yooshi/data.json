@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "yooshi",
+    "name": "YooShi",
+    "ticker": "YOOSHI",
+    "description": "P2E Metaverse",
+    "website": "https://yooshi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/yooshi_official"
+  },
+  "development": {
+    "github_organizations": [
+      "Yooshi-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

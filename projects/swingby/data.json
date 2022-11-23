@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "swingby",
+    "name": "Swingby",
+    "ticker": "SWINGBY",
+    "description": "Inter-blockchain swaps",
+    "website": "https://swingby.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SwingbyProtocol",
+    "telegram": "https://t.me/swingby",
+    "blog": "https://medium.com/swingby-protocol/"
+  },
+  "development": {
+    "github_organizations": [
+      "SwingbyProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

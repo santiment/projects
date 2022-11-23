@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "pylon-finance",
+    "name": "Pylon Finance",
+    "ticker": "PYLON",
+    "description": "Yield farming project",
+    "website": "https://pylon.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Pylonfinance",
+    "telegram": "https://t.me/pylonfinance",
+    "discord": "https://discord.gg/m5zSFsA",
+    "slack": "https://discord.gg/m5zSFsA",
+    "blog": "https://medium.com/@al_92198"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

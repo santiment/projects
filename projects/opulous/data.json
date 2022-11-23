@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "opulous",
+    "name": "Opulous",
+    "ticker": "OPUL",
+    "description": "Copyright-backed NFTs",
+    "website": "https://opulous.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/opulousapp",
+    "telegram": "https://t.me/opulousapp",
+    "blog": "https://opulous.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x80d55c03180349fff4a229102f62328220a96444",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

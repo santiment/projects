@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "datamine",
+    "name": "Datamine",
+    "ticker": "DAM",
+    "description": "Non-custodial and decentralized open-source economic system",
+    "website": "https://datamine.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dataminenetwork",
+    "discord": "https://discord.me/dataminenetwork",
+    "slack": "https://discord.me/dataminenetwork",
+    "reddit": "https://www.reddit.com/r/BulwarkCoin/",
+    "blog": "https://medium.com/@dataminenetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "Datamine-Crypto"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf80d589b3dbe130c270a69f1a69d050f268786df",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

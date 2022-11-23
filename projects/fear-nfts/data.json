@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "fear-nfts",
+    "name": "Fear NFTs",
+    "ticker": "FEAR",
+    "description": "Horror gaming ecosystem with NFTs",
+    "website": "https://www.fearnft.games/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fearnfts",
+    "telegram": "https://t.me/fearcoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88a9a52f944315d5b4e917b9689e65445c401e83",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

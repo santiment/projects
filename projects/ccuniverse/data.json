@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ccuniverse",
+    "name": "CCUniverse",
+    "ticker": "UVU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

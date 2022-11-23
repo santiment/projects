@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "insurace",
+    "name": "InsurAce",
+    "ticker": "INSUR",
+    "description": "Multi-Chain Decentralized Insurance",
+    "website": "https://www.insurace.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/InsurAce_io",
+    "telegram": "https://t.me/insurace_protocol",
+    "discord": "https://discord.gg/vCZMjuH69F",
+    "blog": "https://medium.com/insurace"
+  },
+  "development": {
+    "github_organizations": [
+      "InsurAce-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x544c42fbb96b39b21df61cf322b5edc285ee7429",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "nuco-cloud",
+    "name": "Nuco.cloud",
+    "ticker": "NCDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

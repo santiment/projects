@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "super-zero-protocol",
+    "name": "Delete",
+    "ticker": "SERO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

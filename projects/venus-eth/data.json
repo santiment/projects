@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "venus-eth",
+    "name": "Venus ETH",
+    "ticker": "vETH",
+    "website": "https://app.venus.io/dashboard"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

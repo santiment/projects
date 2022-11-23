@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "qcash",
+    "name": "QCash",
+    "ticker": "QC",
+    "description": "1 Qcash is 1 CNY",
+    "website": "https://quickcash.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Q_CashC",
+    "telegram": "https://t.me/quickcash2019"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

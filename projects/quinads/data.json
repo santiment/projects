@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "quinads",
+    "name": "QUINADS",
+    "ticker": "QUIN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "playcoin",
+    "name": "PlayCoin",
+    "ticker": "PLY",
+    "description": "The Game Platform Based on Blockchain Technology",
+    "website": "https://playcoin.game/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlayCoin_PLY",
+    "blog": "https://medium.com/@playcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "playcoindev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

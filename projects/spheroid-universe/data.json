@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "spheroid-universe",
+    "name": "Spheroid Universe",
+    "ticker": "SPH",
+    "description": "Extended Reality Metaverse",
+    "website": "https://www.spheroiduniverse.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Spheroid_io",
+    "telegram": "https://t.me/spheroiduniverseio",
+    "blog": "https://medium.com/@spheroiduniverse"
+  },
+  "development": {
+    "github_organizations": [
+      "SpheroidUniverse"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "spaghetti",
+    "name": "Spaghetti",
+    "ticker": "PASTA",
+    "description": "Yield farming tokens with no governance and a deflationary mechanism",
+    "website": "https://spaghetti.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SpaghettiMoney",
+    "telegram": "https://t.me/SpaghettiMoney",
+    "discord": "https://discord.gg/rbbt7xs",
+    "slack": "https://discord.gg/rbbt7xs"
+  },
+  "development": {
+    "github_organizations": [
+      "SpaghettiIsMoney"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x08a2e41fb99a7599725190b9c970ad3893fa33cf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

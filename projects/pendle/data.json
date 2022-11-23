@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "pendle",
+    "name": "Pendle",
+    "ticker": "PENDLE"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

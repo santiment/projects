@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "star-atlas-polis",
+    "name": "Star Atlas DAO",
+    "ticker": "POLIS",
+    "description": "Gaming metaverse governance token",
+    "website": "https://staratlas.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/staratlas",
+    "telegram": "https://t.me/staratlasgame",
+    "discord": "https://discord.gg/staratlas",
+    "reddit": "https://reddit.com/r/staratlas",
+    "blog": "https://medium.com/star-atlas"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

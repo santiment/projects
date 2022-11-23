@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "tokenbox",
+    "name": "Tokenbox",
+    "ticker": "TBX",
+    "website": "https://tokenbox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tokenbox",
+    "telegram": "https://t.me/Tokenbox",
+    "reddit": "https://www.reddit.com/r/tokenbox/",
+    "blog": "https://medium.com/tokenbox"
+  },
+  "development": {
+    "github_organizations": [
+      "zeriontech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

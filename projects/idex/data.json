@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "idex",
+    "name": "IDEX",
+    "ticker": "IDEX",
+    "description": "Hybrid DEX on Ethereum",
+    "website": "https://idex.market/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/idexio",
+    "discord": "https://discord.gg/UHAGGBz",
+    "slack": "https://discordapp.com/invite/UHAGGBz",
+    "reddit": "https://www.reddit.com/r/IDEX/",
+    "blog": "https://medium.com/idex"
+  },
+  "development": {
+    "github_organizations": [
+      "idexio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

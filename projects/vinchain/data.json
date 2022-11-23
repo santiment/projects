@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "vinchain",
+    "name": "VINChain",
+    "ticker": "VIN",
+    "description": "Decentralized vehicle history",
+    "website": "https://vinchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VINChain_io",
+    "telegram": "https://t.me/vinchainio",
+    "reddit": "https://www.reddit.com/r/VinChain/",
+    "blog": "https://medium.com/@VINChain"
+  },
+  "development": {
+    "github_organizations": [
+      "vinchainм"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

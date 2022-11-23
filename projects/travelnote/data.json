@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "travelnote",
+    "name": "TravelNote",
+    "ticker": "TVNT",
+    "description": "TravelNote is Travel company based in Bali. We cover and organized our customer to travel with customized their budget facilities and services.",
+    "website": "https://ico.travelnote.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TravelNote2",
+    "telegram": "https://t.me/TravelnoteICO"
+  },
+  "development": {
+    "github_organizations": [
+      "tvnt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5635ddeabf9cdda686995fe90beb5411831563fc",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

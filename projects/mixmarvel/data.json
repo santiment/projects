@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "mixmarvel",
+    "name": "MixMarvel",
+    "ticker": "MIX",
+    "description": "Global game publishing platform",
+    "website": "https://www.mixmarvel.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mixmarvelgame",
+    "reddit": "https://www.reddit.com/r/MIXMARVEL",
+    "blog": "https://medium.com/@MIXMARVELGAME"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

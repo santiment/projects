@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "strike",
+    "name": "Strike",
+    "ticker": "STRK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

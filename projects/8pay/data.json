@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "8pay",
+    "name": "8PAY",
+    "ticker": "8PAY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "omg",
+    "name": "Delete",
+    "ticker": "OMG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "chads-vc",
+    "name": "CHADS VC",
+    "ticker": "CHADS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

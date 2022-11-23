@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "tifi-token",
+    "name": "TiFi Token",
+    "ticker": "TIFI",
+    "description": "The integrated finance for Allverse",
+    "website": "https://tifi.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TiFiToken",
+    "telegram": "https://t.me/tifi_token",
+    "discord": "https://discord.gg/QhrKr7FY6X",
+    "reddit": "https://www.reddit.com/r/TiFiToken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

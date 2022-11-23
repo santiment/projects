@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "auroracoin",
+    "name": "Auroracoin",
+    "ticker": "AUR",
+    "description": "A cryptocurrency for Iceland - a community effort toward economic freedom",
+    "website": "http://auroracoin.is/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialAUR",
+    "reddit": "https://www.reddit.com/r/auroracoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "aurarad"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

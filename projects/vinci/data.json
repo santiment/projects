@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "vinci",
+    "name": "Vinci",
+    "ticker": "VINCI",
+    "description": "Blockchain & Digital Currency",
+    "website": "https://vinci.id/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vinciblockchain",
+    "telegram": "https://t.me/vincichannel",
+    "blog": "https://medium.com/@vinciblockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "vinci-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3db99ab08006aefcc9600972eca8c202396b4300",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

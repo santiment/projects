@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "hyperloot",
+    "name": "Esportbits",
+    "ticker": "HLT",
+    "description": "Esports predictive marketplace",
+    "website": "https://hyperloot.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hyperloot",
+    "telegram": "https://t.me/hyperloot",
+    "discord": "https://discord.gg/My3PfqK",
+    "slack": "https://discord.gg/My3PfqK",
+    "reddit": "https://www.reddit.com/r/hyperloot/",
+    "blog": "https://medium.com/hyperloot-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "hyperloot"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa809d363a66c576a2a814cdbfefc107c600a55f0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

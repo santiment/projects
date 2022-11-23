@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ulord",
+    "name": "Ulord",
+    "ticker": "UT",
+    "description": "A peer to peer value transfer public blockchain",
+    "website": "https://ulord.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UlordChain",
+    "telegram": "https://t.me/ulordone",
+    "slack": "https://ulord.one.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ulordchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

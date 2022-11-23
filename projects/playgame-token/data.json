@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "playgame-token",
+    "name": "PlayGame Token",
+    "ticker": "PXG",
+    "description": "Powering real economy in the gaming world. Purchase virtual items and pool prize competition with cryptocurrencies.",
+    "website": "https://its.playgame.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/playgame_pxg",
+    "telegram": "https://twitter.com/playgame_pxg",
+    "blog": "https://medium.com/playgame-pxg"
+  },
+  "development": {
+    "github_organizations": [
+      "playgame-global"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "oneswap-dao-token",
+    "name": "OneSwap DAO Token",
+    "ticker": "ONES",
+    "description": "DEX and yield farming",
+    "website": "https://www.oneswap.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OneSwap",
+    "telegram": "https://t.me/OneSwap",
+    "reddit": "https://www.reddit.com/user/OneSwap",
+    "blog": "https://medium.com/@OneSwap"
+  },
+  "development": {
+    "github_organizations": [
+      "oneswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0b342c51d1592c41068d5d4b4da4a68c0a04d5a4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hyper-speed-network",
+    "name": "Hyper Speed Network",
+    "ticker": "HSN",
+    "description": "5G+Blockchain solution supplier",
+    "website": "https://www.hsn.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HSpeedNetwork",
+    "telegram": "https://t.me/hyperspeednetworkhsn",
+    "reddit": "https://www.reddit.com/r/HyperSpeedNetwork/",
+    "blog": "https://medium.com/@hyperspeednetwork2019/"
+  },
+  "development": {
+    "github_organizations": [
+      "hyperspeednetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x365542df3c8c9d096c5f0de24a0d8cf33c19c8fd",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "gridcoin",
+    "name": "GridCoin",
+    "ticker": "GRC",
+    "description": "A cryptocurrency rewards verified computation",
+    "website": "http://www.gridcoin.us/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GridcoinNetwork",
+    "telegram": "https://t.me/gridcoin",
+    "discord": "https://discord.me/gridcoin",
+    "slack": "https://discord.me/gridcoin",
+    "reddit": "https://www.reddit.com/r/gridcoin/",
+    "blog": "https://www.gridcoin.us/blog.htm"
+  },
+  "development": {
+    "github_organizations": [
+      "gridcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

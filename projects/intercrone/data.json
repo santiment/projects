@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "intercrone",
+    "name": "InterCrone",
+    "ticker": "ICR",
+    "description": "A digital peer-to-peer currency with a self-regulated financial system",
+    "website": "https://www.intercrone.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IntercroneWorld",
+    "telegram": "https://t.me/intercrone_international"
+  },
+  "development": {
+    "github_organizations": [
+      "edjowa"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

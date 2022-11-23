@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "metal",
+    "name": "Metal",
+    "ticker": "MTL",
+    "description": "Payments with rewards program",
+    "website": "https://www.metalpay.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/metalpaysme",
+    "telegram": "https://t.me/metalpay",
+    "slack": "https://metalpay.chat/",
+    "reddit": "https://reddit.com/r/metalpay",
+    "blog": "https://blog.metalpay.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

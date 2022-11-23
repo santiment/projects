@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "unit-protocol-duck",
+    "name": "Unit Protocol Duck",
+    "ticker": "DUCK",
+    "description": "Allows using a variety of tokens as collateral",
+    "website": "https://unit.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/unitprotocol",
+    "telegram": "https://t.me/unit_en",
+    "blog": "https://medium.com/@unitprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "unitprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x92e187a03b6cd19cb6af293ba17f2745fd2357d5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "defla",
+    "name": "Defla",
+    "ticker": "DEFLA",
+    "description": "Economics and Game Theory Based Commodity",
+    "website": "https://hybridverse.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hybridverse",
+    "telegram": "https://t.me/Hybridverse",
+    "blog": "https://medium.com/defla"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x70d47fd6c9497b11c1caf0e2a84a5e7661e66c1d",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

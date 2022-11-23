@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "realio-network",
+    "name": "Realio Network",
+    "ticker": "RIO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

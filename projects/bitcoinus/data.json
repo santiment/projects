@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bitcoinus",
+    "name": "BITCOINUS",
+    "ticker": "BITS",
+    "description": "A utility token with world-wide use, designed to create its holder an added value in the whole infrastructure of Bitcoinus crypto payment world",
+    "website": "https://www.bitcoinus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoinus_io",
+    "telegram": "https://t.me/joinchat/EArupgwBjB7GZFJSodtRHg",
+    "reddit": "https://www.reddit.com/user/Bitcoinus/",
+    "blog": "https://medium.com/@Bitcoinus"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoinus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc53C2E5e2421cb5a5307Ed1C229816d71266292",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

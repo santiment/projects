@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "sureremit",
+    "name": "SureRemit",
+    "ticker": "RMT",
+    "description": "Ecosystem for Global Non-cash Remittances",
+    "website": "https://token.sureremit.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sureremit",
+    "telegram": "https://t.me/sureremit",
+    "reddit": "https://www.reddit.com/r/sureremit/",
+    "blog": "https://medium.com/sureremit"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

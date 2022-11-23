@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "seer",
+    "name": "SEER",
+    "ticker": "SEER",
+    "description": "Decentralized prediction market",
+    "website": "https://www.seer.best/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/info_SEER",
+    "telegram": "https://t.me/seerchain"
+  },
+  "development": {
+    "github_organizations": [
+      "seer-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f1ed66c251bcb52ecf7e67ac64bb72482048adb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

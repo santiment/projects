@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "snipcoin",
+    "name": "SnipCoin",
+    "ticker": "SNIP",
+    "description": "Newsfeed",
+    "website": "https://snip.today"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sniptoday",
+    "telegram": "https://t.me/Sniptoday",
+    "blog": "https://medium.com/snip-news"
+  },
+  "development": {
+    "github_organizations": [
+      "sniptoday"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x44f588aeeb8c44471439d1270b3603c66a9262f1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "polkalokr",
+    "name": "Polkalokr",
+    "ticker": "LKR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

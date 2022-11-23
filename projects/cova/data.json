@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cova",
+    "name": "COVA",
+    "ticker": "COVA",
+    "description": "A privacy-protected data network that utilizes a decentralized computing network to ensure that data is encrypted at all times",
+    "website": "http://covalent.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/covatoken",
+    "telegram": "https://t.me/covalentofficial",
+    "reddit": "https://www.reddit.com/r/Covalent_Official/"
+  },
+  "development": {
+    "github_organizations": [
+      "covalent-hq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb37a769b37224449d92aac57de379e1267cd3b00",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

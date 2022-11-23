@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "ordocoin",
+    "name": "Ordocoin",
+    "ticker": "RDC",
+    "website": "https://ordocoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin_ordo",
+    "telegram": "https://t.me/ordocoin",
+    "reddit": "https://www.reddit.com/user/ordocoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "ordocoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7a74c427c833bad2a638e0fb203ba2c728f557c1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

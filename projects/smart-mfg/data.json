@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "smart-mfg",
+    "name": "Smart MFG",
+    "ticker": "MFG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

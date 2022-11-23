@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "mines-of-dalarnia",
+    "name": "Mines of Dalarnia (ERC20)",
+    "ticker": "DAR",
+    "description": "An action-adventure game",
+    "website": "https://www.minesofdalarnia.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MinesOfDalarnia",
+    "telegram": "https://t.me/MinesOfDalarnia",
+    "discord": "https://discord.com/invite/dZaVUMy",
+    "blog": "https://minesofdalarnia.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

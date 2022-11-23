@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aurumcoin",
+    "name": "AurumCoin",
+    "ticker": "AU",
+    "description": "A cryptocurrency to be backed by gold",
+    "website": "http://www.aurumcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Aurum_Coin",
+    "telegram": "https://t.me/Aurum_Coin"
+  },
+  "development": {
+    "github_organizations": [
+      "aurumcoin-au"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

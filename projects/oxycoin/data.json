@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "oxycoin",
+    "name": "Oxycoin",
+    "ticker": "OXY",
+    "description": "The easiest way to buy, store and sell cryptocurrencies",
+    "website": "https://oxycoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/oxycoin",
+    "telegram": "https://t.me/oxycoinNL",
+    "reddit": "https://www.reddit.com/r/oxycoin/",
+    "blog": "https://medium.com/oxycoin"
+  },
+  "development": {
+    "github_organizations": [
+      "oxycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x869b1f57380ae501d387b19262efd3c0eb7501b0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

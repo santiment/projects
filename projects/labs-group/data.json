@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "labs-group",
+    "name": "LABS Group",
+    "ticker": "LABS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "synapse-2",
+    "name": "Synapse [on Ethereum]",
+    "ticker": "SYN",
+    "description": "Cross-chain layer protocol",
+    "website": "https://synapseprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synapseprotocol",
+    "telegram": "https://t.me/synapseprotocol",
+    "discord": "https://discord.gg//synapseprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

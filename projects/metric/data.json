@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "metric",
+    "name": "Metric",
+    "ticker": "METRIC",
+    "description": "A community-owned DEX aggregator",
+    "website": "https://metric.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MetricExchange",
+    "discord": "https://discord.com/invite/FN3sNSE",
+    "slack": "https://discord.com/invite/FN3sNSE",
+    "blog": "https://medium.com/@BUILD_Finance/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xefc1c73a3d8728dc4cf2a18ac5705fe93e5914ac",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

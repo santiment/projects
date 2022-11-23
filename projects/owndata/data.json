@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "owndata",
+    "name": "OWNDATA ",
+    "ticker": "OWN",
+    "description": "Monetize your owndata with Blockchain",
+    "website": "https://owndata.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/owndata_coin",
+    "telegram": "https://t.me/joinchat/Hr2kt06aQWrteu_rnRu-Kg",
+    "reddit": "https://www.reddit.com/user/owndata_coin/",
+    "blog": "https://medium.com/@owndata"
+  },
+  "development": {
+    "github_organizations": [
+      "owndata"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x170b275ced089fffaebfe927f445a350ed9160dc",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

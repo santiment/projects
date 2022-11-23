@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "mobius",
+    "name": "Mobius",
+    "ticker": "MOBI",
+    "description": "Connecting Billions of People & Devices to the Blockchain Economy",
+    "website": "https://mobius.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/mobius_network",
+    "telegram": "https://t.me/mobius_network",
+    "slack": "https://mobius.rocket.chat/",
+    "reddit": "https://www.reddit.com/r/MobiusNetwork/",
+    "blog": "https://medium.com/mobius-network"
+  },
+  "development": {
+    "github_organizations": [
+      "jedmccaleb"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

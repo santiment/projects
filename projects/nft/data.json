@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "nft",
+    "name": "NFT",
+    "ticker": "NFT",
+    "description": "Digital art and collectibles market",
+    "website": "https://www.nft.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nft_protocol",
+    "telegram": "http://t.me/nftprotocol",
+    "discord": "http://discord.gg/6QzJSUtA2Z",
+    "blog": "https://medium.com/@goblockparty"
+  },
+  "development": {
+    "github_organizations": [
+      "Blockparty-Global"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

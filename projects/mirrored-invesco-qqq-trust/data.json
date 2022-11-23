@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-invesco-qqq-trust",
+    "name": "Mirrored Invesco QQQ Trust",
+    "ticker": "mQQQ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

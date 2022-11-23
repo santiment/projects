@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lition",
+    "name": "Lition",
+    "ticker": "LIT",
+    "description": "Blockchain with deletable data features",
+    "website": "https://www.lition.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lition_block",
+    "telegram": "https://t.me/LitionEnergy",
+    "blog": "https://medium.com/lition-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "lition-blockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x763fa6806e1acf68130d2d0f0df754c93cc546b2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

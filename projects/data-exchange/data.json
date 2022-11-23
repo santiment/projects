@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "data-exchange",
+    "name": "DaTa EXchange",
+    "ticker": "DTX",
+    "description": "Real-time sensor data marketplace",
+    "website": "https://databrokerdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DataBrokerDAO",
+    "telegram": "https://t.me/databrokerdao",
+    "reddit": "https://www.reddit.com/r/DatabrokerDAO/",
+    "blog": "https://medium.com/databrokerdao"
+  },
+  "development": {
+    "github_organizations": [
+      "databrokerdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

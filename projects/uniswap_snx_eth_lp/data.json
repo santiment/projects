@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "uniswap_snx_eth_lp",
+    "name": "Uniswap V2: SNX",
+    "ticker": "UNI-V2 SNX/ETH LP ",
+    "description": "LP Token for the UNI-V2 SNX-ETH Pool."
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x43ae24960e5534731fc831386c07755a2dc33d47",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

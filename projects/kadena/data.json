@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "kadena",
+    "name": "Kadena",
+    "ticker": "KDA",
+    "description": "Scalable smart-contract blockchain",
+    "website": "http://kadena.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kadena_io",
+    "telegram": "https://t.me/kadena_io",
+    "discord": "https://discord.io/Kadena",
+    "slack": "https://discord.io/Kadena",
+    "blog": "https://medium.com/kadena-io"
+  },
+  "development": {
+    "github_organizations": [
+      "kadena-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

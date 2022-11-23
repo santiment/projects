@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "mgc-token",
+    "name": "MGC Token",
+    "ticker": "MGC",
+    "description": "Multi functional payment wallet",
+    "website": "http://www.mgctoken.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

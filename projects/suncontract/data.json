@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "suncontract",
+    "name": "Delete",
+    "ticker": "SNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

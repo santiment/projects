@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "usda",
+    "name": "USDA",
+    "ticker": "USDA",
+    "description": "USD for Asia Pacific",
+    "website": "https://usda.cc/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3c7b464376db7c9927930cf50eefdea2eff3a66a",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

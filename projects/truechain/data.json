@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "truechain",
+    "name": "TrueChain",
+    "ticker": "TRUE",
+    "description": "Next Generation Blockchain with Public Consensus",
+    "website": "http://www.truechain.pro"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/truechaingroup",
+    "telegram": "http://www.t.me/truechainglobal",
+    "slack": "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzUyMDQ2Nzc3Nw==#wechat_redirect",
+    "blog": "https://www.truechain.pro/news"
+  },
+  "development": {
+    "github_organizations": [
+      "truechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA4d17AB1eE0efDD23edc2869E7BA96B89eEcf9AB",
+        "decimals": 18
+      }
+    ]
+  }
+}

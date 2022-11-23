@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "2key-network",
+    "name": "2key.network",
+    "ticker": "2KEY",
+    "description": "A Social Economic Network",
+    "website": "https://2key.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/2keyNetwork",
+    "telegram": "https://t.me/twokey_official",
+    "discord": "https://discord.gg/qtE28kU",
+    "slack": "https://discord.gg/qtE28kU",
+    "blog": "https://medium.com/2key"
+  },
+  "development": {
+    "github_organizations": [
+      "2key"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe48972fcd82a274411c01834e2f031d4377fa2c0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

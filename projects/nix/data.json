@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "nix",
+    "name": "NIX",
+    "ticker": "NIX",
+    "description": "A privacy tool for BTC, altcoins and tokens",
+    "website": "https://nixplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NIXplatform",
+    "telegram": "https://t.me/nixplatform",
+    "reddit": "https://www.reddit.com/r/NixPlatform/",
+    "blog": "https://nixplatform.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "nixplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

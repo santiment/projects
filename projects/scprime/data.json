@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "scprime",
+    "name": "ScPrime",
+    "ticker": "SCP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

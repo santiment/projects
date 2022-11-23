@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "ioil",
+    "name": "Synth iOIL",
+    "ticker": "iOIL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa5a5df41883cdc00c4ccc6e8097130535399d9a3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

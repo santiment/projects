@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "kryll",
+    "name": "Kryll.io",
+    "ticker": "KRL",
+    "description": "A Crypto Traders Community",
+    "website": "https://kryll.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kryll_io",
+    "telegram": "https://t.me/kryll_io",
+    "reddit": "https://www.reddit.com/r/Kryll_io/",
+    "blog": "https://medium.com/@kryll_io/"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptense"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

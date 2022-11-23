@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "pearl",
+    "name": "Pearl",
+    "ticker": "PEARL",
+    "description": "Yield farming on Tron",
+    "website": "https://pearl.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TronFi_io",
+    "telegram": "https://t.me/TronFi_io",
+    "discord": "https://discord.gg/kGwvevJ",
+    "slack": "https://discord.gg/kGwvevJ",
+    "blog": "https://medium.com/@TronFi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

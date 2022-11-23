@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "krypton-galaxy-coin",
+    "name": "Krypton Galaxy",
+    "ticker": "KGC",
+    "description": "Blockchain game eco-level entrance",
+    "website": "https://kexingqiu.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KryptonFans",
+    "telegram": "https://t.me/kexingqiu666",
+    "discord": "https://discord.gg/zYbsRdn",
+    "slack": "https://discordapp.com/invite/zYbsRdn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa8262eb913fccea4c3f77fc95b8b4043b384cfbb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

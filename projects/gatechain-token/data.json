@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "gatechain-token",
+    "name": "GateToken",
+    "ticker": "GT",
+    "description": "Part of Gate.io ecosystem",
+    "website": "https://gatechain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gatechain_io",
+    "blog": "https://medium.com/@gatechain"
+  },
+  "development": {
+    "github_organizations": [
+      "gatechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

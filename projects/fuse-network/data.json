@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "fuse-network",
+    "name": "Fuse Network",
+    "ticker": "FUSE",
+    "description": "Smart contract platform for everyday payments",
+    "website": "https://fuse.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Fuse_network",
+    "telegram": "https://t.me/fuseio",
+    "discord": "https://discord.gg/jpPMeSZ",
+    "slack": "https://discordapp.com/invite/jpPMeSZ",
+    "blog": "https://medium.com/fusenet"
+  },
+  "development": {
+    "github_organizations": [
+      "fuseio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

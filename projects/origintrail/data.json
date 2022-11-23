@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "origintrail",
+    "name": "OriginTrail",
+    "ticker": "TRAC",
+    "website": "https://origintrail.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/origin_trail",
+    "telegram": "https://t.me/origintrail",
+    "reddit": "https://www.reddit.com/r/OriginTrail/",
+    "blog": "https://medium.com/origintrail"
+  },
+  "development": {
+    "github_organizations": [
+      "origintrail"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

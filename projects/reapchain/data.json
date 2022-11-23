@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "reapchain",
+    "name": "ReapChain",
+    "ticker": "REAP",
+    "description": "Blockchain-based IoT ecosystem",
+    "website": "https://reapchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ReapChain",
+    "telegram": "https://t.me/joinchat/MbaQ7RaZchMzjAam9yMS0Q",
+    "blog": "https://medium.com/reapchain"
+  },
+  "development": {
+    "github_organizations": [
+      "reapchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

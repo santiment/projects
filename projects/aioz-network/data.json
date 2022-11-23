@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "aioz-network",
+    "name": "AIOZ Network",
+    "ticker": "AIOZ",
+    "description": "Layer 1 Blockchain-Based Content Delivery Network (CDN)",
+    "website": "https://aioz.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aioznetwork",
+    "telegram": "https://t.me/aioznetwork",
+    "blog": "https://medium.com/aioz-network"
+  },
+  "development": {
+    "github_organizations": [
+      "AIOZNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

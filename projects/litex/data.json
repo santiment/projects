@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "litex",
+    "name": "Litex",
+    "ticker": "LXT",
+    "description": "A completely decentralized payment ecosystem for cryptocurrencies",
+    "website": "http://litex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/litex_io",
+    "telegram": "https://t.me/litex_official",
+    "slack": "http://weibo.com/litexlxt",
+    "blog": "https://medium.com/@litex"
+  },
+  "development": {
+    "github_organizations": [
+      "litexnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbc46d9961a3932f7d6b64abfdec80c1816c4b835",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

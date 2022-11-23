@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yeed",
+    "name": "YGGDRASH",
+    "ticker": "YEED",
+    "description": "Trust based Multi-Dimensional Network of Blockchains",
+    "website": "https://yggdrash.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/YggdrashNews",
+    "telegram": "https://t.me/joinchat/GjaZ6VEGciYxMNa3pD32hg",
+    "blog": "https://medium.com/@yggdrash"
+  },
+  "development": {
+    "github_organizations": [
+      "yggdrash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca2796f9f61dc7b238aab043971e49c6164df375",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

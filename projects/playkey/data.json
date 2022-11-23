@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "playkey",
+    "name": "Playkey",
+    "ticker": "PKT",
+    "description": "Decentralized Cloud Gaming Platform",
+    "website": "https://playkey.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Playkey_EN",
+    "telegram": "https://t.me/playkey_io",
+    "reddit": "https://www.reddit.com/r/Playkey/",
+    "blog": "https://medium.com/@playkey"
+  },
+  "development": {
+    "github_organizations": [
+      "playkey"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2604fa406be957e542beb89e6754fcde6815e83f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

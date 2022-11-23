@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "xdefi-wallet",
+    "name": "XDEFI Wallet",
+    "ticker": "XDEFI",
+    "description": "Multichain wallet",
+    "website": "https://www.xdefi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xdefi_wallet",
+    "telegram": "https://t.me/xdefi_io",
+    "discord": "https://discord.gg/xdefiwallet",
+    "reddit": "https://www.reddit.com/r/XDEFI/",
+    "blog": "https://xdefi-io.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "xdefi-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x72b886d09c117654ab7da13a14d603001de0b777",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

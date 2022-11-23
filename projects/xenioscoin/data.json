@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "xenioscoin",
+    "name": "XeniosCoin",
+    "ticker": "XNC",
+    "description": "Cryptocurrency",
+    "website": "https://xenioscoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinXenios",
+    "telegram": "https://t.me/XeniosCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "xeniosproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

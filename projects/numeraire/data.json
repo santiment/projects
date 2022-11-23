@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "numeraire",
+    "name": "Numeraire",
+    "ticker": "NMR",
+    "description": "A new kind of hedge fund built by a network of data scientists",
+    "website": "https://numer.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/numerai",
+    "telegram": "https://t.me/NMR_Official",
+    "slack": "https://slack.numer.ai/",
+    "reddit": "https://www.reddit.com/r/numerai/",
+    "blog": "https://medium.com/@Numerai"
+  },
+  "development": {
+    "github_organizations": [
+      "numerai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

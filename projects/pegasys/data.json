@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "pegasys",
+    "name": "PegaSys",
+    "ticker": "PSS",
+    "website": "https://pegasys.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pegasyseng"
+  },
+  "development": {
+    "github_organizations": [
+      "pegasyseng"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "monavale",
+    "name": "Monavale",
+    "ticker": "MONA",
+    "description": "Digital Fashion tool stack on Ethereum",
+    "website": "https://www.digitalax.xyz/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DIGITALAX_",
+    "telegram": "https://t.me/digitalaxTG",
+    "discord": "https://discord.gg/DKbSqRGtKv",
+    "slack": "https://discord.gg/DKbSqRGtKv",
+    "blog": "https://medium.com/@digitalax"
+  },
+  "development": {
+    "github_organizations": [
+      "DIGITALAX"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

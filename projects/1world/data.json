@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "1world",
+    "name": "1World",
+    "ticker": "1WO",
+    "description": "Blockchain technology and incentives for audience engagement",
+    "website": "https://ico.1worldonline.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1World_Online",
+    "telegram": "https://t.me/joinchat/Fu2jLgtH-b2obpp1FO5jyQ",
+    "reddit": "https://www.reddit.com/user/1WorldOnlineOFFICIAL",
+    "blog": "https://medium.com/@1WorldOnline/"
+  },
+  "development": {
+    "github_organizations": [
+      "1world-online"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

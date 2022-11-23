@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gohelpfund",
+    "name": "GoHelpFund",
+    "ticker": "HELP",
+    "description": "Decentralized Fundraising Platform & Advanced Distributed Edge Network. Entity Master Node",
+    "website": "https://gohelpfund.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoHelpFund_com",
+    "telegram": "https://t.me/gohelpfund",
+    "reddit": "https://reddit.com/r/gohelpfund",
+    "blog": "https://medium.com/@gohelpfund"
+  },
+  "development": {
+    "github_organizations": [
+      "cacheoverflow"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbbc2045d335cb224228f1850b29173d9d7d7b989",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

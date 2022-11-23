@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "milk-alliance",
+    "name": "MiL.k",
+    "ticker": "MLK",
+    "description": "Gather and use reward points on a single platform",
+    "website": "https://milkalliance.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/milkallianceeng",
+    "blog": "https://medium.com/milk-official-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "key-inside"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

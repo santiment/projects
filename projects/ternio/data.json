@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "ternio",
+    "name": "Ternio",
+    "ticker": "TERN",
+    "description": "Fast blockchain",
+    "website": "https://www.ternio.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terniotoken",
+    "telegram": "https://t.me/terniotoken",
+    "reddit": "https://www.reddit.com/r/TernioToken/",
+    "blog": "https://medium.com/@ternio"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

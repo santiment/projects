@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "maximine-coin",
+    "name": "Maximine Coin",
+    "ticker": "MXM",
+    "description": "Cloud-based pool mining platform",
+    "website": "https://maximine.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maximinecoin",
+    "telegram": "https://t.me/maximine",
+    "reddit": "https://www.reddit.com/r/maximine/",
+    "blog": "https://medium.com/@maximinecoin"
+  },
+  "development": {
+    "github_organizations": [
+      "maximine"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8e766f57f7d16ca50b4a0b90b88f6468a09b0439",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

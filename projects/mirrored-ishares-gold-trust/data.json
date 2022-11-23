@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-ishares-gold-trust",
+    "name": "Mirrored iShares Gold Trust",
+    "ticker": "mIAU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "magic-internet-money",
+    "name": "Magic Internet Money",
+    "ticker": "MIM",
+    "description": "Lending protocol",
+    "website": "https://abracadabra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MIM_Spell",
+    "discord": "https://discord.gg/wcsUNxYrFM",
+    "blog": "https://abracadabramoney.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Abracadabra-money"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

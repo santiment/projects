@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "moonriver",
+    "name": "Moonriver",
+    "ticker": "MOVR",
+    "description": "Ethereum-Compatible Parachain on Kusama",
+    "website": "https://moonbeam.network/networks/moonriver/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MoonriverNW",
+    "telegram": "https://t.me/Moonbeam_Official",
+    "discord": "https://discord.gg/uxYAN4u5",
+    "reddit": "https://reddit.com/r/moonbeam",
+    "blog": "https://medium.com/Moonriver-network"
+  },
+  "development": {
+    "github_organizations": [
+      "PureStake"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

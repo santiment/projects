@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "gods-unchained",
+    "name": "Gods Unchained",
+    "ticker": "GODS",
+    "description": "Trading card game",
+    "website": "https://godsunchained.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GodsUnchained",
+    "discord": "https://discord.com/invite/godsunchained",
+    "reddit": "https://reddit.com/r/GodsUnchained",
+    "blog": "https://blog.godsunchained.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

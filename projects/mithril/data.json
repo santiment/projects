@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mithril",
+    "name": "Mithril",
+    "ticker": "MITH",
+    "description": "Social media platform",
+    "website": "https://mith.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MithrilOfficial",
+    "telegram": "https://t.me/MithrilChat",
+    "reddit": "https://www.reddit.com/r/MithrilToken/",
+    "blog": "https://medium.com/mithriltoken"
+  },
+  "development": {
+    "github_organizations": [
+      "mithio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+        "blockchain": "bnb-beacon-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

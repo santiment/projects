@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "helena",
+    "name": "Helena",
+    "ticker": "HLN",
+    "description": "Gamified prediction markets",
+    "website": "https://helena.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HelenaNetwork",
+    "blog": "https://medium.com/@helena.network"
+  },
+  "development": {
+    "github_organizations": [
+      "helena-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

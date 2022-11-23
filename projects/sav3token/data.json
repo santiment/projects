@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "sav3token",
+    "name": "Sav3Token",
+    "ticker": "SAV3",
+    "website": "https://sav3.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/sav3org",
+    "blog": "https://thetimtempleton.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "sav3org"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6e10aacb89a28d6fa0fe68790777fec7e7f01890",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

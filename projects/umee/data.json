@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "umee",
+    "name": "Umee",
+    "ticker": "UMEE",
+    "description": "Cross Chain DeFi Hub",
+    "website": "https://umee.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Umee_CrossChain",
+    "telegram": "https://t.me/umeecrosschain",
+    "discord": "https://discord.gg/ngYXkAHKbv",
+    "reddit": "https://reddit.com/r/UmeeCrossChain",
+    "blog": "https://medium.com/umeeblog"
+  },
+  "development": {
+    "github_organizations": [
+      "umee-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

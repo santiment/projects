@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "cryptoinvest",
+    "name": "Cryptoinvest",
+    "ticker": "CTT",
+    "description": "A platform to maximize investments in masternode digital currencies by offering a extensive multitool interface that will provide services and automation",
+    "website": "http://cryptoinvestcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoinvestC",
+    "telegram": "https://t.me/CryptoInvestCoinchat1",
+    "discord": "https://discord.gg/zSeSXzY",
+    "slack": "https://discordapp.com/invite/zSeSXzY"
+  },
+  "development": {
+    "github_organizations": [
+      "cttdeveloperteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

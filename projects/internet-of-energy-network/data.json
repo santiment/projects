@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "internet-of-energy-network",
+    "name": "Internet of Energy Network",
+    "ticker": "IOEN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

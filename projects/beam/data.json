@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "beam",
+    "name": "Beam",
+    "ticker": "BEAM",
+    "description": "A mimblewimble implementation for a new privacy cryptocurrency",
+    "website": "https://www.beam.mw/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/beamprivacy",
+    "telegram": "https://t.me/BeamPrivacy",
+    "discord": "https://discord.gg/BHZvAhg",
+    "slack": "https://discord.gg/BHZvAhg",
+    "reddit": "https://www.reddit.com/r/beamprivacy/",
+    "blog": "https://medium.com/beam-mw"
+  },
+  "development": {
+    "github_organizations": [
+      "beammw"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

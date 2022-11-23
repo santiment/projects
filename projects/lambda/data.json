@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "lambda",
+    "name": "Lambda",
+    "ticker": "LAMB",
+    "description": "Scalable blockchain infrastructure",
+    "website": "http://www.lambda.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Lambdaim",
+    "telegram": "https://t.me/HelloLambda"
+  },
+  "development": {
+    "github_organizations": [
+      "lambdaim"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8971f9fd7196e5cee2c1032b50f656855af7dd26",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

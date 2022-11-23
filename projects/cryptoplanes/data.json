@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "cryptoplanes",
+    "name": "CryptoPlanes",
+    "ticker": "CPAN",
+    "description": "Expansion of CryptoCity metaverse",
+    "website": "https://cryptoplanes.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NFTCryptoPlanes",
+    "telegram": "https://t.me/CryptoPlanes",
+    "discord": "http://discord.io/cryptoplanes"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

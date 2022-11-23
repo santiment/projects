@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "keep4r",
+    "name": "Keep4r",
+    "ticker": "KP4R",
+    "description": "A fork of the Keep3rV1",
+    "website": "https://kp4r.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/kp4rnetwork",
+    "telegram": "https://t.me/keep4rnetwork",
+    "blog": "https://medium.com/@keep4rnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "keep4rnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa89ac6e529acf391cfbbd377f3ac9d93eae9664e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "vibe",
+    "name": "VIBE",
+    "ticker": "VIBE",
+    "description": "A VR and augmented reality marketplace and hub",
+    "website": "https://www.vibehub.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VibeHubVR",
+    "telegram": "http://t.me/VIBEHub2",
+    "slack": "https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
+    "reddit": "https://www.reddit.com/r/VibeHub/"
+  },
+  "development": {
+    "github_organizations": [
+      "amack2u"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

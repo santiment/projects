@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "mktcoin",
+    "name": "MktCoin",
+    "ticker": "MLM",
+    "website": "http://mktcoin.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "mktcoin-official"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

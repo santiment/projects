@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tomochain",
+    "name": "TomoChain",
+    "ticker": "TOMO",
+    "description": "Blockchain infrastructure for decentralized applications, token issuance and integration",
+    "website": "https://tomochain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TomochainANN",
+    "telegram": "https://t.me/tomochain",
+    "blog": "https://medium.com/tomochain"
+  },
+  "development": {
+    "github_organizations": [
+      "tomochain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8b353021189375591723e7384262f45709a3c3dc",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "proxeus",
+    "name": "Proxeus",
+    "ticker": "XES",
+    "description": "Integrating a blockchain layer into existing enterprise systems",
+    "website": "https://proxeus.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/proxeusapp",
+    "telegram": "https://t.me/joinchat/Gj6qYUpY1XHgHGnQa9msvA",
+    "reddit": "https://www.reddit.com/r/proxeus/",
+    "blog": "https://medium.com/@proxeusapp_4423"
+  },
+  "development": {
+    "github_organizations": [
+      "proxeusapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa017ac5fac5941f95010b12570b812c974469c2c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

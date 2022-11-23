@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "zip",
+    "name": "Zipper",
+    "ticker": "ZIP",
+    "description": "Z0-Multi-type Blockchain, Safe and Easy to Use",
+    "website": "http://zipper.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ZipperInfo",
+    "telegram": "https://t.me/ZipperEN"
+  },
+  "development": {
+    "github_organizations": [
+      "zipper-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa9d2927d3a04309e008b6af6e2e282ae2952e7fd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

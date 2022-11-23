@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ethlyte-crypto",
+    "name": "Ethlyte Crypto",
+    "ticker": "EtLyteT",
+    "description": "Helping Cryptocurrencies to enter mainstream",
+    "website": "https://ethlyte.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EthLyte",
+    "telegram": "https://telegram.me/joinchat/G2y3RkfCLgF8G6JPlEjZ7g",
+    "reddit": "https://www.reddit.com/r/EThLyte/"
+  },
+  "development": {
+    "github_organizations": [
+      "ethlyte-crypto"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1d8ca7baf0895da8afcf153657be064b5092a274",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

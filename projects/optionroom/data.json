@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "optionroom",
+    "name": "OptionRoom",
+    "ticker": "ROOM",
+    "description": "User governed oracle and forecast protocol built on Polkadot",
+    "website": "https://www.optionroom.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/option_room",
+    "telegram": "https://t.me/OptionRoom",
+    "blog": "https://optionroom.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "OptionRoom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

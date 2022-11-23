@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "xyo",
+    "name": "XYO Network",
+    "ticker": "XYO",
+    "description": "The location-verifying proof of origin protocol that connects the blockchain to the real world",
+    "website": "https://xyo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XYOracleNetwork",
+    "telegram": "https://t.me/xyonetwork",
+    "reddit": "https://www.reddit.com/r/XYONetwork/",
+    "blog": "https://medium.com/@XYOracleNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "xyoraclenetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "apis",
+    "name": "APIS",
+    "ticker": "APIS",
+    "description": "Advanced Property Investment System",
+    "website": "https://apisplatform.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/apis11official",
+    "telegram": "https://t.me/joinchat/F9TipQwR81S5L7xet5yLIQ",
+    "slack": "https://apisproject.slack.com/",
+    "blog": "https://medium.com/apisplatform"
+  },
+  "development": {
+    "github_organizations": [
+      "oxchild"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4c0fbe1bb46612915e7967d2c3213cd4d87257ad",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

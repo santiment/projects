@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "hydrogen",
+    "name": "Hydrogen",
+    "ticker": "HYDRO",
+    "description": "Deploy blockchain in existing applications, without the need to create expensive infrastructure",
+    "website": "https://projecthydro.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hydroblockchain",
+    "telegram": "https://t.me/joinchat/H3uDdQ9JBFyV1UL35xX4VQ",
+    "discord": "https://projecthydro.org/shorty/discord",
+    "slack": "https://projecthydro.org/shorty/discord",
+    "reddit": "https://www.reddit.com/r/ProjectHydro/",
+    "blog": "https://medium.com/project-hydro"
+  },
+  "development": {
+    "github_organizations": [
+      "hydrogen-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xebbdf302c940c6bfd49c6b165f457fdb324649bc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "xmon",
+    "name": "XMON",
+    "ticker": "XMON"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

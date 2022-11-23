@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "primecoin",
+    "name": "Primecoin",
+    "ticker": "XPM",
+    "description": "A new type cryptocurrency which is proof-of-work based on searching for prime numbers",
+    "website": "http://primecoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Primecoin",
+    "reddit": "https://www.reddit.com/r/primecoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "primecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

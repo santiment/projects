@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "six-domain-chain",
+    "name": "Six Domain Chain",
+    "ticker": "SDA",
+    "description": "Integrates international standards of IoT Six-Domain Model and reference architecture standards",
+    "website": "https://www.sdchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sixdomainchain",
+    "telegram": "https://t.me/sdchainen",
+    "slack": "https://m.weibo.cn/u/6447552031",
+    "reddit": "https://www.reddit.com/r/SDChain/",
+    "blog": "https://medium.com/@sixdomainchain"
+  },
+  "development": {
+    "github_organizations": [
+      "sdchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4212fea9fec90236ecc51e41e2096b16ceb84555",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

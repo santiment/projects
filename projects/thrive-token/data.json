@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "thrive-token",
+    "name": "Thrive",
+    "ticker": "THRT",
+    "description": "Advertising Marketplace that breaks up Google’s AdWords monopoly",
+    "website": "https://ico.thrivelabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/WeareThrivelabs",
+    "telegram": "https://t.me/thriveico",
+    "blog": "https://medium.com/@thriveico"
+  },
+  "development": {
+    "github_organizations": [
+      "thrivelabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4f27053f32eda8af84956437bc00e5ffa7003287",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

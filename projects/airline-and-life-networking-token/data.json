@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "airline-and-life-networking-token",
+    "name": "Airline &amp;amp; Life Networking Token",
+    "ticker": "ALLN",
+    "description": "Interconnecting with the flight service of FAT Corporation",
+    "website": "https://www.allntoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ALLNtoken",
+    "telegram": "https://t.me/allntoken",
+    "blog": "https://medium.com/@allntoken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x28fb6531723ee54b1073f7f2beb7f2e3c74503bc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

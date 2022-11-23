@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "misbloc",
+    "name": "Misbloc",
+    "ticker": "MSB",
+    "description": "Medical Information Service with Blockchain",
+    "website": "http://misblock.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/misbloc",
+    "telegram": "https://t.me/misbloc",
+    "blog": "https://medium.com/misbloc"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x84c722e6f1363e8d5c6db3ea600bef9a006da824",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

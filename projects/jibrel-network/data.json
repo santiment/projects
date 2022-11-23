@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "jibrel-network",
+    "name": "Jibrel Network",
+    "ticker": "JNT",
+    "description": "Financial assets and instruments as standard ERC-20 tokens on the Ethereum blockchain",
+    "website": "https://jibrel.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/jibrelnetwork",
+    "telegram": "https://t.me/jibrel_network",
+    "slack": "https://jibrel-slack.herokuapp.com/",
+    "reddit": "https://reddit.com/r/jibrelnetwork",
+    "blog": "https://medium.com/@jibrelnetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "jibrelnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa5fd1a791c4dfcaacc963d4f73c6ae5824149ea7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

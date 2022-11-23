@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "pura",
+    "name": "Pura",
+    "ticker": "PURA",
+    "description": "An international digital currency",
+    "website": "http://www.pura.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PuraSocial",
+    "telegram": "https://t.me/puraofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "puracore"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

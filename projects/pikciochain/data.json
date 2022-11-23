@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "pikciochain",
+    "name": "PikcioChain",
+    "ticker": "PKC",
+    "description": "Secure blockchain exchange for personal data",
+    "website": "https://pikciochain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pikciochainpkc",
+    "telegram": "https://t.me/PikcioChain",
+    "slack": "https://join.slack.com/t/pikcio/shared_invite/enQtMjU2NzkzMzM0OTY0LTNiZDVjYmQwYzNiYWY0ZTVmMDcyYTk1MDgwODE5MjY2OTQ1NTQwYjJmN2VmM2FlMWVjYTU0OTZmNjA0OTkwMDQ",
+    "reddit": "https://www.reddit.com/r/PikcioChain/",
+    "blog": "https://medium.com/pikciochain"
+  },
+  "development": {
+    "github_organizations": [
+      "didiercc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

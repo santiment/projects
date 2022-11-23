@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "deri-protocol",
+    "name": "Deri Protocol",
+    "ticker": "DERI",
+    "description": "Risk exposure tokenized as NFT",
+    "website": "https://deri.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeriProtocol",
+    "telegram": "https://t.me/DeriProtocol",
+    "blog": "https://medium.com/@deri_protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "deri-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

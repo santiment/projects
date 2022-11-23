@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ion",
+    "name": "ION",
+    "ticker": "ION",
+    "description": "Business solutions for game developers",
+    "website": "https://ionomy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ionomics",
+    "discord": "https://discord.gg/4WZkZJS",
+    "slack": "https://discord.gg/4WZkZJS"
+  },
+  "development": {
+    "github_organizations": [
+      "ionomy"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

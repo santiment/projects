@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ooki-protocol",
+    "name": "Ooki Protocol",
+    "ticker": "OOKI",
+    "description": "Tokenized margin trading and lending",
+    "website": "https://ooki.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ookitrade",
+    "telegram": "https://t.me/OokiTrade",
+    "discord": "https://discord.gg/4wPVA6a",
+    "blog": "https://blog.ooki.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "OokiOfficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

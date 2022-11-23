@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "no-bs-crypto",
+    "name": "No BS Crypto",
+    "ticker": "NOBS",
+    "website": "https://nobscrypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/noBScrypto",
+    "telegram": "http://bit.ly/noBSCtg",
+    "discord": "https://discord.gg/s2wZUCA",
+    "slack": "https://discordapp.com/invite/s2wZUCA"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf4faea455575354d2699bc209b0a65ca99f69982",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

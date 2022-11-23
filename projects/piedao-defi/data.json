@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "piedao-defi",
+    "name": "PieDAO DEFI++",
+    "ticker": "DEFI++"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

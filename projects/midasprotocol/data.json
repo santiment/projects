@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "midasprotocol",
+    "name": "MidasProtocol",
+    "ticker": "MAS",
+    "description": "Decentralized Portfolio and Asset management Platform",
+    "website": "https://midasprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MidasProtocol",
+    "telegram": "https://t.me/midasprotocolglobal",
+    "discord": "https://discord.gg/AfPwgJV",
+    "slack": "https://discordapp.com/invite/AfPwgJV",
+    "reddit": "https://www.reddit.com/user/midasprotocol",
+    "blog": "https://medium.com/midasprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "midascore"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x23ccc43365d9dd3882eab88f43d515208f832430",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "oduwa",
+    "name": "ODUWA",
+    "ticker": "OWC",
+    "website": "https://oduwacoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Oduwacoin",
+    "telegram": "https://t.me/Oduwacoin",
+    "slack": "https://oduwacoin.slack.com/",
+    "reddit": "https://www.reddit.com/user/oduwacoin",
+    "blog": "https://medium.com/@oduwacoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "oduwax"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

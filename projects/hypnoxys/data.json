@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hypnoxys",
+    "name": "HYPNOXYS",
+    "ticker": "HYPX",
+    "description": "Instant messaging services ",
+    "website": "https://hypnoxys.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hypnoxys",
+    "telegram": "https://t.me/hypnoxys",
+    "reddit": "https://www.reddit.com/r/HYPNOXYS/",
+    "blog": "https://medium.com/@hypnoxys"
+  },
+  "development": {
+    "github_organizations": [
+      "hypnoxys"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd35833f9255fb28cc6b91acb8a66ba6429d6ef5a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "frax-share",
+    "name": "Frax Share",
+    "ticker": "FXS",
+    "description": "Fractional-algorithmic stablecoin protocol",
+    "website": "https://frax.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fraxfinance",
+    "telegram": "https://t.me/fraxfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "fraxfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

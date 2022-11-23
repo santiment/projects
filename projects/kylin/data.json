@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kylin",
+    "name": "Kylin",
+    "ticker": "KYL",
+    "description": "Data infrastructure for DeFi and Web 3.0",
+    "website": "https://kylin.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Kylin_Network",
+    "telegram": "https://t.me/KylinOfficial",
+    "discord": "https://discord.com/invite/PwYCssr",
+    "blog": "https://medium.com/@kylinNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "Kylin-Network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

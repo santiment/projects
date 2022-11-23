@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "ethersportz",
+    "name": "EtherSportz",
+    "ticker": "ESZ",
+    "description": "Win money playing online games",
+    "website": "https://ethersportz.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EtherSportz",
+    "telegram": "https://t.me/ESZCoin",
+    "discord": "https://discord.gg/Hf2eMvV",
+    "slack": "https://discordapp.com/invite/Hf2eMvV",
+    "reddit": "https://www.reddit.com/user/ethersportz",
+    "blog": "https://medium.com/@EtherSportz"
+  },
+  "development": {
+    "github_organizations": [
+      "ethersportz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

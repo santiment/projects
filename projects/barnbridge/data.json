@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "barnbridge",
+    "name": "BarnBridge",
+    "ticker": "BOND",
+    "description": "Tokenized risk protocol",
+    "website": "https://barnbridge.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/barn_bridge",
+    "discord": "https://discord.gg/s9Z6HJH",
+    "slack": "https://discord.gg/s9Z6HJH",
+    "blog": "https://medium.com/barnbridge"
+  },
+  "development": {
+    "github_organizations": [
+      "BarnBridge"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

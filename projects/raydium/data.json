@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "raydium",
+    "name": "Raydium",
+    "ticker": "RAY",
+    "description": "An on-chain order book AMM",
+    "website": "https://raydium.io/#/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/raydiumprotocol",
+    "telegram": "https://t.me/raydiumprotocol",
+    "discord": "https://discord.com/invite/6EvFwvCfpx",
+    "blog": "https://raydium.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

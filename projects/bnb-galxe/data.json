@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bnb-galxe",
+    "name": "Unneeded Galxe",
+    "ticker": "GAL",
+    "description": "Formerly Project Galaxy ",
+    "website": "https://galxe.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Galxe",
+    "telegram": "https://gal.xyz/telegram",
+    "discord": "https://gal.xyz/discord",
+    "blog": "https://blog.galxe.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

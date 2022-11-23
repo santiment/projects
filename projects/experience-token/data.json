@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "experience-token",
+    "name": "Experience Token",
+    "ticker": "EXT",
+    "description": "A deserialized identity network",
+    "website": "https://ext.earth/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EXTproject",
+    "telegram": "https://t.me/EXTproject",
+    "slack": "https://weibo.com/exchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

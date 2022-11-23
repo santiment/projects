@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "nebula-ai",
+    "name": "Nebula AI",
+    "ticker": "NBAI",
+    "description": "A decentralized blockchain, integrated with artificial intelligence computing services",
+    "website": "https://www.nebula-ai.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nebula_ai",
+    "telegram": "https://t.me/NebulaAICommunity"
+  },
+  "development": {
+    "github_organizations": [
+      "nebulaai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x17f8afb63dfcdcc90ebe6e84f060cc306a98257d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

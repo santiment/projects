@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "v-systems",
+    "name": "V Systems",
+    "ticker": "VSYS",
+    "description": "The Blockchain Database Cloud",
+    "website": "https://www.v.systems/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VSYSCoin",
+    "telegram": "https://t.me/VSYSOfficialGroup",
+    "reddit": "https://www.reddit.com/r/V_SYSTEMS",
+    "blog": "https://medium.com/vsystems"
+  },
+  "development": {
+    "github_organizations": [
+      "virtualeconomy"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

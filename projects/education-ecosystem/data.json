@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "education-ecosystem",
+    "name": "Education Ecosystem",
+    "ticker": "LEDU",
+    "description": "Decentralized learning platform that teaches people how to build complete products",
+    "website": "https://tokensale.liveedu.tv/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/liveedutv",
+    "telegram": "https://t.me/educoins",
+    "blog": "https://medium.com/liveedu-ico/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

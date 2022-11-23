@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "lala-world",
+    "name": "LALA World",
+    "ticker": "LALA",
+    "website": "https://lalaworld.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MyLaLaWorld",
+    "telegram": "https://t.me/LaLaWorld",
+    "slack": "https://slacklalaworld.slack.com/",
+    "reddit": "https://www.reddit.com/user/MyLaLaWorld/",
+    "blog": "https://medium.com/lala-world"
+  },
+  "development": {
+    "github_organizations": [
+      "tech-lalaworld"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfd107b473ab90e8fbd89872144a3dc92c40fa8c9",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

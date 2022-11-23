@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "o3-swap",
+    "name": "O3 Swap",
+    "ticker": "O3"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

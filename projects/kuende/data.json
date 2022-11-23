@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "kuende",
+    "name": "Kuende",
+    "ticker": "KUE",
+    "description": "Hybrid online/offline social network",
+    "website": "https://kuende.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KuendeOfficial",
+    "telegram": "http://t.me/kuende",
+    "reddit": "https://www.reddit.com/r/kuende/",
+    "blog": "https://medium.com/kuende"
+  },
+  "development": {
+    "github_organizations": [
+      "kuende"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf1338fbafe7af1789151627b886781ba556ef9a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

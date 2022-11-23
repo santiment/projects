@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "keytango",
+    "name": "keyTango",
+    "ticker": "TANGO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

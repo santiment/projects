@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "vite",
+    "name": "VITE",
+    "ticker": "VITE",
+    "description": "A Next Generation High-performance DAPP Platform",
+    "website": "https://www.vite.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vitelabs",
+    "telegram": "https://t.me/vite_en",
+    "discord": "https://discord.gg/CsVY76q",
+    "slack": "https://discordapp.com/invite/CsVY76q",
+    "reddit": "https://www.reddit.com/r/vitelabs/",
+    "blog": "https://medium.com/vitelabs"
+  },
+  "development": {
+    "github_organizations": [
+      "vitelabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1b793E49237758dBD8b752AFC9Eb4b329d5Da016",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

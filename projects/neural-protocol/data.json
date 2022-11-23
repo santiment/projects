@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "neural-protocol",
+    "name": "Neural Protocol",
+    "ticker": "NRP",
+    "description": "Global decentralizeв payment gateway ecosystem",
+    "website": "https://www.nrp.world/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/neuralprotocol",
+    "telegram": "http://t.me/neuralprotocol",
+    "blog": "https://medium.com/@info_87830/neural-protocol-nrp-airdrop-ico-37ab1923c9cb"
+  },
+  "development": {
+    "github_organizations": [
+      "neuralprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3918c42f14f2eb1168365f911f63e540e5a306b5",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

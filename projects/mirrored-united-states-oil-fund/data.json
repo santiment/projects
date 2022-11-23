@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "mirrored-united-states-oil-fund",
+    "name": "Mirrored United States Oil Fund",
+    "ticker": "mUSO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

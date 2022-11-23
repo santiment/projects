@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "polinate",
+    "name": "Polinate",
+    "ticker": "POLI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

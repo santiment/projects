@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "swop",
+    "name": "Swop",
+    "ticker": "SWOP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

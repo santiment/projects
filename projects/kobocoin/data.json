@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kobocoin",
+    "name": "Kobocoin",
+    "ticker": "KOBO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

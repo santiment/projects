@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "o-weth",
+    "name": "WETH [on Optimism]",
+    "ticker": "WETH",
+    "website": "https://weth.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
+      }
+    ]
+  }
+}

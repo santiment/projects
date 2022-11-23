@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitshares",
+    "name": "BitShares",
+    "ticker": "BTS",
+    "description": "Decentralized exchange",
+    "website": "https://bitshares.org"
+  },
+  "social": {
+    "telegram": "https://t.me/BitSharesDAC"
+  },
+  "development": {
+    "github_organizations": [
+      "bitshares"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

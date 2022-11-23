@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "refereum",
+    "name": "Refereum",
+    "ticker": "RFR",
+    "description": "Rewards influencers and gamers to promote and play games",
+    "website": "https://refereum.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/refereum",
+    "telegram": "https://t.me/refereumtalk",
+    "reddit": "https://www.reddit.com/r/Refereum/",
+    "blog": "https://medium.com/@refereum"
+  },
+  "development": {
+    "github_organizations": [
+      "refereum"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+        "blockchain": "ethereum",
+        "decimals": 4,
+        "label": "main"
+      }
+    ]
+  }
+}

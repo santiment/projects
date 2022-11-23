@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "ton-crystal",
+    "name": "Everscale",
+    "ticker": "EVER",
+    "description": "Formerly Free TON, PoS blockchain",
+    "website": "https://freeton.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Everscale_net",
+    "telegram": "https://t.me/EVERSCALE_comm",
+    "discord": "https://discord.gg/XBqEGbWVET",
+    "reddit": "https://www.reddit.com/r/TONCRYSTAL",
+    "blog": "https://medium.com/freeton"
+  },
+  "development": {
+    "github_organizations": [
+      "tonlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

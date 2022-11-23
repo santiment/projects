@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "tagz5",
+    "name": "TAGZ5",
+    "ticker": "TAGZ5",
+    "description": "Price = index of top 5 altcoins",
+    "website": "https://tagz.com/tagz5/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tagzexchange",
+    "telegram": "https://t.me/TagzExchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4d0425e47ee2d16b94c036715dfcb52a0cebc4dc",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

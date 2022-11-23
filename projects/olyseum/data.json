@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "olyseum",
+    "name": "Olyseum",
+    "ticker": "OLY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

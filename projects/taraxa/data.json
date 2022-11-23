@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "taraxa",
+    "name": "Taraxa",
+    "ticker": "TARA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

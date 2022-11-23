@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "superrare",
+    "name": "SuperRare",
+    "ticker": "RARE",
+    "description": "Buy and sell NFTs from the world’s top artists",
+    "website": "https://superrare.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SuperRare",
+    "telegram": "https://t.me/SuperRare",
+    "discord": "https://discord.com/invite/pGeAWrP",
+    "reddit": "https://www.reddit.com/r/SuperRare/",
+    "blog": "https://medium.com/superrare"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "iungo",
+    "name": "Iungo",
+    "ticker": "ING",
+    "website": "https://iungo.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iungonetwork",
+    "telegram": "https://t.me/IUNGO",
+    "reddit": "https://www.reddit.com/r/iungo/",
+    "blog": "https://medium.com/@iungo"
+  },
+  "development": {
+    "github_organizations": [
+      "iungonetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x24ddff6d8b8a42d835af3b440de91f3386554aa4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

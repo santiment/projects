@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "themis",
+    "name": "Themis",
+    "ticker": "GET",
+    "description": "Exchange system providing a decentralised escrow service",
+    "website": "https://www.themis.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/themisnetwork",
+    "telegram": "https://t.me/ThemisNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "themisnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x60c68a87be1e8a84144b543aacfa77199cd3d024",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

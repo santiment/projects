@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "emirex",
+    "name": "Emirex Token",
+    "ticker": "EMRX",
+    "description": "Native token of the Emirex Ecosystem",
+    "website": "https://emrx.emirex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EMIREX_OFFICIAL",
+    "telegram": "https://t.me/emirex_official",
+    "blog": "https://medium.com/@EMIREX_OFFICIAL"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbdbC2a5B32F3a5141ACd18C39883066E4daB9774",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

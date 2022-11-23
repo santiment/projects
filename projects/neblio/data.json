@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "neblio",
+    "name": "Neblio",
+    "ticker": "NEBL",
+    "description": "Decentralized application platform",
+    "website": "https://nebl.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/NeblioTeam",
+    "telegram": "https://t.me/joinchat/GFVgz0G-oVXOIJGfFYD-vg",
+    "slack": "https://nebl.io/chat",
+    "reddit": "http://reddit.com/r/neblio",
+    "blog": "https://medium.com/neblio-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "neblioteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

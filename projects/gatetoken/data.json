@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "gatetoken",
+    "name": "Delete",
+    "ticker": "GT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

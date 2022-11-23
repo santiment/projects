@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ubex",
+    "name": "Ubex",
+    "ticker": "UBEX",
+    "description": "A global decentralized advertising exchange",
+    "website": "https://www.ubex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Ubex_AI",
+    "telegram": "https://t.me/UbexAI",
+    "blog": "https://medium.com/ubex"
+  },
+  "development": {
+    "github_organizations": [
+      "ubex-ai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6704b673c70de9bf74c8fba4b4bd748f0e2190e1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

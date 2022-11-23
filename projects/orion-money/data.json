@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "orion-money",
+    "name": "Orion Money",
+    "ticker": "ORION",
+    "description": "Cross-Chain Stablecoin Bank",
+    "website": "https://orion.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/orion_money",
+    "telegram": "https://t.me/Orion_Money",
+    "blog": "https://orion-money.medium.com/orion-money-litepaper-release-7e98bb3acb6f"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x727f064a78dc734d33eec18d5370aef32ffd46e4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "voxies",
+    "name": "Duplicate",
+    "ticker": "VOXEL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

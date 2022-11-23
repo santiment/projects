@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "justliquidity",
+    "name": "JustLiquidity",
+    "ticker": "JUL",
+    "description": "Rewards liquidity providers with ETH",
+    "website": "https://justliquidity.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/JustLiquidity",
+    "telegram": "https://t.me/justliquidity",
+    "blog": "https://medium.com/@justliquidity"
+  },
+  "development": {
+    "github_organizations": [
+      "JustLiquidity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5580ab97F226C324c671746a1787524AEF42E415",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

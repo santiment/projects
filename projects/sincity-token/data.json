@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sincity-token",
+    "name": "Sin City Metaverse",
+    "ticker": "SIN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

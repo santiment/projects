@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "ronin",
+    "name": "Ronin",
+    "ticker": "RON",
+    "description": "EVM-based blockchain for play-to-earn games",
+    "website": "https://bridge.roninchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SkyMavisHQ",
+    "discord": "https://discord.com/invite/axie"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

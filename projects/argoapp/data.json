@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "argoapp",
+    "name": "ArGo",
+    "ticker": "ARGO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

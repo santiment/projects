@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "tidal-finance",
+    "name": "Tidal Finance",
+    "ticker": "TIDAL",
+    "description": "Buy and sell over-leveraged covers across multiple chains",
+    "website": "https://www.tidal.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tidaldefi",
+    "telegram": "https://t.me/TidalGlobal",
+    "discord": "https://discord.com/invite/rZhuzJzXqV",
+    "blog": "https://tidalfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x29cbd0510eec0327992cd6006e63f9fa8e7f33b7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ultra",
+    "name": "Ultra",
+    "ticker": "UOS",
+    "description": "PC Game distribution platform",
+    "website": "https://ultra.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ultra_io",
+    "telegram": "https://t.me/ultra_io",
+    "discord": "https://discord.gg/9EUPGrW",
+    "slack": "https://discordapp.com/invite/9EUPGrW",
+    "blog": "https://medium.com/ultra-io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd13c7342e1ef687c5ad21b27c2b65d772cab5c8c",
+        "blockchain": "ethereum",
+        "decimals": 4,
+        "label": "main"
+      }
+    ]
+  }
+}

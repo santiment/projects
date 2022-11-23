@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "usdcoin",
+    "name": "USDCoin",
+    "ticker": "USC",
+    "description": "USC is a stablecoin pegged to the dollar value. 1 USC is always equivalent to 1 USD",
+    "website": "https://www.usc.us/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/usc_goopal",
+    "telegram": "https://t.me/usc888"
+  },
+  "development": {
+    "github_organizations": [
+      "uscpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2C5dcd12141c56FBEa08e95f54f12c8B22d492Eb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

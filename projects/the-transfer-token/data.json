@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "the-transfer-token",
+    "name": "The Transfer Token",
+    "ticker": "TTT",
+    "description": "Eternal Wallet native token",
+    "website": "https://www.atom-solutions.jp/en/xecttt/index.php"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AtomOfficialSNS",
+    "telegram": "https://t.me/AtomOfficialSNS",
+    "reddit": "https://www.reddit.com/user/AtomOfficialSNS",
+    "blog": "https://medium.com/@atomofficialsns"
+  },
+  "development": {
+    "github_organizations": [
+      "atom-solutions"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2494a68C1484376fEf880b4c24D91f049d29B02A",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

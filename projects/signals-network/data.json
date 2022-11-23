@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "signals-network",
+    "name": "Signals Network",
+    "ticker": "SGN",
+    "description": "Marketplace of data science powered signals",
+    "website": "https://signals.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/signals_network",
+    "telegram": "https://t.me/signals_network",
+    "reddit": "https://www.reddit.com/r/SignalsNetwork",
+    "blog": "https://blog.signals.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "signalsnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb2135ab9695a7678dd590b1a996cb0f37bcb0718",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

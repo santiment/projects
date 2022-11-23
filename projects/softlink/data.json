@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "softlink",
+    "name": "Soft Link",
+    "ticker": "SLINK",
+    "description": "An elastic supply cryptocurrency",
+    "website": "https://slink.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/slinkfinance",
+    "telegram": "https://t.me/OfficialSoftLink",
+    "discord": "https://discord.com/invite/MpUQcRR",
+    "slack": "https://discord.com/invite/MpUQcRR",
+    "blog": "https://medium.com/@softlink"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x10bae51262490b4f4af41e12ed52a0e744c1137a",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

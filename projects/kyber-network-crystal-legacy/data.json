@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kyber-network-crystal-legacy",
+    "name": "Delete",
+    "ticker": "KNCL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

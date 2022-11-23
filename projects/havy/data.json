@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "havy",
+    "name": "Havy",
+    "ticker": "HAVY",
+    "description": "A cryptocurrency marketplace",
+    "website": "https://www.havy.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Havyio",
+    "telegram": "http://t.me/havygroup",
+    "blog": "https://medium.com/@havyio/havy-airdrop-4a8af8a317c3"
+  },
+  "development": {
+    "github_organizations": [
+      "havytoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7c2e5b7ec572199d3841f6a38f7d4868bd0798f1",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

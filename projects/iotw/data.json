@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "iotw",
+    "name": "IOTW",
+    "ticker": "IOTW",
+    "description": "A Blockchain-Enabled IoT Data Platform",
+    "website": "https://iotw.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IOTW_Official",
+    "telegram": "https://t.me/iotwcommunity",
+    "blog": "https://medium.com/@IOTW_Offical"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4fe327c5a809fa721d47b80c5038a0b393e61305",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

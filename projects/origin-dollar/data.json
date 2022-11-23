@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "origin-dollar",
+    "name": "Origin Dollar",
+    "ticker": "OUSD",
+    "description": "The first stablecoin that earns a yield while it’s still in your wallet",
+    "website": "https://www.ousd.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/originprotocol",
+    "telegram": "https://t.me/originprotocol",
+    "discord": "https://discordapp.com/invite/jyxpUSe",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "blog": "https://medium.com/originprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

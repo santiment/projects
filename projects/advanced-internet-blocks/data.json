@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "advanced-internet-blocks",
+    "name": "Advanced Internet Blocks",
+    "ticker": "AIB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

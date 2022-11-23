@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "paid-network",
+    "name": "PAID Network",
+    "ticker": "PAID",
+    "description": "A legal toolkit for business needs",
+    "website": "https://paidnetwork.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/paid_network",
+    "telegram": "https://t.me/paidnetwork",
+    "blog": "https://paidnetwork.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "PAIDNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

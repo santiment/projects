@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "iyf-finance",
+    "name": "IYF.finance",
+    "ticker": "IYF",
+    "description": "A yield-farming project with arbitrage tools",
+    "website": "https://iyf.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iyieldfarm",
+    "telegram": "http://t.me/iYieldFarm",
+    "discord": "http://discord.gg/9PJtjUW",
+    "slack": "http://discord.gg/9PJtjUW",
+    "blog": "https://medium.com/@iyieldfarm"
+  },
+  "development": {
+    "github_organizations": [
+      "iyieldfarm"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d762f76b9e91f71cc4f94391bdfe6333db8519c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

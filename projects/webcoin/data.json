@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "webcoin",
+    "name": "Webcoin",
+    "ticker": "WEB",
+    "description": "Pioneers the technological dawn of global marketing digitalization",
+    "website": "https://webcoin.today/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/webcointoday",
+    "telegram": "https://t.me/Webcoin",
+    "slack": "https://webcoinico.slack.com/",
+    "reddit": "https://www.reddit.com/user/webcoin",
+    "blog": "https://medium.com/@Webcoinstoday"
+  },
+  "development": {
+    "github_organizations": [
+      "webcoinico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x840fe75abfadc0f2d54037829571b2782e919ce4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "trias-token",
+    "name": "Trias Token",
+    "ticker": "TRIAS",
+    "description": "Intelligent Autonomous Systems",
+    "website": "https://www.trias.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/triaslab",
+    "telegram": "https://t.me/triaslab",
+    "blog": "https://triaslab.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "nimiq",
+    "name": "Delete",
+    "ticker": "NIM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

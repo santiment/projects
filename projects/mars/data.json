@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "mars",
+    "name": "Mars",
+    "ticker": "Mars",
+    "description": "Decentralized and Standardized Hashrate Protocol",
+    "website": "https://mars.poolin.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MarsProject2020",
+    "telegram": "https://t.me/marsproject1",
+    "discord": "https://discord.gg/hjHAvJpaVM",
+    "slack": "https://discord.gg/hjHAvJpaVM",
+    "blog": "https://marsproject.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "MarsFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

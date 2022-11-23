@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "ugchain",
+    "name": "ugChain",
+    "ticker": "UGC",
+    "description": "Decentralized game ecosystem + virtual asset management",
+    "website": "http://www.ugchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ugChain",
+    "telegram": "https://t.me/ugChainOfficial",
+    "slack": "https://ugchainpublic.slack.com/",
+    "reddit": "https://www.reddit.com/user/ugChain/",
+    "blog": "http://bbs.ugchain.org/forum.php"
+  },
+  "development": {
+    "github_organizations": [
+      "ugchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf485c5e679238f9304d986bb2fc28fe3379200e5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

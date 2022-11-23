@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "substratum",
+    "name": "Substratum",
+    "ticker": "SUB",
+    "description": "Decentralized internet hosting system",
+    "website": "https://substratum.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SubstratumNet",
+    "telegram": "https://t.me/SubstratumCommunity",
+    "slack": "https://substratumcoin.slack.com/join/shared_invite/MjI3Nzc5NzExNDg4LTE1MDMwNDY5ODItODlkYjNiYzhkZg",
+    "reddit": "https://www.reddit.com/r/SubstratumNetwork/",
+    "blog": "http://substratum.net/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "substratumnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

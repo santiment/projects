@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "blocklancer",
+    "name": "Blocklancer",
+    "ticker": "LNC",
+    "description": "Freelance on the blockchain",
+    "website": "https://blocklancer.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blocklancer",
+    "telegram": "https://t.me/joinchat/C2f8exCVswaoSzXtCf6kLw?utm_content=buffer6047c&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer",
+    "discord": "https://discord.gg/Jw4wCsm",
+    "slack": "https://discordapp.com/invite/Jw4wCsm",
+    "reddit": "https://www.reddit.com/r/blocklancer/",
+    "blog": "https://publication.blocklancer.net/"
+  },
+  "development": {
+    "github_organizations": [
+      "blocklancerorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x63e634330a20150dbb61b15648bc73855d6ccf07",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

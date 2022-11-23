@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "compound-dai",
+    "name": "Compound Dai",
+    "ticker": "CDAI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

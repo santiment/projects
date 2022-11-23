@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "fera",
+    "name": "Fera",
+    "ticker": "FERA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
