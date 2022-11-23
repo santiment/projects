@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ddai",
+    "name": "dDAI",
+    "ticker": "DDAI",
+    "description": "Interest delegating DAI with smart DeFi Recipes",
+    "website": "https://ddai.dexwallet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dexwallet",
+    "telegram": "https://t.me/joindexlab",
+    "discord": "https://www.dexwallet.io/discord/",
+    "slack": "https://www.dexwallet.io/discord/"
+  },
+  "development": {
+    "github_organizations": [
+      "MickdeGraaf"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "darkbuild",
+    "name": "Dark.Build",
+    "ticker": "DARK",
+    "description": "A governance token on digital asset space",
+    "website": "https://www.dark.build/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DarkBuild1",
+    "telegram": "https://t.me/darkbuild",
+    "discord": "https://discord.gg/darkbuild",
+    "slack": "https://discord.gg/darkbuild"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3108ccFd96816F9E663baA0E8c5951D229E8C6da",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

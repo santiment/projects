@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "deso",
+    "name": "Decentralized Social",
+    "ticker": "DESO",
+    "description": "The Decentralized Social Blockchain",
+    "website": "https://deso.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/desoprotocol",
+    "discord": "https://discord.gg/JFHDRt4Cdm",
+    "reddit": "https://reddit.com/r/DESO"
+  },
+  "development": {
+    "github_organizations": [
+      "deso-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "decent-bet",
+    "name": "DecentBet",
+    "ticker": "DBET",
+    "description": "Sports betting and gambling platform",
+    "website": "https://www.decent.bet/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/decent_bet/",
+    "slack": "https://decentbet-slack.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/decentbet/"
+  },
+  "development": {
+    "github_organizations": [
+      "decentbet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b68bfae21df5a510931a262cecf63f41338f264",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

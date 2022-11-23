@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "defi-bids",
+    "name": "DeFi Bids",
+    "ticker": "BID",
+    "description": "A decentralized auction site",
+    "website": "https://defibids.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defibids",
+    "telegram": "https://t.me/defibids"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x912B38134F395D1BFAb4C6F9db632C31667ACF98",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "deepbrain-chain",
+    "name": "DeepBrain Chain",
+    "ticker": "DBC",
+    "description": "Artificial Intelligence Blockchain Driven Computing Platform",
+    "website": "https://www.deepbrainchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeepBrainChain",
+    "telegram": "https://t.me/deepbrainchain",
+    "reddit": "https://www.reddit.com/r/DeepBrainChain/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

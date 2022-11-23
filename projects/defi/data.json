@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "defi",
+    "name": "Defi",
+    "ticker": "DEFI",
+    "description": "Blockchain-based Credit Fraud Detection",
+    "website": "https://www.defilab.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DefiLab",
+    "telegram": "https://www.defilab.com/",
+    "blog": "https://medium.com/@DefiLab"
+  },
+  "development": {
+    "github_organizations": [
+      "defilab"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x98b2de885e916b598f65ded2fdbb63187eaef184",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

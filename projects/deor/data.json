@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "deor",
+    "name": "DEOR",
+    "ticker": "DEOR",
+    "description": "Aggregating multiple oracle sources",
+    "website": "https://www.deor.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deor_io",
+    "telegram": "https://t.me/DecentralizedOracle",
+    "blog": "https://medium.com/@deor"
+  },
+  "development": {
+    "github_organizations": [
+      "computercybersecurity"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x63726dae7c57d25e90ec829ce9a5c745ffd984d3",
+        "blockchain": "ethereum",
+        "decimals": 10
+      }
+    ]
+  }
+}

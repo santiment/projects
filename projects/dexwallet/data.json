@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "dexwallet",
+    "name": "DexWallet",
+    "ticker": "DWL",
+    "description": "Mobile wallet with interfaces to DeFi products",
+    "website": "https://www.dexwallet.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dexlab_io",
+    "telegram": "https://t.me/joindexlab",
+    "discord": "https://dexpay.me/discord",
+    "slack": "https://dexpay.me/discord",
+    "blog": "https://medium.com/dexlab-io"
+  },
+  "development": {
+    "github_organizations": [
+      "dexlab-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

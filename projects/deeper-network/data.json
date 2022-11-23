@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "deeper-network",
+    "name": "Deeper Network",
+    "ticker": "DPR",
+    "description": "The Decentralized Gateway and Infrastructure for Web3.0",
+    "website": "https://deeper.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deeper_network",
+    "telegram": "https://t.me/DeeperNetwork",
+    "discord": "https://discord.gg/EWUyAJyH2B",
+    "reddit": "https://www.reddit.com/r/DeeperNetwork/",
+    "blog": "https://deeper-network.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "deeper-chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf3ae5d769e153ef72b4e3591ac004e89f48107a1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dew",
+    "name": "DEW",
+    "ticker": "DEW",
+    "description": "Decentralized Exchange of the World",
+    "website": "https://www.dew.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DewFund",
+    "telegram": "https://t.me/dew_cn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x20e94867794dba030ee287f1406e100d03c84cd3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

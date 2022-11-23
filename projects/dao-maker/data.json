@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dao-maker",
+    "name": "DAO Maker",
+    "ticker": "DAO",
+    "description": "Blockchain Saas solutions",
+    "website": "https://daomaker.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheDaoMaker",
+    "telegram": "https://t.me/daomaker",
+    "blog": "https://medium.com/daomaker"
+  },
+  "development": {
+    "github_organizations": [
+      "daomaker"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

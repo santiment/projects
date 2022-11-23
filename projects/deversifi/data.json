@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "deversifi",
+    "name": "DeversiFi",
+    "ticker": "DVF",
+    "description": "Layer 2 Ethereum exchange",
+    "website": "https://deversifi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deversifi",
+    "discord": "https://discord.com/invite/7x7YwYX"
+  },
+  "development": {
+    "github_organizations": [
+      "deversifi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdddddd4301a082e62e84e43f474f044423921918",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

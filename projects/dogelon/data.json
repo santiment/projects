@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dogelon",
+    "name": "Dogelon Mars",
+    "ticker": "ELON",
+    "description": "A universal currency for the people",
+    "website": "https://dogelon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dogelonmars",
+    "telegram": "https://t.me/DogelonMars"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

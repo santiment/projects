@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dao-casino",
+    "name": "DAO.Casino",
+    "ticker": "BET",
+    "description": "Blockchain protocol for gambling",
+    "website": "https://dao.casino/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/daocasino",
+    "telegram": "https://t.me/daocasino",
+    "slack": "https://dao.casino/slack-invite.html",
+    "reddit": "https://www.reddit.com/r/DaoCasino/",
+    "blog": "https://medium.com/@dao.casino/dao-casino-token-sale-campaign-officially-ended-1025d2a853a4"
+  },
+  "development": {
+    "github_organizations": [
+      "daocasino"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

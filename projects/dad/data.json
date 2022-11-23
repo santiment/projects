@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "dad",
+    "name": "Delete",
+    "ticker": "DAD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b322514ff727253292637d9054301600c2c81e8",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

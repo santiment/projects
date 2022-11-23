@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "defina-finance",
+    "name": "Defina Finance",
+    "ticker": "FINA",
+    "description": "Where gaming meets DeFi and NFTs",
+    "website": "https://defina.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DefinaFinance",
+    "telegram": "https://t.me/definafinance1",
+    "discord": "https://discord.gg/rBecngEFnu",
+    "blog": "https://defina-finance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

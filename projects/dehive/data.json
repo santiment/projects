@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dehive",
+    "name": "DeHive",
+    "ticker": "DHV",
+    "description": "Multi-chain asset management protocol",
+    "website": "https://dehive.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dehive_finance",
+    "telegram": "https://t.me/DeHive_chat",
+    "discord": "https://discord.gg/RPFC5vw5HV",
+    "blog": "https://medium.com/dehive"
+  },
+  "development": {
+    "github_organizations": [
+      "DeHive-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

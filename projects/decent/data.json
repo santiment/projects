@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "decent",
+    "name": "Decent",
+    "ticker": "DCT",
+    "description": "Content Distribution",
+    "website": "https://decent.ch/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DECENTplatform",
+    "reddit": "https://www.reddit.com/r/Decentplatform/"
+  },
+  "development": {
+    "github_organizations": [
+      "decentfoundation\t"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

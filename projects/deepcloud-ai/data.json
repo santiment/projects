@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "deepcloud-ai",
+    "name": "DeepCloud AI",
+    "ticker": "DEEP",
+    "description": "AI-driven decentralized cloud computing platform",
+    "website": "https://www.deepcloudai.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeepCloud_AI",
+    "telegram": "https://twitter.com/DeepCloud_AI",
+    "blog": "https://medium.com/@DeepCloud_AI"
+  },
+  "development": {
+    "github_organizations": [
+      "deepcloud-ai"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6cbedec4f1ac9d874987d2769596544e0d9161ab",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

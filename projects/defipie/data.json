@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "defipie",
+    "name": "DeFiPie",
+    "ticker": "PIE",
+    "description": "Lending, liquidity and staking in one platform",
+    "website": "https://defipie.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defipiepie",
+    "telegram": "https://t.me/defipie",
+    "blog": "https://medium.com/defipie"
+  },
+  "development": {
+    "github_organizations": [
+      "DefiPie"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

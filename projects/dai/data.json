@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dai",
+    "name": "Single Collateral DAI",
+    "ticker": "SAI",
+    "description": "Stablecoin on Ethereum",
+    "website": "http://www.makerdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MakerDAO",
+    "telegram": "https://t.me/MakerdaoMKR",
+    "slack": "https://chat.makerdao.com",
+    "reddit": "https://www.reddit.com/r/MakerDAO/",
+    "blog": "https://medium.com/@MakerDAO"
+  },
+  "development": {
+    "github_organizations": [
+      "makerdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

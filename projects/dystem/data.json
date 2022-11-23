@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "dystem",
+    "name": "Dystem",
+    "ticker": "DTEM",
+    "description": "Masternode / PoS crypto currency to facilitate open source community voting and bounties",
+    "website": "https://dystem.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dystemio",
+    "discord": "https://discord.gg/kTV7F8t",
+    "slack": "https://discord.gg/kTV7F8t",
+    "blog": "https://medium.com/@hello_3036"
+  },
+  "development": {
+    "github_organizations": [
+      "dystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

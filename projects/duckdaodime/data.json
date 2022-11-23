@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "duckdaodime",
+    "name": "DuckDaoDime",
+    "ticker": "DDIM",
+    "description": "Community driven project incubator",
+    "website": "https://duckdao.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dao_duck",
+    "telegram": "https://t.me/joinchat/E8orgE3QPPQR8jo6CxvNKQ"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfbeea1c75e4c4465cb2fccc9c6d6afe984558e20",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dafi-protocol",
+    "name": "DAFI Protocol",
+    "ticker": "DAFI",
+    "description": "Super staking",
+    "website": "https://www.dafiprotocol.io/#"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dafiprotocol",
+    "telegram": "https://t.me/dafiprotocol",
+    "blog": "https://dafiprotocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc979087305a826c2b2a0056cfaba50aad3e6439",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "drep",
+    "name": "DREP",
+    "ticker": "DREP",
+    "description": "Decentralized reputation ecosystem",
+    "website": "https://www.drep.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/drep_foundation",
+    "telegram": "https://t.me/drep_foundation",
+    "reddit": "https://www.reddit.com/user/DREP-FOUNDATION/",
+    "blog": "https://medium.com/@DREP_Foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "drep-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3aca71c508e06dc6b2758dab6eb20f7654572fb7",
+        "blockchain": "bnb-beacon-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "divi",
+    "name": "Divi",
+    "ticker": "DIVI",
+    "description": "A next generation Smart Wallet & the world's first 5-tier masternode system",
+    "website": "https://www.diviproject.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DiviProject",
+    "telegram": "https://t.me/diviproject",
+    "reddit": "https://www.reddit.com/r/DiviProject/",
+    "blog": "https://medium.com/diviproject"
+  },
+  "development": {
+    "github_organizations": [
+      "divicoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

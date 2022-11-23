@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "diamond-platform-token",
+    "name": "Diamond Platform Token",
+    "ticker": "DPT",
+    "description": "Utility token for Certified Diamond Coin platform",
+    "website": "https://cdiamondcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cdiamondcoin",
+    "telegram": "https://t.me/cdiamondcoin",
+    "reddit": "https://www.reddit.com/r/cdiamondcoin/",
+    "blog": "https://medium.com/Cdiamondcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "cdiamondcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x10c71515602429c19d53011ea7040b87a4894838",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

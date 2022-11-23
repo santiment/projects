@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dsla-protocol",
+    "name": "DSLA Protocol",
+    "ticker": "DSLA",
+    "description": "Decentralized alternative to SLA contracts",
+    "website": "https://stacktical.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stacktical",
+    "telegram": "https://t.me/stacktical",
+    "reddit": "https://www.reddit.com/r/Stacktical/",
+    "blog": "https://medium.com/stacktical"
+  },
+  "development": {
+    "github_organizations": [
+      "Stacktical"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

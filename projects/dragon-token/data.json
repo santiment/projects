@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dragon-token",
+    "name": "Dragon Token",
+    "ticker": "DT",
+    "description": "Native token of the DragonEx exchange",
+    "website": "https://dragonex.io/en-us/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dragonex_io",
+    "telegram": "https://t.me/DragonEx_EN",
+    "blog": "https://medium.com/dragonex"
+  },
+  "development": {
+    "github_organizations": [
+      "Dragonexio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

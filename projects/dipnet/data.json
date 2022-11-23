@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "dipnet",
+    "name": "DIPNET ",
+    "ticker": "DPN",
+    "description": "Connecting the entertainment and manufacturing industry",
+    "website": "http://www.dip.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DipNetOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "dipnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfb8bf095ebcdad57d2e37573a505e7d3bafdd3cc",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

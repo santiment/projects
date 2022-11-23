@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "deviantcoin",
+    "name": "DeviantCoin",
+    "ticker": "DEV",
+    "description": "A PoS/Masternode cryptocurrency developed with POS proof of stake",
+    "website": "https://deviantcoin.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "deviantcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

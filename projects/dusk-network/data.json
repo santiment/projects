@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dusk-network",
+    "name": "Dusk Network",
+    "ticker": "DUSK",
+    "description": "Privacy-oriented blockchain protocol",
+    "website": "https://www.dusk.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DuskFoundation",
+    "telegram": "https://t.me/DuskNetwork",
+    "reddit": "https://www.reddit.com/r/DuskNetwork/",
+    "blog": "https://dusk.network/pages/all-posts"
+  },
+  "development": {
+    "github_organizations": [
+      "dusk-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

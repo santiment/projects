@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "defizap",
+    "name": "DeFiZap",
+    "ticker": "DFZ",
+    "description": "Comlex DeFi strategies in single transactions",
+    "website": "https://defizap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DeFi_Zap",
+    "discord": "https://discord.gg/h6CGbuN",
+    "slack": "https://discord.gg/h6CGbuN"
+  },
+  "development": {
+    "github_organizations": [
+      "DeFiStrategies"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

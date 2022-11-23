@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "digix-gold-token",
+    "name": "Digix Gold Token",
+    "ticker": "DGX",
+    "description": "1 DGX = 1 gram of gold",
+    "website": "https://digix.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/digixglobal",
+    "discord": "https://discord.gg/CCDBJJC",
+    "slack": "https://discord.gg/CCDBJJC",
+    "reddit": "http://reddit.com/r/digix",
+    "blog": "https://medium.com/@digix"
+  },
+  "development": {
+    "github_organizations": [
+      "digixglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

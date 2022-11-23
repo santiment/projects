@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dreamteam-token",
+    "name": "DreamTeam",
+    "ticker": "DTT",
+    "website": "https://token.dreamteam.gg/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/GIoVA0I_pcrmSR4b0mztOw"
+  },
+  "development": {
+    "github_organizations": [
+      "dreamteamgg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x82f4ded9cec9b5750fbff5c2185aee35afc16587",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "deapcoin",
+    "name": "DEAPcoin",
+    "ticker": "DEP",
+    "description": "Digital Entertainment Asset",
+    "website": "https://dea.sg/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PlayMining_JP",
+    "telegram": "https://t.me/DEAPcoin_group"
+  },
+  "development": {
+    "github_organizations": [
+      "Digita-Entertainment-Asset"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

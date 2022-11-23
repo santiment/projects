@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "dascoin",
+    "name": "Dascoin",
+    "ticker": "DASC",
+    "description": "A store of value in the Das ecosystem",
+    "website": "https://dascoin.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DasCoinOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "techsolutions-ltd"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

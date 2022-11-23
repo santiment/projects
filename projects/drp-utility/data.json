@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "drp-utility",
+    "name": "DRP Utility",
+    "ticker": "DRPU",
+    "description": "Decentralized corporation",
+    "website": "https://www.dcorp.it/"
+  },
+  "social": {
+    "telegram": "https://t.me/joinchat/ErLl70MDUkz_ip7HsxXjGA",
+    "reddit": "https://www.reddit.com/r/dcorp/",
+    "blog": "https://medium.com/@DCORP"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe30e02f049957e2a5907589e06ba646fb2c321ba",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dogs-of-elon",
+    "name": "Dogs Of Elon",
+    "ticker": "DOE",
+    "description": "NFT marketplace",
+    "website": "https://dogsofelon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dogsofelon",
+    "telegram": "https://t.me/dogsofelon",
+    "discord": "https://discord.gg/PewAfbNA"
+  },
+  "development": {
+    "github_organizations": [
+      "dogsofelon"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

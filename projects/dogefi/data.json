@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dogefi",
+    "name": "DOGEFI",
+    "ticker": "DOGEFI",
+    "description": "A gamified community",
+    "website": "https://www.dogefi.army/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DOGEFI_Army",
+    "telegram": "https://t.me/DOGEFI_army",
+    "blog": "https://medium.com/@DOGEFI"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9b9087756eca997c5d595c840263001c9a26646d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

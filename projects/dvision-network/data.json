@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dvision-network",
+    "name": "Dvision Network",
+    "ticker": "DVI",
+    "description": "NFT metaverse platform",
+    "website": "https://dvision.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dvision_network",
+    "telegram": "https://t.me/dvisionnetworkglobal",
+    "blog": "https://medium.com/dvisionnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "Dvision-Network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

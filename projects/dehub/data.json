@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dehub",
+    "name": "DeHub",
+    "ticker": "DEHUB",
+    "description": "Decentralized entertainment hub",
+    "website": "https://www.dehub.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dehub_official",
+    "telegram": "https://t.me/Dehubofficial",
+    "blog": "https://medium.com/@dehub.bsc"
+  },
+  "development": {
+    "github_organizations": [
+      "DeHubToken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

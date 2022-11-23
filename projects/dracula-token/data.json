@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "dracula-token",
+    "name": "Dracula Token",
+    "ticker": "DRC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

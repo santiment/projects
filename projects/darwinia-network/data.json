@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "darwinia-network",
+    "name": "Darwinia Network",
+    "ticker": "RING",
+    "description": "Cross-chain bridge protocol based on Substrate",
+    "website": "https://darwinia.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DarwiniaNetwork",
+    "telegram": "https://t.me/DarwiniaNetwork",
+    "reddit": "https://www.reddit.com/r/DarwiniaFans/",
+    "blog": "https://medium.com/@DarwiniaNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "darwinia-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

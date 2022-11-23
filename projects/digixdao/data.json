@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "digixdao",
+    "name": "DigixDAO",
+    "ticker": "DGD",
+    "description": "Organisation manages tokenized gold",
+    "website": "https://digix.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/digixglobal",
+    "telegram": "http://t.me/DigixDAO",
+    "discord": "https://discord.gg/CCDBJJC",
+    "slack": "https://discordapp.com/invite/CCDBJJC",
+    "reddit": "https://www.reddit.com/r/digix/",
+    "blog": "https://medium.com/@digix"
+  },
+  "development": {
+    "github_organizations": [
+      "digixglobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

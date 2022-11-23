@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dad-chain",
+    "name": "DAD",
+    "ticker": "DAD",
+    "description": "Advertising public chain",
+    "website": "https://dad.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dad_Chain",
+    "telegram": "https://t.me/dad_official",
+    "blog": "https://medium.com/@dad_chain"
+  },
+  "development": {
+    "github_organizations": [
+      "DAD-Chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b322514ff727253292637d9054301600c2c81e8",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "decentral-games-old",
+    "name": "Duplicate",
+    "ticker": "DG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "digitex",
+    "name": "Delete",
+    "ticker": "DGTX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

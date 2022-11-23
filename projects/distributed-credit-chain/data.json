@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "distributed-credit-chain",
+    "name": "Distributed Credit Chain",
+    "ticker": "DCC",
+    "description": "A public blockchain to transform financial services",
+    "website": "http://dcc.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DccOfficial2018/",
+    "telegram": "https://t.me/DccOfficial",
+    "reddit": "https://www.reddit.com/r/dccofficial/",
+    "blog": "https://medium.com/@dcc.finance2018"
+  },
+  "development": {
+    "github_organizations": [
+      "distributedbanking"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xffa93aacf49297d51e211817452839052fdfb961",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

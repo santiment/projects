@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "dexe",
+    "name": "DeXe",
+    "ticker": "DEXE",
+    "description": "Decentralized copying of successful traders",
+    "website": "https://dexe.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DexeNetwork",
+    "telegram": "https://t.me/Dexe_network",
+    "blog": "https://medium.com/@dexe.network"
+  },
+  "development": {
+    "github_organizations": [
+      "dexe-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

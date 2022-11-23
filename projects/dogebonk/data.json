@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "dogebonk",
+    "name": "DogeBonk",
+    "ticker": "DOBO",
+    "website": "https://dogebonk.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dogebonk_token",
+    "telegram": "https://t.me/dogebonk_community",
+    "discord": "https://discord.com/invite/Xq2NMGp7Rt",
+    "reddit": "https://reddit.com/r/DogeBONK"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

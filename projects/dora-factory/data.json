@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dora-factory",
+    "name": "Dora Factory",
+    "ticker": "DORA",
+    "description": "DAO-as-a-Service",
+    "website": "https://dorafactory.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DoraFactory",
+    "telegram": "https://t.me/dorafactory",
+    "blog": "https://dorafactory.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

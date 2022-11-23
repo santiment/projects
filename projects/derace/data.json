@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "derace",
+    "name": "DeRace",
+    "ticker": "DERC",
+    "description": "Play-to-earn NFT horse racing metaverse ",
+    "website": "https://www.derace.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deracenft",
+    "telegram": "https://t.me/DeRaceNFT",
+    "blog": "https://deracenft.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Derace"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}
