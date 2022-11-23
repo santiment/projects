@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "alyattes",
+    "name": "ALYATTES",
+    "ticker": "ALYA",
+    "website": "https://alyattes.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alyattes_ALYA",
+    "reddit": "https://www.reddit.com/user/AlyattesOfficial",
+    "blog": "https://medium.com/@alyattesofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "Alyattes"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

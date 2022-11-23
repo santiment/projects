@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "alchemist",
+    "name": "Alchemist",
+    "ticker": "MIST",
+    "description": "Searching for the philosopher's stone",
+    "website": "https://alchemist.farm/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_alchemistcoin",
+    "discord": "http://discord.alchemist.wtf/"
+  },
+  "development": {
+    "github_organizations": [
+      "alchemistcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

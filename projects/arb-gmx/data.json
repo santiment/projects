@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "arb-gmx",
+    "name": "GMX [on Arbitrum]",
+    "ticker": "GMX",
+    "description": "Decentralized spot and perpetual exchange",
+    "website": "https://gmx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMX_IO",
+    "telegram": "https://t.me/GMX_IO",
+    "discord": "https://discord.com/invite/cxjZYR4gQK",
+    "blog": "https://medium.com/@gmx.io"
+  },
+  "development": {
+    "github_organizations": [
+      "gmx-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

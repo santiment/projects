@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "anyswap",
+    "name": "Anyswap",
+    "ticker": "ANY",
+    "description": "Cross chain swap protocol",
+    "website": "https://anyswap.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MultichainOrg",
+    "telegram": "https://t.me/anyswap",
+    "blog": "https://medium.com/@anyswap"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

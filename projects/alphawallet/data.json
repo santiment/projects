@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "alphawallet",
+    "name": "AlphaWallet",
+    "ticker": "AWL",
+    "description": "A mobile crypto wallet that interacts with smart contracts and dApps",
+    "website": "https://alphawallet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AlphaWallet",
+    "telegram": "https://t.me/AlphaWalletGroup",
+    "blog": "https://medium.com/alphawallet"
+  },
+  "development": {
+    "github_organizations": [
+      "AlphaWallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

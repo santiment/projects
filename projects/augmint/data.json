@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "augmint",
+    "name": "Augmint",
+    "ticker": "AUG",
+    "description": "Issues stable tokens targeted 1:1 to EUR",
+    "website": "https://www.augmint.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/augmint",
+    "discord": "https://discord.gg/PwDmsnu",
+    "slack": "https://discord.gg/PwDmsnu"
+  },
+  "development": {
+    "github_organizations": [
+      "Augmint"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

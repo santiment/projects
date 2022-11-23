@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "abra",
+    "name": "Abra",
+    "ticker": "ABR",
+    "description": "A non-custodial multi-coin wallet with built-in cryptocurrency exchange",
+    "website": "https://www.abra.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AbraGlobal",
+    "blog": "https://www.abra.com/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "asian-fintech",
+    "name": "Asian Fintech",
+    "ticker": "AFIN",
+    "description": "Utility token with co-blockchains",
+    "website": "https://www.afincoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AfinCoin",
+    "telegram": "https://t.me/AfinCoin",
+    "blog": "https://medium.com/@afincoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aave-busd",
+    "name": "Aave BUSD",
+    "ticker": "aBUSD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

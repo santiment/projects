@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "arweave",
+    "name": "Arweave",
+    "ticker": "AR",
+    "description": "A new data storage blockchain protocol",
+    "website": "https://arweave.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ArweaveTeam",
+    "telegram": "https://t.me/arweave",
+    "discord": "https://discord.gg/BXk8tq7",
+    "slack": "https://discord.gg/BXk8tq7",
+    "reddit": "https://www.reddit.com/r/Arweave/",
+    "blog": "https://medium.com/@arweave"
+  },
+  "development": {
+    "github_organizations": [
+      "arweaveteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "arionum",
+    "name": "Arionum",
+    "ticker": "ARO",
+    "description": "A new cryptocurrency built from scratch in PHP",
+    "website": "https://www.arionum.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "arionum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

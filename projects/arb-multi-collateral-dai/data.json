@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "arb-multi-collateral-dai",
+    "name": "Dai [on Arbitrum]",
+    "ticker": "DAI",
+    "description": "Stablecoin on Ethereum",
+    "website": "http://www.makerdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MakerDAO",
+    "telegram": "https://t.me/MakerdaoMKR",
+    "slack": "https://chat.makerdao.com",
+    "reddit": "https://www.reddit.com/r/MakerDAO/",
+    "blog": "https://medium.com/@MakerDAO"
+  },
+  "development": {
+    "github_organizations": [
+      "makerdao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ampleforth",
+    "name": "Ampleforth",
+    "ticker": "AMPL",
+    "description": "A digital-asset-protocol for smart commodity-money",
+    "website": "https://www.ampleforth.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ampleforthorg",
+    "telegram": "https://t.me/Ampleforth",
+    "reddit": "https://www.reddit.com/r/AmpleforthCrypto/",
+    "blog": "https://medium.com/ampleforth"
+  },
+  "development": {
+    "github_organizations": [
+      "ampleforth"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

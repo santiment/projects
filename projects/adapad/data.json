@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "adapad",
+    "name": "ADAPad",
+    "ticker": "ADAPAD",
+    "description": "First ever Deflationary Launchpad for Cardano",
+    "website": "https://adapad.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ADAPadofficial",
+    "telegram": "https://t.me/Adapadofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

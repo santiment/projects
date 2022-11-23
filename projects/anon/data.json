@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "anon",
+    "name": "ANON",
+    "ticker": "ANON",
+    "description": "Privacy oriented fork of ZCL &amp;amp; BTC",
+    "website": "https://www.anonfork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ANON_WeAreANON",
+    "telegram": "https://t.me/anonymousbitcoin",
+    "discord": "https://discord.gg/9XQMspU",
+    "slack": "https://discord.gg/9XQMspU",
+    "reddit": "https://www.reddit.com/r/AnonymousBitcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "anonymousbitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

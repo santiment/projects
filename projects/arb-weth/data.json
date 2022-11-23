@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "arb-weth",
+    "name": "WETH [on Arbitrum]",
+    "ticker": "WETH",
+    "description": "Arbitrum compatible Ether, used in DeFi",
+    "website": "https://weth.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

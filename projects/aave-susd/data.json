@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aave-susd",
+    "name": "Aave SUSD",
+    "ticker": "aSUSD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x625ae63000f46200499120b906716420bd059240",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

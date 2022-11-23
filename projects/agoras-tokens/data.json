@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "agoras-tokens",
+    "name": "Agoras: Currency of Tau",
+    "ticker": "AGRS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

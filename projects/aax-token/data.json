@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "aax-token",
+    "name": "AAX Token",
+    "ticker": "AAB",
+    "description": "AAX exchange native token",
+    "website": "https://aab.aax.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AAXExchange",
+    "telegram": "https://t.me/aaxcommunity",
+    "reddit": "https://www.reddit.com/r/AAXExchange/",
+    "blog": "https://medium.com/aaxexchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x686c650dbcfeaa75d09b883621ad810f5952bd5d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

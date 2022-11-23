@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "appcoins",
+    "name": "AppCoins",
+    "ticker": "APPC",
+    "description": "Supercharged App Store Protocol",
+    "website": "https://appcoins.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AppCoinsProject",
+    "telegram": "https://t.me/appcoinsofficial",
+    "reddit": "https://www.reddit.com/r/AppcoinsProtocol/",
+    "blog": "https://medium.com/@appcoins"
+  },
+  "development": {
+    "github_organizations": [
+      "aptoide"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

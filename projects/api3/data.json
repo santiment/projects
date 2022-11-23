@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "api3",
+    "name": "API3",
+    "ticker": "API3",
+    "description": "Decentralized APIs for Web 3.0",
+    "website": "https://api3.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/API3DAO",
+    "telegram": "https://t.me/API3DAO",
+    "reddit": "https://www.reddit.com/r/API3/",
+    "blog": "https://medium.com/api3"
+  },
+  "development": {
+    "github_organizations": [
+      "api3dao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

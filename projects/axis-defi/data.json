@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "axis-defi",
+    "name": "Axis DeFi",
+    "ticker": "AXIS",
+    "description": "DeFi Dedicated Interoperable Superchain",
+    "website": "http://www.axisdefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AxisDefi",
+    "telegram": "https://t.me/axisdefi",
+    "blog": "https://medium.com/axis-defi"
+  },
+  "development": {
+    "github_organizations": [
+      "axisdefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xecc0f1f860a82ab3b442382d93853c02d6384389",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

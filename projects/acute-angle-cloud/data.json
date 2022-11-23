@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "acute-angle-cloud",
+    "name": "Acute Angle Cloud",
+    "ticker": "AAC",
+    "website": "http://acuteangle.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AcuteAngleCloud",
+    "telegram": "https://t.me/acuteanglecloud"
+  },
+  "development": {
+    "github_organizations": [
+      "AcuteAngleCloud"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe75ad3aab14e4b0df8c5da4286608dabb21bd864",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "armor",
+    "name": "ARMOR",
+    "ticker": "ARMOR",
+    "description": "Smart insurance aggregator",
+    "website": "https://armor.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/armorfi",
+    "telegram": "https://t.me/ArmorFi",
+    "discord": "https://discord.com/invite/8HuTB22",
+    "blog": "https://medium.com/armorfi/introducing-armor-14cccb5d1699"
+  },
+  "development": {
+    "github_organizations": [
+      "ArmorFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

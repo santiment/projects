@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "azuki",
+    "name": "Azuki",
+    "ticker": "AZUKI",
+    "description": "A secondary token designed for use in Doki Doki NFT products",
+    "website": "https://dokidoki.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dokidokifinance",
+    "telegram": "https://t.me/ddnfg",
+    "discord": "https://discord.com/invite/K32BeEY",
+    "slack": "https://discord.com/invite/K32BeEY",
+    "blog": "https://medium.com/@dokidoki.finance/azukinomics-9cdb04e88b25"
+  },
+  "development": {
+    "github_organizations": [
+      "dokidokidefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "amber",
+    "name": "Ambrosus",
+    "ticker": "AMB",
+    "description": "Trusted Quality of Food &amp;amp; Medicine",
+    "website": "http://ambrosus.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AmbrosusAMB",
+    "telegram": "https://t.me/AmbrosusAMB",
+    "discord": "https://discord.gg/jbmWg8c",
+    "slack": "https://discordapp.com/invite/jbmWg8c",
+    "reddit": "https://www.reddit.com/r/ambrosus/",
+    "blog": "https://blog.ambrosus.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "ambrosus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

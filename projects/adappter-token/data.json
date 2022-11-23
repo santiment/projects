@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "adappter-token",
+    "name": "Adappter Token",
+    "ticker": "ADP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

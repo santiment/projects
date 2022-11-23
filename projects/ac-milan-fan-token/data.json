@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ac-milan-fan-token",
+    "name": "AC Milan Fan Token",
+    "ticker": "ACM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

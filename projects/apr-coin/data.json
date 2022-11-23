@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "apr-coin",
+    "name": "APR Coin",
+    "ticker": "APR",
+    "description": "A simple, secure and rewarding POS cryptocurrency",
+    "website": "https://www.apr-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/APRCoinOfficial",
+    "telegram": "https://t.me/aprcoin",
+    "discord": "https://discord.gg/JST5A9T",
+    "slack": "https://discord.gg/JST5A9T",
+    "reddit": "https://www.reddit.com/r/APRCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "aprcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

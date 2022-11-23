@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "a-step-app",
+    "name": "Step App",
+    "ticker": "FITFI",
+    "description": "Development protocol for FitFi",
+    "website": "https://step.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/stepapp_",
+    "telegram": "https://t.me/stepappchat",
+    "discord": "https://discord.com/invite/stepapp"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x714f020c54cc9d104b6f4f6998c63ce2a31d1888",
+        "decimals": 18
+      }
+    ]
+  }
+}

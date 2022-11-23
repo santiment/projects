@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "atlant",
+    "name": "ATLANT",
+    "ticker": "ATL",
+    "description": "World's Real Estate Blockchain Platform",
+    "website": "https://atlant.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atlantio",
+    "telegram": "https://t.me/atlant_eng",
+    "slack": "https://atlantio.slack.com/join/shared_invite/MjMyNzg4MTM5NTg0LTE1MDQwMzM4NjItMGEyZDY0MGY3Mg",
+    "reddit": "https://www.reddit.com/r/atlantio/",
+    "blog": "https://medium.com/@atlantio"
+  },
+  "development": {
+    "github_organizations": [
+      "atlantplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

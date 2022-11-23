@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "achain",
+    "name": "Achain",
+    "ticker": "ACT",
+    "description": "A public blockchain platform",
+    "website": "https://www.achain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AchainOfficial",
+    "telegram": "https://t.me/AchainOfficial",
+    "slack": "https://slack.achain.com/",
+    "reddit": "https://www.reddit.com/r/Achain_Official"
+  },
+  "development": {
+    "github_organizations": [
+      "achain-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "amoveo",
+    "name": "Amoveo",
+    "ticker": "VEO",
+    "description": "Amoveo has Bitcoin-like Lightning channels. Users can move money inside the channel much faster and cheaper than publishing a transaction on the blockchain and waiting for confirmations",
+    "website": "https://amoveo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zack_bitcoin",
+    "telegram": "https://t.me/amoveo",
+    "discord": "https://discord.gg/a52szJw",
+    "slack": "https://discordapp.com/invite/a52szJw",
+    "reddit": "https://www.reddit.com/r/Amoveo/"
+  },
+  "development": {
+    "github_organizations": [
+      "zack-bitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "akash-network",
+    "name": "Akash Network",
+    "ticker": "AKT",
+    "description": "Decentralized cloud computing marketplace",
+    "website": "https://akash.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/akashnet_",
+    "telegram": "https://t.me/akashnw",
+    "discord": "http://discord.akash.network/",
+    "reddit": "https://www.reddit.com/r/akashnetwork/"
+  },
+  "development": {
+    "github_organizations": [
+      "ovrclk"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

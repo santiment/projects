@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "aurory",
+    "name": "Aurory",
+    "ticker": "AURY",
+    "description": "Japanese role-playing game built on Solana",
+    "website": "https://aurory.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/auroryproject",
+    "telegram": "https://t.me/aurory_project",
+    "discord": "https://discord.gg/aurory",
+    "blog": "https://auroryproject.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

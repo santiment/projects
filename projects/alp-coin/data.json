@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "alp-coin",
+    "name": "ALP Coin",
+    "ticker": "ALP",
+    "description": "Native asset of the BTC-Alpha exchange",
+    "website": "https://btc-alpha.com/en/alp-coin"
+  },
+  "social": {
+    "twitter": "https://twitter.com/btcalpha",
+    "telegram": "https://telegram.me/btcalpha",
+    "reddit": "https://www.reddit.com/user/BTC_Alpha/",
+    "blog": "https://medium.com/@BTCAlpha"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x37d6e7f287200c740012747d2a79295caed2db35",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

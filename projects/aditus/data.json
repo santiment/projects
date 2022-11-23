@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "aditus",
+    "name": "Aditus",
+    "ticker": "ADI",
+    "description": "Luxury Access Platform for Crypto-Affluents",
+    "website": "https://www.aditus.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aditusnet",
+    "telegram": "http://t.me/aditusnetwork",
+    "reddit": "https://www.reddit.com/r/aditus/",
+    "blog": "https://medium.com/aditusnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "aditus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8810c63470d38639954c6b41aac545848c46484a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

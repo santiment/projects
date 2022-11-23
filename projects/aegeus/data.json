@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "aegeus",
+    "name": "Aegeus",
+    "ticker": "AEG",
+    "description": "Privacy coin based on PIVX",
+    "website": "http://aegeus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Aegeus_Coin",
+    "telegram": "https://t.me/joinchat/H6MhmRMCEGThVbXkPNhV4g",
+    "discord": "https://discord.gg/bTtgmMf",
+    "slack": "https://discord.gg/bTtgmMf",
+    "reddit": "https://www.reddit.com/r/Aegeus_Coin_Official/",
+    "blog": "https://aegeus.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "aegeuscoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

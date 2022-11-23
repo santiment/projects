@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "argentinefootballassociationfantoken",
+    "name": "Argentine Football Association Fan Token",
+    "ticker": "ARG",
+    "description": "A tokenized share of influence on club decisions",
+    "website": "https://socios.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

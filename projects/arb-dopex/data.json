@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "arb-dopex",
+    "name": "Dopex",
+    "ticker": "DPX",
+    "description": "Decentralized options exchange",
+    "website": "https://www.dopex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dopex_io",
+    "discord": "https://discord.gg/dopex",
+    "blog": "https://blog.dopex.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "dopex-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

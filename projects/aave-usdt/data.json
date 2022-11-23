@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-usdt",
+    "name": "Aave USDT",
+    "ticker": "aUSDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

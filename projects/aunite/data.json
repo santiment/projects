@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aunite",
+    "name": "Aunite",
+    "ticker": "AUNIT",
+    "description": "An automated platform that brings together options for cashback services and affiliate programs",
+    "website": "https://www.aunite.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AutoUnit2018",
+    "telegram": "https://t.me/AutoUnit_ICO",
+    "blog": "https://medium.com/@autounit2018/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

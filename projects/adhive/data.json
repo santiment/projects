@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "adhive",
+    "name": "AdHive",
+    "ticker": "ADH",
+    "description": "World’s first AI-controlled Influencer Marketing platform",
+    "website": "https://adhive.tv/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AdhiveTv",
+    "telegram": "https://t.me/adhivetv",
+    "reddit": "https://www.reddit.com/r/AdHive",
+    "blog": "https://medium.com/adhive"
+  },
+  "development": {
+    "github_organizations": [
+      "adhivetv"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe69a353b3152dd7b706ff7dd40fe1d18b7802d31",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

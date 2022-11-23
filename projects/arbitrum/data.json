@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "arbitrum",
+    "name": "Arbitrum",
+    "ticker": "ARB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "OffchainLabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

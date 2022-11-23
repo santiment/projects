@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "asura-coin",
+    "name": "Asura Coin",
+    "ticker": "ASA",
+    "description": "Asura World is a self-sustainable eSports platform, which focuses on the community ecosystem as a whole, this in tune creates an ecosystem that will be self-regulated & self-evolving.",
+    "website": "https://asuracoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/asuracoin",
+    "telegram": "https://t.me/asuracoin",
+    "reddit": "https://www.reddit.com/r/AsuraCoin/",
+    "blog": "https://medium.com/@asuracoin"
+  },
+  "development": {
+    "github_organizations": [
+      "asuracoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

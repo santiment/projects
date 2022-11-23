@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "arepacoin",
+    "name": "Arepacoin",
+    "ticker": "AREPA"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

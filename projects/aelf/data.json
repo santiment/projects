@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "aelf",
+    "name": "aelf",
+    "ticker": "ELF",
+    "description": "Cloud-powered blockchain for business",
+    "website": "http://aelf.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aelfblockchain",
+    "telegram": "https://t.me/aelfblockchain",
+    "slack": "http://slack.aelf.io/",
+    "reddit": "https://www.reddit.com/user/aelf_blockchain/",
+    "blog": "https://medium.com/@aelfblockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "aelfproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

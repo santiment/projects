@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "agrocoin",
+    "name": "Agrocoin",
+    "ticker": "AGRO",
+    "description": "Agro-industrial market",
+    "website": "https://bitagro.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitagroI",
+    "telegram": "https://t.me/agrodex_official",
+    "blog": "https://medium.com/@agrocoin.org"
+  },
+  "development": {
+    "github_organizations": [
+      "agrodex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1fd27f0cfc6f273b87a5e0f6fcf063422e7bcd6a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

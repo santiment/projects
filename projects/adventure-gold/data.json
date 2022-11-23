@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "adventure-gold",
+    "name": "Adventure Gold",
+    "ticker": "AGLD",
+    "description": "Governance token for Loot, randomized adventurer gear NFTs",
+    "website": "https://www.lootproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lootproject",
+    "discord": "https://discord.gg/NXEntTSHgy"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

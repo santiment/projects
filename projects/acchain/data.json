@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "acchain",
+    "name": "ACChain",
+    "ticker": "ACC",
+    "description": "The tool of asset digitization for changing the world",
+    "website": "https://www.acchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ACChainorg"
+  },
+  "development": {
+    "github_organizations": [
+      "sxmz"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
