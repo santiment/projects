@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "deex",
+    "name": "DEEX",
+    "ticker": "DEEX",
+    "description": "A trading platform of a new generation",
+    "website": "https://deex.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deex_exchange",
+    "telegram": "https://t.me/deexexchange",
+    "slack": "https://deexexchange.slack.com/",
+    "blog": "https://medium.com/@the_deex"
+  },
+  "development": {
+    "github_organizations": [
+      "thedeex"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

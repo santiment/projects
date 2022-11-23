@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "dignity",
+    "name": "Dignity",
+    "ticker": "DIG",
+    "website": "https://cryptobontix.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptobontix",
+    "telegram": "http://t.me/cryptobontixnews"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x093e5c256ff8b32c7f1377f4c20e331674c77f00",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

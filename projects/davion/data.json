@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "davion",
+    "name": "Davion",
+    "ticker": "DAVP",
+    "description": "Supports global payment systems",
+    "website": "http://davionpay.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/davion_payment"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d56962db8e35197f8e50d76f1f9285a6d7d7619",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "doge-dash",
+    "name": "Doge Dash",
+    "ticker": "DOGEDASH",
+    "description": "Crypto Gaming Made Easy",
+    "website": "https://dogedash.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/doge_dash",
+    "telegram": "https://t.me/dogedashgame",
+    "blog": "https://medium.com/@Dogedash_official/about"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

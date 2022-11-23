@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "daoventures",
+    "name": "DAOventures",
+    "ticker": "DVD",
+    "description": "DeFi robo-advisor and automated money manager",
+    "website": "https://www.daoventures.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VenturesDao",
+    "telegram": "https://t.me/DAOventures",
+    "discord": "https://discord.com/invite/UJaCPMkb6q",
+    "reddit": "https://www.reddit.com/r/DAOVentures/",
+    "blog": "https://daoventuresco.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "daoventures"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

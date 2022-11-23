@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "datarius-credit",
+    "name": "Datarius Credit",
+    "ticker": "DTRC",
+    "description": "The first social decentralized cryptobank",
+    "website": "https://datarius.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Datariuscrypto",
+    "telegram": "https://t.me/datarius",
+    "reddit": "https://www.reddit.com/user/datariuscryptobank",
+    "blog": "https://medium.com/@datariuscryptobank"
+  },
+  "development": {
+    "github_organizations": [
+      "krishtopa"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc20464e0c373486d2b3335576e83a218b1618a5e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

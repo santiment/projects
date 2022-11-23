@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "darma-cash",
+    "name": "Darma Cash",
+    "ticker": "DMCH",
+    "description": "Social payment ecosystem",
+    "website": "https://www.darmacash.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CashDarma",
+    "telegram": "https://t.me/DarmaCash",
+    "discord": "https://discord.com/invite/psH7Wjv",
+    "blog": "https://medium.com/darma-cash-dmch-project"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

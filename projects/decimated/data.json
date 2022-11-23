@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "decimated",
+    "name": "Decimated",
+    "ticker": "DIO",
+    "description": "A post-apocalyptic multiplayer survival game",
+    "website": "https://www.decimated.net/"
+  },
+  "social": {
+    "twitter": "https://www.twitter.com/decimated_game",
+    "telegram": "https://t.me/decimated_game",
+    "reddit": "https://reddit.com/r/decimated_game",
+    "blog": "https://www.decimated.net/category/updates/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x35a5cb585d51d836922b78a9bb1f5c04635c39b6",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dego-finance",
+    "name": "Dego Finance",
+    "ticker": "DEGO",
+    "description": "A brand new idea towards a sustainable DeFi ecosystem",
+    "website": "https://dego.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dego_finance",
+    "telegram": "https://t.me/dego_finance",
+    "discord": "https://discord.gg/xJjSJrd",
+    "slack": "https://discord.gg/xJjSJrd"
+  },
+  "development": {
+    "github_organizations": [
+      "dego-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88ef27e69108b2633f8e1c184cc37940a075cc02",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dmarket",
+    "name": "DMarket",
+    "ticker": "DMT",
+    "description": "Cross-game marketplace",
+    "website": "https://dmarket.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dmarket_com",
+    "telegram": "https://t.me/joinchat/CV8tCULRq_vJ2Xzu9Iopqg",
+    "slack": "https://www.dmarket.io/slack",
+    "reddit": "https://www.reddit.com/r/D_Market/",
+    "blog": "https://medium.com/@dmarket"
+  },
+  "development": {
+    "github_organizations": [
+      "suntechsoft"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

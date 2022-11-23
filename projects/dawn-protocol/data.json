@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dawn-protocol",
+    "name": "Dawn Protocol",
+    "ticker": "DAWN",
+    "description": "A protocol that rewards gamers",
+    "website": "https://dawn.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dawnprotocol",
+    "telegram": "https://t.me/dawnprotocol",
+    "discord": "https://discord.com/invite/MgV9YDu",
+    "blog": "https://dawn.org/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "Dawn-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x580c8520deda0a441522aeae0f9f7a5f29629afa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

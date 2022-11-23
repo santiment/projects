@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "daps-token",
+    "name": "DAPS Token",
+    "ticker": "DAPS",
+    "description": "The world's first fully private blockchain",
+    "website": "https://dapscoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DAPScoin",
+    "telegram": "https://t.me/dapscoin",
+    "reddit": "https://www.reddit.com/r/DAPSCoin/",
+    "blog": "https://steemit.com/@dapscoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "dapscoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x93190dbce9b9bd4aa546270a8d1d65905b5fdd28",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

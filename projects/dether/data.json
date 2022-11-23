@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dether",
+    "name": "Dether",
+    "ticker": "DTH",
+    "description": "Buy and sell crypto for cash",
+    "website": "https://dether.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dether_io",
+    "telegram": "https://whitepaper.dether.io/",
+    "slack": "https://dether.slack.com/",
+    "reddit": "https://www.reddit.com/r/Dether/",
+    "blog": "https://medium.com/@DETHER"
+  },
+  "development": {
+    "github_organizations": [
+      "dethertech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

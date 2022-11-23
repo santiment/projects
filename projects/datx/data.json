@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "datx",
+    "name": "DATx",
+    "ticker": "DATX",
+    "description": "A Blockchain Empowered Revolutionary Digital Advertising Terminal",
+    "website": "https://www.datx.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DATxOfficial",
+    "telegram": "https://t.me/datxofficial01"
+  },
+  "development": {
+    "github_organizations": [
+      "datx-protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xabbbb6447b68ffd6141da77c18c7b5876ed6c5ab",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

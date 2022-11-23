@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "defis",
+    "name": "Defis",
+    "ticker": "XGM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

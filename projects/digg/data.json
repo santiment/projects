@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "digg",
+    "name": "DIGG",
+    "ticker": "DIGG",
+    "description": "An elastic BTC-pegged token",
+    "website": "https://badger.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BadgerDAO",
+    "telegram": "https://t.me/badger_dao"
+  },
+  "development": {
+    "github_organizations": [
+      "Badger-Finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x798D1bE841a82a273720CE31c822C61a67a601C3",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

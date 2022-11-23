@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "defidollar-dao",
+    "name": "DefiDollar DAO",
+    "ticker": "DFD",
+    "description": "A risk-insured stablecoin layer for DeFi",
+    "website": "https://dusd.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defidollar",
+    "telegram": "https://t.me/defidollar_community",
+    "discord": "http://discord.gg/zGmC547",
+    "slack": "http://discord.gg/zGmC547",
+    "blog": "https://medium.com/defidollar"
+  },
+  "development": {
+    "github_organizations": [
+      "defidollar"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

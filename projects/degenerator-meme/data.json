@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "degenerator-meme",
+    "name": "Degenerator Meme",
+    "ticker": "MEME"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

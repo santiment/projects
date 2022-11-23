@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dollar-protocol",
+    "name": "Dollar Protocol",
+    "ticker": "USDF",
+    "description": "A suite of algorithmic synthetic assets governed by Share holders",
+    "website": "https://www.dollarprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DollarProtocol",
+    "telegram": "https://t.me/dollarprotocol",
+    "discord": "https://discord.gg/3NJ3dJr",
+    "reddit": "https://www.reddit.com/r/DollarProtocol",
+    "blog": "https://medium.com/@dollarprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Dollar-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "dydx",
+    "name": "dYdX",
+    "ticker": "DYDX",
+    "description": "Governance token for the dYdX protocol",
+    "website": "https://dydx.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dydxfoundation",
+    "telegram": "https://t.me/joinchat/GBnMlBb9mQblQck2pThTgw",
+    "discord": "https://discord.gg/Tuze6tY",
+    "reddit": "https://www.reddit.com/r/dydxprotocol/",
+    "blog": "https://medium.com/dydxderivatives"
+  },
+  "development": {
+    "github_organizations": [
+      "dydxprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

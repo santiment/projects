@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "dogey-inu",
+    "name": "Dogey-Inu",
+    "ticker": "DINU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

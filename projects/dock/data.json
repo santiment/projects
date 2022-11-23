@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dock",
+    "name": "Dock",
+    "ticker": "DOCK",
+    "description": "Decentralized data exchange protocol",
+    "website": "https://dock.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/docknetwork",
+    "telegram": "https://t.me/dockio",
+    "discord": "https://discord.gg/CauSZXH",
+    "slack": "https://discordapp.com/invite/CauSZXH",
+    "reddit": "https://www.reddit.com/r/dockio/",
+    "blog": "https://medium.com/dock-io"
+  },
+  "development": {
+    "github_organizations": [
+      "getdock"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

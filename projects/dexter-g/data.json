@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dexter-g",
+    "name": "Dexter G",
+    "ticker": "DXG",
+    "website": "https://coinbit.co.kr/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4571f3a386d1bd18e25d70d117e7067fa0bd9d08",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

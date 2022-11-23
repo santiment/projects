@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "dextoken",
+    "name": "Dextoken",
+    "ticker": "DEXG",
+    "description": "A DeFi infrastructure",
+    "website": "https://flowchain.co/dextoken.html"
+  },
+  "social": {
+    "telegram": "https://t.me/Dextoken_Official_Group"
+  },
+  "development": {
+    "github_organizations": [
+      "flowchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb81d70802a816b5dacba06d708b5acf19dcd436d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

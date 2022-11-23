@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "defi-yield-protocol",
+    "name": "DeFi Yield Protocol",
+    "ticker": "DYP",
+    "description": "Yield farming, staking and NFT",
+    "website": "https://dyp.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dypfinance",
+    "telegram": "https://t.me/dypfinance",
+    "discord": "https://discord.com/invite/kYDT6pc",
+    "blog": "https://medium.com/@dypfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "dypfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

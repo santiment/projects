@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "decoin",
+    "name": "DECOIN",
+    "ticker": "DTEP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

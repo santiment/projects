@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "devery",
+    "name": "Devery",
+    "ticker": "EVE",
+    "website": "https://devery.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deveryofficial",
+    "telegram": "https://t.me/deverychat",
+    "reddit": "https://www.reddit.com/r/deveryofficial/",
+    "blog": "https://medium.com/devery-io"
+  },
+  "development": {
+    "github_organizations": [
+      "devery"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

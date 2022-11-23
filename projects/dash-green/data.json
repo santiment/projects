@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "dash-green",
+    "name": "Dash Green",
+    "ticker": "DASHG",
+    "description": "DashGreen is a fork of PIVX that forked Dash that forked Bitcoin",
+    "website": "https://dashgreen.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DashGreenNet",
+    "discord": "https://discord.gg/WgVMS4S",
+    "slack": "https://discord.gg/WgVMS4S"
+  },
+  "development": {
+    "github_organizations": [
+      "dashgreencoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

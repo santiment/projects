@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "dimension-chain",
+    "name": "Dimension Chain",
+    "ticker": "EON",
+    "description": "Enterprise-grade blockchain network service",
+    "website": "https://dimensionchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DimensionChain",
+    "telegram": "https://t.me/dimensionofficial",
+    "blog": "https://medium.com/dimensionchain"
+  },
+  "development": {
+    "github_organizations": [
+      "dimensionofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4cb10f4df4bf4f64d4797d00d468181ef731be9a",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

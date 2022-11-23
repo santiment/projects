@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "data",
+    "name": "DATA",
+    "ticker": "DTA",
+    "description": "Decentralized AI-Powered Trust Alliance",
+    "website": "http://data.eco/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@Blockchain_Data",
+    "telegram": "https://t.me/blockchainDATA",
+    "blog": "http://medium.com/@Blockchain_Data"
+  },
+  "development": {
+    "github_organizations": [
+      "blockchain-data"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x69b148395ce0015c13e36bffbad63f49ef874e03",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

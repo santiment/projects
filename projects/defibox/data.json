@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "defibox",
+    "name": "DefiBox",
+    "ticker": "BOX",
+    "description": "One-stop DeFi application platform on EOS",
+    "website": "https://defibox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DefiboxOfficial",
+    "telegram": "https://t.me/Defibox"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

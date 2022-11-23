@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "dentacoin",
+    "name": "Dentacoin",
+    "ticker": "DCN",
+    "description": "The blockchain solution for the global dental industry",
+    "website": "http://www.dentacoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/dentacoin",
+    "telegram": "https://t.me/dentacoin",
+    "slack": "https://dentacoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/Dentacoin/",
+    "blog": "https://www.dentacoin.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "dentacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x08d32b0da63e2c3bcf8019c9c5d849d7a9d791e6",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ddex",
+    "name": "DDEX",
+    "ticker": "DDEX",
+    "description": "Decentralized Margin Trading",
+    "website": "https://ddex.io/"
+  },
+  "social": {
+    "telegram": "https://t.me/ddexio",
+    "discord": "https://discord.gg/g6C6jfB",
+    "slack": "https://discord.gg/g6C6jfB",
+    "reddit": "https://www.reddit.com/r/ddex/"
+  },
+  "development": {
+    "github_organizations": [
+      "HydroProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

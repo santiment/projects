@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "defigram",
+    "name": "Defigram",
+    "ticker": "DFG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

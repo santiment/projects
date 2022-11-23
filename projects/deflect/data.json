@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "deflect",
+    "name": "Deflect",
+    "ticker": "DEFLCT",
+    "description": "DeFi Hybrid of Frictionless earning, Staking Pools, Locked Liquidity, Supply Burn and Boosts",
+    "website": "https://deflectprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/deflectprotocol",
+    "telegram": "https://t.me/deflectprotocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3aa5f749d4a6bcf67dac1091ceb69d1f5d86fa53",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

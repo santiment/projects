@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "decentral-games",
+    "name": "Decentral Games",
+    "ticker": "DG",
+    "description": "Metaverse Poker, Blackjack, Roulette and Slots",
+    "website": "https://decentral.games/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/decentralgames",
+    "telegram": "https://t.me/decentralgames",
+    "discord": "https://discord.gg/cvbSNzY"
+  },
+  "development": {
+    "github_organizations": [
+      "decentralgames"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}
