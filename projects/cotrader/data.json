@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cotrader",
+    "name": "CoTrader",
+    "ticker": "COT",
+    "description": "EthFi investments funds marketplace",
+    "website": "https://cotrader.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cotrader_com",
+    "telegram": "https://t.me/cotrader",
+    "reddit": "https://www.reddit.com/r/cotrader",
+    "blog": "https://medium.com/@cotrader.com"
+  },
+  "development": {
+    "github_organizations": [
+      "cotradercore"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c872500c00565505f3624ab435c222e558e9ff8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

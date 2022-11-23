@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "connect-coin",
+    "name": "Connect Coin",
+    "ticker": "XCON",
+    "description": "E-commerce Ecosystem",
+    "website": "https://connectingcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/connectingcoin",
+    "telegram": "https://t.me/CONNECTCOIN"
+  },
+  "development": {
+    "github_organizations": [
+      "connectingcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f237d5ea7876e0e2906034d98fdb20d43666ad4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

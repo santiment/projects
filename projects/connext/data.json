@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "connext",
+    "name": "Connext",
+    "ticker": "CNX",
+    "description": "An infrastructure layer that scales Ethereum",
+    "website": "https://connext.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ConnextNetwork",
+    "discord": "https://discord.gg/yKkzZZm",
+    "slack": "https://discord.gg/yKkzZZm",
+    "blog": "https://medium.com/connext"
+  },
+  "development": {
+    "github_organizations": [
+      "ConnextProject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

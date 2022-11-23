@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "cache-gold",
+    "name": "CACHE Gold",
+    "ticker": "CGT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

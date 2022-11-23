@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "capdaxtoken",
+    "name": "CapdaxToken",
+    "ticker": "XCD",
+    "description": "A next-generation cryptocurrency ex­change for beginner and professional traders alike. A simplified “easy mode” interface allows for an easy to understand introduction, while experienced traders will find a full suite of powerful tools and lightning fast",
+    "website": "https://capdax.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CapdaxExchange",
+    "telegram": "https://t.me/CapdaxExchange",
+    "slack": "https://join.slack.com/t/capdax/shared_invite/enQtMjk2MDY5MjQ2NTE3LTBjMjFmMDVmNjYxNjBjYjM5Mjg2ZWY4YWRlYzgyZDk5N2JmOTRjMDVjYjg5ZjMwZDdhMjIwMzg4YmVlNDYyMjM",
+    "blog": "https://medium.com/capdax-exchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca00bc15f67ebea4b20dfaaa847cace113cc5501",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

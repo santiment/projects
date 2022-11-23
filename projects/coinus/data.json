@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "coinus",
+    "name": "CoinUs",
+    "ticker": "CNUS",
+    "description": "Revolutionary Hybrid Multi-Wallet",
+    "website": "https://www.coinus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinUs_Official",
+    "telegram": "https://t.me/CoinUs_ENG",
+    "reddit": "https://redd.it/8d6qc3",
+    "blog": "https://medium.com/@coinus.official"
+  },
+  "development": {
+    "github_organizations": [
+      "coinus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x722f2f3eac7e9597c73a593f7cf3de33fbfc3308",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

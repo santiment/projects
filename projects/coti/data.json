@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "coti",
+    "name": "COTI",
+    "ticker": "COTI",
+    "description": "Protocol optimized for decentralized payments",
+    "website": "https://coti.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/COTInetwork",
+    "telegram": "https://t.me/COTInetwork",
+    "reddit": "https://www.reddit.com/r/cotinetwork/",
+    "blog": "https://medium.com/cotinetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "coti-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

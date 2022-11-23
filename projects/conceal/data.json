@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "conceal",
+    "name": "Conceal",
+    "ticker": "CCX",
+    "description": "Privacy-protected DeFi and Encrypted Communications",
+    "website": "https://conceal.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ConcealNetwork",
+    "telegram": "https://t.me/joinchat/H0xqnU-vzSObrkQlov38dQ",
+    "discord": "http://discord.conceal.network/",
+    "reddit": "https://reddit.com/r/ConcealNetwork",
+    "blog": "https://medium.com/@ConcealNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "ConcealNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "colu-local-network",
+    "name": "Colu Local Network",
+    "ticker": "CLN",
+    "description": "A network of community currencies",
+    "website": "https://cln.colu.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ColuNetwork",
+    "telegram": "https://t.me/joinchat/Gcrd9Q_E_rgGEjDqmn9Gtg",
+    "blog": "https://medium.com/colu"
+  },
+  "development": {
+    "github_organizations": [
+      "colored-coins"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4162178b78d6985480a308b2190ee5517460406d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

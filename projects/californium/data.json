@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "californium",
+    "name": "Californium",
+    "ticker": "CF"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

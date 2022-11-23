@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "cpuchain",
+    "name": "CPUchain",
+    "ticker": "CPU"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

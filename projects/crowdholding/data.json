@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "crowdholding",
+    "name": "Crowdholding",
+    "ticker": "YUP",
+    "description": "An open innovation platform",
+    "website": "https://ico.crowdholding.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/crowdholding",
+    "telegram": "https://t.me/Crowdholding",
+    "slack": "https://join.slack.com/t/crowdholdingico/shared_invite/MjIzMzg3NzU5OTkxLTE1MDE4NTUwMjctYTIwYzZlOTU2Yw",
+    "reddit": "https://www.reddit.com/r/Crowdholding/",
+    "blog": "https://medium.com/@crowdholding"
+  },
+  "development": {
+    "github_organizations": [
+      "crowdholdingico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd9a12cde03a86e800496469858de8581d3a5353d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

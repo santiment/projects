@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "cybermiles",
+    "name": "CyberMiles",
+    "ticker": "CMT",
+    "description": "Decentralization of E-commerce",
+    "website": "https://www.cybermiles.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cybermiles",
+    "telegram": "https://t.me/cybermilestoken",
+    "slack": "https://cybermiles-dev.slack.com/join/shared_invite/enQtMzU2NjM1MTgwNDUyLTNjZjEyYmZlNzczNmJjNGM3ZjYxMWQ1ZjUzOGQ2MjAyMWQwM2FjMTY3OWQwOTkwYTNiZWI0ODc0ZTc3MmVhZGM",
+    "reddit": "https://www.reddit.com/r/CyberMiles/",
+    "blog": "https://www.reddit.com/user/CyberMiles/"
+  },
+  "development": {
+    "github_organizations": [
+      "cybermiles"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

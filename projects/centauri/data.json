@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "centauri",
+    "name": "Centauri",
+    "ticker": "CTX",
+    "description": "The Centauri is a system consisting of cryptocurrency, digital wallets, POS systems & vending solutions. ",
+    "website": "https://centauricoin.info/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Centauri_CTX",
+    "telegram": "https://t.me/ctxnews",
+    "blog": "https://centauricoin.info/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "ctx-coin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

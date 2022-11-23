@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "color-platform",
+    "name": "Color Platform",
+    "ticker": "CLR",
+    "description": "Advanced framework for dapps",
+    "website": "https://color-platform.org/~colors/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/colorsorgmx",
+    "telegram": "https://t.me/color_platform_en",
+    "reddit": "https://www.reddit.com/r/colorsorg/",
+    "blog": "https://medium.com/colorsorg"
+  },
+  "development": {
+    "github_organizations": [
+      "colorplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2396fbc0e2e3ae4b7206ebdb5706e2a5920349cb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "canyacoin",
+    "name": "Canya",
+    "ticker": "CAN",
+    "description": "The decentralised serviceplace for the world",
+    "website": "https://canya.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/canya_io",
+    "telegram": "https://t.me/joinchat/GI97FhDD1lf6dh-r9XRdvA",
+    "reddit": "https://www.reddit.com/r/CanYaCoin/",
+    "blog": "https://medium.com/canyacoin"
+  },
+  "development": {
+    "github_organizations": [
+      "canyacoinsale"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1d462414fe14cf489c7a21cac78509f4bf8cd7c0",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

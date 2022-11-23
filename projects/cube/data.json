@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cube",
+    "name": "Cube",
+    "ticker": "AUTO",
+    "description": "Autonomous Car Security Platform",
+    "website": "https://cubeint.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cubeintel",
+    "telegram": "https://t.me/joinchat/HEId7g9EFqAGkWqAtD67Hg",
+    "slack": "https://cubeint.slack.com/",
+    "blog": "https://cubeintelligenceltd.blogspot.my/"
+  },
+  "development": {
+    "github_organizations": [
+      "cubeint"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

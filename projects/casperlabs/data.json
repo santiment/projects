@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "casperlabs",
+    "name": "CasperLabs",
+    "ticker": "CLX",
+    "description": "Sharded and scalable next-generation blockchain",
+    "website": "https://casperlabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/meetCasperLabs",
+    "telegram": "https://t.me/casperlabs",
+    "reddit": "https://reddit.com/r/CasperLabs",
+    "blog": "https://medium.com/@CasperLabs"
+  },
+  "development": {
+    "github_organizations": [
+      "casperlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

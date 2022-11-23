@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cajutel",
+    "name": "Cajutel",
+    "ticker": "CAJ",
+    "description": "100% solar powered high speed internet for west Africa (Guinea-Bissau/Guinea)",
+    "website": "https://cajutel.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cajutel",
+    "telegram": "https://t.me/cajutel",
+    "slack": "https://cajutel.slack.com/",
+    "reddit": "https://www.reddit.com/r/cajutel/"
+  },
+  "development": {
+    "github_organizations": [
+      "andreasfink"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x96d0b9AA47356Dc088B50D4e4ce72af31C8ae9B5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

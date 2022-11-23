@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "coni",
+    "name": "Coni",
+    "ticker": "CONI",
+    "description": "A secure and trustworthy crypto assets exchange",
+    "website": "https://www.coinbene.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coinbene",
+    "telegram": "https://t.me/coinbene"
+  },
+  "development": {
+    "github_organizations": [
+      "coinbene"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c949199cff14aeaf1b33d64db01f48fb57f592f",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

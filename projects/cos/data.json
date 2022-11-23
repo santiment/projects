@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cos",
+    "name": "COS",
+    "ticker": "COS",
+    "description": "Exchange sharing 50% of revenues with the token holders",
+    "website": "https://coss.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cosscrypto",
+    "telegram": "https://t.me/myCOSS",
+    "reddit": "https://www.reddit.com/r/CossIO/"
+  },
+  "development": {
+    "github_organizations": [
+      "coss-crypto"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

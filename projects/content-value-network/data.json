@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "content-value-network",
+    "name": "Content Value Network",
+    "ticker": "CVNT",
+    "description": "Building a sensible platform for content distribution, transfer, filter and review, where good content can be immediately and widely shared while spam is held at bay",
+    "website": "http://cvn.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CvnOfficial",
+    "telegram": "https://t.me/joinchat/HfzSsBKix7JRBwEh4gLQyA",
+    "reddit": "https://www.reddit.com/user/cvn_official/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6400b5522f8d448c0803e6245436dd1c81df09ce",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

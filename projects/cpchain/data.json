@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cpchain",
+    "name": "CPChain",
+    "ticker": "CPC",
+    "description": "A distributed infrastructure for next generation Internet of Things",
+    "website": "http://www.cpchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cpchain_io",
+    "telegram": "https://t.me/cpchain",
+    "slack": "https://cpchain.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "cpchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfae4ee59cdd86e3be9e8b90b53aa866327d7c090",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "coin2play",
+    "name": "Coin2Play ",
+    "ticker": "C2P",
+    "description": "A decentralized fully secure and anonymous network ",
+    "website": "https://coin2play.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Coin2Play",
+    "telegram": "https://t.me/coin2play",
+    "discord": "https://discord.gg/35KFpHM",
+    "slack": "https://discord.gg/35KFpHM"
+  },
+  "development": {
+    "github_organizations": [
+      "coin2play"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cargox",
+    "name": "CargoX",
+    "ticker": "CXO",
+    "description": "Reshaping the Future of Global Trade with the World’s First Blockchain Bill of Lading",
+    "website": "https://cargox.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cargoxio",
+    "telegram": "https://t.me/joinchat/GAKhBQ48675fRRMEd-kLcw",
+    "reddit": "https://www.reddit.com/r/CargoXio/",
+    "blog": "https://medium.com/cargoxio"
+  },
+  "development": {
+    "github_organizations": [
+      "cargoxio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

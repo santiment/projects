@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "cherry-swap",
+    "name": "Cherry Swap",
+    "ticker": "CSW",
+    "description": "Interest rate swaps on Compound Finance markets",
+    "website": "https://cherryswap.now.sh/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "neapolitanswaps"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

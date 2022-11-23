@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cichain",
+    "name": "CIChain",
+    "ticker": "CIC",
+    "description": "A global insurance community",
+    "website": "https://cichain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cichainfound",
+    "telegram": "https://t.me/cichainCN",
+    "blog": "http://blog.cichain.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "cichain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xad640689e6950b7453729a4686edb3fdfd754616",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

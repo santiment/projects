@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "coin98",
+    "name": "Coin98",
+    "ticker": "C98",
+    "description": "A Non-Custodial, Multi-Chain Wallet and DeFi Gateway",
+    "website": "https://coin98.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin98_wallet"
+  },
+  "development": {
+    "github_organizations": [
+      "coin98"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xae12c5930881c53715b369cec7606b70d8eb229f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

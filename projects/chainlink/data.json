@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "chainlink",
+    "name": "ChainLink [on Ethereum]",
+    "ticker": "LINK",
+    "description": "External data for contracts",
+    "website": "https://chain.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/smart_contract",
+    "telegram": "https://t.me/chainlinkofficial",
+    "discord": "https://discord.gg/aSK4zew",
+    "slack": "https://discord.gg/aSK4zew",
+    "reddit": "https://www.reddit.com/r/Chainlink/",
+    "blog": "https://medium.com/chainlink"
+  },
+  "development": {
+    "github_organizations": [
+      "smartcontractkit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

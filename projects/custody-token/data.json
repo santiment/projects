@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "custody-token",
+    "name": "Custody Token",
+    "ticker": "CUST",
+    "description": "Institutional-grade custody services",
+    "website": "https://www.xtock.io/custody"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xtock_io",
+    "telegram": "https://t.me/xtock_en"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf6abff616043c2da572573dcc583b656297b30e7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

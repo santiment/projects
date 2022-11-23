@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "celer-network",
+    "name": "Celer",
+    "ticker": "CELR",
+    "description": "Layer-2 scaling platform",
+    "website": "https://www.celer.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CelerNetwork",
+    "telegram": "https://t.me/celernetwork",
+    "discord": "https://discord.gg/Trhab5w",
+    "slack": "https://discord.gg/Trhab5w",
+    "blog": "https://medium.com/celer-network"
+  },
+  "development": {
+    "github_organizations": [
+      "celer-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "cryptobosscoin",
+    "name": "CryptoBossCoin",
+    "ticker": "CBC",
+    "description": "Crypto IT solutions marketplace",
+    "website": "https://cryptoboss.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CBCCOIN",
+    "telegram": "http://t.me/mernesmax"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x790bfacae71576107c068f494c8a6302aea640cb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

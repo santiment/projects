@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "cubiex",
+    "name": "Cubiex",
+    "ticker": "CBIX",
+    "description": "Social network and crypto league for eSports",
+    "website": "https://www.cubiex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CubiexEsports",
+    "telegram": "https://t.me/cubiexesports",
+    "reddit": "https://www.reddit.com/r/CubiexEsports/",
+    "blog": "https://medium.com/@CubiexeSports"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

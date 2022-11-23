@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "chainbing",
+    "name": "Chainbing",
+    "ticker": "CBG",
+    "description": "Blockchain Information Aggregation Engine",
+    "website": "https://www.chainbing.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Chain_Bing",
+    "telegram": "https://t.me/ChainbingOfficial",
+    "blog": "https://medium.com/@ChainBing"
+  },
+  "development": {
+    "github_organizations": [
+      "chainbing"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1900E8B5619a3596745F715d0427Fe617c729BA9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

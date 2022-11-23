@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cellframe",
+    "name": "Cellframe",
+    "ticker": "CELL",
+    "description": "Service Oriented Blockchain Platform",
+    "website": "https://cellframe.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cellframenet",
+    "telegram": "https://t.me/cellframe",
+    "blog": "https://medium.com/cellframe"
+  },
+  "development": {
+    "github_organizations": [
+      "demlabs-cellframe"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x26c8afbbfe1ebaca03c2bb082e69d0476bffe099",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

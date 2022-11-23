@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "clover",
+    "name": "Clover Finance",
+    "ticker": "CLV",
+    "description": "A Foundational Layer for Cross-Chain Compatibility",
+    "website": "https://clover.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/clover_finance/",
+    "telegram": "https://t.me/clover_en/",
+    "discord": "https://discord.gg/z2egJBsBWx",
+    "blog": "https://projectclover.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "clover-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "crust-shadow",
+    "name": "Crust Shadow",
+    "ticker": "CSM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

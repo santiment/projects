@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "carat",
+    "name": "CARAT",
+    "ticker": "CARAT",
+    "description": "Tokenizing diamonds",
+    "website": "https://carats.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Caratsio",
+    "telegram": "https://t.me/caratsio",
+    "blog": "https://carats.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "caratsio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x19ea630bcbc1a511a16e65b6ecd447c92e1c087c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

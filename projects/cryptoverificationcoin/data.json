@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "cryptoverificationcoin",
+    "name": "CryptoVerificationCoin",
+    "ticker": "CVCC",
+    "description": "Verification services",
+    "website": "https://cryptoverificationcoin.com/"
+  },
+  "social": {
+    "discord": "https://discord.gg/c3j33ke",
+    "slack": "https://discordapp.com/invite/c3j33ke"
+  },
+  "development": {
+    "github_organizations": [
+      "cvccverifycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

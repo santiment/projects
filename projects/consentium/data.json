@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "consentium",
+    "name": "Consentium",
+    "ticker": "CSM",
+    "description": "Where users earn from group chats they create",
+    "website": "https://consentium.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ConsentiumCoin",
+    "telegram": "https://t.me/consentiumofficial",
+    "blog": "https://medium.com/@consentium"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd8698a985b89650d0a70f99ad2909bd0c0b4b51c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

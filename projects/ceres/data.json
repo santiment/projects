@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ceres",
+    "name": "Ceres",
+    "ticker": "CERES"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

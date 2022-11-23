@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "conflux-network",
+    "name": "Conflux Network",
+    "ticker": "CFX",
+    "description": "Connecting decentralized economies across borders and protocols",
+    "website": "https://confluxnetwork.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Conflux_Network",
+    "telegram": "https://t.me/Conflux_English",
+    "discord": "https://discord.com/invite/aCZkf2C",
+    "reddit": "https://www.reddit.com/r/Conflux_Network/",
+    "blog": "https://medium.com/@ConfluxNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "conflux-chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

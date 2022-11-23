@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "choise",
+    "name": "Choise.com",
+    "ticker": "CHO",
+    "description": "MetaFi platform",
+    "website": "https://choise.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ChoiseCom",
+    "telegram": "https://t.me/Choise_com_Chat",
+    "discord": "https://discord.com/invite/GQbcNbRWSm",
+    "blog": "https://choisecom.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

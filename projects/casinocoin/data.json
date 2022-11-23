@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "casinocoin",
+    "name": "CasinoCoin",
+    "ticker": "CSC",
+    "description": "A digital currency for the regulated online gaming sector",
+    "website": "http://casinocoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CasinoCoin",
+    "telegram": "http://t.me/casinocoin",
+    "discord": "https://discord.gg/muXdVHb",
+    "slack": "https://discordapp.com/invite/muXdVHb",
+    "reddit": "https://www.reddit.com/r/casinocoin/",
+    "blog": "https://medium.com/@CSCFoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "casinocoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

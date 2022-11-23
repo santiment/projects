@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cloudbric",
+    "name": "Cloudbric",
+    "ticker": "CLBK",
+    "description": "Cloudbric is a cloud-based web security service, offering a Web Application Firewall (WAF), DDoS protection, and SSL, all in a full-service package",
+    "website": "https://www.cloudbric.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cloudbric",
+    "telegram": "https://t.me/cloudbric",
+    "reddit": "https://reddit.com/r/cloudbric",
+    "blog": "https://medium.com/@cloudbric/"
+  },
+  "development": {
+    "github_organizations": [
+      "cloudbric-project?tab=repositories"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb1c1cb8c7c1992dba24e628bf7d38e71dad46aeb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

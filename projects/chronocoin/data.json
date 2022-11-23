@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "chronocoin",
+    "name": "ChronoCoin",
+    "ticker": "CRN",
+    "description": "Cryptocurrency on NEO blockchain",
+    "website": "https://timeinnovation.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TimeInnovation8"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

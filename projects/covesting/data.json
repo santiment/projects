@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "covesting",
+    "name": "Covesting",
+    "ticker": "COV",
+    "website": "https://covesting.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/covesting",
+    "telegram": "https://t.me/covesting",
+    "blog": "https://medium.com/@Covesting"
+  },
+  "development": {
+    "github_organizations": [
+      "covesting"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe2fb6529ef566a080e6d23de0bd351311087d567",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

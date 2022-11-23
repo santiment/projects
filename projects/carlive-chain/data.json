@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "carlive-chain",
+    "name": "Carlive Chain",
+    "ticker": "IOV",
+    "description": "Application of blockchain technology in the field of vehicle networking",
+    "website": "https://www.carlive.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CarliveChain",
+    "telegram": "https://t.me/CarLiveChainOfficial",
+    "slack": "https://carlivechain.slack.com/",
+    "reddit": "https://www.reddit.com/user/carlivechain",
+    "blog": "https://medium.com/carlive-chain"
+  },
+  "development": {
+    "github_organizations": [
+      "carlivechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0e69d0a2bbb30abcb7e5cfea0e4fde19c00a8d47",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}
