@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "adshares",
+    "name": "AdShares",
+    "ticker": "ADS",
+    "description": "Blockchain revolution in advertising",
+    "website": "https://adshares.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/adsharesNet",
+    "telegram": "https://t.me/adshares",
+    "reddit": "https://www.reddit.com/r/adshares/",
+    "blog": "https://medium.com/adshares"
+  },
+  "development": {
+    "github_organizations": [
+      "adshares"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x422866a8f0b032c5cf1dfbdef31a20f4509562b0",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

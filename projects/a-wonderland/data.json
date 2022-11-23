@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "a-wonderland",
+    "name": "Wonderland",
+    "ticker": "TIME",
+    "description": "Olympus DAO forks",
+    "website": "https://www.wonderland.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wonderland_fi",
+    "telegram": "https://t.me/joinchat/6UybL5rJMEhjN2Y5",
+    "discord": "https://discord.gg/thDHseaHUt"
+  },
+  "development": {
+    "github_organizations": [
+      "Wonderland-Money"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+        "blockchain": "avalanche",
+        "decimals": 9
+      }
+    ]
+  }
+}

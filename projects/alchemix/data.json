@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "alchemix",
+    "name": "Alchemix",
+    "ticker": "ALCX",
+    "description": "DeFi Alchemical Synthetic Tokens",
+    "website": "https://alchemix.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/alchemixfi",
+    "discord": "https://discord.gg/zAd6dzgwaj",
+    "blog": "https://alchemixfi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "alchemix-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "arpa-chain",
+    "name": "ARPA Chain",
+    "ticker": "ARPA",
+    "description": "Privacy-preserving computation solution for blockchains and enterprises",
+    "website": "https://arpachain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/arpaofficial",
+    "telegram": "https://t.me/arpa_community",
+    "blog": "https://medium.com/@arpa"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

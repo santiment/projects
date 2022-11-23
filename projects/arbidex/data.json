@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "arbidex",
+    "name": "Arbidex",
+    "ticker": "ABX",
+    "description": "Integrate exchange platform and arbitrage",
+    "website": "http://arbidex.uk.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ArbidexToken",
+    "telegram": "https://t.me/joinchat/CzZcC0V06Q2R_67d9ePHyA",
+    "blog": "https://medium.com/@arbidexpromo"
+  },
+  "development": {
+    "github_organizations": [
+      "arbidex"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "axelar",
+    "name": "Axelar",
+    "ticker": "AXL",
+    "description": "Secure cross-chain communication",
+    "website": "https://axelar.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/axelarcore",
+    "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+    "reddit": "https://reddit.com/r/axelar",
+    "blog": "https://axelar.network/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "axelarnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

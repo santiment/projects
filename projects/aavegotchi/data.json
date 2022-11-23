@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "aavegotchi",
+    "name": "Delete",
+    "ticker": "GHST"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

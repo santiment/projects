@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "alphacon",
+    "name": "Alphacon",
+    "ticker": "ALP",
+    "description": "A Blockchain-based Data and AI Platform",
+    "website": "https://alphacon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AlphaconNetwork",
+    "telegram": "https://t.me/Alphacon_ALP"
+  },
+  "development": {
+    "github_organizations": [
+      "alphaconnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x454b9f249bc1492ee995793bbc3e57b830f1a5e9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

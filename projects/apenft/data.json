@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "apenft",
+    "name": "APENFT",
+    "ticker": "NFT",
+    "description": "Investing in top NFT platforms",
+    "website": "https://www.apenft.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/apenftorg",
+    "telegram": "https://t.me/apenftEN"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

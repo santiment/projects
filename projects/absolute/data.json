@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "absolute",
+    "name": "Absolute",
+    "ticker": "ABS",
+    "description": "An ultra fast and low cost blockchain for verifying advertising through PoV (Proof of View). Backed by Masternodes.",
+    "website": "https://www.absolutecoin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Absolute_Crypto",
+    "telegram": "https://t.me/absolute_community",
+    "discord": "https://discord.gg/FhtgzY8/"
+  },
+  "development": {
+    "github_organizations": [
+      "absolute-community"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

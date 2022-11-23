@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "astar",
+    "name": "Astar",
+    "ticker": "ASTR",
+    "description": "Multichain Smart Contract Hub",
+    "website": "https://astar.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AstarNetwork",
+    "telegram": "https://t.me/PlasmOfficial",
+    "discord": "https://discord.com/invite/Z3nC9U4",
+    "blog": "https://medium.com/astar-network"
+  },
+  "development": {
+    "github_organizations": [
+      "AstarNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

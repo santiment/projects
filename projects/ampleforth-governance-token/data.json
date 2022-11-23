@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ampleforth-governance-token",
+    "name": "Ampleforth Governance Token",
+    "ticker": "FORTH",
+    "description": "Powers Ampleforth, a protocol that automatically adjusts supply of AMPL",
+    "website": "https://www.ampleforth.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AmpleforthOrg",
+    "telegram": "https://t.me/Ampleforth",
+    "discord": "https://discord.gg/mptQ49m"
+  },
+  "development": {
+    "github_organizations": [
+      "ampleforth"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

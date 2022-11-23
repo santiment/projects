@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "alqo",
+    "name": "ALQO",
+    "ticker": "XLQ",
+    "description": "Scalable Payment Network",
+    "website": "https://alqo.app/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ALQOCOIN",
+    "telegram": "https://t.me/alqoofficial",
+    "discord": "https://discord.gg/V25yNqp",
+    "reddit": "https://www.reddit.com/r/Alqo/",
+    "blog": "https://medium.com/alqo"
+  },
+  "development": {
+    "github_organizations": [
+      "ALQO-Universe"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "artfinity",
+    "name": "Artfinity",
+    "ticker": "AT",
+    "description": "Art traceability and security monitoring system",
+    "website": "http://www.jueyi.art/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe54b3458c47e44c37a267e7c633afef88287c294",
+        "blockchain": "ethereum",
+        "decimals": 5,
+        "label": "main"
+      }
+    ]
+  }
+}

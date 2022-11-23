@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "alpha-token",
+    "name": "Alpha Token",
+    "ticker": "A",
+    "description": "Accounting and financial services",
+    "website": "https://www.alphaplatform.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Alpha_Token",
+    "telegram": "https://t.me/alpha_token"
+  },
+  "development": {
+    "github_organizations": [
+      "crypt04dvisor"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xffc63b9146967a1ba33066fb057ee3722221acf0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

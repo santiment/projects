@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "avalanche",
+    "name": "Avalanche",
+    "ticker": "AVAX",
+    "description": "A platform for launching highly decentralized applications",
+    "website": "https://info.avax.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/avalancheavax",
+    "telegram": "https://t.me/avalancheavax",
+    "reddit": "https://www.reddit.com/r/avax/"
+  },
+  "development": {
+    "github_organizations": [
+      "ava-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

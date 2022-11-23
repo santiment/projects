@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "aced",
+    "name": "AceD",
+    "ticker": "ACED",
+    "description": "Privacy oriented platform",
+    "website": "https://www.acedcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AcedCoin",
+    "telegram": "https://t.me/joinchat/G-Xi8Q92YXN0AgvBvSjHew",
+    "discord": "https://discord.gg/yMTRTsj"
+  },
+  "development": {
+    "github_organizations": [
+      "acedcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b3a0c6d668b43f3f07904e124328659b90bb4ca",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

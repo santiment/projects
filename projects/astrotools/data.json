@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "astrotools",
+    "name": "AstroTools",
+    "ticker": "ASTRO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

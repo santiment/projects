@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-rep",
+    "name": "Aave REP",
+    "ticker": "aREP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

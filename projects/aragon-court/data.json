@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "aragon-court",
+    "name": "Aragon Court",
+    "ticker": "ANJ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "aencoin",
+    "name": "Aencoin",
+    "ticker": "AEN",
+    "description": "The aenco blockchain: supporting customisable business applications, financial transactions, and healthcare technology innovation. Healthtech, smart capital, and prime brokerage solutions under one umbrella",
+    "website": "https://www.aencoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aencoin",
+    "telegram": "https://t.me/AENCO",
+    "discord": "https://discord.gg/KXZzqgS",
+    "slack": "https://discordapp.com/invite/KXZzqgS",
+    "reddit": "https://reddit.com/r/Aenco",
+    "blog": "https://medium.com/@aencoin"
+  },
+  "development": {
+    "github_organizations": [
+      "aenco-global"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0bef619cf38cf0c22967289b8419720fbd1db9f7",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

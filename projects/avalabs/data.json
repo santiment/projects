@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "avalabs",
+    "name": "AVA Labs",
+    "ticker": "AVA",
+    "description": "An open-source platform for the internet of finance",
+    "website": "https://www.avalabs.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/avalabsofficial",
+    "telegram": "https://t.me/avacoin_official",
+    "slack": "https://chat.avalabs.org/",
+    "reddit": "https://www.reddit.com/r/ava/",
+    "blog": "https://medium.com/avalabs"
+  },
+  "development": {
+    "github_organizations": [
+      "ava-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

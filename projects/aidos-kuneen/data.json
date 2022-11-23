@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "aidos-kuneen",
+    "name": "Aidos Kuneen",
+    "ticker": "ADK",
+    "description": "Hades helmet of invisibility",
+    "website": "https://www.aidoskuneen.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Aidos_kuneen",
+    "telegram": "https://t.me/aidos_kuneen",
+    "slack": "https://aidos-kuneen.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "AidosKuneen"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "apecoin",
+    "name": "Duplicate",
+    "ticker": "APE",
+    "description": "Yield farming and NFT collectibles",
+    "website": "https://apecoin.dev/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/go_apecoin",
+    "telegram": "https://t.me/APE_Token",
+    "discord": "https://discord.com/invite/2NnYMg6"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x209c1808febf6c1ab7c65764bb61ad67d3923fcc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

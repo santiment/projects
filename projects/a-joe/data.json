@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "a-joe",
+    "name": "JOE",
+    "ticker": "JOE",
+    "description": "One-Stop-Shop DeFi Platform",
+    "website": "https://www.traderjoexyz.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/traderjoe_xyz",
+    "telegram": "https://t.me/traderjoe_xyz",
+    "discord": "https://discord.com/invite/GHZceZhbZU",
+    "blog": "https://traderjoe-xyz.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "traderjoe-xyz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+        "blockchain": "avalanche",
+        "decimals": 18
+      }
+    ]
+  }
+}

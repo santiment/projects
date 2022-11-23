@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ahatoken",
+    "name": "AhaToken",
+    "ticker": "AHT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

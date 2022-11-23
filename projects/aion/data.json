@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "aion",
+    "name": "Aion",
+    "ticker": "AION",
+    "description": "A platform for building dapps",
+    "website": "https://aion.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Aion_Network",
+    "telegram": "https://t.me/aion_blockchain",
+    "discord": "https://discord.gg/srU4qbS",
+    "slack": "https://discordapp.com/invite/srU4qbS",
+    "reddit": "https://www.reddit.com/r/AionNetwork/",
+    "blog": "https://blog.aion.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "aionnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

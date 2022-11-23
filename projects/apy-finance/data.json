@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "apy-finance",
+    "name": "APY.Finance",
+    "ticker": "APY",
+    "description": "Automated yield farming",
+    "website": "https://apy.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/apyfinance",
+    "telegram": "https://t.me/apyfinancechat",
+    "discord": "https://discord.gg/uzqAsmZ",
+    "blog": "https://medium.com/apy-finance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "alethea-artificial-liquid-intelligence-token",
+    "name": "Alethea Artificial Liquid Intelligence Token",
+    "ticker": "ALI",
+    "description": "Building an Intelligent Metaverse, one iNFT at a time",
+    "website": "https://alethea.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/real_alethea",
+    "telegram": "https://t.me/alethea_ai",
+    "discord": "http://discord.gg/aletheaai",
+    "reddit": "https://www.reddit.com/r/Alethea/",
+    "blog": "https://medium.com/@aletheaai"
+  },
+  "development": {
+    "github_organizations": [
+      "AletheaAI"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

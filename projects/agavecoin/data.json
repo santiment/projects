@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "agavecoin",
+    "name": "AgaveCoin",
+    "ticker": "AGVC",
+    "description": "Production chain of Agave industry",
+    "website": "https://agavecoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/agave_coin",
+    "telegram": "https://t.me/Agavecoin_English",
+    "discord": "https://discord.gg/vgeGw4m"
+  },
+  "development": {
+    "github_organizations": [
+      "tanogedler"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8b79656FC38a04044E495e22fAD747126ca305C4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

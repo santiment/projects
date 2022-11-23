@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "adultchain",
+    "name": "AdultChain",
+    "ticker": "XXX",
+    "description": "A rewards platform for the adult entertainment industry",
+    "website": "https://adultchain.xxx/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/adultchain",
+    "discord": "https://discord.gg/nqpbVtN",
+    "slack": "https://discordapp.com/invite/nqpbVtN",
+    "blog": "https://adultchain.xxx/#"
+  },
+  "development": {
+    "github_organizations": [
+      "adultchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

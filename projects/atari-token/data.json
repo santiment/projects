@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "atari-token",
+    "name": "Atari Token",
+    "ticker": "ATRI",
+    "description": "Interactive entertainment industry",
+    "website": "https://atarichain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ataritoken",
+    "telegram": "https://t.me/AtariTokenOfficial",
+    "discord": "https://discord.com/invite/6Xzd5tw",
+    "reddit": "https://www.reddit.com/r/AtariChain/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

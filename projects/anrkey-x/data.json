@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "anrkey-x",
+    "name": "AnRKey X",
+    "ticker": "$ANRX",
+    "description": "A platform for purchase, play, stake NFTs and compete in the future of DeFi based gaming",
+    "website": "https://anrkeyx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/anrkeyx",
+    "telegram": "https://t.me/anrkeyxofficial",
+    "blog": "https://anrkeyx.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcae72a7a0fd9046cf6b165ca54c9e3a3872109e0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "avinoc",
+    "name": "AVINOC",
+    "ticker": "AVINOC",
+    "description": "The Blockchain Solution disrupting the global Aviation Business",
+    "website": "https://www.avinoc.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AVINOC_ICO",
+    "telegram": "https://t.me/AVINOC",
+    "reddit": "https://www.reddit.com/r/AVINOC/",
+    "blog": "https://medium.com/@AVINOC_ICO"
+  },
+  "development": {
+    "github_organizations": [
+      "avinocico"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

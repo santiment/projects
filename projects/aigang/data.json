@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aigang",
+    "name": "Aigang",
+    "ticker": "AIX",
+    "description": "DAO Insurance Protocol",
+    "website": "https://aigang.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aigangnetwork",
+    "telegram": "https://t.me/aigangnetwork",
+    "reddit": "https://www.reddit.com/r/AigangNetwork/",
+    "blog": "https://medium.com/aigang-network"
+  },
+  "development": {
+    "github_organizations": [
+      "aigangnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1063ce524265d5a3a624f4914acd573dd89ce988",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

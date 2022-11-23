@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "alax",
+    "name": "ALAX",
+    "ticker": "ALX",
+    "description": "Mobile Games Platform for Emerging Markets",
+    "website": "https://alax.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ALAX_io",
+    "telegram": "https://t.me/ALAX_io",
+    "discord": "https://discord.gg/hfNGwkP",
+    "reddit": "https://www.reddit.com/r/Alaxplatform/",
+    "blog": "https://medium.com/alax-io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49b127bc33ce7e1586ec28cec6a65b112596c822",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

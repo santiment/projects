@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-bat",
+    "name": "Aave BAT",
+    "ticker": "aBAT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

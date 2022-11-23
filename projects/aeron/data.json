@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aeron",
+    "name": "Aeron",
+    "ticker": "ARN",
+    "description": "Aviation log data in blockchain",
+    "website": "https://aeron.aero/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aeron_aero",
+    "telegram": "https://t.me/aeronaero",
+    "reddit": "https://www.reddit.com/r/AeronAero/",
+    "blog": "https://medium.com/@aeronaero"
+  },
+  "development": {
+    "github_organizations": [
+      "aeronaero"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

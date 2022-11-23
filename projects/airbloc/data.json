@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "airbloc",
+    "name": "Airbloc",
+    "ticker": "ABL",
+    "description": "A decentralized and transparent ad data trading network based on blockchain",
+    "website": "https://www.airbloc.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AirblocOfficial",
+    "telegram": "https://t.me/airbloc",
+    "slack": "https://open.kakao.com/o/gXIW11J",
+    "reddit": "https://www.reddit.com/r/airbloc/",
+    "blog": "https://medium.com/airbloc"
+  },
+  "development": {
+    "github_organizations": [
+      "airbloc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8b358b3397a8ea5464f8cc753645d42e14b79ea",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

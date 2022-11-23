@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "amond",
+    "name": "AmonD",
+    "ticker": "AMON",
+    "description": "Direct Reward Platform",
+    "website": "https://www.amond.cc/"
+  },
+  "social": {
+    "telegram": "https://t.me/amondcommunity",
+    "blog": "https://medium.com/amondofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "amond-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x00059ae69c1622a7542edc15e8d17b060fe307b6",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

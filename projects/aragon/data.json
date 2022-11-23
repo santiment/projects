@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "aragon",
+    "name": "Aragon",
+    "ticker": "ANT",
+    "description": "Digital jurisdiction and a decentralized court system",
+    "website": "https://aragon.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AragonProject",
+    "discord": "https://discord.gg/eqQJkdp",
+    "slack": "https://discordapp.com/invite/eqQJkdp",
+    "reddit": "https://www.reddit.com/r/aragonproject/",
+    "blog": "https://blog.aragon.one/"
+  },
+  "development": {
+    "github_organizations": [
+      "aragon"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "aragon_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

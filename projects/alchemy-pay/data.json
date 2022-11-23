@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "alchemy-pay",
+    "name": "Alchemy Pay",
+    "ticker": "ACH",
+    "description": "Crypto payments technology provider",
+    "website": "https://www.alchemytech.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AlchemyPay",
+    "telegram": "https://t.me/alchemy_official",
+    "blog": "https://medium.com/@alchemyGPS"
+  },
+  "development": {
+    "github_organizations": [
+      "Alchemy-GPS"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

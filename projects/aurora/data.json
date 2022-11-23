@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "aurora",
+    "name": "Aurora",
+    "ticker": "AOA",
+    "description": "Lightning-fast contracts to link industries",
+    "website": "https://www.aurorachain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AuroraOffic_en",
+    "telegram": "https://t.me/AuroraOfficialEN"
+  },
+  "development": {
+    "github_organizations": [
+      "aoaio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9ab165d795019b6d8b3e971dda91071421305e5a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

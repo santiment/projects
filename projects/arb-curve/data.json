@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "arb-curve",
+    "name": "Curve [on Arbitrum]",
+    "ticker": "CRV",
+    "description": "Governance token on the Curve platform",
+    "website": "https://www.curve.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CurveFinance",
+    "telegram": "https://t.me/curvefi"
+  },
+  "development": {
+    "github_organizations": [
+      "curvefi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x11cDb42B0EB46D95f990BeDD4695A6e3fA034978",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

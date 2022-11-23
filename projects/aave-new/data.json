@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "aave-new",
+    "name": "Aave",
+    "ticker": "AAVE",
+    "description": "A decentralized finance protocol, new token after LEND",
+    "website": "https://aave.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AaveAave",
+    "telegram": "https://t.me/Aavesome",
+    "discord": "https://aave.com/discord",
+    "slack": "https://aave.com/discord",
+    "reddit": "https://www.reddit.com/r/Aave_Official",
+    "blog": "https://medium.com/aave"
+  },
+  "development": {
+    "github_organizations": [
+      "aave"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

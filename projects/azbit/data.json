@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "azbit",
+    "name": "Azbit",
+    "ticker": "AZ",
+    "description": "A blockchain-based banking platform",
+    "website": "https://azbit.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/azbit_news",
+    "telegram": "https://t.me/azbit_com",
+    "blog": "https://medium.com/azbit-news"
+  },
+  "development": {
+    "github_organizations": [
+      "azbit-com"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

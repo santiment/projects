@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "arb-chainlink",
+    "name": "ChainLink [on Arbitrum]",
+    "ticker": "LINK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+        "blockchain": "arbitrum",
+        "decimals": 18
+      }
+    ]
+  }
+}

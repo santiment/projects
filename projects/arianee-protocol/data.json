@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "arianee-protocol",
+    "name": "Arianee",
+    "ticker": "ARIA20"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

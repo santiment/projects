@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "anchor",
+    "name": "Anchor",
+    "ticker": "ANCT",
+    "description": "Two-token algorithmic stablecoin pegged to global economic growth",
+    "website": "https://theanchor.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/theanchor_io",
+    "telegram": "https://t.me/theanchorprojectcommunity",
+    "reddit": "https://www.reddit.com/user/TheAnchor_io",
+    "blog": "https://theanchor.io/news/category/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "AnchorProject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5456bc77dd275c45c3c15f0cf936b763cf57c3b5",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "araw",
+    "name": "ARAW",
+    "ticker": "ARAW",
+    "description": "ARAW is the Decentralised Payment for E-Commerce Ecosystem, aiming to be at the forefront of the Blockchain User Adoption globally with the intuitive integration of E-Commerce with the Decentralised Payment.",
+    "website": "https://arawtoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/arawtoken",
+    "telegram": "https://t.me/ArawTokenOfficial",
+    "blog": "https://medium.com/@TheARAWToken"
+  },
+  "development": {
+    "github_organizations": [
+      "arawtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x30680ac0a8a993088223925265fd7a76beb87e7f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

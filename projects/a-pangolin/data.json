@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "a-pangolin",
+    "name": "Pangolin",
+    "ticker": "PNG",
+    "description": "DEX on Avalanche",
+    "website": "\thttps://pangolin.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/pangolindex",
+    "telegram": "https://t.me/pangolindexV2"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+        "blockchain": "avalanche",
+        "decimals": 18
+      }
+    ]
+  }
+}

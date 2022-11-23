@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "arbitrage",
+    "name": "ARBITRAGE",
+    "ticker": "ARB",
+    "description": "Revolutionary Decentralised Arbitrage Trading Profit Platform",
+    "website": "https://www.arbitraging.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/arbitragingco",
+    "telegram": "https://t.me/arbofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "arbtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xafbec4d65bc7b116d85107fd05d912491029bf46",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

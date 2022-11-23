@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aston",
+    "name": "Aston",
+    "ticker": "ATX",
+    "description": "The Next Document Distribution Platform",
+    "website": "https://www.aston.company/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aston_company",
+    "telegram": "https://t.me/joinchat/HJVnDA9SmlOueciQIBEoQQ",
+    "reddit": "https://www.reddit.com/u/Aston_company",
+    "blog": "https://medium.com/@aston_37700"
+  },
+  "development": {
+    "github_organizations": [
+      "astonx"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1a0f2ab46ec630f9fd638029027b552afa64b94c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

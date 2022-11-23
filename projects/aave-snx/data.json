@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "aave-snx",
+    "name": "Aave SNX",
+    "ticker": "aSNX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "aventus",
+    "name": "Aventus",
+    "ticker": "AVT",
+    "description": "Event ticketing solution",
+    "website": "https://aventus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AventusNetwork",
+    "telegram": "https://t.me/joinchat/HIDa30p_VOA2Mk-V14EVMA",
+    "slack": "https://slack.aventus.io/",
+    "reddit": "https://www.reddit.com/r/Aventus/",
+    "blog": "https://medium.com/aventus"
+  },
+  "development": {
+    "github_organizations": [
+      "aventusprotocolfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

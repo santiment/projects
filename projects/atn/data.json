@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "atn",
+    "name": "ATN",
+    "ticker": "ATN",
+    "description": "A global artificial intelligence API marketplace ",
+    "website": "https://atn.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/atn_io",
+    "telegram": "https://t.me/ATN_Blockchain",
+    "slack": "https://slack.atmatrix.org/",
+    "reddit": "https://www.reddit.com/user/ATN_io",
+    "blog": "https://atn.io/posts"
+  },
+  "development": {
+    "github_organizations": [
+      "atnio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x461733c17b0755ca5649b6db08b3e213fcf22546",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

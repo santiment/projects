@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "acre",
+    "name": "ACRE",
+    "ticker": "ACRE",
+    "description": "Shifting the paradigm of property rental industry",
+    "website": "https://www.acreprop.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AcreCoinCrypto",
+    "discord": "https://discord.gg/kAPzAay"
+  },
+  "development": {
+    "github_organizations": [
+      "acrecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "alpaca-finance",
+    "name": "Alpaca Finance",
+    "ticker": "ALPACA",
+    "description": "The 1st leveraged yield farming protocol on BSC",
+    "website": "https://www.alpacafinance.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AlpacaFinance",
+    "telegram": "https://t.me/alpacafinance",
+    "discord": "https://discord.gg/2UvgmqcVDQ",
+    "blog": "https://medium.com/alpaca-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "alpaca-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

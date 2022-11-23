@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "airdao",
+    "name": "AirDAO",
+    "ticker": "AMB",
+    "description": "Formerly known as Ambrosus",
+    "website": "https://airdao.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/airdao_io",
+    "telegram": "https://t.me/AirDAO_official",
+    "reddit": "https://reddit.com/r/AirDAO",
+    "blog": "https://blog.airdao.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "ambrosus"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

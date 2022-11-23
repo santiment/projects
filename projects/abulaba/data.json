@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "abulaba",
+    "name": "Abulaba",
+    "ticker": "AAA",
+    "description": "A two-level masternode network",
+    "website": "https://abulaba.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/AbulabaCapital",
+    "telegram": "https://t.me/Abulaba_coin",
+    "reddit": "https://www.reddit.com/u/Abulaba/?st=JFWTMVN9&amp;amp;sh=6223ed22"
+  },
+  "development": {
+    "github_organizations": [
+      "abulaba"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd938137e6d96c72e4a6085412ada2dad78ff89c4",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

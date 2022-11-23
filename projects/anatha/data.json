@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "anatha",
+    "name": "Anatha",
+    "ticker": "WANATHA",
+    "description": "A vertically integrated decentralized economy",
+    "website": "https://anatha.io/platform"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Anatha_io",
+    "telegram": "https://t.me/projectanatha",
+    "discord": "https://discord.gg/h38dFJp",
+    "blog": "https://medium.com/anatha-io"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3383c5a8969Dc413bfdDc9656Eb80A1408E4bA20",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

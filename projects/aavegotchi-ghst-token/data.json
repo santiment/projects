@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "aavegotchi-ghst-token",
+    "name": "Aavegotchi",
+    "ticker": "GHST",
+    "description": "DeFi-enabled crypto collectibles",
+    "website": "https://aavegotchi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/aavegotchi",
+    "telegram": "https://t.me/aavegotchi",
+    "discord": "https://discord.com/invite/rttCTkZ",
+    "blog": "https://medium.com/@aavegotchi/"
+  },
+  "development": {
+    "github_organizations": [
+      "aavegotchi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}
