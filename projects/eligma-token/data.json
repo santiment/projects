@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "eligma-token",
+    "name": "Eligma",
+    "ticker": "ELI",
+    "description": "AI-driven and blockchain-based cognitive commerce platform",
+    "website": "https://www.eligma.io/index.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eligmacom",
+    "telegram": "https://t.me/eligma",
+    "reddit": "https://www.reddit.com/r/Eligma/",
+    "blog": "https://medium.com/eligma-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "eligma"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc7c03b8a3fc5719066e185ea616e87b88eba44a3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

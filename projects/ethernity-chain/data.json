@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "ethernity-chain",
+    "name": "Ethernity Chain",
+    "ticker": "ERN",
+    "description": "Produces authenticated NFTs",
+    "website": "https://ethernity.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethernitychain",
+    "telegram": "https://t.me/joinchat/WKqxzZV7I14xItLT",
+    "discord": "https://discord.com/invite/c29ASPJGj6"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

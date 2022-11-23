@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "exosis",
+    "name": "Exosis",
+    "ticker": "EXO",
+    "description": "A decentralized exchange, a decentralized e-commerce site, an OTC platform, a Virtual Masternode, and a multiplatform e-wallet in one place",
+    "website": "https://www.exosis.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Exosiscrypto",
+    "telegram": "https://t.me/exosis"
+  },
+  "development": {
+    "github_organizations": [
+      "exosiscrypto"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

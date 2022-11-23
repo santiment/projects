@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "electroneum",
+    "name": "Electroneum",
+    "ticker": "ETN",
+    "description": "The mobile cryptocurrency",
+    "website": "http://electroneum.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/electroneum",
+    "telegram": "https://t.me/electroneum",
+    "reddit": "https://www.reddit.com/r/Electroneum/",
+    "blog": "https://electroneum.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "electroneum"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

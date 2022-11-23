@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "experty",
+    "name": "Experty",
+    "ticker": "EXY",
+    "description": "Democratizing the digital consultations market",
+    "website": "https://experty.io/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/experty_io",
+    "telegram": "https://t.me/experty_io",
+    "blog": "https://medium.com/@experty_io"
+  },
+  "development": {
+    "github_organizations": [
+      "experty"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c743a35e903f6c584514ec617acee0611cf44f3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "enzo",
+    "name": "Enzo",
+    "ticker": "NZO",
+    "description": "Social currency, 1 NZO = 1 hour",
+    "website": "https://www.alfaenzo.org/#/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/alfainc_",
+    "telegram": "https://t.me/alfaio"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x94eea9a484f0bae03d19623cfe389e2cba56b72f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

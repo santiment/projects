@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "everipedia",
+    "name": "Everipedia",
+    "ticker": "IQ",
+    "description": "The online encyclopedia reinvented for the modern age",
+    "website": "https://everipedia.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/everipedia",
+    "telegram": "https://t.me/everipedia",
+    "reddit": "https://www.reddit.com/r/Everipedia/"
+  },
+  "development": {
+    "github_organizations": [
+      "everipedianetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

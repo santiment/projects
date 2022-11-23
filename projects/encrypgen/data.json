@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "encrypgen",
+    "name": "EncrypGen",
+    "ticker": "DNA",
+    "description": "Security for cloud storage and sharing of genomic data",
+    "website": "https://www.encrypgen.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/encrypgen",
+    "discord": "https://discord.gg/seFgDGy",
+    "slack": "https://discordapp.com/invite/seFgDGy",
+    "reddit": "https://www.reddit.com/r/encrypgen/",
+    "blog": "https://encrypgen.com/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "encrypgen"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "encrypgen_contract",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "euro-coin",
+    "name": "Euro Coin",
+    "ticker": "EUROC",
+    "description": "Euro-backed stablecoin developed and issued by Circle",
+    "website": "https://www.circle.com/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/circlepay",
+    "discord": "https://discord.com/invite/Q7bKN5y"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

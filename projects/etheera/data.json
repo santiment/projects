@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "etheera",
+    "name": "Etheera",
+    "ticker": "ETA",
+    "description": "The first decentralized global real estate platform, based on the Ethereum blockchain, which provides properties for purchasing, renting and bed & breakfast offers",
+    "website": "https://www.etheera.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Etheera1",
+    "telegram": "tps://t.me/etheera_chat",
+    "reddit": "https://www.reddit.com/user/Etheera-ICO/",
+    "blog": "https://medium.com/@etheera"
+  },
+  "development": {
+    "github_organizations": [
+      "etheera"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9195e00402abe385f2d00a32af40b271f2e87925",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "elrond-egld",
+    "name": "Elrond",
+    "ticker": "EGLD",
+    "description": "The internet scale blockchain"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ElrondNetwork",
+    "telegram": "https://t.me/ElrondNetwork",
+    "reddit": "https://www.reddit.com/r/elrondnetwork/",
+    "blog": "https://medium.com/elrondnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "ElrondNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

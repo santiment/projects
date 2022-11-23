@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "epic-cash",
+    "name": "Epic Cash",
+    "ticker": "EPIC",
+    "description": "Epic Private Internet Cash",
+    "website": "https://epic.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EpicCashTech",
+    "telegram": "https://t.me/EpicCash",
+    "discord": "https://discord.gg/ZjnC6bh",
+    "reddit": "https://www.reddit.com/r/epiccash",
+    "blog": "https://medium.com/epic-cash"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

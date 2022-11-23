@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "epik-protocol",
+    "name": "EpiK Protocol",
+    "ticker": "EPK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

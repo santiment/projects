@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "ethereum-classic",
+    "name": "Ethereum Classic",
+    "ticker": "ETC",
+    "description": "Ethereum clone",
+    "website": "http://ethereumclassic.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eth_classic",
+    "telegram": "https://telegram.me/ethclassic",
+    "discord": "https://discord.gg/HW4GckH",
+    "slack": "https://discordapp.com/invite/HW4GckH",
+    "reddit": "https://www.reddit.com/r/EthereumClassic/"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereumclassic"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

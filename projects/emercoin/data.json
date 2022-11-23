@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "emercoin",
+    "name": "Emercoin",
+    "ticker": "EMC",
+    "description": "Adds flexibility through a number of innovative additions",
+    "website": "http://emercoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/emercoin_press",
+    "telegram": "https://t.me/emercoin_official",
+    "blog": "https://medium.com/@emer.tech"
+  },
+  "development": {
+    "github_organizations": [
+      "emercoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

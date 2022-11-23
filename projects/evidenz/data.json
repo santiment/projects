@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "evidenz",
+    "name": "EvidenZ",
+    "ticker": "BCDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

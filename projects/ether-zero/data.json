@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ether-zero",
+    "name": "Ether Zero",
+    "ticker": "ETZ",
+    "description": "Next Generation of Smart Contract Platform",
+    "website": "https://etherzero.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EtherZero_org",
+    "telegram": "https://t.me/etz_official",
+    "blog": "https://medium.com/@etherzero"
+  },
+  "development": {
+    "github_organizations": [
+      "etherzero-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

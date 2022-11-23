@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "exrnchain",
+    "name": "EXRNchain",
+    "ticker": "EXRN",
+    "description": "Innovative crosschain protocol",
+    "website": "https://exrnchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EXRNtoken",
+    "telegram": "https://t.me/joinchat/G9VCdRBHfrLMp9EpG7kWRQ",
+    "reddit": "https://www.reddit.com/r/EXRNchain/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe469c4473af82217b30cf17b10bcdb6c8c796e75",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "erc20",
+    "name": "ERC20",
+    "ticker": "ERC20",
+    "description": "A method of payment on the Belance platform",
+    "website": "http://belance.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ERC20_",
+    "telegram": "https://t.me/erc20coin"
+  },
+  "development": {
+    "github_organizations": [
+      "belance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

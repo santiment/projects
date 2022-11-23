@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "en-tan-mo",
+    "name": "En-Tan-Mo",
+    "ticker": "ETM",
+    "description": "A next-generation public chain project",
+    "website": "https://www.entanmo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EnTanMo1",
+    "telegram": "https://t.me/entanmo"
+  },
+  "development": {
+    "github_organizations": [
+      "entanmo"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

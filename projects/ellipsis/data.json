@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "ellipsis",
+    "name": "Ellipsis",
+    "ticker": "EPS",
+    "description": "Curve fork on BSC",
+    "website": "https://www.ellipsis.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ellipsisfi",
+    "telegram": "https://t.me/ellipsisfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "ellipsis-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

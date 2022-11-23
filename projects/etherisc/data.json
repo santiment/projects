@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "etherisc",
+    "name": "Etherisc",
+    "ticker": "DIP",
+    "description": "Free, open-source, open-access platform for decentralized insurance",
+    "website": "https://etherisc.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/etherisc",
+    "telegram": "https://t.me/etherisc_community",
+    "reddit": "https://www.reddit.com/r/etherisc/",
+    "blog": "https://blog.etherisc.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "etherisc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

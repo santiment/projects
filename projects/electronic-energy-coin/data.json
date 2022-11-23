@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "electronic-energy-coin",
+    "name": "Electronic Energy Coin",
+    "ticker": "E2C",
+    "description": "Trading platform for green technologies",
+    "website": "https://electronicenergycoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/e2coin",
+    "blog": "https://medium.com/@e2coin"
+  },
+  "development": {
+    "github_organizations": [
+      "electronicenergycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x08ceed1e8db59acbb687a5752f0a7db815cfda5e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

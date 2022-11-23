@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "ethereum-stake",
+    "name": "Ethereum Stake",
+    "ticker": "ETHYS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

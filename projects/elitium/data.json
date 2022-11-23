@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "elitium",
+    "name": "Elitium",
+    "ticker": "EUM",
+    "description": "Wealth Management Platform",
+    "website": "https://www.elitium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/elitium_eum",
+    "telegram": "https://t.me/joinchat/JFjFOQ33jXtqZFDh4UbpZA",
+    "blog": "https://www.elitium.io/media/"
+  },
+  "development": {
+    "github_organizations": [
+      "elitiumofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

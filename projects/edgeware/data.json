@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "edgeware",
+    "name": "Edgeware",
+    "ticker": "EDG",
+    "description": "A self-improving smart contract blockchain",
+    "website": "https://edgewa.re/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/heyedgeware",
+    "telegram": "https://t.me/heyedgeware",
+    "discord": "https://discord.gg/bDktqyj",
+    "slack": "https://discordapp.com/invite/bDktqyj"
+  },
+  "development": {
+    "github_organizations": [
+      "hicommonwealth"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "eosdt",
+    "name": "EOSDT",
+    "ticker": "EOSDT",
+    "description": "USD-pegged stablecoin on EOS ",
+    "website": "https://eosdt.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@eosdt",
+    "telegram": "https://t.me/equilibrium_eosdt_official",
+    "reddit": "https://www.reddit.com/r/Equilibrium_eosdt",
+    "blog": "https://medium.com/equilibrium-eosdt"
+  },
+  "development": {
+    "github_organizations": [
+      "equilibrium-eosdt"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

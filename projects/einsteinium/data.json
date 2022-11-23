@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "einsteinium",
+    "name": "Einsteinium",
+    "ticker": "EMC2",
+    "description": "Raising funds for scientific research",
+    "website": "https://www.emc2.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/einsteiniumcoin",
+    "slack": "https://emc2slack.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/einsteinium/",
+    "blog": "https://www.emc2.foundation/emc2-blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "emc2foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "entercoin",
+    "name": "EnterCoin",
+    "ticker": "ENTRC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

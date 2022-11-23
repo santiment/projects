@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "endorsit",
+    "name": "Endorsit",
+    "ticker": "EDS",
+    "description": "Content Distribution Ecosystem",
+    "website": "http://eds.ren/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eds_ren",
+    "telegram": "https://t.me/zanwo",
+    "slack": "https://weibo.com/endorsit",
+    "blog": "https://medium.com/@endorsit"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

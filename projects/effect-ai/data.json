@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "effect-ai",
+    "name": "Effect.AI",
+    "ticker": "EFX",
+    "description": "A decentralized platform for Artificial Intelligence",
+    "website": "http://effect.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/effectaix",
+    "telegram": "https://t.me/effectai",
+    "reddit": "https://www.reddit.com/r/effectai/",
+    "blog": "https://medium.com/@effectai"
+  },
+  "development": {
+    "github_organizations": [
+      "effectai"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

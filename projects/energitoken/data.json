@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "energitoken",
+    "name": "EnergiToken",
+    "ticker": "ETK",
+    "description": "Rewarding Energy Saving Behaviour",
+    "website": "https://energitoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EnergiMine",
+    "telegram": "https://t.me/energitoken",
+    "reddit": "https://reddit.com/user/EnergiToken/",
+    "blog": "https://medium.com/@energimine"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3c4a3ffd813a107febd57b2f01bc344264d90fde",
+        "blockchain": "ethereum",
+        "decimals": 2,
+        "label": "main"
+      }
+    ]
+  }
+}

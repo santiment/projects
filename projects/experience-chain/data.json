@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "experience-chain",
+    "name": "eXPerience Chain",
+    "ticker": "XPC",
+    "description": "The eXPerience Chain Project is an open source project aiming at a society that enables people to gain new experiences by connecting people in the real world using cryptocurrency. XPC will be the currency to create the foundation for it.",
+    "website": "https://xpchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/XPChain_Global",
+    "discord": "https://discord.gg/uqeFvGC",
+    "slack": "https://discord.gg/uqeFvGC"
+  },
+  "development": {
+    "github_organizations": [
+      "xpc-wg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

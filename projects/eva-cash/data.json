@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "eva-cash",
+    "name": "Eva Cash",
+    "ticker": "EVC",
+    "description": "Payment solution for farmers",
+    "website": "https://theevacash.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/evacash_token",
+    "telegram": "https://t.me/evacash",
+    "blog": "https://theevacash.com/#index.html"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba14b245d449965bdbeb630ebe135b569474f5b1",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

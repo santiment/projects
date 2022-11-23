@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "egoras",
+    "name": "Egoras",
+    "ticker": "EGR",
+    "description": "Recommerce/Resale Marketplace",
+    "website": "https://egoras.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/egorasmarket",
+    "telegram": "https://t.me/egorasmarket",
+    "reddit": "https://www.reddit.com/r/egoras"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x73Cee8348b9bDd48c64E13452b8a6fbc81630573",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

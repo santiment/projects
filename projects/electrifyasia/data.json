@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "electrifyasia",
+    "name": "Electrify.Asia",
+    "ticker": "ELEC",
+    "description": "Building an intelligent energy ecosystem",
+    "website": "https://electrify.asia/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/electrifyasia",
+    "telegram": "https://t.me/electrifyasia",
+    "reddit": "https://www.reddit.com/r/Electrify/",
+    "blog": "https://medium.com/electrifyasia"
+  },
+  "development": {
+    "github_organizations": [
+      "electrifyasia"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

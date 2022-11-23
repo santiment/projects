@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ethereum-swarm",
+    "name": "Swarm",
+    "ticker": "BZZ",
+    "description": "Decentralised storage and communication system",
+    "website": "https://www.ethswarm.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethswarm",
+    "discord": "https://discord.com/invite/sU8NEtaR8y",
+    "reddit": "https://www.reddit.com/r/ethswarm/",
+    "blog": "https://medium.com/ethereum-swarm"
+  },
+  "development": {
+    "github_organizations": [
+      "ethersphere"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+        "blockchain": "ethereum",
+        "decimals": 16
+      }
+    ]
+  }
+}
