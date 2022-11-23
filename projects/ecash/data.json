@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ecash",
+    "name": "eCash",
+    "ticker": "XEC",
+    "description": "Rebranded Bitcoin Cash ABC (BCHA)",
+    "website": "https://e.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eCashOfficial",
+    "telegram": "https://t.me/ecash_official",
+    "discord": "https://discord.gg/d5EHW3PgTy",
+    "reddit": "https://reddit.com/r/ecash"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin-abc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "electra",
+    "name": "Electra",
+    "ticker": "ECA",
+    "description": "A decentralized POW /POS cryptocurrency",
+    "website": "https://electraproject.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ElectracoinECA",
+    "telegram": "https://t.me/ElectracoinECA",
+    "discord": "https://discord.gg/B8F7Jdv",
+    "slack": "https://discordapp.com/invite/B8F7Jdv",
+    "reddit": "https://www.reddit.com/r/Electra_Currency/"
+  },
+  "development": {
+    "github_organizations": [
+      "electra-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "esbc",
+    "name": "ESBC",
+    "ticker": "ESBC",
+    "description": "Betting Platform",
+    "website": "https://esbc.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eSportBettingPR",
+    "telegram": "https://esbc.pro/link/telegram",
+    "discord": "https://esbc.pro/link/discord",
+    "slack": "https://esbc.pro/link/discord",
+    "blog": "https://esbc.pro/link/medium"
+  },
+  "development": {
+    "github_organizations": [
+      "blockchainfor"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

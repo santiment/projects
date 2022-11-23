@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "eosblack",
+    "name": "EosBLACK",
+    "ticker": "BLACK",
+    "description": "An environment that can build promising DAPPs",
+    "website": "https://eosblack.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EOSBLACK_IO",
+    "telegram": "https://t.me/eosBLACK_English",
+    "blog": "https://medium.com/@eosblack/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "eosblackteam",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

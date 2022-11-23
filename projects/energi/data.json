@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "energi",
+    "name": "Energi",
+    "ticker": "NRG",
+    "description": "The world’s leading cryptocurrency with the unification of Governance, Smart Contracts & Self-funding Treasury to facilitate rapid growth",
+    "website": "https://www.energi.world/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Energicrypto",
+    "telegram": "javascript:void(0)",
+    "discord": "https://discord.gg/sCtgNC3",
+    "slack": "https://discordapp.com/invite/sCtgNC3",
+    "blog": "https://medium.com/energi"
+  },
+  "development": {
+    "github_organizations": [
+      "energicryptocurrency"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

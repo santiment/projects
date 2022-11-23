@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "earneo",
+    "name": "Earneo",
+    "ticker": "RNO",
+    "description": "Fair Video Sharing platform",
+    "website": "https://www.earneo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EarneoDapp",
+    "telegram": "https://t.me/earneo_official",
+    "blog": "https://medium.com/@earneo"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

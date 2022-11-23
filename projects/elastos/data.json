@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "elastos",
+    "name": "Elastos",
+    "ticker": "ELA",
+    "website": "https://www.elastos.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Elastos_org",
+    "telegram": "https://t.me/elastosgroup",
+    "slack": "https://elastos.slack.com/",
+    "reddit": "https://www.reddit.com/r/Elastos/"
+  },
+  "development": {
+    "github_organizations": [
+      "elastos"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

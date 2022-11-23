@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "epik-prime",
+    "name": "EPIK Prime",
+    "ticker": "EPIK",
+    "description": "Epik Prime is the membership program for Epik",
+    "website": "https://epikprime.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EpikPrime",
+    "telegram": "https://t.me/EpikPrime",
+    "blog": "https://epikprime.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4da0c48376c277cdbd7fc6fdc6936dee3e4adf75",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "educare",
+    "name": "EDUCare",
+    "ticker": "EKT",
+    "description": "New blockchain dApp platform",
+    "website": "http://ekt8.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EKTcoin",
+    "telegram": "https://t.me/joinchat/G87p8hAR8y4n_doleuXDqA",
+    "slack": "https://ektcoin.slack.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "educationekt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbab165df9455aa0f2aed1f2565520b91ddadb4c8",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

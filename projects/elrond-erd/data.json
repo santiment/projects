@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "elrond-erd",
+    "name": "Delete",
+    "ticker": "ERD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

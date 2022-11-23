@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "exeedme",
+    "name": "Exeedme",
+    "ticker": "XED",
+    "description": "Play2Earn blockchain-powered gaming platform",
+    "website": "https://www.exeedme.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eXeedme",
+    "telegram": "https://t.me/exeedme",
+    "blog": "https://exeedme.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

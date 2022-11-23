@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "energy-web-token",
+    "name": "Energy Web Token",
+    "ticker": "EWT",
+    "description": "The largest energy blockchain ecosystem",
+    "website": "https://www.energyweb.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/energywebx",
+    "telegram": "https://t.me/energyweb",
+    "reddit": "https://www.reddit.com/r/EnergyWeb/",
+    "blog": "https://medium.com/energy-web-insights"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x178c820f862b14f316509ec36b13123da19a6054",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

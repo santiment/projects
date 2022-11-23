@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "etherinc",
+    "name": "EtherInc",
+    "ticker": "ETI",
+    "description": "A smart contract with predefined protocol (eInc protocol) and running on EtherInc blockchain, every eInc has a unique name and will be maintained by eIncNS (eInc organizations name service) smart contract",
+    "website": "https://einc.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eIncHQ",
+    "telegram": "https://t.me/eincHQ",
+    "reddit": "https://www.reddit.com/r/eincofficial/",
+    "blog": "https://medium.com/einc"
+  },
+  "development": {
+    "github_organizations": [
+      "etherinc"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

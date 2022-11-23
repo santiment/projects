@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "eterbase",
+    "name": "Eterbase Utility Token",
+    "ticker": "XBASE",
+    "description": "ETERBASE is the first regulation-compliant European cryptocurrency exchange, offering fast, secure trading on a clean, powerful, user interface",
+    "website": "https://www.eterbase.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ETERBASE",
+    "telegram": "https://t.me/eterbase",
+    "discord": "https://discord.gg/S62VK6p",
+    "slack": "https://discord.gg/S62VK6p",
+    "blog": "https://medium.com/@ETERBASE"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49a1cbb5d28cdedd55b7daa627f658fbd8cf1d23",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

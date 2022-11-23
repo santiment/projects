@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "evos",
+    "name": "EVOS",
+    "ticker": "EVOS",
+    "description": "EVOS is a crypto, made to be a service platform, native ecosystem, means of payment and an investment instrument",
+    "website": "https://www.evos.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OfficialEvos",
+    "telegram": "https://t.me/joinchat/J4Z2qg_Q_r-mRWpnCQvKvw",
+    "discord": "https://discord.gg/FeUc93R",
+    "slack": "https://discord.gg/FeUc93R"
+  },
+  "development": {
+    "github_organizations": [
+      "evos-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

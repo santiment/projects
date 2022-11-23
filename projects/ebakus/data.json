@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "ebakus",
+    "name": "ebakus",
+    "ticker": "EBK",
+    "description": "A blockchain solution  for improved UX",
+    "website": "https://www.ebakus.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EbakusNetwork",
+    "telegram": "https://t.me/ebakus",
+    "reddit": "https://www.reddit.com/r/ebakus/"
+  },
+  "development": {
+    "github_organizations": [
+      "ebakus"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

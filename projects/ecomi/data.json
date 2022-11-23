@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "ecomi",
+    "name": "Ecomi",
+    "ticker": "OMI",
+    "description": "Collectibles ecosystem",
+    "website": "https://www.ecomi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ecomi_",
+    "telegram": "https://t.me/ecomi",
+    "slack": "https://discordapp.com/channels/410308010053730315/410308010053730317",
+    "blog": "https://medium.com/ecomi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

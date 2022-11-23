@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "ela-coin",
+    "name": "ELA Coin",
+    "ticker": "ELAC",
+    "description": "ELA Core-engine collects, analyzes, and deep-learns big data, which leads to realization of AI(Artificial Intelligence) ELA that can share emotions with users.",
+    "website": "https://www.elamachain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/elamachain",
+    "telegram": "https://t.me/elamachain",
+    "slack": "https://open.kakao.com/o/gTJ7V26",
+    "blog": "https://medium.com/@elamachain"
+  },
+  "development": {
+    "github_organizations": [
+      "elamachain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xec6c861c2a2b1e5ff5336731bc80c29dbff88273",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "envion",
+    "name": "Envion",
+    "ticker": "EVN",
+    "description": "Crypto infrastructure hosted in mobile containers near energy sources",
+    "website": "https://www.envion.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Envion_org",
+    "telegram": "https://t.me/Envion",
+    "blog": "https://medium.com/@envion"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

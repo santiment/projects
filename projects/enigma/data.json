@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "enigma",
+    "name": "Enigma",
+    "ticker": "ENG",
+    "description": "Building a revolutionary privacy protocol",
+    "website": "https://enigma.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/enigmampc",
+    "telegram": "https://t.me/enigmacatalyst",
+    "slack": "https://slack.enigma.co/",
+    "reddit": "https://www.reddit.com/r/enigmacatalyst",
+    "blog": "https://blog.enigma.co/"
+  },
+  "development": {
+    "github_organizations": [
+      "enigmampc"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

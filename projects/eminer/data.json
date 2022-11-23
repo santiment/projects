@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "eminer",
+    "name": "Eminer",
+    "ticker": "EM",
+    "description": "Mining services",
+    "website": "https://eminer.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eminerfans",
+    "telegram": "https://t.me/eminerfans",
+    "blog": "https://medium.com/@EM29172525"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x35b08722aa26be119c1608029ccbc976ac5c1082",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

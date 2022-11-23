@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "emogi-network",
+    "name": "EMOGI Network",
+    "ticker": "LOL",
+    "description": "The social currency",
+    "website": "https://emogi.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EMOGIcoin",
+    "telegram": "https://t.me/EMOGIcoin",
+    "blog": "https://medium.com/@EMOGICoin"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

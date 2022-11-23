@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "elrond",
+    "name": "Elrond ERD",
+    "ticker": "ERD",
+    "description": "A Scalable value transfer protocol",
+    "website": "https://elrond.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/elrondnetwork",
+    "telegram": "https://t.me/ElrondNetwork",
+    "blog": "https://medium.com/elrondnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "elrondnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

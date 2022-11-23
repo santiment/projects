@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "eurbase",
+    "name": "EURBASE",
+    "ticker": "EBASE",
+    "description": "A hybrid stablecoin",
+    "website": "https://eurbase.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eterbase",
+    "telegram": "https://t.me/Eurbase",
+    "discord": "https://discord.gg/S62VK6p",
+    "slack": "https://discord.gg/S62VK6p",
+    "reddit": "https://www.reddit.com/r/Eterbase/",
+    "blog": "https://medium.com/@ETERBASE"
+  },
+  "development": {
+    "github_organizations": [
+      "eterbase"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x86fadb80d8d2cff3c3680819e4da99c10232ba0f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "excaliburcoin",
+    "name": "Excaliburcoin",
+    "ticker": "EXC",
+    "website": "https://excaliburcoin.net/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/excaliburcoin",
+    "discord": "https://discord.gg/qMJy5Kk",
+    "slack": "https://discord.gg/qMJy5Kk"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c594e1cb006e86c3879b1d8191a8b059af52be7",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

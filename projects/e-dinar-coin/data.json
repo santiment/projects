@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "e-dinar-coin",
+    "name": "E-Dinar Coin",
+    "ticker": "EDR",
+    "description": "Cryptocurrency built using DPOS",
+    "website": "https://edinarcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EDinarWorldwide",
+    "telegram": "https://telegram.me/EdinarCoincrypto"
+  },
+  "development": {
+    "github_organizations": [
+      "edinarcoin1"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "evmos",
+    "name": "Evmos",
+    "ticker": "EVMOS",
+    "description": "The Ethereum Virtual Machine (EVM) Hub on Cosmos",
+    "website": "http://evmos.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EvmosOrg",
+    "telegram": "https://t.me/EvmosOrg",
+    "discord": "https://discord.com/invite/evmos"
+  },
+  "development": {
+    "github_organizations": [
+      "evmos"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

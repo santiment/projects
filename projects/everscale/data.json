@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "everscale",
+    "name": "Delete",
+    "ticker": "EVER",
+    "description": "Formerly Free TON, PoS blockchain"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

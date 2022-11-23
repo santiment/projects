@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "everitoken",
+    "name": "everiToken",
+    "ticker": "EVT",
+    "description": "Token-customized public chain",
+    "website": "https://everitoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EveriToken",
+    "telegram": "https://t.me/everitoken",
+    "reddit": "https://www.reddit.com/user/everiToken/"
+  },
+  "development": {
+    "github_organizations": [
+      "everitoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

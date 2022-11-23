@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "exmr",
+    "name": "EXMR",
+    "ticker": "EXMR",
+    "description": "The best token for business, Building world class Payment Gateway ",
+    "website": "https://exmrfoundation.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eXMRCoin",
+    "telegram": "https://t.me/JoinEXMR/",
+    "slack": "https://exmr-workspace.slack.com/",
+    "reddit": "https://www.reddit.com/r/exmr/",
+    "blog": "https://medium.com/@eXMR"
+  },
+  "development": {
+    "github_organizations": [
+      "exmrcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc98e0639c6d2ec037a615341c369666b110e80e5",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "eccoin",
+    "name": "ECC",
+    "ticker": "ECC",
+    "description": "An open-source, innovative multi-chain platform",
+    "website": "https://ecc.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/project_ecc",
+    "telegram": "https://t.me/joinchat/F_LCJQ0vhFFknOSMgxHPAw",
+    "discord": "https://discord.gg/BYBhQVq",
+    "slack": "https://discord.gg/BYBhQVq",
+    "reddit": "https://www.reddit.com/r/ecc/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

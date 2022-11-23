@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ethverse",
+    "name": "Ethverse",
+    "ticker": "ETHV",
+    "description": "Minecraft virtual universe",
+    "website": "https://ethverse.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ethverse",
+    "telegram": "https://t.me/ethverse",
+    "blog": "https://medium.com/ethverse"
+  },
+  "development": {
+    "github_organizations": [
+      "Ethverse"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeeeeeeeee2af8d0e1940679860398308e0ef24d6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

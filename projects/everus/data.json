@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "everus",
+    "name": "Everus",
+    "ticker": "EVR",
+    "description": "Cryptocurrency wallet, cards and AI trading bot. Online and offline merchant on-boarding platform bridging the gap between merchant and the customer.",
+    "website": "https://everus.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/everusworld"
+  },
+  "development": {
+    "github_organizations": [
+      "everusworld"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3137619705b5fc22a3048989f983905e456b59ab",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

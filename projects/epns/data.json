@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "epns",
+    "name": "Ethereum Push Notification Service",
+    "ticker": "PUSH",
+    "description": "Decentralized Notification Protocol on Ethereum",
+    "website": "https://epns.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/epnsproject",
+    "telegram": "https://t.me/epnsproject",
+    "blog": "https://medium.com/ethereum-push-notification-service"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereum-push-notification-service"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

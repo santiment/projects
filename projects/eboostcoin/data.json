@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "eboostcoin",
+    "name": "eBoost",
+    "ticker": "EBST",
+    "description": "Gamer coin",
+    "website": "http://www.eboost.fun"
+  },
+  "social": {
+    "twitter": "https://twitter.com/eBoostCoin",
+    "telegram": "https://t.me/eboostcoinchat",
+    "discord": "https://discord.gg/QYXDBb8",
+    "slack": "https://discord.gg/QYXDBb8",
+    "reddit": "https://www.reddit.com/r/eboost/"
+  },
+  "development": {
+    "github_organizations": [
+      "eboost-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

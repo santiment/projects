@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "endor-protocol",
+    "name": "Endor",
+    "ticker": "EDR",
+    "description": "Google for predictive analytics",
+    "website": "https://www.endor.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EndorProtocol",
+    "telegram": "https://t.me/endorcoinGroup",
+    "reddit": "https://www.reddit.com/r/EndorCoin/",
+    "blog": "https://medium.com/@endorcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "endorcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc528c28fec0a90c083328bc45f587ee215760a0f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

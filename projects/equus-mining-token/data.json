@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "equus-mining-token",
+    "name": "Equus Mining Token",
+    "ticker": "EQMT",
+    "description": "Used to mine Equus Governance Tokens",
+    "website": "https://www.equus.dev/"
+  },
+  "social": {
+    "twitter": "https://www.linkedin.com/company/equus-protocol/",
+    "telegram": "https://t.me/equus_protocol",
+    "discord": "https://discord.com/invite/vZxtdFJ",
+    "slack": "https://discord.com/invite/vZxtdFJ",
+    "blog": "https://medium.com/@equus"
+  },
+  "development": {
+    "github_organizations": [
+      "equusprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

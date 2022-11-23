@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "experience-points",
+    "name": "Experience Points",
+    "ticker": "XP",
+    "description": "Incentive Rewards &amp;amp; Digital Currency",
+    "website": "http://www.xpcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheBigXP",
+    "telegram": "https://t.me/xpcoin",
+    "discord": "https://discord.gg/NYMAUec",
+    "slack": "https://discordapp.com/invite/NYMAUec",
+    "reddit": "https://www.reddit.com/r/TheBigXP/"
+  },
+  "development": {
+    "github_organizations": [
+      "experiencepoints"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

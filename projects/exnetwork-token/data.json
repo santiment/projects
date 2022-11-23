@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "exnetwork-token",
+    "name": "ExNetwork Token",
+    "ticker": "EXNT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

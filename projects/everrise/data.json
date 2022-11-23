@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "everrise",
+    "name": "EverRise",
+    "ticker": "RISE",
+    "description": "Integrating Blockchains and Bringing Security Solutions to DeFi",
+    "website": "http://www.everrise.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "discord": "https://discord.com/invite/everrise",
+    "reddit": "https://www.reddit.com/r/EverRise"
+  },
+  "development": {
+    "github_organizations": [
+      "everrise-ecosystem"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0cd022dde27169b20895e0e2b2b8a33b25e63579",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

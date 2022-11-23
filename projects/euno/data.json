@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "euno",
+    "name": "EUNO",
+    "ticker": "EUNO",
+    "description": "POS, POW and masternodes",
+    "website": "https://www.euno.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EunoCoin",
+    "telegram": "https://t.me/EUNOofficial",
+    "discord": "https://discord.gg/VNC6V2Z",
+    "slack": "https://discord.gg/VNC6V2Z",
+    "reddit": "https://www.reddit.com/r/EunoCoinOfficial/"
+  },
+  "development": {
+    "github_organizations": [
+      "euno"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

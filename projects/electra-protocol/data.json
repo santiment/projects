@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "electra-protocol",
+    "name": "Electra Protocol",
+    "ticker": "XEP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
