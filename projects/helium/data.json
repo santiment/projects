@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "helium",
+    "name": "Helium ",
+    "ticker": "HNT",
+    "description": "Helium is a digital currency and blockchain network that focuses on improving supply chain logistics in the construction and infrastructure sector.",
+    "website": "https://heliumchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/helium",
+    "slack": "https://heliumslack.herokuapp.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "heliumchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

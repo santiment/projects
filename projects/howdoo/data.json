@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "howdoo",
+    "name": "Howdoo",
+    "ticker": "UDOO",
+    "description": "A decentralized social platform for users, content creators &amp; advertisers",
+    "website": "https://howdoo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/howdooHQ",
+    "telegram": "https://t.me/howdooHQ",
+    "reddit": "https://www.reddit.com/r/Howdoo/",
+    "blog": "https://medium.com/howdoo"
+  },
+  "development": {
+    "github_organizations": [
+      "mpg1977"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

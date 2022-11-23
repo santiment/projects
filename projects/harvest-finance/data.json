@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "harvest-finance",
+    "name": "Harvest Finance",
+    "ticker": "FARM",
+    "description": "Automatic exposure to the highest yield available across select decentralized finance protocols",
+    "website": "https://harvest.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/harvest_finance",
+    "discord": "https://discord.gg/R5SeTVR",
+    "slack": "https://discord.gg/R5SeTVR"
+  },
+  "development": {
+    "github_organizations": [
+      "harvest-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa0246c9032bC3A600820415aE600c6388619A14D",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

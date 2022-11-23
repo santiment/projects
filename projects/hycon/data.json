@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "hycon",
+    "name": "HYCON ",
+    "ticker": "HYC",
+    "description": "The digital asset built on top of a faster and more scalable blockchain",
+    "website": "https://hycon.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/teamhycon",
+    "telegram": "https://t.me/teamhycon",
+    "reddit": "https://www.reddit.com/r/HYCON/",
+    "blog": "https://medium.com/@teamhycon"
+  },
+  "development": {
+    "github_organizations": [
+      "team-hycon"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

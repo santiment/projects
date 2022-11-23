@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "hatch-dao",
+    "name": "Hatch DAO",
+    "ticker": "HATCH",
+    "description": "Experiments with various decentralized consensus protocols in DAOs",
+    "website": "https://hatchdao.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HatchDAO",
+    "telegram": "https://t.me/hatchdao",
+    "discord": "https://discord.gg/KEbktMy",
+    "slack": "https://discord.gg/KEbktMy",
+    "blog": "https://medium.com/@HatchDAO"
+  },
+  "development": {
+    "github_organizations": [
+      "HatchDAO"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6F3009663470475F0749A6b76195375f95495fcB",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

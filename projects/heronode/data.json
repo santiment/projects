@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "heronode",
+    "name": "Hero Node",
+    "ticker": "HER",
+    "description": "The next generation decentralized Blockchain fog APP development platform",
+    "website": "https://heronode.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hero_node",
+    "telegram": "https://t.me/HeroNode2",
+    "reddit": "https://www.reddit.com/user/HeroNode-official/",
+    "blog": "https://medium.com/@hero_node"
+  },
+  "development": {
+    "github_organizations": [
+      "hero-node"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x491c9a23db85623eed455a8efdd6aba9b911c5df",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

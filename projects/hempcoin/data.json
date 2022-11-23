@@ -1,0 +1,17 @@
+{
+  "general": {
+    "slug": "hempcoin",
+    "name": "HempCoin",
+    "ticker": "THC",
+    "website": "http://hempcoin.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "hempcoin-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

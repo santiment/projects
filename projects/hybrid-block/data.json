@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "hybrid-block",
+    "name": "Hybrid Block",
+    "ticker": "HYB",
+    "description": "Innovative trading and education platform",
+    "website": "https://www.hybridblock.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HybridBlockHQ",
+    "telegram": "https://t.me/HybridBlockHQ",
+    "reddit": "https://www.reddit.com/r/HybridBlock/",
+    "blog": "https://medium.com/@hybridblockofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6059f55751603ead7dc6d280ad83a7b33d837c90",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

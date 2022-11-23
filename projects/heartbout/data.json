@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "heartbout",
+    "name": "HeartBout",
+    "ticker": "HB",
+    "description": "Social network",
+    "website": "https://heartbout.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HeartBout",
+    "telegram": "https://t.me/heartbout"
+  },
+  "development": {
+    "github_organizations": [
+      "heartbout"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe2492f8d2a2618d8709ca99b1d8d75713bd84089",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

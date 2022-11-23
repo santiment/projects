@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "hurify",
+    "name": "Hurify",
+    "ticker": "HUR",
+    "description": "An Ethereum Smart Contract Platform",
+    "website": "https://ico.hurify.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hurify_hur",
+    "telegram": "https://t.me/hurifyico",
+    "slack": "https://hurify.slack.com/",
+    "reddit": "https://www.reddit.com/user/Hurify/",
+    "blog": "https://medium.com/@Hurify"
+  },
+  "development": {
+    "github_organizations": [
+      "hurifyplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

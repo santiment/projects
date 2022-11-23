@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "hold",
+    "name": "HOLD",
+    "ticker": "HOLD",
+    "description": "Peer-to-peer lending platform that provides instant cash advances against cryptocurrency collateral",
+    "website": "https://hold.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HoldHQ",
+    "telegram": "https://t.me/HoldHQ",
+    "blog": "https://medium.com/@HoldHQ"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd6e1401a079922469e9b965cb090ea6ff64c6839",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

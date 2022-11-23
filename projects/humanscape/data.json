@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "humanscape",
+    "name": "Humanscape",
+    "ticker": "HUM",
+    "description": "Solution to Incurable diseases by curating Personal Health Data.",
+    "website": "https://humanscape.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Humanscape_ICO",
+    "telegram": "https://t.me/Humanscape",
+    "slack": "https://open.kakao.com/o/g4YCAkP",
+    "reddit": "https://www.reddit.com/r/Humanscape_official",
+    "blog": "https://medium.com/humanscape-ico"
+  },
+  "development": {
+    "github_organizations": [
+      "humanscape"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb0514a5b4aa58ac6e954f537598dd42a71916581",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

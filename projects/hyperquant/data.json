@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hyperquant",
+    "name": "HyperQuant",
+    "ticker": "HQT",
+    "description": "A professional platform for digital asset management and dApps creation that is based on the cutting-edge AI and Fast Order Delivery protocol",
+    "website": "https://hyperquant.net"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HyperQuant_net",
+    "telegram": "https://t.me/hyperquant",
+    "blog": "https://medium.com/hyperquant"
+  },
+  "development": {
+    "github_organizations": [
+      "hyperquant-platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3e1d5a855ad9d948373ae68e4fe1f094612b1322",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

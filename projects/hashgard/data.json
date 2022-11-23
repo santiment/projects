@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "hashgard",
+    "name": "Hashgard",
+    "ticker": "GARD",
+    "description": "The Protocol of Distributed and Trusted Asset Management",
+    "website": "https://www.hashgard.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hashgard1",
+    "telegram": "https://t.me/hashgardeng",
+    "reddit": "https://www.reddit.com/r/Hashgard/",
+    "blog": "https://medium.com/@hashgard"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c64031c62061865e5fd0f53d3cdaef80f72e99d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

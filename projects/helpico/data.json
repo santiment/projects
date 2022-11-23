@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "helpico",
+    "name": "Helpico",
+    "ticker": "HELP",
+    "description": "Coins for charity",
+    "website": "https://www.helpico.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Helpico_Coin",
+    "telegram": "https://t.me/Helpico_Coin",
+    "discord": "https://discord.gg/EcTjccm",
+    "slack": "https://discord.gg/EcTjccm"
+  },
+  "development": {
+    "github_organizations": [
+      "anonymousdo"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

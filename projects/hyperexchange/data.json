@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "hyperexchange",
+    "name": "HyperExchange",
+    "ticker": "HX",
+    "description": "Cross-chain and HDEX",
+    "website": "http://hx.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HyperExchange",
+    "telegram": "https://t.me/hyperexchange001",
+    "reddit": "https://www.reddit.com/user/HyperExchange",
+    "blog": "https://medium.com/@hyperexchange"
+  },
+  "development": {
+    "github_organizations": [
+      "HcashOrg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

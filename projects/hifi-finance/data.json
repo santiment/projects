@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hifi-finance",
+    "name": "Delete",
+    "ticker": "MFT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

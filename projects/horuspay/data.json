@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "horuspay",
+    "name": "HorusPay",
+    "ticker": "HORUS",
+    "description": "Allows companies to exchange private encrypted data with international payroll vendors",
+    "website": "https://horuspay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/horus_pay",
+    "telegram": "https://t.me/horuspayUS"
+  },
+  "development": {
+    "github_organizations": [
+      "horuspay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

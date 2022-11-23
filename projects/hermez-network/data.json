@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "hermez-network",
+    "name": "Hermez Network",
+    "ticker": "HEZ",
+    "description": "Scaling payments and token transfers on top of Ethereum",
+    "website": "https://hermez.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hermez_network",
+    "telegram": "https://t.me/hermeznetwork",
+    "blog": "https://blog.hermez.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "hermeznetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "hathor",
+    "name": "Hathor",
+    "ticker": "HTR",
+    "description": "A scalable and easy-to-use blockchain",
+    "website": "https://hathor.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HathorNetwork",
+    "telegram": "https://t.me/joinchat/EuErtxILeDefHbdD8pD0dw",
+    "discord": "https://discord.gg/aWukZZX",
+    "reddit": "https://reddit.com/r/HathorNetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "HathorNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

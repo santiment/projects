@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "herocoin",
+    "name": "HEROcoin",
+    "ticker": "PLAY",
+    "description": "Decentralized solution for online betting",
+    "website": "https://www.herocoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HEROcoinio",
+    "telegram": "https://t.me/joinchat/FsEwOwtrCZMWwHokEj70Gw",
+    "reddit": "https://www.reddit.com/r/HEROcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "byteheroes"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe477292f1b3268687a29376116b0ed27a9c76170",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

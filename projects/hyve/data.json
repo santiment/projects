@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "hyve",
+    "name": "Hyve",
+    "ticker": "HYVE",
+    "description": "Freelance and workforce market",
+    "website": "https://hyve.works/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/join_hyve",
+    "telegram": "https://t.me/hyveworks"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

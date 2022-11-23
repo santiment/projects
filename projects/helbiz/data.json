@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "helbiz",
+    "name": "Helbiz",
+    "ticker": "HBZ",
+    "description": "Decentralized transportation marketplace",
+    "website": "https://www.helbizcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/helbizofficial",
+    "telegram": "https://t.me/helbizofficial",
+    "slack": "https://helbizofficial.slack.com/",
+    "reddit": "https://www.reddit.com/r/Helbiz/",
+    "blog": "https://medium.com/@HelbizOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "helbizofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe34e1944e776f39b9252790a0527ebda647ae668",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

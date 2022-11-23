@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "hedera",
+    "name": "Delete",
+    "ticker": "HBAR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

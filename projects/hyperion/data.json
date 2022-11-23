@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "hyperion",
+    "name": "Hyperion",
+    "ticker": "HYN",
+    "description": "Hyperion provides full stack map and location capabilities ranging from automatic map productions to map usages of various kinds",
+    "website": "http://www.hyn.space/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HyperionHYN",
+    "telegram": "https://t.me/HyperionOfficialHYN",
+    "blog": "https://medium.com/@hyperionsgoffical"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe99a894a69d7c2e3c92e61b64c505a6a57d2bc07",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

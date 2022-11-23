@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hex",
+    "name": "HEX",
+    "ticker": "HEX",
+    "description": "Certificate of deposit",
+    "website": "https://hex.win/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HEXcrypto",
+    "telegram": "https://t.me/HEXcrypto",
+    "reddit": "https://hexcrypto.reddit.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "BitcoinHEX"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

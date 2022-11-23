@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "hdac",
+    "name": "HDAC",
+    "ticker": "DAC",
+    "description": "An IoT contract platform based on blockchain",
+    "website": "https://hdac.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hdactech",
+    "telegram": "https://t.me/Hdac_TGE"
+  },
+  "development": {
+    "github_organizations": [
+      "hdactech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hercules",
+    "name": "Hercules",
+    "ticker": "HERC",
+    "description": "HERC is a supply chain management software that utilizes public blockchains. Empowering & entrusting the public with control of the Global Value Chain.",
+    "website": "https://herc.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HERC_Hercules",
+    "telegram": "https://t.me/joinchat/E_FZdg4HNKlqnxKXEEeYxw",
+    "blog": "https://medium.com/@herc_token"
+  },
+  "development": {
+    "github_organizations": [
+      "hercone"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6251583e7d997df3604bc73b9779196e94a090ce",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

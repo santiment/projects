@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hitchain",
+    "name": "HitChain",
+    "ticker": "HIT",
+    "description": "A Decentralized  Autonomous Developer's Community",
+    "website": "http://hitchain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hit_Chain",
+    "telegram": "https://t.me/HitChain_EN",
+    "blog": "https://medium.com/@hitchainfoundation/hitchain-ca324e1628b4"
+  },
+  "development": {
+    "github_organizations": [
+      "hitchainfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

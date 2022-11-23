@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "husd",
+    "name": "HUSD",
+    "ticker": "HUSD",
+    "description": "A stablecoin issued by Stable Universal",
+    "website": "https://www.stcoins.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "stcoins"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "hashsbx",
+    "name": "HashBX",
+    "ticker": "HBX",
+    "description": "HashBX is a cloud base platform bitcoin minner provider focused on simplifying web base for investor",
+    "website": "https://hashbx.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "hashbx"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

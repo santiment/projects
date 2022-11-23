@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "hellogold",
+    "name": "HelloGold",
+    "ticker": "HGT",
+    "description": "Gold Backed Tokens",
+    "website": "https://www.hellogold.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FoundationHG",
+    "slack": "https://hellogold-foundation-slack.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/HelloGold/",
+    "blog": "https://medium.com/hellogold"
+  },
+  "development": {
+    "github_organizations": [
+      "myhellogold"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba2184520a1cc49a6159c57e61e1844e085615b6",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

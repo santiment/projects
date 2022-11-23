@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "h2o-dao",
+    "name": "H2O DAO",
+    "ticker": "H2O"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

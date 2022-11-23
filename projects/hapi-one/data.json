@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "hapi-one",
+    "name": "HAPI",
+    "ticker": "HAPI",
+    "description": "Onchain Cybersecurity Protocol for DeFi",
+    "website": "https://www.hapi.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/i_am_hapi_one",
+    "telegram": "https://t.me/hapiHF",
+    "blog": "https://medium.com/i-am-hapi"
+  },
+  "development": {
+    "github_organizations": [
+      "HAPIprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

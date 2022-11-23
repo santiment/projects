@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "humaniq",
+    "name": "Humaniq",
+    "ticker": "HMQ",
+    "description": "Self-deploying financial infrastructure",
+    "website": "https://humaniq.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Humaniq",
+    "telegram": "https://t.me/HMQtrader",
+    "slack": "https://humaniq-co.slack.com/",
+    "reddit": "https://www.reddit.com/r/Humaniq/",
+    "blog": "https://blog.humaniq.co/"
+  },
+  "development": {
+    "github_organizations": [
+      "humaniq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

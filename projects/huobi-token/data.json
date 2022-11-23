@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "huobi-token",
+    "name": "Huobi Token",
+    "ticker": "HT",
+    "description": "Blockchain-Powered Loyalty Point System",
+    "website": "https://www.huobi.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/HuobiGlobal",
+    "telegram": "https://t.me/huobiproofficial",
+    "blog": "https://medium.com/huobi-global"
+  },
+  "development": {
+    "github_organizations": [
+      "huobiapi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

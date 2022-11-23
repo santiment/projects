@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hoge-finance",
+    "name": "Hoge Finance",
+    "ticker": "HOGE",
+    "description": "A deflationary farming meme-powered currency",
+    "website": "https://hoge.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hogefinance",
+    "telegram": "https://t.me/hogefinance",
+    "discord": "https://discord.gg/aYVcNupqnD",
+    "reddit": "https://www.reddit.com/r/hogefinance"
+  },
+  "development": {
+    "github_organizations": [
+      "HogeFinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

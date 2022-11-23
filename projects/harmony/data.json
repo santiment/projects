@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "harmony",
+    "name": "Harmony",
+    "ticker": "ONE",
+    "description": "A high-throughput and low-latency platform",
+    "website": "https://harmony.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/harmonyprotocol",
+    "telegram": "https://t.me/harmony_one",
+    "discord": "https://discord.gg/rdCmBpe",
+    "slack": "https://discordapp.com/invite/rdCmBpe",
+    "blog": "https://medium.com/harmony-one"
+  },
+  "development": {
+    "github_organizations": [
+      "harmony-one"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

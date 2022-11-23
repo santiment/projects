@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "hyperdao",
+    "name": "HyperDAO",
+    "ticker": "HDAO",
+    "description": "Decentralized financial service ecosystem",
+    "website": "https://hyperdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Hdao_Official",
+    "telegram": "https://t.me/HyperDAO",
+    "reddit": "https://www.reddit.com/user/HyperDAO",
+    "blog": "https://medium.com/@hdao"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

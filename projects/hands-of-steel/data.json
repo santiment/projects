@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "hands-of-steel",
+    "name": "Hands of Steel",
+    "ticker": "STEEL",
+    "description": "Taxes sellers while rewarding holders",
+    "website": "https://handsofsteel.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/steelhandsmoney",
+    "telegram": "https://t.me/handsofsteel"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6f022e991ea21d26f85f6716c088e2864101dfec",
+        "blockchain": "ethereum",
+        "decimals": 0
+      }
+    ]
+  }
+}
