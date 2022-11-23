@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcoin-rhodium",
+    "name": "Bitcoin Rhodium",
+    "ticker": "XRC",
+    "description": "Rare, limited and resistant cryptocurrency",
+    "website": "https://www.bitcoinrh.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitcoinRh",
+    "telegram": "https://t.me/BitcoinRhodium_BTR",
+    "discord": "https://discord.gg/WmxceSm",
+    "slack": "https://discord.gg/WmxceSm",
+    "reddit": "https://www.reddit.com/r/BitcoinRhodium/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bonuscloud",
+    "name": "BonusCloud",
+    "ticker": "BXC",
+    "description": "The universally-carried fog computing platform in the world",
+    "website": "https://bonuscloud.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bonus_cloud",
+    "telegram": "https://t.me/Bonuscloud",
+    "blog": "https://medium.com/@bonuscloud"
+  },
+  "development": {
+    "github_organizations": [
+      "BonusCloud"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdecf7be29f8832e9c2ddf0388c9778b8ba76af43",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

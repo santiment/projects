@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bitcoin-classic",
+    "name": "Bitcoin Classic",
+    "ticker": "BXC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "blackmoon",
+    "name": "Blackmoon",
+    "ticker": "BMC",
+    "description": "The one-stop solution for asset managers to create and manage legitimate investment funds",
+    "website": "https://www.blackmooncrypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlackmoonFG",
+    "telegram": "https://t.me/blackmooncrypto",
+    "slack": "https://blackmooncrypto.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/BlackMoonCrypto/",
+    "blog": "https://medium.com/blackmoon-crypto"
+  },
+  "development": {
+    "github_organizations": [
+      "blackmoonfg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bnb-fc-porto",
+    "name": "FC Porto Fan Token",
+    "ticker": "PORTO",
+    "description": "FC Porto Fan Token",
+    "website": "https://www.fcporto.pt/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/fcporto"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x49f2145d6366099e13B10FbF80646C0F377eE7f6",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 8
+      }
+    ]
+  }
+}

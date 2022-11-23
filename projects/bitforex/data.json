@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bitforex",
+    "name": "BitForex Token",
+    "ticker": "BF",
+    "description": "Digital asset trading platform",
+    "website": "https://www.bitforex.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitforexcom",
+    "telegram": "https://t.me/BitForexOfficial"
+  },
+  "development": {
+    "github_organizations": [
+      "bitforexapi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

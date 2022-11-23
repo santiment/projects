@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "biotron",
+    "name": "Biotron",
+    "ticker": "BTRN",
+    "description": "The Most Accurate User Analytics",
+    "website": "https://biotron.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BiotronI",
+    "telegram": "https://t.me/biotronfoundation",
+    "reddit": "https://www.reddit.com/r/Biotron/",
+    "blog": "https://medium.com/biotron"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x03c780cd554598592b97b7256ddaad759945b125",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

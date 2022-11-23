@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bird-money",
+    "name": "Bird.Money",
+    "ticker": "BIRD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

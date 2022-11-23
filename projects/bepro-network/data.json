@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bepro-network",
+    "name": "BEPRO Network",
+    "ticker": "BEPRO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

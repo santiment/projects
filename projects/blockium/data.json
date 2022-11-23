@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blockium",
+    "name": "Blockium",
+    "ticker": "BOK",
+    "description": "Trading in a gamified environment",
+    "website": "https://www.blockium.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Blockium_io",
+    "telegram": "https://t.me/blockium_official",
+    "discord": "https://discord.gg/xjFPz9b",
+    "slack": "https://discord.gg/xjFPz9b",
+    "blog": "https://medium.com/@Blockium"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x27c743954bce1bfaef8bcbd685527531001d88d7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

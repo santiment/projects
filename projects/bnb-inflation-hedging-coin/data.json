@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnb-inflation-hedging-coin",
+    "name": "Inflation Hedging Coin",
+    "ticker": "IHC",
+    "description": "Hedging against the US Inflation rate by burning the tokens annually",
+    "website": "http://www.ihcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/IHCoinofficial",
+    "telegram": "https://t.me/joinchat/vfAVmTFyLYgzMmI1",
+    "reddit": "https://www.reddit.com/r/IHCofficial/"
+  },
+  "development": {
+    "github_organizations": [
+      "IHC-Token"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x86a53fcd199212FEa44FA7e16EB1f28812be911D",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

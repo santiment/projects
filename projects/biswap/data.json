@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "biswap",
+    "name": "Biswap",
+    "ticker": "BSW",
+    "description": "The First DEX on BSC network with a three-type referral system",
+    "website": "https://biswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Biswap_DEX",
+    "telegram": "https://t.me/biswap",
+    "blog": "https://biswap-dex.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "biswap-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

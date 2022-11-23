@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "blockchain-monster-hunt",
+    "name": "Blockchain Monster Hunt",
+    "ticker": "BCMC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

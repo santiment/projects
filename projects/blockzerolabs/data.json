@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "blockzerolabs",
+    "name": "Blockzero Labs",
+    "ticker": "XIO",
+    "description": "Decentralized Venture Studio",
+    "website": "https://blockzerolabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockzerolabs",
+    "telegram": "https://t.me/blockzerolabs",
+    "reddit": "https://www.reddit.com/r/xio_network",
+    "blog": "https://medium.com/bombx"
+  },
+  "development": {
+    "github_organizations": [
+      "BlockzeroLabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

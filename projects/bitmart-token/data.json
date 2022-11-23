@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bitmart-token",
+    "name": "Bitmart",
+    "ticker": "BMX",
+    "description": "A Premier Global Digital Asset Trading Platform",
+    "website": "https://bitmart.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitMartExchange",
+    "telegram": "https://t.me/BitmartExchange",
+    "reddit": "https://www.reddit.com/user/bitmartexchange"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

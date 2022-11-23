@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bumo",
+    "name": "BUMO",
+    "ticker": "BU",
+    "description": "BUMO is a next-generation commercial-grade public Blockchain for ubiquitous and trusted value transfer, which is aimed to build a decentralized application ecosystem featured with extensive digital trust, free-flowing value and public-sharing apps.",
+    "website": "https://www.bumo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BUMOproject",
+    "telegram": "https://t.me/bumo666",
+    "slack": "https://weibo.com/p/1005056526335573/home",
+    "reddit": "https://www.reddit.com/r/BUMO/"
+  },
+  "development": {
+    "github_organizations": [
+      "bumoproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

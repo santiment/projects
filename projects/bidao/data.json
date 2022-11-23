@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bidao",
+    "name": "Bidao",
+    "ticker": "BID",
+    "description": "A chain agnostic trustless stablecoin and decentralized finance ecosystem",
+    "website": "https://bidaochain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bidaochain",
+    "telegram": "https://t.me/bidaoofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "officialBidao"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

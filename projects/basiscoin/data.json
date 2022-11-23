@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "basiscoin",
+    "name": "Basiscoin Cash",
+    "ticker": "BCC",
+    "description": "A stablecoin pegged to DAI",
+    "website": "https://basiscoin.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Basis_Coin",
+    "telegram": "https://t.me/basiscoin",
+    "blog": "https://basis-coin.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

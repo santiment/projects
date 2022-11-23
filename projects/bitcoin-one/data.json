@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bitcoin-one",
+    "name": "BitCoin One",
+    "ticker": "BTCONE",
+    "website": "https://www.bitcoinone.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/THEBITCOINONE",
+    "telegram": "https://t.me/THEBitCoinONE",
+    "discord": "https://discord.gg/uxpaTfV",
+    "slack": "https://discordapp.com/invite/uxpaTfV",
+    "blog": "https://medium.com/@thebitcoinone"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoinone1"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x87f5e8c3425218837f3cb67db941af0c01323e56",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

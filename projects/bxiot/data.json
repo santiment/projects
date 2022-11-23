@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bxiot",
+    "name": "bXIOT",
+    "ticker": "BXIOT",
+    "description": "A community-based protocol for a fair multi-asset collateral yield exposure",
+    "website": "https://xiotri.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xiotri_defi",
+    "telegram": "https://t.me/xiotri_chat",
+    "discord": "https://discord.gg/G6AJa6E",
+    "slack": "https://discord.gg/G6AJa6E",
+    "blog": "http://medium.com/@xiotri"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

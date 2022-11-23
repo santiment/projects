@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "band-protocol",
+    "name": "Band Protocol",
+    "ticker": "BAND",
+    "description": "Decentralized Data Governance",
+    "website": "https://bandprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bandprotocol",
+    "telegram": "https://t.me/bandprotocol",
+    "reddit": "https://www.reddit.com/r/bandprotocol/",
+    "blog": "https://medium.com/bandprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "bandprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

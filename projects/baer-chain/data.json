@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "baer-chain",
+    "name": "Baer Chain",
+    "ticker": "BRC",
+    "description": "Explorer of Global Online Games Public Chain. Born for Reshaping Global Online Games Ecology",
+    "website": "https://baerchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BaerChain"
+  },
+  "development": {
+    "github_organizations": [
+      "baerchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x21ab6c9fac80c59d401b37cb43f81ea9dde7fe34",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

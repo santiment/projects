@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "boltt-coin",
+    "name": "Boltt Coin",
+    "ticker": "BOLTT",
+    "description": "BolttCoin is a decentralised digital health economy based on blockchain. The platform enables monetisation of “user-generated and user-controlled health data”.",
+    "website": "https://bolttcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bolttsports",
+    "telegram": "https://t.me/bolttcoin",
+    "slack": "https://bolttcoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/BolttCoin/",
+    "blog": "https://medium.com/@BolttCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "bolttcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

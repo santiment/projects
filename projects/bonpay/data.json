@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bonpay",
+    "name": "Bonpay",
+    "ticker": "BON",
+    "description": "Bonpay makes digital payments simple. We make a cryptocurrency wallet and banking cards.",
+    "website": "https://bonpay.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bonpay",
+    "telegram": "https://t.me/bonpay_eng",
+    "reddit": "https://www.reddit.com/r/Bonpay/",
+    "blog": "https://medium.com/@bonpay"
+  },
+  "development": {
+    "github_organizations": [
+      "bonpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcc34366e3842ca1bd36c1f324d15257960fcc801",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

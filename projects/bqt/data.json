@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bqt",
+    "name": "BQT",
+    "ticker": "BQTX",
+    "description": "Social P2P crypto exchange and hedge trading platform",
+    "website": "https://bqt.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bqt_ico",
+    "telegram": "https://t.me/BQTICO",
+    "reddit": "https://www.reddit.com/r/bqtplatform",
+    "blog": "https://medium.com/@BQT"
+  },
+  "development": {
+    "github_organizations": [
+      "bqtio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9d8be94d0612170ce533ac4d7b43cc3cd91e5a1a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "badger-dao",
+    "name": "Badger DAO",
+    "ticker": "BADGER",
+    "description": "Building products to bring BTC to DeFi",
+    "website": "https://badger.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BadgerDAO",
+    "telegram": "https://t.me/badger_dao",
+    "discord": "https://discord.com/invite/xSPFHHS",
+    "slack": "https://discord.com/invite/xSPFHHS",
+    "blog": "https://badgerdao.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Badger-Finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

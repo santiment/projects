@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bittwatt",
+    "name": "Bittwatt",
+    "ticker": "BWT",
+    "description": "Energy supply, billing and balancing",
+    "website": "https://ico.bittwatt.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BittwattPteLtd",
+    "telegram": "https://t.me/bittwatt",
+    "reddit": "https://www.reddit.com/r/Bittwatt/",
+    "blog": "https://medium.com/@BittwattPteLtd"
+  },
+  "development": {
+    "github_organizations": [
+      "bittwatt"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xca3ea3061d638e02113aa960340c98343b5acd62",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

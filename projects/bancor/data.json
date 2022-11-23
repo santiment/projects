@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "bancor",
+    "name": "Bancor",
+    "ticker": "BNT",
+    "description": "Token Swap Exchange",
+    "website": "https://bancor.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bancor",
+    "telegram": "https://t.me/bancor",
+    "slack": "https://bancor-slack-invite.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/Bancor/",
+    "blog": "https://blog.bancor.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "bancorprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

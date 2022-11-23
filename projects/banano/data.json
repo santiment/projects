@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "banano",
+    "name": "Banano",
+    "ticker": "BAN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

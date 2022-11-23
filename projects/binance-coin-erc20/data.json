@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "binance-coin-erc20",
+    "name": "Binance Coin",
+    "ticker": "BNB",
+    "description": "Pay Binance exchange fees",
+    "website": "https://www.binance.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binance",
+    "telegram": "https://www.binance.com/en/community#goTG",
+    "reddit": "https://www.reddit.com/r/binanceexchange",
+    "blog": "https://medium.com/binanceexchange"
+  },
+  "development": {
+    "github_organizations": [
+      "binance-exchange"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

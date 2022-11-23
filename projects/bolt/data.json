@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bolt",
+    "name": "BOLT",
+    "ticker": "BOLT",
+    "description": "Powered by content mobile wallet",
+    "website": "https://www.bolt-token.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bolt_Global",
+    "telegram": "https://t.me/BoltGlobal",
+    "blog": "https://medium.com/bolt-global"
+  },
+  "development": {
+    "github_organizations": [
+      "syqic-ops"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9f235d23354857efe6c541db92a9ef1877689bcb",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "bloomtoken",
+    "name": "Bloom",
+    "ticker": "BLT",
+    "description": "Decentralized credit scoring powered by Ethereum and IPFS",
+    "website": "https://hellobloom.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bloom",
+    "telegram": "https://t.me/joinchat/FFWDdQ1hxqIg3jLe7zBVFQ",
+    "slack": "https://slack.hellobloom.io/",
+    "reddit": "https://www.reddit.com/r/BloomToken/",
+    "blog": "https://blog.hellobloom.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "hellobloom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

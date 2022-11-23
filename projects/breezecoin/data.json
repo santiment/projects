@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "breezecoin",
+    "name": "Breezecoin",
+    "ticker": "BRZC",
+    "description": "BreezeCoin is linked to real estate assets. Coin holders benefit from monthly interest payments. It will become a medium of exchange in real estate projects done by Breeze de Mar.",
+    "website": "https://www.breezecoin.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/breezecoinio",
+    "telegram": "https://t.me/breezecoin",
+    "reddit": "https://www.reddit.com/r/BreezeCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "breezedemaruk"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe12128d653b62f08fbed56bdeb65db729b6691c3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

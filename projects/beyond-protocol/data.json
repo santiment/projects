@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "beyond-protocol",
+    "name": "Beyond Protocol",
+    "ticker": "BP",
+    "description": "A secure protocol with blockchain trust and security",
+    "website": "https://beyond.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/beyondprotocol1",
+    "telegram": "https://t.me/beyondprotocol",
+    "discord": "https://discord.me/beyondprotocolofficial",
+    "reddit": "https://reddit.com/r/BEYONDprotocol",
+    "blog": "https://beyondprotocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdf290b162a7d3e0a328cf198308d421954f08b94",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

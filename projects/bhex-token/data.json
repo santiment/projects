@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bhex-token",
+    "name": "BHEX Token",
+    "ticker": "BHT",
+    "description": "Issued by BHEX trading platform ecosystem",
+    "website": "https://www.bhex.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BHEXOfficial",
+    "telegram": "https://t.me/BHEX_EN"
+  },
+  "development": {
+    "github_organizations": [
+      "bhexopen"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfc29b6e626b67776675fff55d5bc0452d042f434",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

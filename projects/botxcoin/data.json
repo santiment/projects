@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "botxcoin",
+    "name": "botXcoin",
+    "ticker": "BOTX",
+    "website": "https://botxcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/botxofficial",
+    "telegram": "https://t.me/botxcoin",
+    "blog": "https://botxcoin.com/category/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

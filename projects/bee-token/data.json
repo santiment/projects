@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bee-token",
+    "name": "Bee Token",
+    "ticker": "BEE",
+    "description": "Decentralized Home Sharing Network on the Blockchain",
+    "website": "https://www.beetoken.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thebeetoken",
+    "telegram": "https://t.me/beetoken",
+    "reddit": "https://www.reddit.com/r/beetoken/",
+    "blog": "https://medium.com/@thebeetoken"
+  },
+  "development": {
+    "github_organizations": [
+      "thebeetoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4d8fc1453a0f359e99c9675954e656d80d996fbf",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

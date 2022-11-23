@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blockport",
+    "name": "Blockport",
+    "ticker": "BPT",
+    "website": "https://www.blockport.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlockportNL",
+    "telegram": "https://t.me/blockport",
+    "blog": "https://medium.com/blockport"
+  },
+  "development": {
+    "github_organizations": [
+      "blockport"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x327682779bab2bf4d1337e8974ab9de8275a7ca8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

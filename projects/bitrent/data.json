@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bitrent",
+    "name": "BitRent",
+    "ticker": "RNTB",
+    "description": "Invest and own any commercial and residential property item",
+    "website": "https://bitrent.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bit_rent",
+    "telegram": "https://t.me/bitrentio",
+    "reddit": "https://www.reddit.com/r/BitRent/",
+    "blog": "https://medium.com/@bitrent"
+  },
+  "development": {
+    "github_organizations": [
+      "bitrent"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1fe70be734e473e5721ea57c8b5b01e6caa52686",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

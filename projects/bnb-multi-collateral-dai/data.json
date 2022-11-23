@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bnb-multi-collateral-dai",
+    "name": "Dai [on BNB]",
+    "ticker": "DAI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

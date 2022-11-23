@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bodhi",
+    "name": "Bodhi",
+    "ticker": "BOT",
+    "description": "Decentralized Prediction Market",
+    "website": "http://www.bodhi.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bodhitoken",
+    "telegram": "https://t.me/BodhiEN",
+    "blog": "https://medium.com/@bodhitoken"
+  },
+  "development": {
+    "github_organizations": [
+      "bodhiproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

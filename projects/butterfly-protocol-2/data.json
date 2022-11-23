@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "butterfly-protocol-2",
+    "name": "Butterfly Protocol",
+    "ticker": "BFLY",
+    "description": "A Decentralized Name System for the New Internet",
+    "website": "https://www.butterflyprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/butterflyproto",
+    "telegram": "https://t.me/butterflyprotocol",
+    "reddit": "https://www.reddit.com/r/bproto",
+    "blog": "https://medium.com/bproto"
+  },
+  "development": {
+    "github_organizations": [
+      "ButterflyProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

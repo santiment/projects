@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitbay",
+    "name": "BitBay",
+    "ticker": "BAY",
+    "description": "Decentralized marketplace and smart contracting platform",
+    "website": "http://bitbay.market/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitBayofficial",
+    "telegram": "https://t.me/bitbayofficial",
+    "discord": "https://discord.gg/sP8b66W",
+    "slack": "https://discord.gg/sP8b66W",
+    "reddit": "https://www.reddit.com/r/BitBay/",
+    "blog": "https://blog.bitbay.market/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

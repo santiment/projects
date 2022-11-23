@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bnb-mines-of-dalarnia",
+    "name": "Mines of Dalarnia [on BNB]",
+    "ticker": "DAR",
+    "description": "An action-adventure game",
+    "website": "https://www.minesofdalarnia.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MinesOfDalarnia",
+    "telegram": "https://t.me/MinesOfDalarnia",
+    "discord": "https://discord.com/invite/dZaVUMy",
+    "blog": "https://minesofdalarnia.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 6
+      }
+    ]
+  }
+}

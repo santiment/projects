@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "benepit-protocol",
+    "name": "BenePit Protocol",
+    "ticker": "BNP",
+    "description": "An incentive ad platform service",
+    "website": "https://benepit.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BenepitOfficial",
+    "telegram": "https://t.me/BenePit_global"
+  },
+  "development": {
+    "github_organizations": [
+      "benepit"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd27d76a1ba55ce5c0291ccd04febbe793d22ebf4",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

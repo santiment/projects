@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bux-token",
+    "name": "BUX Token",
+    "ticker": "BUX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

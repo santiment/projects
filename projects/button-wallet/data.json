@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "button-wallet",
+    "name": "BUTTON Wallet",
+    "ticker": "BUTT",
+    "description": "Cross-platform Telegram based wallet",
+    "website": "https://buttonwallet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/buttonwallet"
+  },
+  "development": {
+    "github_organizations": [
+      "button-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "boat-pilot-token",
+    "name": "BoatPilot Token",
+    "ticker": "NAVY",
+    "description": "BoatPilot is a marine navigation system and advertising market place for private yachting industry. BoatPilot NAVY token is used in project eco-system as a reward for sharing geo-data.",
+    "website": "https://boatpilot.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/boatpilot_io",
+    "telegram": "https://t.me/boatpilot",
+    "reddit": "https://www.reddit.com/r/BoatPilot/",
+    "blog": "https://medium.com/@boatpilot/"
+  },
+  "development": {
+    "github_organizations": [
+      "boatpilotnavi"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "babyswap",
+    "name": "BabySwap",
+    "ticker": "BABY",
+    "description": "AMM+NFT DEX for newborn projects on BSC",
+    "website": "https://home.babyswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/babyswap_bsc",
+    "telegram": "https://t.me/baby_swap",
+    "blog": "https://babyswap.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "babyswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

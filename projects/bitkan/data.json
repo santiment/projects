@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "bitkan",
+    "name": "BitKan",
+    "ticker": "KAN",
+    "description": "A cryptocurrency data and blockchain community service provider",
+    "website": "http://www.kan.land/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitKanOfficial",
+    "telegram": "http://t.me/BitKan"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

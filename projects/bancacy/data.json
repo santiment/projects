@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bancacy",
+    "name": "Bancacy",
+    "ticker": "BNY",
+    "description": "A Smart Money protocol",
+    "website": "https://www.bancacy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BancacyPlatform",
+    "telegram": "https://t.me/Bancacytoken",
+    "blog": "https://medium.com/@BancacyToken"
+  },
+  "development": {
+    "github_organizations": [
+      "bancacy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x86149c67e57c749d0a12e6d6c2bf1b616619bb29",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blocery",
+    "name": "Blocery",
+    "ticker": "BLY",
+    "description": "Food Supply Chain Ecosystem",
+    "website": "http://blocery.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blocery",
+    "telegram": "https://t.me/blocery",
+    "blog": "https://medium.com/blocery"
+  },
+  "development": {
+    "github_organizations": [
+      "blocery"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

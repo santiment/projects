@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bounce",
+    "name": "Bounce Token",
+    "ticker": "AUCTION",
+    "description": "Decentralized Auction Protocol",
+    "website": "https://bounce.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bounce_finance",
+    "telegram": "https://t.me/bounce_finance"
+  },
+  "development": {
+    "github_organizations": [
+      "bouncefinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

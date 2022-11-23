@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bluzelle",
+    "name": "Bluzelle",
+    "ticker": "BLZ",
+    "description": "Brings together the sharing economy and token economy",
+    "website": "https://bluzelle.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bluzellehq",
+    "telegram": "https://t.me/bluzelle",
+    "slack": "https://bluzelle.com/slack",
+    "reddit": "https://www.reddit.com/r/Bluzelle/",
+    "blog": "https://blog.bluzelle.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "bluzelle"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

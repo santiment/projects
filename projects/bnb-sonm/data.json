@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnb-sonm",
+    "name": "SONM",
+    "ticker": "SNM",
+    "description": "Universal fog supercomputer",
+    "website": "https://sonm.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/sonmdevelopment",
+    "telegram": "https://t.me/sonm_eng",
+    "reddit": "https://reddit.com/r/SONM"
+  },
+  "development": {
+    "github_organizations": [
+      "sonm-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

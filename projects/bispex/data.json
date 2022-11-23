@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bispex",
+    "name": "Bispex",
+    "ticker": "BPX",
+    "description": "A prediction market platform",
+    "website": "https://bispex.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bispexofficial",
+    "telegram": "https://t.me/bispexofficial",
+    "blog": "https://medium.com/bispexofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "Bispex-Platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2AA4a3E8bB72BE68a31c9c3C98CA7BeC723C6222",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

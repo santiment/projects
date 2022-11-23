@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "blockparty-boxx-token",
+    "name": "BOXX Token [Blockparty]",
+    "ticker": "BOXX",
+    "description": "An event ticketing blockchain ",
+    "website": "https://www.goblockparty.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/goblockparty",
+    "telegram": "http://t.me/goblockparty",
+    "reddit": "https://www.reddit.com/r/GoBlockParty/",
+    "blog": "http://www.medium.com/@goblockparty"
+  },
+  "development": {
+    "github_organizations": [
+      "blockpartyticketing"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x780116d91e5592e58a3b3c76a351571b39abcec6",
+        "blockchain": "ethereum",
+        "decimals": 15,
+        "label": "main"
+      }
+    ]
+  }
+}

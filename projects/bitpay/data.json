@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitpay",
+    "name": "BitPay",
+    "ticker": "BTP",
+    "description": "Blockchain payments",
+    "website": "https://bitpay.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitPay"
+  },
+  "development": {
+    "github_organizations": [
+      "bitpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

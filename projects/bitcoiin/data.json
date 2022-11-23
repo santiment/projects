@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcoiin",
+    "name": "Bitcoiin",
+    "ticker": "B2G",
+    "description": "Bitcoiin’s self-sustaining ecosystem is an open, collaborative environment of a cryptocurrency (B2G), mining ecosystem (Dragon Mining Tech), and a crypto-wallet (B2G wallet)",
+    "website": "https://bitcoiin.com/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoiin2gen",
+    "telegram": "https://t.me/joinchat/AAAAAE3ou3rIhk4Js6FKew",
+    "blog": "https://medium.com/@bitcoiin2gen"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoiinbt2"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

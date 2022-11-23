@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "basis-gold-share",
+    "name": "Basis Gold Share",
+    "ticker": "BSGS",
+    "description": "Algorithmic synthetic gold",
+    "website": "https://basis.gold/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoldBasis",
+    "telegram": "https://t.me/GoldBasis",
+    "discord": "https://discord.gg/XfBwghzfTq",
+    "slack": "https://discord.gg/XfBwghzfTq",
+    "blog": "https://build-finance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "build-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA9d232cC381715aE791417B624D7C4509D2c28DB",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "based-money",
+    "name": "Based Money",
+    "ticker": "BASED",
+    "description": "A game theory for degenerates",
+    "website": "https://based.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BasedProtocol",
+    "telegram": "https://t.me/basedmoney"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptoghoulz"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

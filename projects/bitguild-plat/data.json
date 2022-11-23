@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "bitguild-plat",
+    "name": "BitGuild PLAT",
+    "ticker": "PLAT",
+    "description": "A decentralized gaming platform built on the blockchain",
+    "website": "http://www.bitguild.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitGuildPLAT",
+    "telegram": "https://t.me/joinchat/HtbMeE8YtEEDQExesDQgPg",
+    "discord": "https://discord.gg/9dRZZd",
+    "slack": "https://discordapp.com/invite/9dRZZd",
+    "reddit": "https://www.reddit.com/r/BitGuild/",
+    "blog": "http://www.bitguild.io/blog.html"
+  },
+  "development": {
+    "github_organizations": [
+      "bitguildplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7e43581b19ab509bcf9397a2efd1ab10233f27de",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

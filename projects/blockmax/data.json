@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "blockmax",
+    "name": "BLOCKMAX",
+    "ticker": "OCB",
+    "description": "A wallet and asset management tools",
+    "website": "https://blockmax.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockmaxio",
+    "telegram": "https://t.me/blockmaxio",
+    "blog": "https://medium.com/@blockmax"
+  },
+  "development": {
+    "github_organizations": [
+      "ocbtoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x466912baa9430a4a460b141ee8c580d817441449",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

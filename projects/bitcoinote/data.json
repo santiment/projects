@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitcoinote",
+    "name": "BitcoiNote",
+    "ticker": "BTCN",
+    "description": "Private, Fast and Scalable Coin based on CryptoNote",
+    "website": "https://www.bitcoinote.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitcoinote_BTCN",
+    "telegram": "https://t.me/joinchat/GdDTqgwCLk2h4BjGgE1-_w",
+    "reddit": "https://www.reddit.com/user/bitcoinote",
+    "blog": "https://medium.com/@bitcoinote"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoinote"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
