@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bakerytoken",
+    "name": "BakeryToken",
+    "ticker": "BAKE",
+    "description": "AMM+NFT exchange on Binance Smart Chain",
+    "website": "https://www.bakeryswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bakery_swap",
+    "telegram": "https://t.me/bakeryswap",
+    "blog": "https://medium.com/@BakerySwap"
+  },
+  "development": {
+    "github_organizations": [
+      "BakeryProject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

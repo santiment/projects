@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "bzx",
+    "name": "bZx Protocol",
+    "ticker": "BZRX",
+    "description": "A decentralized protocol that enables lending and borrowing",
+    "website": "https://bzx.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/b0xNet",
+    "telegram": "https://t.me/b0xNet",
+    "discord": "http://bzx.network/discord",
+    "slack": "http://bzx.network/discord",
+    "blog": "https://medium.com/bzxnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "bzxnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

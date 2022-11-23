@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bionic",
+    "name": "Bionic",
+    "ticker": "BNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

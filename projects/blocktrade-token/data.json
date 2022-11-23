@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "blocktrade-token",
+    "name": "BlockTrade",
+    "ticker": "BTT",
+    "description": "A high-performant, soon-to-be MiFID II regulated Crypto Assets Trading Facility",
+    "website": "https://blocktrade.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Blocktradecom",
+    "blog": "https://blocktrade.com/news/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xfa456cf55250a839088b27ee32a424d7dacb54ff",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

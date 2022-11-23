@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "beyond-finance",
+    "name": "Beyondfi",
+    "ticker": "BYN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

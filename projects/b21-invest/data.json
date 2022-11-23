@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "b21-invest",
+    "name": "B21 Invest",
+    "ticker": "B21",
+    "description": "Crypto Asset Investment Platform",
+    "website": "https://b21.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/B21Official",
+    "telegram": "https://t.me/B21Official",
+    "reddit": "https://www.reddit.com/user/B21Official",
+    "blog": "https://medium.com/b21official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6faa826af0568d1866fca570da79b318ef114dab",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

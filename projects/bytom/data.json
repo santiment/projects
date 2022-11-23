@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bytom",
+    "name": "Bytom",
+    "ticker": "BTM",
+    "description": "Transfer assets from atomic world to byteworld",
+    "website": "http://bytom.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bytom_Official",
+    "slack": "https://bytom-official.slack.com/messages",
+    "reddit": "https://www.reddit.com/user/BYTOM_OFFICIAL/"
+  },
+  "development": {
+    "github_organizations": [
+      "bytom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

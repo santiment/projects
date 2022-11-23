@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "boringdao",
+    "name": "BoringDAO",
+    "ticker": "BOR",
+    "description": "Decentralized asset bridge",
+    "website": "https://boringdao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BoringDAO_Defi",
+    "telegram": "https://t.me/joinchat/NkA4p1E2PyS2GclCxdGX4g",
+    "blog": "https://boringdao-defi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "BoringDAO"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

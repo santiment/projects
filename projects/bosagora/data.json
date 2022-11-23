@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bosagora",
+    "name": "BOSAGORA",
+    "ticker": "BOA",
+    "description": "Transitional token for the BOSAgora platform",
+    "website": "https://www.bosagora.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BOSAGORA1",
+    "telegram": "https://t.me/bpf_eng",
+    "blog": "https://medium.com/bosagora"
+  },
+  "development": {
+    "github_organizations": [
+      "bpfkorea"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
+        "blockchain": "ethereum",
+        "decimals": 7,
+        "label": "main"
+      }
+    ]
+  }
+}

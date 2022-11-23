@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bzx-protocol",
+    "name": "Delete",
+    "ticker": "BZRX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

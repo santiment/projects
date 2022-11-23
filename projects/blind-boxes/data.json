@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "blind-boxes",
+    "name": "Blind Boxes",
+    "ticker": "BLES",
+    "description": "Gamified curation platform and launchpad for NFTs",
+    "website": "https://blindboxes.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blindboxes_io",
+    "telegram": "https://t.me/blindboxes",
+    "discord": "https://discord.gg/89jX6m4u",
+    "blog": "https://blindboxes-io.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "BlindBoxesNFT"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe796d6ca1ceb1b022ece5296226bf784110031cd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

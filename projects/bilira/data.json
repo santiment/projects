@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "bilira",
+    "name": "BiLira",
+    "ticker": "TRYB",
+    "description": "Stablecoin backed by the Turkish Lira",
+    "website": "https://www.bilira.co/"
+  },
+  "social": {
+    "telegram": "https://t.me/BiLira_Official",
+    "blog": "https://medium.com/@BiLira"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

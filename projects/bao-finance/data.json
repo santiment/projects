@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bao-finance",
+    "name": "Bao Finance",
+    "ticker": "BAO",
+    "description": "L2 DeFi",
+    "website": "https://www.bao.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thebaoman",
+    "discord": "https://discord.gg/BW3P62vJXT",
+    "blog": "https://thebaoman.medium.com/introducing-bao-finance-5849f074f175"
+  },
+  "development": {
+    "github_organizations": [
+      "baofinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

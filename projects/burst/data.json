@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "burst",
+    "name": "Burst",
+    "ticker": "BURST",
+    "description": "The Linux of Blockchain",
+    "website": "https://www.burst-coin.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Burstcoin_dev",
+    "telegram": "https://t.me/burstcoin",
+    "discord": "https://discord.gg/Z2HSNFv",
+    "slack": "https://discord.gg/Z2HSNFv",
+    "reddit": "https://www.reddit.com/r/burstcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "poc-consortium"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

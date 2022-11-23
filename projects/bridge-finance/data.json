@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bridge-finance",
+    "name": "Bridge Finance",
+    "ticker": "BFR",
+    "description": "Switch between the Stock and Crypto holdings through Equity Swaps",
+    "website": "https://bridgefinance.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_bridgefinance",
+    "telegram": "https://t.me/bridgefinance",
+    "blog": "https://bridgefinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x244c5276ea5bb927575417156038d7381b44ab2c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

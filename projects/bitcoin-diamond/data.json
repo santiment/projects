@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bitcoin-diamond",
+    "name": "Bitcoin Diamond",
+    "ticker": "BCD",
+    "description": "A fork of Bitcoin to improve privacy",
+    "website": "http://btcd.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitcoinDiamond_",
+    "telegram": "https://t.me/BCDcommunity",
+    "discord": "https://discord.gg/h4fQtGZ",
+    "slack": "https://discordapp.com/invite/h4fQtGZ",
+    "reddit": "https://www.reddit.com/user/Bitcoin-Diamond/"
+  },
+  "development": {
+    "github_organizations": [
+      "eveybcd"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

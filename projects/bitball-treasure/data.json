@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bitball-treasure",
+    "name": "Bitball Treasure",
+    "ticker": "BTRS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

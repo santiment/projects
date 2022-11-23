@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bittorrent",
+    "name": "BitTorrent",
+    "ticker": "BTTOLD",
+    "description": "Tokenized file-sharing protocol",
+    "website": "https://www.bittorrent.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitTorrent",
+    "telegram": "https://t.me/BTTBitTorrent",
+    "discord": "https://discord.gg/JPUTmw2",
+    "slack": "https://discordapp.com/invite/JPUTmw2"
+  },
+  "development": {
+    "github_organizations": [
+      "bittorrent"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

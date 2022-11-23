@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "block-chain-com",
+    "name": "Block-Chain.com",
+    "ticker": "BC",
+    "description": "The guide to the world of blockchain",
+    "website": "https://block-chain.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Block_Chain_com",
+    "telegram": "https://t.me/BCtoken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ecb13a8c458c379c4d9a7259e202de03c8f3d19",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

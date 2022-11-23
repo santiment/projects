@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blockpass",
+    "name": "Blockpass",
+    "ticker": "PASS",
+    "description": "Identity system",
+    "website": "https://blockpass.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlockpassOrg",
+    "telegram": "https://t.me/blockpass",
+    "reddit": "https://www.reddit.com/r/BlockpassIDN",
+    "blog": "https://medium.com/@blockpass"
+  },
+  "development": {
+    "github_organizations": [
+      "blockpass-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

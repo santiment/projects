@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "btc-standard-hashrate-token",
+    "name": "Delete",
+    "ticker": "BTCST"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

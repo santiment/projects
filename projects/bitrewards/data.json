@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bitrewards",
+    "name": "BitRewards",
+    "ticker": "BIT",
+    "description": "Cashback & Loyalty Points in Cryptocurrency",
+    "website": "https://bitrewards.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitrewards",
+    "telegram": "https://t.me/bitrewards",
+    "reddit": "https://www.reddit.com/r/BitRewards_Official/",
+    "blog": "https://medium.com/@bitrewards"
+  },
+  "development": {
+    "github_organizations": [
+      "bitrewards"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x47da42696a866cdc61a4c809a515500a242909c1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

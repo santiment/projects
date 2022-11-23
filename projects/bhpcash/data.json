@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bhpcash",
+    "name": "BHPCash",
+    "ticker": "BHPC",
+    "description": "Financial platform based on guaranteed hash power",
+    "website": "https://bhpcash.io/bhpc/index.html"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BHPFinance",
+    "telegram": "https://t.me/bhpfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "bhpcash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xee74110fb5a1007b06282e0de5d73a61bf41d9cd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

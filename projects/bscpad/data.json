@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bscpad",
+    "name": "BSCPAD",
+    "ticker": "BSCPAD",
+    "description": "The first launch pad on Binance Smart Chain",
+    "website": "https://bscpad.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BSCPad",
+    "telegram": "https://t.me/bscpad",
+    "blog": "https://bscpad.medium.com/binance-smart-chain-launch-pad-bscpad-24e3d77e6697"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bridge-oracle",
+    "name": "Bridge Oracle",
+    "ticker": "BRG",
+    "description": "An Oracle on Tron",
+    "website": "https://bridge.link/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bridge_oracle",
+    "telegram": "https://telegram.me/BridgeOracle",
+    "discord": "https://discord.com/invite/xUUkKGG"
+  },
+  "development": {
+    "github_organizations": [
+      "BridgeOracle"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

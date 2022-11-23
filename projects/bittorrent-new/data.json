@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bittorrent-new",
+    "name": "BitTorrent (new)",
+    "ticker": "BTT",
+    "description": "P2P file sharing and torrent platform",
+    "website": "https://www.bittorrent.com/btt/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitTorrent",
+    "telegram": "https://t.me/BTTBitTorrent",
+    "reddit": "https://reddit.com/r/BittorrentToken",
+    "blog": "https://medium.com/bittorrent/"
+  },
+  "development": {
+    "github_organizations": [
+      "bittorrent"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

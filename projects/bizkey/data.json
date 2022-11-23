@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bizkey",
+    "name": "BIZKEY",
+    "ticker": "BZKY",
+    "description": "Enables crypto payments in daily life",
+    "website": "https://bizkey.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bizkeyio",
+    "telegram": "https://t.me/bizkey_chat",
+    "reddit": "https://www.reddit.com/r/Bizkey_Official/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd28cfec79db8d0a225767d06140aee280718ab7e",
+        "blockchain": "ethereum",
+        "decimals": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "boba-network",
+    "name": "Boba Network",
+    "ticker": "BOBA",
+    "description": "L2 Ethereum scaling & augmenting solution",
+    "website": "https://boba.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bobanetwork",
+    "telegram": "https://t.me/bobanetwork",
+    "discord": "https://discord.com/invite/YFweUKCb8a"
+  },
+  "development": {
+    "github_organizations": [
+      "omgnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "buggyra-coin-zero",
+    "name": "Buggyra Coin Zero",
+    "ticker": "BCZERO",
+    "description": "A platform for the future of funding for all kind of payments to the Truck Racing Community",
+    "website": "https://buggyracoinzero.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/buggyracoins",
+    "telegram": "https://t.me/buggyracoins"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd45247c07379d94904e0a87b4481f0a1ddfa0c64",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

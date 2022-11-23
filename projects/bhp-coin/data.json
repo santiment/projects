@@ -1,0 +1,18 @@
+{
+  "general": {
+    "slug": "bhp-coin",
+    "name": "BHPCoin",
+    "ticker": "BHP",
+    "description": "PoW + PoS hybrid asset",
+    "website": "https://bhpa.io/en/index-en.html"
+  },
+  "social": {
+    "telegram": "https://t.me/bhpfinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

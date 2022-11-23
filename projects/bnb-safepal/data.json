@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnb-safepal",
+    "name": "SafePal",
+    "ticker": "SFP",
+    "description": "Tokenized wallet",
+    "website": "https://www.safepal.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iSafePal",
+    "telegram": "https://t.me/SafePalwallet",
+    "blog": "https://blog.safepal.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "SafePalWallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

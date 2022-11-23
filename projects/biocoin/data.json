@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "biocoin",
+    "name": "BioCoin",
+    "ticker": "BIO",
+    "description": "First eco-token",
+    "website": "https://biocoin.bio/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/biocoinproject",
+    "telegram": "https://t.me/biocoinchat_ru"
+  },
+  "development": {
+    "github_organizations": [
+      "blackithart"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

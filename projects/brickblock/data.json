@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "brickblock",
+    "name": "Brickblock",
+    "ticker": "BBK",
+    "description": "Online real estate broker",
+    "website": "https://www.brickblock.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/brickblock_io",
+    "telegram": "https://t.me/joinchat/AAAAAERj-_1p8AktrkESlQ",
+    "reddit": "https://www.reddit.com/r/BrickBlock/",
+    "blog": "https://blog.brickblock.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "brickblock-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a6058666cf1057eac3cd3a5a614620547559fc9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

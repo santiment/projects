@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnktothefuture",
+    "name": "BnkToTheFuture",
+    "ticker": "BFT",
+    "description": "Online investment platform",
+    "website": "https://bf-token.bnktothefuture.com/#!/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/banktothefuture",
+    "telegram": "https://t.me/bf_token",
+    "blog": "http://blog.bnktothefuture.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "banktothefuture"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x01ff50f8b7f74e4f00580d9596cd3d0d6d6e326f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "benchmark-protocol",
+    "name": "Benchmark Protocol",
+    "ticker": "MARK"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

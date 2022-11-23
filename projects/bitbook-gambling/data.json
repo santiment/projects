@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bitbook-gambling",
+    "name": "Bitbook Gambling",
+    "ticker": "BXK",
+    "description": "Online betting",
+    "website": "https://ico.bitbook.ag/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitbook_Ag",
+    "telegram": "https://t.me/Bitbook_ag_ICO",
+    "reddit": "https://www.reddit.com/r/BitBook_AG/",
+    "blog": "https://medium.com/@bitbook.ag"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xeb6985acd6d0cbff60b88032b0b29ac1d9d66a1b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

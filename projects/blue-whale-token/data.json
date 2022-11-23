@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "blue-whale-token",
+    "name": "Blue Whale EXchange",
+    "ticker": "BWX",
+    "description": "The Decentralized Ecosystem for Self-employed",
+    "website": "https://www.bluewhale.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlueWhaleFdn",
+    "telegram": "https://t.me/bluewhalefdn",
+    "reddit": "https://www.reddit.com/r/BlueWhaleFdn",
+    "blog": "https://medium.com/blue-whale-foundation"
+  },
+  "development": {
+    "github_organizations": [
+      "bluewhalefoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xce5114d7fa8361f0c088ee26fa3a5446c4a1f50b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

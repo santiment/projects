@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "binance-gbp-stable-coin",
+    "name": "Binance GBP Stable Coin",
+    "ticker": "BGBP",
+    "description": "A token issued by Binance, pegged to GBP",
+    "website": "https://www.binance.je/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binanceje",
+    "telegram": "https://t.me/Binance_Jersey"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc9a2c4868f0f96faaa739b59934dc9cb304112ec",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

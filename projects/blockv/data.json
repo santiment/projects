@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "blockv",
+    "name": "BLOCKv",
+    "ticker": "VEE",
+    "description": "Smart Virtual Goods on Blockchain",
+    "website": "https://blockv.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockv_io",
+    "telegram": "https://t.me/block_v",
+    "reddit": "https://www.reddit.com/r/blockv/",
+    "blog": "https://medium.com/@blockv_io"
+  },
+  "development": {
+    "github_organizations": [
+      "blockvio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x340d2bde5eb28c1eed91b2f790723e3b160613b7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

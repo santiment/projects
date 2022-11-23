@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "bankera",
+    "name": "Bankera",
+    "ticker": "BNK",
+    "description": "A digital bank to last for the blockchain era",
+    "website": "http://bankera.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bankeracom",
+    "telegram": "https://t.me/bankera",
+    "slack": "https://chat.bankera.com/channel/community",
+    "reddit": "https://www.reddit.com/r/Bankera/",
+    "blog": "https://medium.com/@Bankera_blog"
+  },
+  "development": {
+    "github_organizations": [
+      "bankera-token"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc80c5e40220172b36adee2c951f26f2a577810c5",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

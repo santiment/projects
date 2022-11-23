@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitcoin-sv",
+    "name": "Bitcoin SV",
+    "ticker": "BSV",
+    "description": "Full-node implementation for Bitcoin Cash",
+    "website": "https://bitcoinsv.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitcoinSVNode"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin-sv"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

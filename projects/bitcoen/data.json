@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcoen",
+    "name": "BitCoen",
+    "ticker": "BEN",
+    "description": "First Community Open Network Exchange",
+    "website": "https://bitcoen.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitcoen",
+    "telegram": "https://t.me/Bitcoen_io",
+    "blog": "https://medium.com/@bitcoen"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoen"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

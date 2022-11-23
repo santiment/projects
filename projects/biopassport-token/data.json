@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "biopassport-token",
+    "name": "BioPassport Token",
+    "ticker": "BIOT",
+    "description": "Health passport platform",
+    "website": "https://biopassport.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Biopassport1",
+    "telegram": "https://t.me/biopassportofficial",
+    "blog": "https://biopassportofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "biopassport"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

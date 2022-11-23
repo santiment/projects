@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "balancer_pool_token",
+    "name": "Balancer: BAL/ETH 80/20 #2",
+    "ticker": "BPT-BAL/ETH-80/20"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x59a19d8c652fa0284f44113d0ff9aba70bd46fb4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

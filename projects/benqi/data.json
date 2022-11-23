@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "benqi",
+    "name": "BENQI",
+    "ticker": "QI",
+    "description": "Avalanche&amp;#39;s Algorithmic Liquidity Market Protocol",
+    "website": "https://benqi.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BenqiFinance",
+    "telegram": "https://t.me/BenqiFinance",
+    "blog": "https://benqifinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Benqi-fi"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

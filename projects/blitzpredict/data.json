@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "blitzpredict",
+    "name": "BlitzPredict",
+    "ticker": "XBP",
+    "description": "Fintech solutions to provide function and liquidity to users of blockchain prediction markets and sportsbooks",
+    "website": "https://www.blitzpredict.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/@blitzpredict",
+    "telegram": "https://t.me/BlitzPredict",
+    "reddit": "https://www.reddit.com/r/BlitzPredict/",
+    "blog": "https://medium.com/@BlitzPredict1"
+  },
+  "development": {
+    "github_organizations": [
+      "blitzpredict"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x28dee01d53fed0edf5f6e310bf8ef9311513ae40",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

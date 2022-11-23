@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "b2bx",
+    "name": "B2BX",
+    "ticker": "B2B",
+    "description": "Professional Digital Asset Exchange",
+    "website": "https://www.b2bx.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/b2bx_exchange",
+    "telegram": "https://t.me/b2bx_eng",
+    "reddit": "https://www.reddit.com/r/B2BX/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

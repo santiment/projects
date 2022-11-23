@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "battle-world",
+    "name": "Battle World",
+    "ticker": "BWO"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

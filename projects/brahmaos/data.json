@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "brahmaos",
+    "name": "BrahmaOS",
+    "ticker": "BRM",
+    "description": "An operating system that hosts decentralized networks by enabling the deconstruction of existing services",
+    "website": "https://www.brahmaos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/brahma_os",
+    "telegram": "https://t.me/BrahmaOS",
+    "blog": "https://medium.com/brahmalabs"
+  },
+  "development": {
+    "github_organizations": [
+      "brahmaos"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd7732e3783b0047aa251928960063f863ad022d8",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

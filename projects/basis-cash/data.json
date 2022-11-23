@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "basis-cash",
+    "name": "Basis Cash",
+    "ticker": "BAC",
+    "description": "Fairly distributed &amp;amp; censorship resistant stablecoin with an algorithmic central bank",
+    "website": "https://basis.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BasisCash",
+    "telegram": "https://t.me/basiscash",
+    "blog": "https://medium.com/basis-cash"
+  },
+  "development": {
+    "github_organizations": [
+      "Basis-Cash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

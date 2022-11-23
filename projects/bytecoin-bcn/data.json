@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bytecoin-bcn",
+    "name": "Bytecoin",
+    "ticker": "BCN",
+    "description": "Privacy-focused cryptocurrency",
+    "website": "https://bytecoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bytecoin_BCN",
+    "telegram": "https://telegram.me/bytecoinchat",
+    "reddit": "https://www.reddit.com/r/BytecoinBCN/"
+  },
+  "development": {
+    "github_organizations": [
+      "bcndev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

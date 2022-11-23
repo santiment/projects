@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "burger-cities",
+    "name": "BurgerCities",
+    "ticker": "BURGER",
+    "description": "MetaFi game of metaverse scenes on BNB Chain",
+    "website": "https://burgerswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/burger_cities",
+    "telegram": "https://t.me/burgerswap",
+    "discord": "https://discord.gg/burgercities",
+    "blog": "https://medium.com/@bnburgerking"
+  },
+  "development": {
+    "github_organizations": [
+      "burgerswap-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

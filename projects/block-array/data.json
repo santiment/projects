@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "block-array",
+    "name": "Block Array",
+    "ticker": "ARY",
+    "website": "https://www.blockarray.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockarraygroup",
+    "telegram": "https://t.me/Block_Array",
+    "discord": "https://discord.gg/eJV8pgJ",
+    "slack": "https://discordapp.com/invite/eJV8pgJ"
+  },
+  "development": {
+    "github_organizations": [
+      "blockarraygroup"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa5f8fc0921880cb7342368bd128eb8050442b1a1",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

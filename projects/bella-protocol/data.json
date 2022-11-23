@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bella-protocol",
+    "name": "Bella Protocol",
+    "ticker": "BEL",
+    "description": "A set of DeFi products for one-click crypto banking",
+    "website": "https://bella.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BellaProtocol",
+    "telegram": "https://t.me/bellaprotocol",
+    "discord": "https://discord.gg/fprSMdB",
+    "slack": "https://discord.gg/fprSMdB",
+    "reddit": "https://www.reddit.com/user/BellaFinance",
+    "blog": "https://medium.com/@Bellaofficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

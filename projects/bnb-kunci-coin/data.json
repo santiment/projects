@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bnb-kunci-coin",
+    "name": "Kunci Coin",
+    "ticker": "KUNCI",
+    "description": "The next generation blockchain for mass adoption",
+    "website": "https://kuncicoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Kuncicoin_id",
+    "telegram": "https://t.me/kunciglobalofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "kuncicoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6cf271270662be1c4fc1b7bb7d7d7fc60cc19125",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 6
+      }
+    ]
+  }
+}

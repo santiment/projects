@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "bilaxy-token",
+    "name": "Bilaxy Token",
+    "ticker": "BIA",
+    "description": "Blockchain asset exchange",
+    "website": "https://bilaxy.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bilaxy_exchange",
+    "telegram": "https://t.me/bilaxychat"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x40d52577830e01aaefa80659aa90ee8b34685f4e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

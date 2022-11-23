@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "betoken",
+    "name": "Betoken",
+    "ticker": "BTK",
+    "description": "Crowd-powered asset management protocol",
+    "website": "https://betoken.fund/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/betokenfund",
+    "telegram": "https://t.me/betokenfund",
+    "blog": "https://medium.com/betoken"
+  },
+  "development": {
+    "github_organizations": [
+      "Betoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

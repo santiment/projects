@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blocknode",
+    "name": "Blocknode",
+    "ticker": "BND",
+    "description": "A new generation cryptocurrency",
+    "website": "https://blocknode.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blocknodetech",
+    "discord": "https://discord.gg/CcyPqHP",
+    "slack": "https://discord.gg/CcyPqHP",
+    "reddit": "https://www.reddit.com/r/blocknodetech/"
+  },
+  "development": {
+    "github_organizations": [
+      "blocknodetech"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

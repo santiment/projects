@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "brazil-national-football-team-fan-token",
+    "name": "Brazil National Fan Token",
+    "ticker": "BFT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

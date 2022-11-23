@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitnewchain",
+    "name": "BitNewChain",
+    "ticker": "BTN",
+    "description": "Decentralized applications development platform",
+    "website": "https://www.btn.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BTN_top",
+    "telegram": "https://t.me/BitNewchain"
+  },
+  "development": {
+    "github_organizations": [
+      "bitnew-chain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

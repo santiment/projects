@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "bitshares-music",
+    "name": "SounDAC",
+    "ticker": "XSD",
+    "website": "https://soundac.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

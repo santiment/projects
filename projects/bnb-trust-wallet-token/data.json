@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bnb-trust-wallet-token",
+    "name": "Trust Wallet Token",
+    "ticker": "TWT",
+    "description": "Crypto wallet",
+    "website": "https://trustwallet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TrustWallet",
+    "reddit": "https://www.reddit.com/r/trustapp/",
+    "blog": "https://trustwallet.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "trustwallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

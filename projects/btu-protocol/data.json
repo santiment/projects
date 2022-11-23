@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "btu-protocol",
+    "name": "BTU Protocol",
+    "ticker": "BTU",
+    "description": "BTU Protocol is the first peer-to-peer booking protocol. BTU Protocol enables direct business (0% commission) between consumers &amp;amp; any kind of service providers",
+    "website": "https://www.btu-protocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BtuProtocol",
+    "telegram": "https://t.me/btucommunity",
+    "reddit": "https://www.reddit.com/r/btuprotocol/",
+    "blog": "https://medium.com/@BTUProtocolTeam/latest"
+  },
+  "development": {
+    "github_organizations": [
+      "btuprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

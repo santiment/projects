@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "basiscoin-share",
+    "name": "Basiscoin Share",
+    "ticker": "BCS",
+    "description": "Represents value of the BasisCoin network",
+    "website": "https://basiscoin.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Basis_Coin",
+    "telegram": "https://t.me/basiscoin",
+    "blog": "https://basis-coin.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x03066dA434e5264ef0B32f787923f974A5726fDc",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "bitcny",
+    "name": "bitCNY",
+    "ticker": "BITCNY",
+    "description": "A stablecoin pegged to Chinese Yuan"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

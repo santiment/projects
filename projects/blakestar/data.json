@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blakestar",
+    "name": "ERA",
+    "ticker": "ERA",
+    "description": "Community-Driven project aimed to bring  the best out of the Crypto Community",
+    "website": "http://www.eranetwork.net/"
+  },
+  "social": {
+    "telegram": "https://t.me/ERA_Network",
+    "discord": "https://discord.gg/kZxnPjF",
+    "slack": "https://discord.gg/kZxnPjF",
+    "reddit": "https://www.reddit.com/r/ERA_Network/"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptofun"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bondappetit-governance-token",
+    "name": "BondAppétit Governance Token",
+    "ticker": "BAG"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

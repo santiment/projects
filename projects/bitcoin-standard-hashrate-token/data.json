@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcoin-standard-hashrate-token",
+    "name": "Bitcoin Standard Hashrate Token",
+    "ticker": "BTCST",
+    "description": "Each token is collateralized by real Bitcoin mining power",
+    "website": "https://www.1-b.tc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/btcst2020",
+    "telegram": "https://t.me/BTCST_Community_EN",
+    "reddit": "https://reddit.com/r/BTCStandardHashrate"
+  },
+  "development": {
+    "github_organizations": [
+      "Standard-Hashrate-Group"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

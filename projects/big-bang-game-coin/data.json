@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "big-bang-game-coin",
+    "name": "Big Bang Game Coin",
+    "ticker": "BBGC",
+    "description": "Big Bang Blockchain Game Ecosystem",
+    "website": "https://www.bbgc.games/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BbgcFund"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}
