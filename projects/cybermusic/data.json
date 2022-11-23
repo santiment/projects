@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cybermusic",
+    "name": "CyberMusic",
+    "ticker": "CYMT",
+    "description": "Music distribution via blockchain technology",
+    "website": "https://cybermusic.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CyberMusicIO",
+    "telegram": "https://t.me/cymtofficial",
+    "blog": "https://medium.com/@cybermusicio"
+  },
+  "development": {
+    "github_organizations": [
+      "cybermusicio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x78c292d1445e6b9558bf42e8bc369271ded062ea",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

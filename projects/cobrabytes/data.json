@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "cobrabytes",
+    "name": "Cobrabytes",
+    "ticker": "COBRA",
+    "description": "Instant payments to anyone with minimum transaction fees",
+    "website": "http://www.cobrabytesproject.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CobrabytesP",
+    "discord": "https://discordapp.com/channels/486967098619199508/486967261735813122",
+    "slack": "https://discordapp.com/channels/486967098619199508/486967261735813122"
+  },
+  "development": {
+    "github_organizations": [
+      "cobrabytes"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

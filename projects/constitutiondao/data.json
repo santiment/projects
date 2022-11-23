@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "constitutiondao",
+    "name": "ConstitutionDAO",
+    "ticker": "PEOPLE",
+    "description": "US Constitution as NFT",
+    "website": "https://www.constitutiondao.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/constitutiondao",
+    "discord": "https://discord.com/invite/p2jdESeVfy"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

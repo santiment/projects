@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "curio-governance",
+    "name": "Curio Governance",
+    "ticker": "CGT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

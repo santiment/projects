@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cosmos",
+    "name": "Cosmos",
+    "ticker": "ATOM",
+    "description": "An ecosystem of blockchains that can scale and interoperate with each other",
+    "website": "https://cosmos.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cosmos",
+    "telegram": "https://t.me/cosmosproject",
+    "reddit": "https://www.reddit.com/r/cosmosnetwork/",
+    "blog": "https://blog.cosmos.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "cosmos"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xCF965Cfe7C30323E9C9E41D4E398e2167506f764",
+        "blockchain": "ethereum"
+      }
+    ]
+  }
+}

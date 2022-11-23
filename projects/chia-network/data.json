@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "chia-network",
+    "name": "Chia Network",
+    "ticker": "XCH",
+    "description": "Blockchain and smart transaction platform",
+    "website": "https://www.chia.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/chia_project",
+    "reddit": "https://reddit.com/r/chia"
+  },
+  "development": {
+    "github_organizations": [
+      "Chia-Network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

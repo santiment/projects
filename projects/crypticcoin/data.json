@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "crypticcoin",
+    "name": "CrypticCoin",
+    "ticker": "CRYP",
+    "description": "Decentralized and open-source cryptocurrency that connects all the best practices regarding privacy and anonymity for its users",
+    "website": "https://crypticcoin.io/"
+  },
+  "social": {
+    "twitter": "http://twitter.com/crypticcoin_io",
+    "telegram": "https://t.me/joinchat/F15Kfw-fofypCOxrZ-5s6Q",
+    "reddit": "https://www.reddit.com/r/crypticcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "crypticcoinvip"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

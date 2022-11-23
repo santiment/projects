@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "condominium",
+    "name": "Condominium",
+    "ticker": "CDM",
+    "description": "A global decentralized network to plan your travel itinerary",
+    "website": "http://cdmcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cdmcoin",
+    "telegram": "https://t.me/joinchat/ITQLcQz1vP8S351KMf0Tow",
+    "discord": "https://discord.gg/FN5u2Hf",
+    "slack": "https://discord.gg/FN5u2Hf"
+  },
+  "development": {
+    "github_organizations": [
+      "condominium"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

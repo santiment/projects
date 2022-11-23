@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "crowd-machine",
+    "name": "Crowd Machine",
+    "ticker": "CMCT",
+    "description": "An advanced distributed computer",
+    "website": "https://crowdmachine.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Crowd_Machine",
+    "telegram": "https://t.me/crowdmachine",
+    "reddit": "https://www.reddit.com/r/CrowdMachine/",
+    "blog": "https://medium.com/crowd-machine"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x47bc01597798dcd7506dcca36ac4302fc93a8cfb",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

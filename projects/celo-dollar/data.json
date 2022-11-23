@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "celo-dollar",
+    "name": "Celo Dollar",
+    "ticker": "CUSD",
+    "description": "A stablecoin on Celo",
+    "website": "https://celo.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/celoorg",
+    "blog": "https://medium.com/celoorg/"
+  },
+  "development": {
+    "github_organizations": [
+      "celo-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

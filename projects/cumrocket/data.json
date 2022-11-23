@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "cumrocket",
+    "name": "CumRocket",
+    "ticker": "CUMMIES"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

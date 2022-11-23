@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "contentos",
+    "name": "Contentos",
+    "ticker": "COS",
+    "description": "Global Content Ecosystem",
+    "website": "https://www.contentos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/contentosio",
+    "telegram": "https://t.me/ContentosGlobal",
+    "reddit": "https://www.reddit.com/r/Contentosofficial/",
+    "blog": "https://medium.com/contentos-io"
+  },
+  "development": {
+    "github_organizations": [
+      "coschain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

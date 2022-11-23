@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cononchain",
+    "name": "CanonChain",
+    "ticker": "CZR",
+    "description": "Reforging The Cornerstone Of The Blockchain World",
+    "website": "http://www.canonchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/canonchain",
+    "telegram": "https://t.me/canonchainEN"
+  },
+  "development": {
+    "github_organizations": [
+      "canonchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0223fc70574214f65813fe336d870ac47e147fae",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

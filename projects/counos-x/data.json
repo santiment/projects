@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "counos-x",
+    "name": "Counos X",
+    "ticker": "CCXX",
+    "description": "Financial and payment services through Blockchain",
+    "website": "https://www.counos.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/counoscoin",
+    "telegram": "https://t.me/counosio",
+    "blog": "https://medium.com/@counosplatform"
+  },
+  "development": {
+    "github_organizations": [
+      "counos-platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

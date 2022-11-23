@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "civic",
+    "name": "Civic",
+    "ticker": "CVC",
+    "description": "Identity and Authentication App",
+    "website": "https://www.civic.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/civickey",
+    "telegram": "https://t.me/civicplatform",
+    "reddit": "https://www.reddit.com/r/civicplatform/",
+    "blog": "https://vinnylingham.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "civicteam"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "coinex-token",
+    "name": "CoinEx Token",
+    "ticker": "CET"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

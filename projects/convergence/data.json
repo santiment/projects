@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "convergence",
+    "name": "Convergence",
+    "ticker": "CONV",
+    "description": "The decentralized interchangeable assets protocol",
+    "website": "https://conv.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ConvergenceFin",
+    "blog": "https://convergencefinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Convergence-Finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc834fa996fa3bec7aad3693af486ae53d8aa8b50",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

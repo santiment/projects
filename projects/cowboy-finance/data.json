@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cowboy-finance",
+    "name": "Cowboy.Finance",
+    "ticker": "COW",
+    "description": "Yield farming token",
+    "website": "https://cowboy.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cowboy_finance",
+    "telegram": "https://t.me/cowboy_finance",
+    "discord": "https://discord.com/invite/svaqKKs",
+    "slack": "https://discord.com/invite/svaqKKs",
+    "blog": "https://medium.com/@cowboyfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "cowboyfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf0be50ed0620e0ba60ca7fc968ed14762e0a5dd3",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

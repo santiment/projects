@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "creed-finance",
+    "name": "Creed Finance",
+    "ticker": "CREED",
+    "description": "Automatic rebalancing over various assets",
+    "website": "https://creed.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/creedfinance",
+    "telegram": "https://t.me/financecreed",
+    "discord": "https://discord.gg/NsrsXQK",
+    "slack": "https://discord.gg/NsrsXQK",
+    "blog": "https://medium.com/@creed.finance2020"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x675e7d927af7e6d0082e0153dc3485b687a6f0ad",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

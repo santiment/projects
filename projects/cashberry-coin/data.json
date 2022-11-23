@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "cashberry-coin",
+    "name": "Cashberry Coin",
+    "ticker": "CBC",
+    "description": "Transaction tool of new Generation",
+    "website": "https://cashberycoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cashberycoin",
+    "telegram": "https://t.me/CashberyCoinChat",
+    "blog": "https://medium.com/@cashberycoin"
+  },
+  "development": {
+    "github_organizations": [
+      "cashberycoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

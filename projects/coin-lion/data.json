@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "coin-lion",
+    "name": "Coin Lion",
+    "ticker": "LION",
+    "description": "A trading and portfolio management platform that allows users to easily and efficiently manage and trade cryptocurrency",
+    "website": "https://coinlion.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin_lion",
+    "telegram": "https://t.me/CoinLionPlatform",
+    "reddit": "https://www.reddit.com/r/Coin_Lion/",
+    "blog": "https://blog.coinlion.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "coin-lion"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4F40Cbd1Fde9214b3BCBdC0359d132E6458F5E20",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

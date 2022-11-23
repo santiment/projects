@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "constant",
+    "name": "Constant",
+    "ticker": "CONST",
+    "description": "A new international stable currency, 100% backed by the US dollar. Implemented as a burnable, mintable Ethereum ERC-20 token.",
+    "website": "https://www.myconstant.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/constmoney",
+    "telegram": "https://t.me/constant_money",
+    "blog": "https://medium.com/@constantmoney"
+  },
+  "development": {
+    "github_organizations": [
+      "constant-money"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4983f767b1bc44328e434729ddabea0a064ca1ac",
+        "blockchain": "ethereum",
+        "decimals": 2,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "centrifuge",
+    "name": "Centrifuge",
+    "ticker": "CFG",
+    "description": "Real-World DeFi",
+    "website": "https://centrifuge.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/centrifuge",
+    "telegram": "https://t.me/centrifuge_chat",
+    "discord": "https://centrifuge.io/discord",
+    "blog": "https://medium.com/centrifuge"
+  },
+  "development": {
+    "github_organizations": [
+      "centrifuge"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "compound-uniswap",
+    "name": "Compound Uniswap",
+    "ticker": "cUNI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x35a18000230da775cac24873d00ff85bccded550",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

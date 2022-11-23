@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "complete-new-commerce-chain",
+    "name": "Complete New Commerce Chain",
+    "ticker": "CNCC",
+    "website": "http://cnccint.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/cncccccc"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbe15c4ebb73a67ddd94b83b237d2bdde5a5079ba",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

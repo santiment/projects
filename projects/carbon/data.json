@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "carbon",
+    "name": "Carbon",
+    "ticker": "CRBN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

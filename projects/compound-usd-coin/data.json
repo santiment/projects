@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "compound-usd-coin",
+    "name": "Compound USD Coin",
+    "ticker": "CUSDC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

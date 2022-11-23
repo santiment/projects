@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "cirus-foundation",
+    "name": "Cirus Foundation",
+    "ticker": "CIRUS",
+    "description": "Easily access the benefits of WEB3 through your data",
+    "website": "https://cirusfoundation.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CirusFoundation",
+    "telegram": "https://t.me/cirusfoundation",
+    "blog": "https://medium.com/the-cirus-foundation"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa01199c61841fce3b3dafb83fefc1899715c8756",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

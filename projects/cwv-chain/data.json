@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cwv-chain",
+    "name": "CWV Chain",
+    "ticker": "CWV",
+    "description": "An entry-level gaming scenarized entrance of Blockchain world",
+    "website": "https://cwv.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoWorld_CWV",
+    "telegram": "https://t.me/CryptoWorldLife",
+    "reddit": "https://www.reddit.com/r/cwv/"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptoworldchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xed494c9e2f8e34e53bdd0ea9b4d80305cb15c5c2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cryptex-finance",
+    "name": "Cryptex Finance",
+    "ticker": "CTX",
+    "description": "A governance token that powers and secures the Cryptex.Finance TCAP protocol",
+    "website": "https://cryptex.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptexfinance",
+    "telegram": "https://t.me/totalcryptomarketcap",
+    "discord": "https://discord.com/invite/p3FSPxAxcm",
+    "reddit": "https://www.reddit.com/r/TotalCryptoMarketCap/",
+    "blog": "https://medium.com/cryptexfinance"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

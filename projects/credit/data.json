@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "credit",
+    "name": "CREDIT",
+    "ticker": "CREDIT",
+    "description": "Cryptocurrency for everyone",
+    "website": "https://terra-credit.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CreditTerra",
+    "telegram": "https://t.me/terracredit"
+  },
+  "development": {
+    "github_organizations": [
+      "the-terra-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "chrono-tech",
+    "name": "Delete",
+    "ticker": "TIME"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

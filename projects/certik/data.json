@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "certik",
+    "name": "CertiK",
+    "ticker": "CTK",
+    "description": "A public blockchain that’s secure, decentralized, and compatible &amp;amp; interoperable with other blockchain ecosystems",
+    "website": "https://www.certik.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/certikorg",
+    "telegram": "https://t.me/certikfoundation",
+    "discord": "https://discord.com/invite/NcmCMSH",
+    "slack": "https://discord.com/invite/NcmCMSH",
+    "blog": "https://medium.com/certik"
+  },
+  "development": {
+    "github_organizations": [
+      "certikfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

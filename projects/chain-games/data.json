@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "chain-games",
+    "name": "Chain Games",
+    "ticker": "CHAIN",
+    "description": "Medium of exchange on the Chain Games network",
+    "website": "https://chaingames.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/realchaingames",
+    "telegram": "https://t.me/chaingames",
+    "discord": "https://discord.gg/wAyMde8",
+    "slack": "https://discord.gg/wAyMde8"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

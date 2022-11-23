@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "clipper-coin",
+    "name": "Clipper Coin",
+    "ticker": "CCC",
+    "description": "A financial ecosystem",
+    "website": "http://clippercoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ClipperCoinCap",
+    "telegram": "https://t.me/CCC_official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x378903a03fb2c3ac76bb52773e3ce11340377a32",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

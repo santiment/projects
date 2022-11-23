@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "cryptonex",
+    "name": "Cryptonex",
+    "ticker": "CNX",
+    "description": "Zerocoin clone",
+    "website": "https://cryptonex.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Cryptonex_CNX"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptonex"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

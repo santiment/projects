@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "clearpoll",
+    "name": "ClearPoll",
+    "ticker": "POLL",
+    "website": "https://www.clearpoll.io/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x705EE96c1c160842C92c1aeCfCFfccc9C412e3D9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

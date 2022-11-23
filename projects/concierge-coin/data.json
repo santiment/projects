@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "concierge-coin",
+    "name": "Concierge Coin",
+    "ticker": "CCC",
+    "description": "A form of payment",
+    "website": "http://www.conciergecoin.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/conciergecoin",
+    "telegram": "https://t.me/conciergecoin",
+    "discord": "https://discord.gg/CmGAtDN",
+    "slack": "https://discordapp.com/invite/CmGAtDN"
+  },
+  "development": {
+    "github_organizations": [
+      "conciergecoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

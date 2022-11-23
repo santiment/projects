@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "clams",
+    "name": "Clams",
+    "ticker": "CLAM",
+    "description": "LAMs are a form of digital value, or currency, that is transferred, created, and verified by the collective effort of the computers running the CLAMs software",
+    "website": "http://clamcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ClamClient",
+    "reddit": "http://www.reddit.com/r/clamcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "dooglus"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

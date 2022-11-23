@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "crust",
+    "name": "Crust",
+    "ticker": "CRU",
+    "description": "Decentralized cloud blockchain technology on Polkadot",
+    "website": "https://crust.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CrustNetwork",
+    "telegram": "https://t.me/CrustNetwork",
+    "discord": "https://discord.com/invite/wjDDpb5",
+    "slack": "https://discord.com/invite/wjDDpb5",
+    "reddit": "https://www.reddit.com/r/CrustNetwork/",
+    "blog": "https://medium.com/crustnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "crustio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

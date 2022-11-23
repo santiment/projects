@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "coinhe-token",
+    "name": "CoinHe Token",
+    "ticker": "CHT",
+    "description": "Trading platform",
+    "website": "https://token.coinhe.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Coinheglobal",
+    "telegram": "https://t.me/coinheio",
+    "blog": "https://blog.coinhe.io/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3277dd536471a3cBEB0c9486aCad494C95A31E73",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

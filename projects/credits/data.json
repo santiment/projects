@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "credits",
+    "name": "Credits",
+    "ticker": "CS",
+    "description": "A scalable blockchain platform",
+    "website": "https://credits.com/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/creditscom",
+    "telegram": "https://t.me/creditscom",
+    "reddit": "https://www.reddit.com/r/CreditsOfficial/",
+    "blog": "https://medium.com/@credits"
+  },
+  "development": {
+    "github_organizations": [
+      "creditscom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x46b9ad944d1059450da1163511069c718f699d31",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "cobo-wallet",
+    "name": "Cobo Wallet",
+    "ticker": "COBO",
+    "description": "A multi-chain wallet with built in dApps browser",
+    "website": "https://cobo.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Cobo_Wallet",
+    "blog": "https://medium.com/cobowallet"
+  },
+  "development": {
+    "github_organizations": [
+      "cobowallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

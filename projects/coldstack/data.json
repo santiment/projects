@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "coldstack",
+    "name": "Coldstack",
+    "ticker": "CLS",
+    "description": "Decentralized Cloud Aggregator",
+    "website": "https://coldstack.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coldstack_io",
+    "telegram": "https://t.me/coldstackio",
+    "blog": "https://medium.com/coldstack"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

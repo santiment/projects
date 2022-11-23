@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "chainx",
+    "name": "ChainX",
+    "ticker": "PCX",
+    "description": "Cross-chain crypto asset management",
+    "website": "https://chainx.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/chainx_org",
+    "telegram": "https://t.me/chainx_org",
+    "reddit": "https://www.reddit.com/r/ChainX/",
+    "blog": "https://medium.com/@chainx_org"
+  },
+  "development": {
+    "github_organizations": [
+      "chainx-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

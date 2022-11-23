@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "contentbox",
+    "name": "ContentBox",
+    "ticker": "BOX",
+    "description": "Blockchain Infrastructure For The Digital Content Industry",
+    "website": "https://contentbox.one/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Contentbox_one",
+    "telegram": "https://t.me/BoxCommunity",
+    "reddit": "https://www.reddit.com/r/ContentBoxOfficial/",
+    "blog": "https://medium.com/contentbox"
+  },
+  "development": {
+    "github_organizations": [
+      "boxfoundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x63f584fa56e60e4d0fe8802b27c7e6e3b33e007f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

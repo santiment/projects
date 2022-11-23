@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cream-finance",
+    "name": "Cream Finance",
+    "ticker": "CREAM",
+    "description": "An open and inclusive financial system",
+    "website": "https://cream.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CreamdotFinance",
+    "telegram": "https://t.me/CreamdotFinance",
+    "discord": "https://discord.gg/W44TyPh",
+    "slack": "https://discord.gg/W44TyPh",
+    "blog": "https://medium.com/@CreamdotFinance"
+  },
+  "development": {
+    "github_organizations": [
+      "CreamFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

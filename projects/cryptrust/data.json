@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cryptrust",
+    "name": "Cryptrust",
+    "ticker": "CTRT",
+    "description": "A Decentralized Trust-Based social platform",
+    "website": "https://cryptrust.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptrustdapp",
+    "telegram": "https://t.me/cryptrusten",
+    "blog": "https://medium.com/@cryptrustdapp"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptrusten"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8606a8f28e1e2fd50b9074d65c01548b1f040b32",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "cashaa",
+    "name": "Cashaa",
+    "ticker": "CAS",
+    "description": "The next generation banking platform for the next billion",
+    "website": "https://www.cashaa.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CashaaLtd",
+    "telegram": "https://t.me/CashaaLtd",
+    "discord": "https://discord.gg/FUfUVJx",
+    "slack": "https://discordapp.com/invite/FUfUVJx",
+    "reddit": "https://www.reddit.com/r/Cashaa/",
+    "blog": "https://medium.com/@cashaa"
+  },
+  "development": {
+    "github_organizations": [
+      "cashaadev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe8780b48bdb05f928697a5e8155f672ed91462f7",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

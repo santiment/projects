@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "contracoin",
+    "name": "CONTRACOIN",
+    "ticker": "CTCN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
