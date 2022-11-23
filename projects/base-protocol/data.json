@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "base-protocol",
+    "name": "Base Protocol",
+    "ticker": "BASE",
+    "description": "The S&P 500 of crypto",
+    "website": "https://www.baseprotocol.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/baseprotocol",
+    "telegram": "https://t.me/baseprotocol",
+    "reddit": "https://discord.gg/rsPCcYV",
+    "blog": "https://medium.com/baseprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "Base-Protocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

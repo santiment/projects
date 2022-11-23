@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "bodhi-eth",
+    "name": "Bodhi [ETH]",
+    "ticker": "BOE",
+    "description": "Decentralized Prediction Market",
+    "website": "http://www.bodhi.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bodhitoken",
+    "telegram": "https://t.me/BodhiEN",
+    "slack": "bodhi-group.slack.com",
+    "reddit": "https://www.reddit.com/r/bodhiproject/",
+    "blog": "https://medium.com/@bodhitoken"
+  },
+  "development": {
+    "github_organizations": [
+      "bodhiproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x970E035E2a013cf4bECD67E300d65BC32A56D826",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

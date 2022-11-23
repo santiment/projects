@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "blockmason",
+    "name": "BlockMason Credit Protocol",
+    "ticker": "BCPT",
+    "description": "Technologies for world-class decentralized applications",
+    "website": "https://blockmason.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blockmasonio",
+    "telegram": "https://t.me/blockmason",
+    "reddit": "https://www.reddit.com/r/blockmason/",
+    "blog": "https://medium.com/@BlockMason"
+  },
+  "development": {
+    "github_organizations": [
+      "blockmason"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
+        "blockchain": "bnb-beacon-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitcore",
+    "name": "Bitcore",
+    "ticker": "BTX",
+    "description": "State-of-the-art cryptocurrency",
+    "website": "http://bitcore.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitcore_BTX",
+    "telegram": "https://telegram.me/bitcore_btx_official",
+    "reddit": "https://www.reddit.com/r/bitcore_btx/"
+  },
+  "development": {
+    "github_organizations": [
+      "limxtec"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

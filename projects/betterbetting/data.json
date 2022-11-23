@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "betterbetting",
+    "name": "BetterBetting",
+    "ticker": "BETR",
+    "description": "Betting cryptocurrency that will establish truly decentralised sports betting",
+    "website": "https://www.betterbetting.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BETRBetting",
+    "telegram": "https://t.me/joinchat/HNsEWQ-L0aCjHMsmKW-d_w",
+    "slack": "https://betterbetting.slack.com/",
+    "reddit": "https://www.reddit.com/user/BETRBetting/",
+    "blog": "https://medium.com/@betterbetting"
+  },
+  "development": {
+    "github_organizations": [
+      "betterbetting"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x763186eb8d4856d536ed4478302971214febc6a9",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

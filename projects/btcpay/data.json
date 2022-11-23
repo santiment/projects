@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "btcpay",
+    "name": "BTCPay",
+    "ticker": "BCP",
+    "description": "Open Source Payment Processor for Bitcoin",
+    "website": "https://btcpayserver.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/btcpayserver",
+    "blog": "http://blog.btcpayserver.org/"
+  },
+  "development": {
+    "github_organizations": [
+      "btcpayserver"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

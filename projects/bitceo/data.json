@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bitceo",
+    "name": "bitCEO",
+    "ticker": "BCEO",
+    "description": "Support CEOs build up powerful business network",
+    "website": "https://www.bitceo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitceo_io",
+    "telegram": "https://t.me/bitCEO_io",
+    "blog": "https://medium.com/bitceo-io"
+  },
+  "development": {
+    "github_organizations": [
+      "bitceo"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

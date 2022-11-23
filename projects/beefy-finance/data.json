@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "beefy-finance",
+    "name": "Beefy.Finance",
+    "ticker": "BIFI",
+    "description": "The Multichain Yield Optimizer",
+    "website": "https://beefy.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/beefyfinance",
+    "telegram": "https://t.me/beefyannouncement",
+    "discord": "https://discord.gg/yq8wfHd",
+    "blog": "https://medium.com/beefyfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "beefyfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

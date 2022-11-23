@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "blacer-coin",
+    "name": "Blacer Coin",
+    "ticker": "BLCR",
+    "description": "BlacerCoin is going to have real value thanks to Blacer Platform in which the players around the world could create own profiles and watch thier game statistic, personaly value as progamers like have football and other sport players",
+    "website": "http://blacercoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlacerCoins",
+    "telegram": "https://t.me/joinchat/HnwTAQwRC9JB9bh2xEz4pg",
+    "discord": "https://discord.gg/NDvFdZz",
+    "slack": "https://discord.gg/NDvFdZz"
+  },
+  "development": {
+    "github_organizations": [
+      "blcrproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

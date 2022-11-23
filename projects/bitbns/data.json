@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitbns",
+    "name": "Bitbns",
+    "ticker": "BNS",
+    "description": "Centralized exchange native token",
+    "website": "https://bitbns.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitbns/",
+    "reddit": "https://www.reddit.com/r/Bitbns/",
+    "blog": "https://medium.com/bitbns"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

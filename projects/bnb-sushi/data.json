@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnb-sushi",
+    "name": "SushiSwap [on BNB]",
+    "ticker": "SUSHI",
+    "description": "An evolution of Uniswap with SUSHI tokenomics",
+    "website": "https://sushiswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SushiSwap",
+    "discord": "https://discord.gg/hJ2p555",
+    "blog": "https://medium.com/sushiswap/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

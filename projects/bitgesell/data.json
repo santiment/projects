@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "bitgesell",
+    "name": "Bitgesell",
+    "ticker": "BGL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

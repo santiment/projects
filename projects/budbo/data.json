@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "budbo",
+    "name": "Budbo",
+    "ticker": "BUBO",
+    "description": "Supply Management on a Global Cannabis Blockchain",
+    "website": "https://budbo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/budboapp",
+    "telegram": "https://t.me/joinchat/GP1DIg-BOJFnWwzCQ3WWqA",
+    "slack": "https://budboworkspace.slack.com/",
+    "reddit": "https://www.reddit.com/r/Budbo/",
+    "blog": "https://medium.com/@budbo"
+  },
+  "development": {
+    "github_organizations": [
+      "budbotokeninternationalltd"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xccbf21ba6ef00802ab06637896b799f7101f54a2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

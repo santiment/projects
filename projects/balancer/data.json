@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "balancer",
+    "name": "Balancer",
+    "ticker": "BAL",
+    "description": "A non-custodial portfolio manager, liquidity provider and price sensor",
+    "website": "https://balancer.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BalancerLabs",
+    "discord": "https://discord.gg/ARJWaeF",
+    "slack": "https://discord.gg/ARJWaeF",
+    "blog": "https://medium.com/balancer-protocol"
+  },
+  "development": {
+    "github_organizations": [
+      "balancer-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

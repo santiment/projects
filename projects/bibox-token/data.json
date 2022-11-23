@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "bibox-token",
+    "name": "Bibox Token",
+    "ticker": "BIX",
+    "description": "AI-enhanced encrypted digital asset exchange platform",
+    "website": "https://www.bibox.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bibox365",
+    "telegram": "https://t.me/BiboxGroup",
+    "reddit": "https://www.reddit.com/r/Bibox/"
+  },
+  "development": {
+    "github_organizations": [
+      "bibox365"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

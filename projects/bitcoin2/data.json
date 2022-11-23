@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitcoin2",
+    "name": "Bitcoin 2",
+    "ticker": "BTC2",
+    "description": "Scalable Bitcoin fork",
+    "website": "https://www.bitc2.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitc2org",
+    "discord": "https://discord.gg/nKWxnXV",
+    "slack": "https://discord.gg/nKWxnXV",
+    "reddit": "https://www.reddit.com/r/bitc2/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitc2"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitcoin-cash-abc-2",
+    "name": "Bitcoin Cash ABC",
+    "ticker": "BCHA",
+    "website": "https://www.bitcoincash.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoincashorg",
+    "telegram": "https://t.me/bitcoincashfork"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoincashorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

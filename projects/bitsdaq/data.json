@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "bitsdaq",
+    "name": "Bitsdaq",
+    "ticker": "BQQQ",
+    "description": "The AsiaGlobal Exchange Network",
+    "website": "https://bitsdaq.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitsdaqExchange",
+    "telegram": "https://t.me/BitsdaqExchangeOfficial"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

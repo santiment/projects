@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "boson-protocol",
+    "name": "Boson Protocol",
+    "ticker": "BOSON",
+    "description": "Connecting smart contracts to real world",
+    "website": "https://www.bosonprotocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BosonProtocol",
+    "telegram": "https://t.me/bosonprotocol",
+    "blog": "https://medium.com/bosonprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "bosonprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

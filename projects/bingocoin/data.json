@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bingocoin",
+    "name": "BingoCoin",
+    "ticker": "BOC",
+    "description": "A decentralized online entertainment platform",
+    "website": "https://www.bocfun.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BingoCoinLive",
+    "telegram": "https://t.me/BingoCoin_BOC"
+  },
+  "development": {
+    "github_organizations": [
+      "catjuicy"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4b317864a05c91225ab8f401ec7be0aeb87e9c12",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

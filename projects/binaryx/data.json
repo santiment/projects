@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "binaryx",
+    "name": "BinaryX",
+    "ticker": "BNX",
+    "description": "Gaming + NFT + DEFI + MarketPlace + Auction",
+    "website": "https://www.binaryx.pro/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binary_x",
+    "telegram": "https://t.me/binaryxGlobal"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

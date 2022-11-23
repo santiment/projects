@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "berry-data",
+    "name": "Berry Data",
+    "ticker": "BRY",
+    "description": "An oracle network on BSC",
+    "website": "https://berrydata.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/berry_data",
+    "telegram": "https://t.me/berrydata",
+    "blog": "https://medium.com/berry-data-official"
+  },
+  "development": {
+    "github_organizations": [
+      "berrydata"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

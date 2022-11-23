@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "bitcoin-private",
+    "name": "Bitcoin Private",
+    "ticker": "BTCP",
+    "description": "Private, decentralized, fast, open source,  community-driven coin",
+    "website": "https://btcprivate.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoinprivate",
+    "telegram": "https://t.me/BTCPrivate",
+    "discord": "https://discord.gg/46U2p4m",
+    "slack": "https://discord.gg/46U2p4m",
+    "reddit": "https://www.reddit.com/r/BitcoinPrivate/",
+    "blog": "https://medium.com/@bitcoinprivate"
+  },
+  "development": {
+    "github_organizations": [
+      "btcprivate"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

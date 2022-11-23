@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnb-pancakeswap",
+    "name": "PancakeSwap [on BNB]",
+    "ticker": "CAKE",
+    "description": "Yield farming on Binance Smart Chain",
+    "website": "https://pancakeswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PancakeSwaphttps://ibb.co/NFKVnYC",
+    "telegram": "https://t.me/PancakeSwap"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

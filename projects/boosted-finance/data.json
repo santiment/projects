@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "boosted-finance",
+    "name": "Boosted Finance",
+    "ticker": "BOOST",
+    "description": "Staking and farming platform",
+    "website": "https://boosted.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BoostedFinance",
+    "telegram": "https://t.me/boostedfinance",
+    "discord": "https://discord.gg/gp9bsaQ",
+    "slack": "https://discord.gg/gp9bsaQ"
+  },
+  "development": {
+    "github_organizations": [
+      "Boosted-Finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

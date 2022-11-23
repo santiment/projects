@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitcoin-file",
+    "name": "Bitcoin File",
+    "ticker": "BIFI",
+    "description": "A distributed network storage system",
+    "website": "https://www.bitcoinfile.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitcoinFile",
+    "telegram": "https://t.me/bitcoinfile"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoinfile"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

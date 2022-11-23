@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bdt-token",
+    "name": "BDT Token",
+    "ticker": "BDT",
+    "description": "The ICO market is becoming more regulated, but this isn’t stopping scams from penetrating the cryptocurrency community. That is why we created the Founding Community Bitdepositary with integrated payment systems.",
+    "website": "https://bitdepositary.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Bitdepositary",
+    "telegram": "https://t.me/BitdepositaryCommunity",
+    "blog": "https://bitdepositary.io/home1img/social6.png"
+  },
+  "development": {
+    "github_organizations": [
+      "santimdghdfhejtyt89989978965"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x033030feebd93e3178487c35a9c8ca80874353c9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

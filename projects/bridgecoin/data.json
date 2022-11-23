@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bridgecoin",
+    "name": "BridgeCoin",
+    "ticker": "BCO",
+    "description": "Decentralized Cryptocurrency Exchange",
+    "website": "https://www.crypto-bridge.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CryptoBridge",
+    "telegram": "https://t.me/CryptoBridge",
+    "discord": "https://discord.gg/9mmg9MT",
+    "slack": "https://discord.gg/9mmg9MT"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

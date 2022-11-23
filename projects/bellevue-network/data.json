@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bellevue-network",
+    "name": "Bellevue Network",
+    "ticker": "BLV",
+    "description": "A decentralized price-reactive cryptocurrency",
+    "website": "https://www.bellevuenetwork.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/official_blv",
+    "telegram": "https://t.me/blvofficial",
+    "blog": "https://medium.com/bellevue-network"
+  },
+  "development": {
+    "github_organizations": [
+      "BellevueNetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8DA25B8eD753a5910013167945A676921e864436",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

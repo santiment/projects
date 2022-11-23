@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bitcoin-confidential",
+    "name": "Bitcoin Confidential",
+    "ticker": "BC",
+    "description": "Privacy-centric Bitcoin fork",
+    "website": "https://bitcoinconfidential.cc/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/btconfidential",
+    "telegram": "https://t.me/bitcoinconf",
+    "discord": "https://discord.io/bitcoinconfidential",
+    "slack": "https://discord.io/bitcoinconfidential",
+    "reddit": "https://www.reddit.com/r/BitcoinConfidential/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin-confidential"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

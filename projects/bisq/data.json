@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bisq",
+    "name": "Bisq",
+    "ticker": "BISQ",
+    "description": "The decentralized bitcoin exchange network",
+    "website": "https://bisq.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bisq_network",
+    "slack": "https://bisq.network/slack-invite",
+    "reddit": "https://www.reddit.com/r/bisq"
+  },
+  "development": {
+    "github_organizations": [
+      "bisq-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

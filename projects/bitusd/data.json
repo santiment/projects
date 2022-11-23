@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "bitusd",
+    "name": "bitUSD",
+    "ticker": "BITUSD",
+    "description": "100% crypto-collateralized stablecoin",
+    "website": "http://bit.ly/BitShares_USD"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

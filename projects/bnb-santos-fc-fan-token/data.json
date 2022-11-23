@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bnb-santos-fc-fan-token",
+    "name": "Santos FC Fan Token",
+    "ticker": "SANTOS",
+    "description": "Licensed fan token of the Brazilian football club Santos FC",
+    "website": "https://www.santosfc.com.br/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/SantosFC"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xA64455a4553C9034236734FadDAddbb64aCE4Cc7",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bonded-finance",
+    "name": "Bonded Finance",
+    "ticker": "BOND",
+    "description": "High yield smart instruments and exotic financial products",
+    "website": "https://www.bonded.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bondedfinance",
+    "telegram": "https://t.me/bondedfinance",
+    "blog": "https://medium.com/@bondedfinance"
+  },
+  "development": {
+    "github_organizations": [
+      "Bondedfinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5dc02ea99285e17656b8350722694c35154db1e8",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

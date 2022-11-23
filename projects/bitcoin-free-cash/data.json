@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitcoin-free-cash",
+    "name": "Bitcoin Free Cash",
+    "ticker": "BFC",
+    "description": "Cryptocurrency based on Mortgage Business Model",
+    "website": "https://www.bitfree.vip/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitfreeCash",
+    "telegram": "https://t.me/bitfree_Cash",
+    "discord": "https://discord.gg/j2KtRNg",
+    "slack": "https://discord.gg/j2KtRNg"
+  },
+  "development": {
+    "github_organizations": [
+      "bitfreecash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "boom",
+    "name": "BOOM",
+    "ticker": "BOOM",
+    "description": "Self burning cryptocurrency",
+    "website": "https://www.boomtoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/boomtoken",
+    "telegram": "https://t.me/boomtoken"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

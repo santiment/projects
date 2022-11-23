@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bottos",
+    "name": "Bottos",
+    "ticker": "BTO",
+    "description": "A decentralized AI data sharing network",
+    "website": "https://www.bottos.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bottos_ai",
+    "telegram": "https://telegram.me/bottosglobal",
+    "reddit": "https://www.reddit.com/r/Bottos/",
+    "blog": "https://medium.com/bottos"
+  },
+  "development": {
+    "github_organizations": [
+      "bottos-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x36905fc93280f52362a1cbab151f25dc46742fb5",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

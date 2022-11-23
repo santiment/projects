@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bmultiplier",
+    "name": "Multiplier",
+    "ticker": "BMXX",
+    "description": "Aave fork on Binance Smart Chain",
+    "website": "https://multiplier.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/MultiplierMXX",
+    "telegram": "https://t.me/themultiplierio",
+    "discord": "https://discord.com/invite/2fatBM7",
+    "blog": "https://multiplierfinance.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "Multiplier-Finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "boolberry",
+    "name": "Boolberry",
+    "ticker": "BBR",
+    "description": "BBR is a fully secure and anonymous cryptocurrency. Built from the ground up to ensure anonymity, transactions cannot be linked to a single sender.",
+    "website": "http://boolberry.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BoolberryBBR",
+    "telegram": "https://t.me/boolberry",
+    "slack": "https://join.slack.com/t/boolberry/shared_invite/enQtMzQ3OTQ3MzgzNjcxLTBlYmRlMmRlMmNkNzk1NDk4NGMxMThhYmZkM2FlODQ0ZDBhM2FkYjIzZjJlNzA2MWMxOTZmZDA0NGZlNzg5YzY",
+    "reddit": "https://www.reddit.com/r/boolberry/"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptozoidberg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

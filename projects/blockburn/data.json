@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "blockburn",
+    "name": "Blockburn",
+    "ticker": "BURN",
+    "description": "Supply is decreased with every transaction",
+    "website": "https://blockburn.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BlockBurnHQ",
+    "telegram": "https://t.me/blockburn",
+    "discord": "https://discord.gg/9GAYzHG",
+    "slack": "https://discord.gg/9GAYzHG",
+    "blog": "https://medium.com/@blockburn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

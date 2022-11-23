@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "business-credit-alliance-chain",
+    "name": "Business Credit Alliance Chain",
+    "ticker": "BCAC",
+    "website": "http://en.bcachain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BCAChain"
+  },
+  "development": {
+    "github_organizations": [
+      "businesscredit"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

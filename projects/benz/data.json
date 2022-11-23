@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "benz",
+    "name": "Benz",
+    "ticker": "BENZ",
+    "description": "Token powering the IronGeekChain",
+    "website": "https://eaglepay.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EagleCoinID",
+    "telegram": "https://t.me/eaglecoinworld"
+  },
+  "development": {
+    "github_organizations": [
+      "elangindonesia"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

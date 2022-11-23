@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bawnetwork",
+    "name": "BAWnetwork",
+    "ticker": "BAW",
+    "description": "Blockchain 5.0 with outstanding features",
+    "website": "https://baw.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BAWnetwork",
+    "telegram": "https://t.me/BAWgroup",
+    "reddit": "https://www.reddit.com/r/BAWnetwork/",
+    "blog": "https://medium.com/@BAWnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "BAWnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

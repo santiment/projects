@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "beowulf",
+    "name": "Beowulf",
+    "ticker": "BWF",
+    "description": "A B2B decentralized cloud platform",
+    "website": "https://beowulfchain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BeowulfChain",
+    "telegram": "https://t.me/Beowulfchain",
+    "blog": "https://medium.com/@beowulfchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+        "blockchain": "ethereum",
+        "decimals": 5,
+        "label": "main"
+      }
+    ]
+  }
+}

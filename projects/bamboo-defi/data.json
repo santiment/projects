@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bamboo-defi",
+    "name": "BambooDeFi",
+    "ticker": "BAMBOO",
+    "description": "SushiSwap fork",
+    "website": "https://www.bamboodefi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FiBamboo/",
+    "telegram": "https://t.me/BambooDeFi",
+    "blog": "https://bamboodefi.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "bamboo-defi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

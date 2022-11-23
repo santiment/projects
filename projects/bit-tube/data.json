@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "bit-tube",
+    "name": "BitTube",
+    "ticker": "TUBE",
+    "description": "A monetization system",
+    "website": "https://bittubeapp.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/BitTubeApp",
+    "telegram": "https://t.me/bittubeapp",
+    "discord": "https://discord.gg/fBNQRQV",
+    "slack": "https://discordapp.com/invite/fBNQRQV",
+    "reddit": "https://www.reddit.com/r/BitTube/"
+  },
+  "development": {
+    "github_organizations": [
+      "ipbc-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

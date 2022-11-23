@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "building-cities-beyond-blockchain",
+    "name": "Building Cities Beyond Blockchain",
+    "ticker": "BCB",
+    "description": "Blockchain for smart cities",
+    "website": "https://www.bcbchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bcbblockchain",
+    "telegram": "https://t.me/bcbcommunity",
+    "blog": "https://medium.com/@BCBchain"
+  },
+  "development": {
+    "github_organizations": [
+      "bcbchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

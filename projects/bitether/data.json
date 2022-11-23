@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "bitether",
+    "name": "Bitether",
+    "ticker": "BTR",
+    "website": "http://www.bitether.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Socialbitether",
+    "telegram": "https://t.me/BitEthercoin",
+    "reddit": "https://www.reddit.com/user/Bitether_by_MAK/comments/7tih28/bitether_cryptocurrency/"
+  },
+  "development": {
+    "github_organizations": [
+      "counterpartyxcp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x499a6b77bc25c26bcf8265e2102b1b3dd1617024",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

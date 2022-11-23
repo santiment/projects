@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "bitcoin2network",
+    "name": "bitcoin2network",
+    "ticker": "B2N",
+    "description": "bitcoin2network is a Universal Private Digital Currency built upon a robust blockchain technology",
+    "website": "https://bitcoin2.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoin2network",
+    "discord": "https://discord.gg/Ctfsdsb",
+    "slack": "https://discord.gg/Ctfsdsb",
+    "reddit": "https://www.reddit.com/r/bitcoin2network/"
+  },
+  "development": {
+    "github_organizations": [
+      "b2n-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

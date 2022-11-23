@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bone-shibaswap",
+    "name": "Bone ShibaSwap",
+    "ticker": "BONE",
+    "description": "Governance token of Shibaswap ecosystem",
+    "website": "https://shibaswap.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/shibtoken",
+    "telegram": "https://t.me/bonedogekiller",
+    "discord": "https://discord.com/invite/shibatoken",
+    "reddit": "https://www.reddit.com/r/SHIBArmy/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9813037ee2218799597d83D4a5B6F3b6778218d9",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

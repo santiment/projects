@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "bnb-stream-coin",
+    "name": "StreamCoin",
+    "ticker": "STRM",
+    "description": "All-in-one Live Streaming on a Blockchain-Based Platform",
+    "website": "https://stream-coin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/streamcoin_strm",
+    "telegram": "https://t.me/StreamCoin_Official_Community",
+    "discord": "https://discord.gg/x3xQtkY3Ks",
+    "reddit": "https://www.reddit.com/r/Streamcoin/",
+    "blog": "https://medium.com/streamcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "stream-coin-tech"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc598275452fa319d75ee5f176fd3b8384925b425",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

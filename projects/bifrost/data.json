@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "bifrost",
+    "name": "Bifrost",
+    "ticker": "BFC",
+    "description": "A parachain designed for staking liquidity",
+    "website": "https://bifrost.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bifrost_finance",
+    "telegram": "https://t.me/bifrost_finance",
+    "blog": "https://medium.com/bifrost-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "bifrost-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
