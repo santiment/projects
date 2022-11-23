@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "genopets",
+    "name": "Genopets",
+    "ticker": "GENE",
+    "description": "Move-to-Earn NFT Game",
+    "website": "https://www.genopets.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/genopets",
+    "telegram": "https://t.me/Genopets",
+    "discord": "https://discord.gg/genopets",
+    "reddit": "https://reddit.com/r/genopets",
+    "blog": "https://medium.com/@genopets"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

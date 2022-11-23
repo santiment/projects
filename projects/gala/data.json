@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "gala",
+    "name": "Gala",
+    "ticker": "GALA",
+    "description": "Gaming and NFT",
+    "website": "https://gala.games/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoGalaGames",
+    "telegram": "https://t.me/GoGalaGames",
+    "discord": "https://discord.com/invite/3DWcjNn"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

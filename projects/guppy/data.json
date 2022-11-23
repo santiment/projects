@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "guppy",
+    "name": "Matchpool",
+    "ticker": "GUP",
+    "description": "Incentivise people to connect with each other within communities",
+    "website": "https://matchpool.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/matchpool",
+    "telegram": "https://t.me/matchpool",
+    "slack": "https://matchpool.signup.team/",
+    "reddit": "https://www.reddit.com/r/Matchpool",
+    "blog": "https://medium.com/matchpool"
+  },
+  "development": {
+    "github_organizations": [
+      "matchpool"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf7b098298f7c69fc14610bf71d5e02c60792894c",
+        "blockchain": "ethereum",
+        "decimals": 3,
+        "label": "main"
+      }
+    ]
+  }
+}

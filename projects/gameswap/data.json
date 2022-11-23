@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "gameswap",
+    "name": "Gameswap",
+    "ticker": "GSWAP",
+    "description": "A P2P in-game asset exchange",
+    "website": "https://www.gameswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GameswapDEX",
+    "telegram": "https://t.me/shroomfinance",
+    "discord": "https://discord.com/invite/eZcFahS",
+    "slack": "https://discord.com/invite/eZcFahS",
+    "blog": "https://medium.com/@shroom.finance/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaac41ec512808d64625576eddd580e7ea40ef8b2",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

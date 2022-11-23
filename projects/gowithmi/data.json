@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "gowithmi",
+    "name": "GoWithMi",
+    "ticker": "GMAT",
+    "description": "A distributed map network",
+    "website": "http://gowithmi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoWithMi_GL",
+    "telegram": "https://t.me/gowithmi_en"
+  },
+  "development": {
+    "github_organizations": [
+      "gowithmi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa110eeebc0751407bdcaea4cd230f04a2b82a33a",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

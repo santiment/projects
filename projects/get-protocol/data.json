@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "get-protocol",
+    "name": "GET Protocol",
+    "ticker": "GET",
+    "description": "A blockchain-based smart ticketing solution",
+    "website": "https://get-protocol.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GetProtocol",
+    "telegram": "https://t.me/joinchat/ANlpzQ9ZgrY7rE9E2eAFCw",
+    "discord": "https://discord.gg/3ecAp8s",
+    "slack": "https://discordapp.com/invite/3ecAp8s",
+    "reddit": "https://www.reddit.com/r/GETprotocol/",
+    "blog": "https://medium.com/get-protocol"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

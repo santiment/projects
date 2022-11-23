@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "giant-coin",
+    "name": "Giant",
+    "ticker": "GIC",
+    "description": "Decentralized network for Smart Bets",
+    "website": "https://giantpay.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/giant_coin",
+    "discord": "https://discord.gg/7NRqsAN",
+    "slack": "https://discord.gg/7NRqsAN"
+  },
+  "development": {
+    "github_organizations": [
+      "giantpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

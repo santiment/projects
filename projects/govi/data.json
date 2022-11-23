@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "govi",
+    "name": "Govi",
+    "ticker": "GOVI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

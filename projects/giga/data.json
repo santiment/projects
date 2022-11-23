@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "giga",
+    "name": "GIGA",
+    "ticker": "XG",
+    "description": "Superfast Zerocoin Privacy Cryptocurrency",
+    "website": "https://www.giga.im/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GIGAblockchain",
+    "telegram": "https://t.me/gigacrypto",
+    "reddit": "https://www.reddit.com/r/GigaBlockchain/",
+    "blog": "https://medium.com/@GIGA_crypto"
+  },
+  "development": {
+    "github_organizations": [
+      "gigablockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

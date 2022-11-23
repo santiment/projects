@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "guess",
+    "name": "Peerguess",
+    "ticker": "GUESS",
+    "website": "https://peerguess.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/peerguess",
+    "telegram": "https://t.me/peerguess",
+    "blog": "https://medium.com/@peerguess"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xbdcfbf5c4d91abc0bc9709c7286d00063c0e6f22",
+        "blockchain": "ethereum",
+        "decimals": 2,
+        "label": "main"
+      }
+    ]
+  }
+}

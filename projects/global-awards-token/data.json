@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "global-awards-token",
+    "name": "Global Awards Token",
+    "ticker": "GAT",
+    "description": "Global distributed shopping platform",
+    "website": "https://www.gatcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gatcoin",
+    "telegram": "https://t.me/gatcoin",
+    "reddit": "https://www.reddit.com/r/GATCOIN/",
+    "blog": "https://medium.com/@gatcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "gatcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x687174f8c49ceb7729d925c3a961507ea4ac7b28",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

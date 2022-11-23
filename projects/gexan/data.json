@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "gexan",
+    "name": "Gexan",
+    "ticker": "GEX",
+    "description": "Worldwide lotto",
+    "website": "https://gexan.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/_gexan_",
+    "telegram": "https://t.me/gexanlottery",
+    "discord": "https://discord.gg/6ndYV3b",
+    "slack": "https://discord.gg/6ndYV3b",
+    "blog": "https://medium.com/@gexanlottery"
+  },
+  "development": {
+    "github_organizations": [
+      "gexanlottery"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "gemswap",
+    "name": "GemSwap",
+    "ticker": "GEM",
+    "description": "A fork of Uniswap and Sushiswap",
+    "website": "https://gemswap.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GemSwap",
+    "telegram": "https://t.me/Gemswap20",
+    "discord": "https://discord.gg/V7nkrRG",
+    "slack": "https://discord.gg/V7nkrRG"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x90f62B96a62801488b151fF3c65eaC5Fae21a962",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

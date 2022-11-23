@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "genesis-vision",
+    "name": "Genesis Vision",
+    "ticker": "GVT",
+    "description": "Private trust management market",
+    "website": "https://genesis.vision/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/genesis_vision",
+    "telegram": "https://t.me/genesisvision",
+    "slack": "https://u.wechat.com/IL6s8kyYCLGz0S6t5HqJwr4",
+    "reddit": "https://www.reddit.com/r/genesisvision/",
+    "blog": "https://medium.com/genesisvision/"
+  },
+  "development": {
+    "github_organizations": [
+      "genesisvision"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

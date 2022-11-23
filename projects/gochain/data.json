@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "gochain",
+    "name": "GoChain",
+    "ticker": "GO",
+    "description": "A scalable, high performance, low cost, and decentralized cryptocurrency and blockchain",
+    "website": "https://gochain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/go_chain",
+    "telegram": "https://t.me/go_chain",
+    "reddit": "https://www.reddit.com/r/OfficialGoChain/",
+    "blog": "https://medium.com/gochain"
+  },
+  "development": {
+    "github_organizations": [
+      "gochain-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "galaxy-heroes-coin",
+    "name": "Galaxy Heroes Coin",
+    "ticker": "GHC",
+    "description": "Superhero based cryptocurrency",
+    "website": "https://galaxyheroescoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GalaxyHeroesGHC",
+    "telegram": "https://t.me/galaxyheroescoin",
+    "discord": "https://discord.com/invite/NWjxH4CB9R",
+    "reddit": "https://reddit.com/r/GalaxyHeroesCoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "sumner770"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

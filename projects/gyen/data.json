@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "gyen",
+    "name": "GYEN",
+    "ticker": "GYEN",
+    "description": "Stablecoin pegged to Japanese Yen",
+    "website": "https://stablecoin.z.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GMOTrust",
+    "blog": "https://gmotrust.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "trust-zcom"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

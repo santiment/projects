@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "greenmed",
+    "name": "GreenMed",
+    "ticker": "GRMD",
+    "description": "Pay for Cannabis the easy way",
+    "website": "https://www.greenmed.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GreenMed_Team",
+    "telegram": "https://t.me/greenmedapp",
+    "slack": "https://join.slack.com/t/greenmed-ico/shared_invite/MjMwODMwMjEwNTE1LTE1MDM1Mjg5NTMtNjRlMTg2YzIxNA",
+    "reddit": "https://www.reddit.com/r/GreenMed/",
+    "blog": "http://www.greenmed.io/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "greenmed"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb444208cb0516c150178fcf9a52604bc04a1acea",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

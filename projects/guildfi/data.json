@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "guildfi",
+    "name": "GuildFi",
+    "ticker": "GF",
+    "description": "The interconnected ecosystem of games, communities, and NFT assets",
+    "website": "https://guildfi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GuildFiGlobal",
+    "telegram": "https://t.me/guildfi",
+    "discord": "https://discord.com/invite/guildfi",
+    "blog": "https://medium.com/@guildfiofficial"
+  },
+  "development": {
+    "github_organizations": [
+      "GuildFi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

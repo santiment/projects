@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gitcoin",
+    "name": "Gitcoin",
+    "ticker": "GTC",
+    "description": "Governs grants, treasury and disputes",
+    "website": "https://gitcoin.co/quadraticlands/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gitcoin",
+    "discord": "https://discord.com/invite/gitcoin",
+    "reddit": "https://www.reddit.com/r/gitcoincommunity/",
+    "blog": "http://medium.com/gitcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "gitcoinco"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "graviocoin",
+    "name": "Graviocoin",
+    "ticker": "GIO",
+    "description": "Low fees, fast withdrawals, high security",
+    "website": "https://www.gravio.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gravio_net",
+    "telegram": "https://t.me/gravio_org"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

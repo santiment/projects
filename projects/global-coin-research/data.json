@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "global-coin-research",
+    "name": "Global Coin Research",
+    "ticker": "GCR"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

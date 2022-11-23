@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "gold-poker",
+    "name": "Gold Poker",
+    "ticker": "GPKR",
+    "description": "Cryptocurrency focused on Instant private transactions with near zero transaction fees",
+    "website": "https://gold-poker.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GoldPokercoin",
+    "discord": "https://discord.gg/fkT4Ehu",
+    "slack": "https://discord.gg/fkT4Ehu"
+  },
+  "development": {
+    "github_organizations": [
+      "goldpoker"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

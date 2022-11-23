@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "greenpower",
+    "name": "GreenPower",
+    "ticker": "GRN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

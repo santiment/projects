@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gridplus",
+    "name": "Grid+",
+    "ticker": "GRID",
+    "description": "Access to energy markets",
+    "website": "https://gridplus.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gridplus",
+    "telegram": "https://t.me/joinchat/GOdeUUb-XRG8KuH29psgnA",
+    "blog": "https://blog.gridplus.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "gridplus"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd",
+        "blockchain": "ethereum",
+        "decimals": 12,
+        "label": "main"
+      }
+    ]
+  }
+}

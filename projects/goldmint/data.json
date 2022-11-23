@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "goldmint",
+    "name": "GoldMint",
+    "ticker": "MNTP",
+    "description": "Blockchain based platform which operates gold-backed cryptoassets GOLD",
+    "website": "https://www.goldmint.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Goldmint_io",
+    "telegram": "https://t.me/goldmintio",
+    "slack": "https://join.slack.com/t/goldmint/shared_invite/MjE0MTY4NDQxMTUyLTE1MDA0NzM2MDctN2U3NTRhYmZhZQ",
+    "reddit": "https://reddit.com/r/goldmintio",
+    "blog": "https://blog.goldmint.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "goldmint"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x83cee9e086a77e492ee0bb93c2b0437ad6fdeccc",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

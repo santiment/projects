@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "guild-of-guardians",
+    "name": "Guild of Guardians",
+    "ticker": "GOG",
+    "description": "Multiplayer fantasy action RPG on Immutable X",
+    "website": "https://www.guildofguardians.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GuildOfGuardian",
+    "discord": "https://discord.com/invite/UdejGr9Wg7",
+    "blog": "https://guildofguardians.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

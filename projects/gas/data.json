@@ -1,0 +1,15 @@
+{
+  "general": {
+    "slug": "gas",
+    "name": "Gas",
+    "ticker": "GAS",
+    "website": "https://neo.org/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

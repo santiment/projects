@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "gomics",
+    "name": "Gomics",
+    "ticker": "GOM",
+    "description": "Global Entertainment Platform",
+    "website": "http://www.gomics.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Gomics1",
+    "telegram": "https://t.me/GomicsOfficial",
+    "blog": "https://medium.com/gomics-official"
+  },
+  "development": {
+    "github_organizations": [
+      "gomics"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb8c6ad2586bb71d518c2aaf510efe91f82022f58",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

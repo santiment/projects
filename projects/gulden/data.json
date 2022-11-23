@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "gulden",
+    "name": "Gulden",
+    "ticker": "NLG",
+    "description": "Send money to each other, wire it to any IBAN account and pay at Gulden merchants",
+    "website": "https://gulden.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Gulden"
+  },
+  "development": {
+    "github_organizations": [
+      "gulden"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "gifto",
+    "name": "Gifto",
+    "ticker": "GTO",
+    "description": "Private payments via customized gifts",
+    "website": "https://gifto.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/GIFTO_io",
+    "telegram": "https://t.me/GIFTOOfficial",
+    "slack": "https://open.kakao.com/o/ggLQMiC",
+    "reddit": "https://www.reddit.com/user/GIFTO-io/",
+    "blog": "https://medium.com/@GIFTO"
+  },
+  "development": {
+    "github_organizations": [
+      "gifto-io"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
+        "blockchain": "ethereum",
+        "decimals": 5
+      }
+    ]
+  }
+}
