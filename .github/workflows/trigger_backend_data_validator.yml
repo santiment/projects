@@ -47,7 +47,7 @@ jobs:
           url: https://api-stage.santiment.net/projects_data_validator_webhook/${{ secrets.api_endpoint_secret_path }}
           method: POST
           data: '{ "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
-          timeout: 60000
+          timeout: 600000
 
       - name: "Use response"
         run: echo ${{ steps.webhook-api.outputs.response }}
