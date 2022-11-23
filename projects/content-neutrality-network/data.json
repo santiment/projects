@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "content-neutrality-network",
+    "name": "Content Neutrality Network",
+    "ticker": "CNN",
+    "description": "A blockchain-based content ecosystem",
+    "website": "https://cnntoken.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CNN_Blockchain",
+    "telegram": "https://t.me/cnn_blockchain_official"
+  },
+  "development": {
+    "github_organizations": [
+      "cnntoken"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8713d26637cf49e1b6b4a7ce57106aabc9325343",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

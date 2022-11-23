@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "clintex-cti",
+    "name": "ClinTex CTi",
+    "ticker": "CTI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

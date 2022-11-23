@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cashbet-coin",
+    "name": "CashBet",
+    "ticker": "CBC",
+    "description": "Mobile Gambling",
+    "website": "https://coin.cashbet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cashbetcoin",
+    "telegram": "https://t.me/cashbetcoin",
+    "reddit": "https://reddit.com/r/cashbet",
+    "blog": "https://medium.com/@CashBetCoin"
+  },
+  "development": {
+    "github_organizations": [
+      "mgt-corp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

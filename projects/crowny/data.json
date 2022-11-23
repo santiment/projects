@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "crowny",
+    "name": "Crowny",
+    "ticker": "CRWNY"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "caspian",
+    "name": "Caspian",
+    "ticker": "CSP",
+    "description": "Asset management solution",
+    "website": "https://caspian.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Caspian_Tech",
+    "telegram": "https://t.me/Caspian_Tech",
+    "blog": "https://medium.com/@Caspian_Tech"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa6446d655a0c34bc4f05042ee88170d056cbaf45",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

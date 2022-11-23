@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "chi-gastoken",
+    "name": "Chi Gastoken",
+    "ticker": "CHI",
+    "description": "Lower gas costs",
+    "website": "https://1inch.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1inchExchange",
+    "telegram": "https://t.me/OneInchExchange",
+    "blog": "https://medium.com/@1inch.exchange/"
+  },
+  "development": {
+    "github_organizations": [
+      "CryptoManiacsZone"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0000000000004946c0e9f43f4dee607b0ef1fa1c",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

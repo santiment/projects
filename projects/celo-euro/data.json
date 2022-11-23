@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "celo-euro",
+    "name": "Celo Euro",
+    "ticker": "CEUR",
+    "description": "A stable asset that tracks Euro",
+    "website": "https://celo.org/#ceur"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CeloOrg",
+    "discord": "https://discord.gg/6yWMkgM",
+    "reddit": "https://reddit.com/r/ceur_is_now_officially_live_on_mainnet",
+    "blog": "https://medium.com/celoorg/"
+  },
+  "development": {
+    "github_organizations": [
+      "celo-org"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

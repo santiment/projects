@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "cbdao",
+    "name": "CBDAO",
+    "ticker": "SBREE",
+    "description": "Coin farming and yield generator DAO",
+    "website": "https://coinbreeder.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinBreeder",
+    "telegram": "https://t.me/coinbreederDAO",
+    "blog": "https://medium.com/@coinbreeder"
+  },
+  "development": {
+    "github_organizations": [
+      "coinbreeder"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

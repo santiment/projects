@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "coinloan",
+    "name": "CoinLoan",
+    "ticker": "CLT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

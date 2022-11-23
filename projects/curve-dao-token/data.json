@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "curve-dao-token",
+    "name": "Delete",
+    "ticker": "CRV"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

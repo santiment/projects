@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "cratos",
+    "name": "Cratos",
+    "ticker": "CRTS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

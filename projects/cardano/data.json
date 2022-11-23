@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "cardano",
+    "name": "Cardano",
+    "ticker": "ADA",
+    "description": "Layered currency and contracts",
+    "website": "https://www.cardano.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Cardano_CF",
+    "telegram": "https://t.me/cardano",
+    "discord": "https://discord.gg/kwY6rj8",
+    "slack": "https://discordapp.com/invite/kwY6rj8",
+    "reddit": "https://www.reddit.com/r/cardano/",
+    "blog": "https://cardanofoundation.org/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "input-output-hk"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

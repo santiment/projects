@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "crycash",
+    "name": "CryCash",
+    "ticker": "CRC",
+    "description": "The dedicated cryptocurrency for gamers",
+    "website": "https://crycash.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cry_cash",
+    "telegram": "https://t.me/crycash",
+    "reddit": "https://www.reddit.com/r/crycash/",
+    "blog": "https://medium.com/@crycash/"
+  },
+  "development": {
+    "github_organizations": [
+      "crycash"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf41e5fbc2f6aac200dd8619e121ce1f05d150077",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

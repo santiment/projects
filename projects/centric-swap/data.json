@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "centric-swap",
+    "name": "Centric Swap",
+    "ticker": "CNS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

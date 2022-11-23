@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "commercium",
+    "name": "Commercium",
+    "ticker": "CMM",
+    "description": "A dual-chain platform that ensures the most secure and efficient data processing, storage and access",
+    "website": "https://www.commercium.net/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cmmblockchain/",
+    "telegram": "https://t.me/CommerciumCoin/",
+    "discord": "https://discord.gg/rpV5tVf",
+    "slack": "https://discord.gg/rpV5tVf",
+    "reddit": "https://www.reddit.com/user/CMMBlockchain/"
+  },
+  "development": {
+    "github_organizations": [
+      "commerciumblockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

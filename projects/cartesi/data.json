@@ -1,0 +1,32 @@
+{
+  "general": {
+    "slug": "cartesi",
+    "name": "Cartesi",
+    "ticker": "CTSI",
+    "description": "The operating system of DApps",
+    "website": "http://cartesi.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cartesiproject",
+    "telegram": "https://t.me/cartesiproject",
+    "discord": "https://discord.gg/Pt2NrnS",
+    "slack": "https://discordapp.com/invite/Pt2NrnS",
+    "reddit": "https://www.reddit.com/r/cartesi/",
+    "blog": "https://medium.com/cartesi"
+  },
+  "development": {
+    "github_organizations": [
+      "cartesi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

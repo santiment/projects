@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cyclean",
+    "name": "CYCLEAN",
+    "ticker": "CCL",
+    "description": "Promotes clean energy through a rental system of electric vehicles",
+    "website": "https://cyclean.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cycleancoin",
+    "telegram": "http://t.me/cycleangroup",
+    "reddit": "https://www.reddit.com/r/Cyclean/",
+    "blog": "https://medium.com/@jnugroup3"
+  },
+  "development": {
+    "github_organizations": [
+      "cycleanio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x749f35ff65932e68267dd82f6cd85eea735d700e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

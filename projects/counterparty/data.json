@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "counterparty",
+    "name": "Counterparty",
+    "ticker": "XCP",
+    "description": "Extending the functionality of Bitcoin",
+    "website": "http://counterparty.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CounterpartyXCP",
+    "telegram": "http://t.me/Counterparty",
+    "reddit": "https://www.reddit.com/r/counterparty_xcp/"
+  },
+  "development": {
+    "github_organizations": [
+      "counterpartyxcp"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

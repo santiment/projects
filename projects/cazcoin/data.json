@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "cazcoin",
+    "name": "Cazcoin",
+    "ticker": "CAZ",
+    "description": "Cross-border e-commerce platform powered by blockchain",
+    "website": "https://cazcoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cazproject",
+    "telegram": "https://t.me/CopicoOfficial",
+    "discord": "https://discord.gg/VmU5URB",
+    "slack": "https://discord.gg/VmU5URB",
+    "reddit": "https://www.reddit.com/r/CAZCOIN/"
+  },
+  "development": {
+    "github_organizations": [
+      "copicogithub1"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

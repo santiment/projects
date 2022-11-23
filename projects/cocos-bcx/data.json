@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cocos-bcx",
+    "name": "Cocos-BCX",
+    "ticker": "COCOS",
+    "description": "The next generation of digital game economy",
+    "website": "https://www.cocosbcx.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CocosBCX",
+    "telegram": "https://t.me/cocosbcxen",
+    "discord": "https://discord.gg/jdJMNtC",
+    "slack": "https://discord.gg/jdJMNtC",
+    "reddit": "https://www.reddit.com/user/cocos-bcx/",
+    "blog": "https://medium.com/cocosbcx"
+  },
+  "development": {
+    "github_organizations": [
+      "cocos-bcx"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0c6f5f7d555e7518f6841a79436bd2b1eef03381",
+        "decimals": 18
+      }
+    ]
+  }
+}

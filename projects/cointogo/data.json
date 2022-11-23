@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "cointogo",
+    "name": "CoinToGo",
+    "ticker": "2GO",
+    "description": "CoinToGo stands for green mining, smart applications, augmented reality and innovative app technologies",
+    "website": "http://cointogo.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cointogo",
+    "telegram": "https://t.me/cointogo/",
+    "discord": "https://discord.gg/NJjb4rD",
+    "slack": "https://discordapp.com/invite/NJjb4rD",
+    "reddit": "https://www.reddit.com/user/CoinToGo_official"
+  },
+  "development": {
+    "github_organizations": [
+      "cointogo"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

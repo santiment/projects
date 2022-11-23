@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cmitcoin",
+    "name": "CMITCOIN",
+    "ticker": "CMIT",
+    "description": "Brings Japanese comics, anime, music, cosplay, and other fandoms to the world",
+    "website": "https://cmitcoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CMITCOIN",
+    "telegram": "https://t.me/COMIKETCOIN_EN",
+    "discord": "https://discord.gg/4dBgQPe",
+    "slack": "https://discord.gg/4dBgQPe",
+    "blog": "https://cmitcoin.com/category/blog/"
+  },
+  "development": {
+    "github_organizations": [
+      "comiketcoindev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe11609b9a51caf7d32a55896386ac52ed90e66f1",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

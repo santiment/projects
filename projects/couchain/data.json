@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "couchain",
+    "name": "Couchain",
+    "ticker": "COU",
+    "description": "A fourth generation blockchain",
+    "website": "https://couchain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Couchain",
+    "telegram": "https://t.me/CouchainGroups",
+    "reddit": "https://www.reddit.com/user/CouChain/",
+    "blog": "https://medium.com/@Couchain"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf091cf09c51811819db705710e9634b8bf18f164",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

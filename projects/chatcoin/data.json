@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "chatcoin",
+    "name": "ChatCoin",
+    "ticker": "CHAT",
+    "description": "A token of OpenChat, an instant messaging protocol",
+    "website": "http://www.openchat.co/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": [
+      "openchatproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x442bc47357919446eabc18c7211e57a13d983469",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

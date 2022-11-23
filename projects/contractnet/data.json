@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "contractnet",
+    "name": "ContractNet",
+    "ticker": "CNET",
+    "description": "Intersection Of Blockchain, IOT &amp;amp; Smart Contracts",
+    "website": "https://contractnet.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/contractNetlabs",
+    "telegram": "https://t.me/joinchat/H-NI0ETe2ac73ROtpIQ64Q",
+    "blog": "https://medium.com/@contractnetlabs"
+  },
+  "development": {
+    "github_organizations": [
+      "contractnetlabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

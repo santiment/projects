@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "commerce-data-connection",
+    "name": "Commerce Data Connection",
+    "ticker": "CDC",
+    "description": "The first decentralized public ecological platform.  For global consumer data asset transactions driven by blockchain technology.",
+    "website": "http://www.cdc.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cdccdcoffical",
+    "telegram": "https://t.me/joinchat/I0S-zA5FsfOyTf0rv_Tc_Q"
+  },
+  "development": {
+    "github_organizations": [
+      "cdcchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x87026f792d09960232ca406e80c89bd35bafe566",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

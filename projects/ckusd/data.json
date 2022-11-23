@@ -1,0 +1,16 @@
+{
+  "general": {
+    "slug": "ckusd",
+    "name": "CK USD",
+    "ticker": "CKUSD",
+    "description": "Deemed to be stable coin pegged to USD",
+    "website": "http://www.cascadiacorp.com/"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

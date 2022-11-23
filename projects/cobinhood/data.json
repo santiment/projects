@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cobinhood",
+    "name": "Cobinhood",
+    "ticker": "COB",
+    "description": "Cryptocurrency Exchange without trading fees",
+    "website": "https://www.cobinhood.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cobinhood",
+    "telegram": "https://t.me/joinchat/GhBM6A2ktfrwdjzh9hDfQA",
+    "slack": "http://slack.cobinhood.com/",
+    "reddit": "https://www.reddit.com/r/cobinhood/",
+    "blog": "https://medium.com/@cobinhoodblog"
+  },
+  "development": {
+    "github_organizations": [
+      "cobinhood"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

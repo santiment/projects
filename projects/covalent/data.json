@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "covalent",
+    "name": "Covalent",
+    "ticker": "CQT",
+    "description": "An API to billions of blockchain data points",
+    "website": "https://www.covalenthq.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/covalent_hq",
+    "telegram": "https://t.me/CovalentHQ",
+    "discord": "https://discord.gg/fgZPpq69Dd",
+    "reddit": "https://www.reddit.com/r/CovalentHQ/"
+  },
+  "development": {
+    "github_organizations": [
+      "covalenthq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

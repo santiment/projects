@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cosmo-coin",
+    "name": "Cosmo Coin",
+    "ticker": "COSM",
+    "description": "A mutually beneficial beauty ecosystem",
+    "website": "https://cosmochain.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Cosmochain",
+    "telegram": "https://t.me/cosmochain_english",
+    "reddit": "https://www.reddit.com/user/Cosmochainofficial",
+    "blog": "https://medium.com/@Cosmochain"
+  },
+  "development": {
+    "github_organizations": [
+      "cosmochain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc4bcd64cb216d49fd3c643a32762f34626b45a1a",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

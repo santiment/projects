@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "coinvest",
+    "name": "Coinvest",
+    "ticker": "COIN",
+    "description": "The world’s first decentralized investment trading market for cryptocurrencies",
+    "website": "https://coinve.st/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CoinvestHQ",
+    "telegram": "https://t.me/CoinvestHQ/",
+    "reddit": "https://www.reddit.com/r/Coinvest/",
+    "blog": "https://medium.com/@CoinvestHQ"
+  },
+  "development": {
+    "github_organizations": [
+      "coinvesthq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5e8f855966d638135a968861e80dda722291b06d",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

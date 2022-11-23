@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "chintai",
+    "name": "Chintai",
+    "ticker": "CHN",
+    "description": "EOS P2P token leasing platform",
+    "website": "https://chintai.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/chintaieos",
+    "telegram": "https://t.me/ChintaiEOS",
+    "reddit": "https://reddit.com/r/chintai/",
+    "blog": "https://medium.com/@chintaieos"
+  },
+  "development": {
+    "github_organizations": [
+      "chintai-platform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

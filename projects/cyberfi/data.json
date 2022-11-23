@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "cyberfi",
+    "name": "CyberFi Token",
+    "ticker": "CFi",
+    "description": "Intelligent DeFi Automation Platform",
+    "website": "https://cyberfi.tech/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cyberfi_tech",
+    "telegram": "https://t.me/cyberfi_tech",
+    "discord": "https://discord.gg/S4M6KQx",
+    "blog": "https://medium.com/cyberfi"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

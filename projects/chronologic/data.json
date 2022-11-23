@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "chronologic",
+    "name": "Chronologic",
+    "ticker": "DAY",
+    "description": "Debt smart contracts & temporal innovation on Ethereum",
+    "website": "https://chronologic.network/"
+  },
+  "social": {
+    "slack": "https://chronologic.network/slack",
+    "blog": "https://blog.chronologic.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "chronologic"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xE814aeE960a85208C3dB542C53E7D4a6C8D5f60F",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

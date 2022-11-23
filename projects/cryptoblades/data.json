@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "cryptoblades",
+    "name": "CryptoBlades",
+    "ticker": "SKILL",
+    "description": "NFT game on BSC",
+    "website": "http://cryptoblades.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bladescrypto",
+    "telegram": "http://t.me/cryptoblades_general",
+    "discord": "https://discord.gg/c5afzyQ3Q9",
+    "blog": "http://cryptoblades.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

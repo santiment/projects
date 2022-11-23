@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cover-protocol",
+    "name": "COVER Protocol",
+    "ticker": "COVER",
+    "description": "A peer-to-peer coverage market",
+    "website": "https://www.coverprotocol.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/COVERProtocol",
+    "discord": "https://discord.com/invite/VZqhqQN",
+    "slack": "https://discord.com/invite/VZqhqQN",
+    "blog": "https://coverprotocol.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "CoverProtocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

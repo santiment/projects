@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "constellation",
+    "name": "Constellation",
+    "ticker": "DAG",
+    "description": "A DAG protocol that runs smart contracts as microservices",
+    "website": "https://www.constellationlabs.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Conste11ation",
+    "telegram": "https://t.me/constellationcommunity",
+    "reddit": "https://www.reddit.com/user/ConstellationLabs/",
+    "blog": "https://medium.com/constellationlabs"
+  },
+  "development": {
+    "github_organizations": [
+      "constellation-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa8258abc8f2811dd48eccd209db68f25e3e34667",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

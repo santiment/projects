@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "cryptaur",
+    "name": "Cryptaur",
+    "ticker": "CPT",
+    "description": "A framework for potentially unlimited number of specialized P2P services",
+    "website": "https://cryptaur.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptaur",
+    "telegram": "https://t.me/cryptaur",
+    "reddit": "https://www.reddit.com/r/Cryptaur/",
+    "blog": "https://medium.com/@cryptaur"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptaur"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

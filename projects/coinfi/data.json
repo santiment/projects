@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "coinfi",
+    "name": "CoinFi",
+    "ticker": "COFI",
+    "description": "The democratization of Wall Street",
+    "website": "http://www.coinfi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/coin_fi",
+    "telegram": "https://t.me/coinfi",
+    "reddit": "https://www.reddit.com/user/coinfi",
+    "blog": "https://medium.com/coinfi"
+  },
+  "development": {
+    "github_organizations": [
+      "coinfi"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3136ef851592acf49ca4c825131e364170fa32b3",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

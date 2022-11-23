@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cindicator",
+    "name": "Cindicator",
+    "ticker": "CND",
+    "description": "Hybrid Intelligence for financial markets",
+    "website": "https://cindicator.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Cindicator",
+    "telegram": "https://t.me/cindicator_chat",
+    "reddit": "https://www.reddit.com/r/Cindicator/",
+    "blog": "https://medium.com/@Cindicator"
+  },
+  "development": {
+    "github_organizations": [
+      "cindicator"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

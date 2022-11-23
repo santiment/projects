@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "cobak-token",
+    "name": "Cobak Token",
+    "ticker": "CBK",
+    "description": "No.1 Crypto Community in Korea",
+    "website": "https://cobak.co.kr/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/CobakOfficial",
+    "blog": "https://medium.com/@cobak"
+  },
+  "development": {
+    "github_organizations": [
+      "cobak-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

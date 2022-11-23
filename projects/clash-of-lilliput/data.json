@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "clash-of-lilliput",
+    "name": "Clash of Lilliput",
+    "ticker": "COL"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

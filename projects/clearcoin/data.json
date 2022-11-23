@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "clearcoin",
+    "name": "ClearCoin",
+    "ticker": "XCLR",
+    "description": "Real-time buying and selling of media on decentralized applications",
+    "website": "https://clearcoin.co/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/clearcoinhq",
+    "telegram": "https://t.me/ClearCoin",
+    "slack": "https://clearcoin.co/slack/",
+    "reddit": "https://www.reddit.com/r/ClearCoin/",
+    "blog": "https://medium.com/@clearcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "clearcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xac838aee2f650a6b970ecea56d4651653c1f84a1",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

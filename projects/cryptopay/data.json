@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cryptopay",
+    "name": "Cryptopay",
+    "ticker": "CPAY",
+    "description": "A global payment gateway that provides BTC, ETH, LTC and XRP wallets, crypto exchange & prepaid cards",
+    "website": "https://cryptopay.me/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptopay",
+    "telegram": "https://t.me/cryptopayico",
+    "blog": "https://medium.com/Cryptopay"
+  },
+  "development": {
+    "github_organizations": [
+      "cryptopay-dev"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

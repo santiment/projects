@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "centrality",
+    "name": "Centrality",
+    "ticker": "CENNZ",
+    "description": "A peer to peer marketplace",
+    "website": "https://www.centrality.ai/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/centralityai",
+    "blog": "https://medium.com/centrality"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

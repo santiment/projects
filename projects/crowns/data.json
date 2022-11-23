@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "crowns",
+    "name": "Crowns",
+    "ticker": "CWS",
+    "description": "Game Platform Designed Around the DeFi & NFT Economy",
+    "website": "https://www.seascape.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/seascapenetwork",
+    "telegram": "https://t.me/seascapenetwork",
+    "discord": "https://discord.com/invite/Uq9aYWPy7D",
+    "reddit": "https://www.reddit.com/r/SeascapeNetwork/",
+    "blog": "https://medium.com/seascape-network"
+  },
+  "development": {
+    "github_organizations": [
+      "blocklords"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

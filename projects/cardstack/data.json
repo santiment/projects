@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "cardstack",
+    "name": "Cardstack",
+    "ticker": "CARD",
+    "description": "The experience layer of the decentralized internet",
+    "website": "https://cardstack.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cardstack",
+    "telegram": "https://telegram.me/cardstack",
+    "reddit": "https://www.reddit.com/r/Cardstack/",
+    "blog": "https://medium.com/cardstack"
+  },
+  "development": {
+    "github_organizations": [
+      "cardstack"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xb07ec2c28834b889b1ce527ca0f19364cd38935c",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "copytrack",
+    "name": "COPYTRACK",
+    "ticker": "CPY",
+    "description": "The future of global copyright registration",
+    "website": "https://copytrack.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/copytrackhq/",
+    "telegram": "https://t.me/copytrackhq",
+    "blog": "https://steemit.com/@copytrackhq"
+  },
+  "development": {
+    "github_organizations": [
+      "copytrackio"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

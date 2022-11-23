@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "civilization",
+    "name": "Civilization",
+    "ticker": "CIV"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
