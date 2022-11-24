@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "decred",
+    "name": "Decred",
+    "ticker": "DCR",
+    "description": "Bitcoin with alternative governance",
+    "website": "https://www.decred.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/decredproject",
+    "telegram": "https://t.me/Decred",
+    "discord": "https://discord.gg/GJ2GXfz",
+    "blog": "https://medium.com/decred"
+  },
+  "development": {
+    "github_organizations": [
+      "decred"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

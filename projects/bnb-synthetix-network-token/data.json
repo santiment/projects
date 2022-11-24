@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnb-synthetix-network-token",
+    "name": "Synthetix [on BNB]",
+    "ticker": "SNX",
+    "description": "Enables the creation of on-chain synthetic assets",
+    "website": "https://www.synthetix.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/synthetix_io",
+    "discord": "https://discord.gg/AEdUHzt",
+    "reddit": "https://www.reddit.com/r/synthetix_io/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9ac983826058b8a9c7aa1c9171441191232e8404",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

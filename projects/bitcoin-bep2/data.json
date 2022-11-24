@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitcoin-bep2",
+    "name": "Bitcoin BEP2",
+    "ticker": "BTCB",
+    "description": "A BEP2 token that is 100% backed by Bitcoin",
+    "website": "https://www.binance.com/en"
+  },
+  "social": {
+    "twitter": "https://twitter.com/binance",
+    "reddit": "https://www.reddit.com/r/binance/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

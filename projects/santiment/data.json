@@ -2,25 +2,27 @@
   "general": {
     "slug": "santiment",
     "name": "Santiment",
-    "description": "Crypto analysis",
-    "logo": "santiment.svg",
-    "website": "https://santiment.net"
+    "ticker": "SAN",
+    "description": "Data feeds, insights and crowd sentiment",
+    "website": "https://santiment.net/"
   },
   "social": {
-    "discord": "https://discord.com/santiment",
     "twitter": "https://twitter.com/santimentfeed",
     "telegram": "https://t.me/santiment_network",
-    "reddit": "https://www.reddit.com/r/santiment"
+    "discord": "https://discord.gg/MPH2uP5",
+    "reddit": "https://www.reddit.com/r/santiment/",
+    "blog": "https://santiment.net/blog/"
   },
   "development": {
-    "github_organizations": ["santiment"]
+    "github_organizations": [
+      "santiment"
+    ]
   },
   "blockchain": {
     "contracts": [
       {
+        "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
         "blockchain": "ethereum",
-        "type": "ERC20",
-        "address": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098",
         "decimals": 18
       }
     ]

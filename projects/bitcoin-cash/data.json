@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "bitcoin-cash",
+    "name": "Bitcoin Cash",
+    "ticker": "BCH",
+    "description": "Bitcoin clone",
+    "website": "https://www.bitcoincash.org/"
+  },
+  "social": {
+    "reddit": "https://www.reddit.com/r/Bitcoincash/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoincashorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

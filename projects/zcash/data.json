@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "zcash",
+    "name": "Zcash",
+    "ticker": "ZEC",
+    "description": "Private digital cash",
+    "website": "https://z.cash/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/electriccoinco",
+    "discord": "https://discord.gg/8t4zXje"
+  },
+  "development": {
+    "github_organizations": [
+      "zcash"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

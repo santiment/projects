@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "polymath-network",
+    "name": "Polymath",
+    "ticker": "POLY",
+    "description": "The Securities Token Platform",
+    "website": "https://www.polymath.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PolymathNetwork",
+    "telegram": "https://t.me/PolymathNetwork",
+    "reddit": "https://www.reddit.com/r/PolymathNetwork/",
+    "blog": "https://www.polymath.network/"
+  },
+  "development": {
+    "github_organizations": [
+      "polymathnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

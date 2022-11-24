@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "compound",
+    "name": "Compound",
+    "ticker": "COMP",
+    "description": "Yield interest on idle assets",
+    "website": "https://compound.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/compoundfinance",
+    "discord": "https://compound.finance/discord",
+    "slack": "https://compound.finance/discord",
+    "blog": "https://medium.com/compound-finance"
+  },
+  "development": {
+    "github_organizations": [
+      "compound-finance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

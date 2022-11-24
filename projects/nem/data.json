@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "nem",
+    "name": "NEM",
+    "ticker": "XEM",
+    "description": "NEM is a smart asset blockchain that offers highly customizable blockchain solutions to businesses in a cost-effective way. NEM in full stands for New Economic Movement, though the name has been dropped in favor of the shorter version – NEM",
+    "website": "http://nem.io"
+  },
+  "social": {
+    "twitter": "https://twitter.com/nemofficial/",
+    "telegram": "https://t.me/nemred",
+    "reddit": "https://www.reddit.com/r/nem/"
+  },
+  "development": {
+    "github_organizations": [
+      "nemproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

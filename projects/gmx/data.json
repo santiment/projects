@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "gmx",
+    "name": "Duplicate",
+    "ticker": "GMX"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

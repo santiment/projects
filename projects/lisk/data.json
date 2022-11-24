@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "lisk",
+    "name": "Lisk",
+    "ticker": "LSK",
+    "description": "Decentralized applications on JavaScript",
+    "website": "https://lisk.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LiskHQ",
+    "telegram": "http://t.me/LiskGroup",
+    "slack": "https://lisk.chat/",
+    "reddit": "https://www.reddit.com/r/Lisk/"
+  },
+  "development": {
+    "github_organizations": [
+      "liskhq"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

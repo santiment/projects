@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "quant",
+    "name": "Quant",
+    "ticker": "QNT",
+    "description": "Bridging existing networks to new blockchains",
+    "website": "https://www.quant.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/quant_network",
+    "telegram": "https://t.me/QuantOverledger",
+    "reddit": "https://www.reddit.com/r/QuantNetwork",
+    "blog": "https://medium.com/@quant_network"
+  },
+  "development": {
+    "github_organizations": [
+      "quantnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

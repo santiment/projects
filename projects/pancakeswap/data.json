@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "pancakeswap",
+    "name": "Duplicate",
+    "ticker": "CAKE",
+    "description": "Yield farming on Binance Smart Chain",
+    "website": "https://pancakeswap.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/PancakeSwaphttps://ibb.co/NFKVnYC",
+    "telegram": "https://t.me/PancakeSwap",
+    "blog": "https://medium.com/@pancakeswap"
+  },
+  "development": {
+    "github_organizations": [
+      "pancakeswap"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

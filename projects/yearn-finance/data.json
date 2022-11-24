@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "yearn-finance",
+    "name": "yearn.finance",
+    "ticker": "YFI",
+    "description": "DeFi money lego producer",
+    "website": "https://yearn.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iearnfinance",
+    "telegram": "https://t.me/yearnfinance",
+    "blog": "https://medium.com/iearn"
+  },
+  "development": {
+    "github_organizations": [
+      "yearn"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

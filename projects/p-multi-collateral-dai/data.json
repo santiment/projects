@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "p-multi-collateral-dai",
+    "name": "Dai [on Polygon]",
+    "ticker": "DAI"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "blockchain": "polygon",
+        "decimals": 18
+      }
+    ]
+  }
+}

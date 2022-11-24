@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "terra-luna-v2",
+    "name": "Terra",
+    "ticker": "LUNA",
+    "description": "A blockchain protocol that emerged from Terra Classic",
+    "website": "https://terra.money/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/terra_money",
+    "telegram": "https://t.me/TerraLunaChat",
+    "discord": "https://discord.com/invite/terra-money",
+    "reddit": "https://reddit.com/r/terraluna",
+    "blog": "https://medium.com/terra-money"
+  },
+  "development": {
+    "github_organizations": [
+      "terra-money"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

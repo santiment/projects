@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "bnb-bitrise-token",
+    "name": "Bitgert",
+    "ticker": "BRISE",
+    "description": "Gas Fee Blockchain",
+    "website": "https://bitgert.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitgertbrise",
+    "telegram": "https://t.me/bitgertbrise",
+    "discord": "https://discord.io/bitgerbrise"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 9
+      }
+    ]
+  }
+}

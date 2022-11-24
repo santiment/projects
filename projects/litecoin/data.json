@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "litecoin",
+    "name": "Litecoin",
+    "ticker": "LTC",
+    "description": "Faster bitcoin",
+    "website": "https://litecoin.com"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LitecoinProject",
+    "telegram": "https://telegram.me/litecoin",
+    "reddit": "https://www.reddit.com/r/litecoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "litecoin-project"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

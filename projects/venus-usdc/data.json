@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "venus-usdc",
+    "name": "Venus USDC",
+    "ticker": "vUSDC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "moonbeam",
+    "name": "Moonbeam",
+    "ticker": "GLMR",
+    "description": "A Cross-Chain Smart Contract Platform for Polkadot",
+    "website": "https://moonbeam.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/moonbeamnetwork",
+    "telegram": "https://t.me/Moonbeam_Official",
+    "discord": "https://discord.gg/vGwBvvRpmm",
+    "reddit": "https://reddit.com/r/moonbeam",
+    "blog": "https://medium.com/moonbeam-network"
+  },
+  "development": {
+    "github_organizations": [
+      "PureStake"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

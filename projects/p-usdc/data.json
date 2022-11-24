@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "p-usdc",
+    "name": "Duplicate",
+    "ticker": "USDC",
+    "website": "https://www.centre.io/"
+  },
+  "social": {
+    "blog": "https://www.centre.io/blog"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "blockchain": "polygon",
+        "decimals": 6
+      }
+    ]
+  }
+}

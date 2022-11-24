@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "baby-doge-coin",
+    "name": "Baby Doge Coin",
+    "ticker": "BabyDoge",
+    "description": "Deflationary meme of BSC",
+    "website": "https://babydogecoin.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/babydogecoin",
+    "telegram": "https://t.me/babydogecoin",
+    "discord": "https://discord.com/invite/vuxmrn5FSZ"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

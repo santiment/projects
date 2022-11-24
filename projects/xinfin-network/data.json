@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "xinfin-network",
+    "name": "XinFin",
+    "ticker": "XDC",
+    "description": "Hybrid Technology for Global Trade and Finance",
+    "website": "https://www.xinfin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/xinfinf",
+    "telegram": "https://t.me/xinfintalk",
+    "slack": "https://xinfin-public.slack.com/",
+    "reddit": "https://www.reddit.com/r/xinfin/",
+    "blog": "https://medium.com/xinfin"
+  },
+  "development": {
+    "github_organizations": [
+      "xinfinorg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

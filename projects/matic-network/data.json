@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "matic-network",
+    "name": "Polygon [on Ethereum]",
+    "ticker": "MATIC",
+    "description": "Ethereum scaling solution (previously Matic)",
+    "website": "https://polygon.technology/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/0xPolygon",
+    "telegram": "https://t.me/maticnetwork",
+    "blog": "https://medium.com/matic-network"
+  },
+  "development": {
+    "github_organizations": [
+      "maticnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

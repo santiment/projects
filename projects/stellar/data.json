@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "stellar",
+    "name": "Stellar",
+    "ticker": "XLM",
+    "description": "Digital IOUs",
+    "website": "https://www.stellar.org"
+  },
+  "social": {
+    "twitter": "https://twitter.com/StellarOrg",
+    "slack": "http://slack.stellar.org/",
+    "reddit": "https://www.reddit.com/r/Stellar/"
+  },
+  "development": {
+    "github_organizations": [
+      "stellar"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

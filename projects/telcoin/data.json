@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "telcoin",
+    "name": "Telcoin",
+    "ticker": "TEL",
+    "description": "Cryptocurrency for telecom operators",
+    "website": "https://www.telco.in/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/telcoin_team",
+    "telegram": "https://t.me/telcoincommunity",
+    "reddit": "https://www.reddit.com/r/Telcoin/",
+    "blog": "https://medium.com/@telcoin"
+  },
+  "development": {
+    "github_organizations": [
+      "telcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x85e076361cc813a908ff672f9bad1541474402b2",
+        "blockchain": "ethereum",
+        "decimals": 2
+      }
+    ]
+  }
+}

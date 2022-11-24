@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "vechain",
+    "name": "VeChain",
+    "ticker": "VET",
+    "description": "Blockchain platform for products",
+    "website": "https://www.vechain.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/vechainofficial",
+    "telegram": "https://t.me/vechain_official_english",
+    "slack": "https://vechainofficial.slack.com/",
+    "reddit": "https://www.reddit.com/r/Vechain/"
+  },
+  "development": {
+    "github_organizations": [
+      "vechain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

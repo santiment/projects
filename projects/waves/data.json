@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "waves",
+    "name": "Waves",
+    "ticker": "WAVES",
+    "description": "Decentralized exchange and crowdfunding",
+    "website": "https://wavesplatform.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/wavesprotocol",
+    "telegram": "https://t.me/Wavescommunity",
+    "reddit": "https://www.reddit.com/r/Wavesplatform/"
+  },
+  "development": {
+    "github_organizations": [
+      "wavesplatform"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

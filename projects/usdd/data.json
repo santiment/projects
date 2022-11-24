@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "usdd",
+    "name": "USDD",
+    "ticker": "USDD",
+    "description": "TRON originated stablecoin",
+    "website": "https://usdd.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/usddio",
+    "telegram": "https://t.me/usddio",
+    "discord": "https://discord.com/invite/YRf7VY2S"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

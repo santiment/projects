@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "kyber-network",
+    "name": "Kyber Network Crystal",
+    "ticker": "KNC",
+    "description": "Decentralized liquidity network",
+    "website": "https://kyber.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/KyberNetwork",
+    "telegram": "https://t.me/kybernetwork",
+    "discord": "https://discord.com/invite/NfFMVz6",
+    "reddit": "https://www.reddit.com/r/kybernetwork/",
+    "blog": "https://blog.kyber.network"
+  },
+  "development": {
+    "github_organizations": [
+      "kybernetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

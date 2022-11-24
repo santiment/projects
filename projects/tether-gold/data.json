@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "tether-gold",
+    "name": "Tether Gold",
+    "ticker": "XAUT",
+    "description": "Represents one troy fine ounce of gold",
+    "website": "https://tether.to/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tether_to"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4922a015c4407f87432b179bb209e125432e4a2a",
+        "blockchain": "ethereum",
+        "decimals": 6
+      }
+    ]
+  }
+}

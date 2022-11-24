@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "safe",
+    "name": "Safe",
+    "ticker": "SAFE",
+    "description": "Privacy payments",
+    "website": "https://www.anwang.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/safe_2018",
+    "telegram": "https://t.me/safe_anwang",
+    "slack": "https://safe-anwang.slack.com/join/shared_invite/enQtMzIyMzU2MjkzNjA2LTE5MjgzYzhmZWY4OGI0ZmFiNDhhNmVmYTEzNmYzMWJlNTRiNmRlMGVjZmU2N2JiOTUyNGU5MDJmZjk3YzY5OTA",
+    "reddit": "https://reddit.com/r/SafeCoins"
+  },
+  "development": {
+    "github_organizations": [
+      "bankledger"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

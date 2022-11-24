@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "abbc-coin",
+    "name": "ABBC Coin",
+    "ticker": "ABBC",
+    "description": "The Future Of Payment Security",
+    "website": "https://www.abbcfoundation.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/abbcfoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "alibabacoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "crypto-com-coin",
+    "name": "Cronos",
+    "ticker": "CRO",
+    "description": "Cryptocurrency credit card",
+    "website": "https://crypto.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/cryptocom",
+    "telegram": "https://t.me/CryptoComOfficial",
+    "discord": "https://discord.gg/B6cZahJ",
+    "reddit": "https://www.reddit.com/r/Crypto_com/",
+    "blog": "https://blog.crypto.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

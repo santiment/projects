@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "tezos",
+    "name": "Tezos",
+    "ticker": "XTZ",
+    "description": "Self-amending cryptographic ledger",
+    "website": "https://www.tezos.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/tezos",
+    "telegram": "https://t.me/tezosplatform",
+    "slack": "https://riot.im/app/#/room/%23tezos:matrix.org",
+    "reddit": "https://www.reddit.com/r/tezos/",
+    "blog": "https://medium.com/tezos"
+  },
+  "development": {
+    "github_organizations": [
+      "tezos"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

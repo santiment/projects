@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "hedera-hashgraph",
+    "name": "Hedera",
+    "ticker": "HBAR",
+    "description": "A new form of distributed consensus",
+    "website": "https://www.hedera.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hedera",
+    "telegram": "https://t.me/hederahashgraph",
+    "discord": "https://discord.com/invite/egtDdvjNp5",
+    "reddit": "https://reddit.com/r/Hedera",
+    "blog": "https://medium.com/hashgraph"
+  },
+  "development": {
+    "github_organizations": [
+      "hashgraph"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

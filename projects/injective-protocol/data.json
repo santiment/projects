@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "injective-protocol",
+    "name": "Injective",
+    "ticker": "INJ",
+    "description": "Layer-2 DEX",
+    "website": "https://injective.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Injective_",
+    "telegram": "https://t.me/joininjective",
+    "discord": "https://discord.gg/injective",
+    "reddit": "https://www.reddit.com/r/injective/",
+    "blog": "https://medium.com/injective-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "InjectiveLabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

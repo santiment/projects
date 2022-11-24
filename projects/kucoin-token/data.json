@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kucoin-token",
+    "name": "Delete",
+    "ticker": "KCS"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

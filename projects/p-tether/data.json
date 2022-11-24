@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "p-tether",
+    "name": "Tether [on Polygon]",
+    "ticker": "USDT"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "blockchain": "polygon",
+        "decimals": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "wrapped-tron",
+    "name": "Wrapped TRON",
+    "ticker": "WTRX",
+    "website": "https://tron.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/justinsuntron",
+    "telegram": "http://t.me/tronnetworkEN",
+    "reddit": "https://reddit.com/r/Tronix",
+    "blog": "https://medium.com/@Tronfoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "tronprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "gnosis-gno",
+    "name": "Gnosis",
+    "ticker": "GNO",
+    "description": "Decentralized prediction market",
+    "website": "https://gnosis.pm/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/gnosisPM",
+    "telegram": "http://t.me/GnosisPM",
+    "slack": "https://chat.gnosis.io/",
+    "reddit": "https://www.reddit.com/r/gnosisPM/",
+    "blog": "https://medium.com/gnosis-pm"
+  },
+  "development": {
+    "github_organizations": [
+      "gnosis"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

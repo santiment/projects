@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "zel",
+    "name": "Flux",
+    "ticker": "FLUX",
+    "description": "Decentralized Computing Network ",
+    "website": "https://runonflux.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/RunOnFlux",
+    "telegram": "https://t.me/zelhub",
+    "discord": "https://discord.com/invite/awkrzrT9HN",
+    "reddit": "https://www.reddit.com/r/RunOnFlux/",
+    "blog": "https://fluxofficial.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "runonflux"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
+        "blockchain": "ethereum",
+        "decimals": 8
+      }
+    ]
+  }
+}

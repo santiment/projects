@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "qtum",
+    "name": "Qtum",
+    "ticker": "QTUM",
+    "description": "Ethereum contracts on Bitcoin",
+    "website": "https://qtum.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/QtumOfficial",
+    "telegram": "https://t.me/joinchat/D5oBaw29NeOdpw6qqqf2lw",
+    "slack": "https://qtumslack.herokuapp.com/",
+    "reddit": "https://www.reddit.com/r/Qtum/",
+    "blog": "https://qtum.org/en/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "qtumproject"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

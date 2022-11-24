@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "digibyte",
+    "name": "DigiByte",
+    "ticker": "DGB",
+    "description": "5 years old UTXO blockchain",
+    "website": "http://www.digibyte.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/DigiByteCoin",
+    "telegram": "https://t.me/DigiByteCoin",
+    "reddit": "https://www.reddit.com/r/Digibyte/"
+  },
+  "development": {
+    "github_organizations": [
+      "digibyte"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

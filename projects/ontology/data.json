@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "ontology",
+    "name": "Ontology",
+    "ticker": "ONT",
+    "description": "Identity and data",
+    "website": "https://ont.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/OntologyNetwork",
+    "telegram": "https://t.me/OntologyNetwork",
+    "discord": "https://discord.gg/4TQujHj",
+    "reddit": "https://www.reddit.com/r/OntologyNetwork/",
+    "blog": "https://medium.com/ontologynetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "ontio"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

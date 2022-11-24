@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "hive",
+    "name": "Hive",
+    "ticker": "HIVE",
+    "description": "Graphene-based social blockchain",
+    "website": "https://hive.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hiveblocks",
+    "telegram": "https://t.me/hiveblockchain",
+    "discord": "https://discord.gg/xHKUjeC",
+    "blog": "https://peakd.com/@hiveio"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

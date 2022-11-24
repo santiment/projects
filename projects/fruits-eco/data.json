@@ -1,0 +1,19 @@
+{
+  "general": {
+    "slug": "fruits-eco",
+    "name": "Fruits",
+    "ticker": "FRTS",
+    "description": "Blockchain For A Better Society",
+    "website": "https://www.fruitsc.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Fruitscoin_frts",
+    "telegram": "https://t.me/fruits_official"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

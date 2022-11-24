@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "solana",
+    "name": "Solana",
+    "ticker": "SOL",
+    "description": "High-speed blockchain without sharding",
+    "website": "https://solana.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/solana",
+    "telegram": "https://t.me/solanaio",
+    "reddit": "https://www.reddit.com/r/solana",
+    "blog": "https://medium.com/solana-labs"
+  },
+  "development": {
+    "github_organizations": [
+      "solana-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

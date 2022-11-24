@@ -1,0 +1,20 @@
+{
+  "general": {
+    "slug": "vvs-finance",
+    "name": "VVS Finance",
+    "ticker": "VVS",
+    "description": "Very, Very Simple DeFi Trading",
+    "website": "https://vvs.finance/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/VVS_finance",
+    "telegram": "https://t.me/VVSFinance",
+    "discord": "https://discord.com/invite/V2957zMsmg"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

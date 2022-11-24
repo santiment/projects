@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "hi-dollar",
+    "name": "HI",
+    "ticker": "HI",
+    "description": "Crypto Exchange and Mobile Banking Platform",
+    "website": "https://www.hi.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/hi_com_official",
+    "telegram": "https://t.me/hi_official",
+    "reddit": "https://www.reddit.com/r/hi_official/",
+    "blog": "https://medium.com/hi-official"
+  },
+  "development": {
+    "github_organizations": [
+      "HiChainGlobal"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}
