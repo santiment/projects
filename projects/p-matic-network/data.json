@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "p-matic-network",
+    "name": "Polygon [on Polygon]",
+    "ticker": "MATIC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

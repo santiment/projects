@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "uma",
+    "name": "UMA",
+    "ticker": "UMA",
+    "description": "Financial contracts platform",
+    "website": "https://umaproject.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/UMAprotocol",
+    "discord": "https://discord.umaproject.org/",
+    "blog": "https://medium.com/uma-project"
+  },
+  "development": {
+    "github_organizations": [
+      "umaprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

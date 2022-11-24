@@ -1,0 +1,24 @@
+{
+  "general": {
+    "slug": "casper",
+    "name": "Casper",
+    "ticker": "CSPR",
+    "description": "The first live PoS blockchain built off the Casper CBC specification",
+    "website": "https://casper.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Casper_Network",
+    "telegram": "https://t.me/casperblockchain",
+    "discord": "https://discord.com/invite/Q38s3Vh",
+    "reddit": "https://reddit.com/r/CasperLabs",
+    "blog": "https://medium.com/casperlabs"
+  },
+  "development": {
+    "github_organizations": [
+      "CasperLabs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

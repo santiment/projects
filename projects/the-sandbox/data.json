@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "the-sandbox",
+    "name": "The Sandbox",
+    "ticker": "SAND",
+    "description": "Monetizing gaming experience",
+    "website": "https://www.sandbox.game/en/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/TheSandboxGame",
+    "telegram": "https://t.me/sandboxgame",
+    "discord": "https://discord.gg/vAe4zvY",
+    "blog": "https://medium.com/sandbox-game"
+  },
+  "development": {
+    "github_organizations": [
+      "thesandboxgame"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

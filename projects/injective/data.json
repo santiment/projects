@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "injective",
+    "name": "Duplicate",
+    "ticker": "INJ"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

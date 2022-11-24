@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "horizen",
+    "name": "delete",
+    "ticker": "ZEN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

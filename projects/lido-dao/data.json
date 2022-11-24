@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "lido-dao",
+    "name": "Lido DAO Token",
+    "ticker": "LDO",
+    "description": "Liquid staking solution for Ethereum",
+    "website": "https://stake.lido.fi/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/lidofinance",
+    "telegram": "https://t.me/lidofinance",
+    "discord": "https://discord.com/invite/vgdPfhZ",
+    "reddit": "https://www.reddit.com/r/lidofinance/"
+  },
+  "development": {
+    "github_organizations": [
+      "lidofinance"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

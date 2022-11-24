@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ssv-network",
+    "name": "SSV Network",
+    "ticker": "SSV",
+    "description": "Eth2 Staking",
+    "website": "https://ssv.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/blox_staking",
+    "discord": "https://discord.com/invite/eDXSP9R",
+    "blog": "https://medium.com/bloxstaking"
+  },
+  "development": {
+    "github_organizations": [
+      "bloxapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

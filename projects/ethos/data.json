@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "ethos",
+    "name": "Voyager Token",
+    "ticker": "VGX",
+    "description": "A regulated crypto broker",
+    "website": "https://www.investvoyager.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/investvoyager",
+    "telegram": "https://t.me/joinchat/H9SuYEmNirTJFHtMqtc70A",
+    "reddit": "https://www.reddit.com/r/Invest_Voyager/",
+    "blog": "https://www.ethos.io/blog/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x5af2be193a6abca9c8817001f45744777db30756",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

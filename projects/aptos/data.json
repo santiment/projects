@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "aptos",
+    "name": "Aptos",
+    "ticker": "APT",
+    "description": "Layer 1 blockchain",
+    "website": "https://aptoslabs.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Aptos_Network",
+    "telegram": "https://t.me/AptosLabs",
+    "discord": "https://discord.com/invite/aptoslabs",
+    "blog": "https://aptoslabs.medium.com/"
+  },
+  "development": {
+    "github_organizations": [
+      "aptos-labs"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

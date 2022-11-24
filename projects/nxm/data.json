@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "nxm",
+    "name": "Delete",
+    "ticker": "NXM"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

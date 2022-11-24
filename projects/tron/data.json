@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "tron",
+    "name": "TRON",
+    "ticker": "TRX",
+    "description": "Content entertainment protocol",
+    "website": "https://tron.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/trondao",
+    "telegram": "https://t.me/tronnetworkEN",
+    "slack": "https://tronfoundation.slack.com/",
+    "reddit": "https://www.reddit.com/r/Tronix/",
+    "blog": "https://medium.com/@Tronfoundation"
+  },
+  "development": {
+    "github_organizations": [
+      "tronprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf230b790e05390fc8295f4d3f60332c93bed42e2",
+        "blockchain": "ethereum",
+        "decimals": 6,
+        "label": "main"
+      }
+    ]
+  }
+}

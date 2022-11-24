@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ethereum-pow",
+    "name": "EthereumPoW",
+    "ticker": "ETHW",
+    "description": "Hard fork of Ethereum before switching to PoS",
+    "website": "https://ethereumpow.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/EthereumPoW",
+    "telegram": "https://t.me/ethereumpow_official",
+    "discord": "https://discord.gg/apcxzJdZaU",
+    "blog": "https://medium.com/@ETHW"
+  },
+  "development": {
+    "github_organizations": [
+      "ethereumpow"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

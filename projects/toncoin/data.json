@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "toncoin",
+    "name": "Toncoin",
+    "ticker": "TON",
+    "description": "The next gen network to unite all blockchains and the existing Internet",
+    "website": "https://ton.org/"
+  },
+  "social": {
+    "telegram": "https://t.me/tonblockchain"
+  },
+  "development": {
+    "github_organizations": [
+      "newton-blockchain"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+        "blockchain": "ethereum",
+        "decimals": 9
+      }
+    ]
+  }
+}

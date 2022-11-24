@@ -1,0 +1,28 @@
+{
+  "general": {
+    "slug": "playdapp",
+    "name": "PlayDapp",
+    "ticker": "PLA",
+    "description": "Ecosystem of playing and earning",
+    "website": "https://playdapp.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/playdapp_io",
+    "telegram": "https://t.me/playdapp_official",
+    "blog": "https://medium.com/dozerfriends"
+  },
+  "development": {
+    "github_organizations": [
+      "playdapp"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

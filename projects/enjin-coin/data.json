@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "enjin-coin",
+    "name": "Enjin Coin",
+    "ticker": "ENJ",
+    "description": "ERC1155 wallet, marketplace and gaming APIs",
+    "website": "https://enjincoin.io/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/enjin",
+    "telegram": "https://t.me/enjin_coin",
+    "slack": "https://enjincoin.slack.com/",
+    "reddit": "https://www.reddit.com/r/EnjinCoin/",
+    "blog": "https://medium.com/@enjin"
+  },
+  "development": {
+    "github_organizations": [
+      "enjin"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

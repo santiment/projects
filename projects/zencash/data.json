@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "zencash",
+    "name": "Horizen",
+    "ticker": "ZEN",
+    "description": "A privacy-oriented cryptocurrency",
+    "website": "https://www.horizen.global/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/horizenglobal",
+    "telegram": "https://t.me/horizencommunity",
+    "discord": "https://horizen.global/invite/discord",
+    "slack": "https://horizen.global/invite/discord",
+    "reddit": "https://www.reddit.com/r/Horizen/",
+    "blog": "https://blog.zensystem.io/"
+  },
+  "development": {
+    "github_organizations": [
+      "zencashofficial"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

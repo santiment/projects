@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "kyber-network-crystal-v2",
+    "name": "Delete",
+    "ticker": "KNC"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

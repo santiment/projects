@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "zeon",
+    "name": "ZEON",
+    "ticker": "ZEON",
+    "description": "New Blockchain platform: decentralised financial services, minimising complexity and user&amp;#39;s risk, insurance services on blockchain. ZEON is the world&amp;#39;s first decentralised blockchain platform with unique features that prevent fraud in the industry.",
+    "website": "https://zeon.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/zeon_coin",
+    "telegram": "https://t.me/zeon_officialgroup",
+    "discord": "https://discord.gg/XVUN25j",
+    "slack": "https://discordapp.com/invite/XVUN25j",
+    "reddit": "https://www.reddit.com/r/ZeonNetwork/",
+    "blog": "https://medium.com/@zeonnetwork"
+  },
+  "development": {
+    "github_organizations": [
+      "zeonnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xe5b826ca2ca02f09c1725e9bd98d9a8874c30532",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

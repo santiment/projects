@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "threshold",
+    "name": "Threshold",
+    "ticker": "T",
+    "description": "Home of tBTC v2, proxy re-encryption PRE, and all threshold cryptography",
+    "website": "https://threshold.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/thetnetwork",
+    "telegram": "https://t.me/thresholdnetwork",
+    "discord": "https://discord.gg/VafbhzJ3vW",
+    "reddit": "https://reddit.com/r/thresholdnetwork",
+    "blog": "https://blog.threshold.network/threshold-launch/"
+  },
+  "development": {
+    "github_organizations": [
+      "threshold-network"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

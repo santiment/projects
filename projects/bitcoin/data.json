@@ -1,0 +1,21 @@
+{
+  "general": {
+    "slug": "bitcoin",
+    "name": "Bitcoin",
+    "ticker": "BTC",
+    "description": "Digital gold",
+    "website": "https://bitcoin.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/bitcoincoreorg",
+    "reddit": "https://www.reddit.com/r/Bitcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "bitcoin"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

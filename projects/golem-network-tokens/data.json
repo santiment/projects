@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "golem-network-tokens",
+    "name": "Golem",
+    "ticker": "GLM",
+    "description": "Rent other peoples computers",
+    "website": "https://golem.network/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/golemproject",
+    "telegram": "http://t.me/GolemProject",
+    "slack": "http://golemproject.org:3000/",
+    "reddit": "https://www.reddit.com/r/GolemProject/",
+    "blog": "https://blog.golemproject.net/"
+  },
+  "development": {
+    "github_organizations": [
+      "golemfactory"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "golem_contract",
+        "blockchain": "ethereum",
+        "decimals": 0,
+        "label": "main"
+      }
+    ]
+  }
+}

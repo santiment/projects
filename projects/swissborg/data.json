@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "swissborg",
+    "name": "SwissBorg",
+    "ticker": "CHSB",
+    "website": "https://swissborg.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/swissborg",
+    "telegram": "https://t.me/SwissBorgChat",
+    "slack": "https://swissborg.com/slackin/",
+    "reddit": "https://www.reddit.com/user/swissborg",
+    "blog": "https://medium.com/swissborg"
+  },
+  "development": {
+    "github_organizations": [
+      "swissborg"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+        "blockchain": "ethereum",
+        "decimals": 8,
+        "label": "main"
+      }
+    ]
+  }
+}

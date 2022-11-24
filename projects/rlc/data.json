@@ -1,0 +1,31 @@
+{
+  "general": {
+    "slug": "rlc",
+    "name": "iExec RLC",
+    "ticker": "RLC",
+    "description": "Blockchain-based Decentralized Cloud Computing",
+    "website": "http://iex.ec/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/iEx_ec",
+    "telegram": "https://t.me/joinchat/FswFJw6AaL-kpQeWdBSwRA",
+    "slack": "https://slack.iex.ec/",
+    "reddit": "https://www.reddit.com/r/iexec/",
+    "blog": "https://medium.com/iex-ec"
+  },
+  "development": {
+    "github_organizations": [
+      "iexecblockchaincomputing"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
+        "blockchain": "ethereum",
+        "decimals": 9,
+        "label": "main"
+      }
+    ]
+  }
+}

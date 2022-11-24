@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "defichain",
+    "name": "DeFiChain",
+    "ticker": "DFI",
+    "description": "Native Decentralized Finance for Bitcoin",
+    "website": "https://defichain.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/defichain",
+    "telegram": "https://t.me/defiblockchain",
+    "reddit": "https://reddit.com/r/defiblockchain",
+    "blog": "https://medium.com/@defiblockchain/dfi-token-starts-trading-on-latoken-to-bring-defi-to-bitcoin-a59e1522989d"
+  },
+  "development": {
+    "github_organizations": [
+      "DeFiCh"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "general": {
+    "slug": "arb-usd-coin",
+    "name": "USD Coin [on Arbitrum]",
+    "ticker": "USDC",
+    "description": "Stablecoin fully backed by USD",
+    "website": "https://www.centre.io/usdc"
+  },
+  "social": {
+    "blog": "https://medium.com/centre-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "centrehq"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
+        "blockchain": "arbitrum",
+        "decimals": 6
+      }
+    ]
+  }
+}

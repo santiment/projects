@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "ripple",
+    "name": "Ripple",
+    "ticker": "XRP",
+    "description": "Enterprise payment settlement network",
+    "website": "https://ripple.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/ripple",
+    "telegram": "https://t.me/Ripple",
+    "discord": "https://discord.gg/N4x7kPb",
+    "reddit": "https://www.reddit.com/r/Bitcoin/"
+  },
+  "development": {
+    "github_organizations": [
+      "ripple"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

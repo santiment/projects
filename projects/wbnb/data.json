@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "wbnb",
+    "name": "Wrapped BNB",
+    "ticker": "WBNB"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

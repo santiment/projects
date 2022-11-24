@@ -1,0 +1,25 @@
+{
+  "general": {
+    "slug": "bnb-usd-coin",
+    "name": "USD Coin [on BNB]",
+    "ticker": "USDC",
+    "description": "Stablecoin fully backed by USD",
+    "website": "https://www.centre.io/usdc"
+  },
+  "social": {
+    "blog": "https://medium.com/centre-blog"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

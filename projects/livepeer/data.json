@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "livepeer",
+    "name": "Livepeer",
+    "ticker": "LPT",
+    "description": "A decentralized video transcoding network",
+    "website": "https://livepeer.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/LivepeerOrg",
+    "discord": "https://discord.gg/RR4kFAh",
+    "reddit": "https://reddit.com/r/livepeer",
+    "blog": "https://medium.com/livepeer-blog"
+  },
+  "development": {
+    "github_organizations": [
+      "livepeer"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x58b6a8a3302369daec383334672404ee733ab239",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

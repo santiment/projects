@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "bnb-1inch",
+    "name": "1inch [on BNB]",
+    "ticker": "1INCH",
+    "description": "DEX aggregator",
+    "website": "https://1inch.exchange/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/1inchNetwork",
+    "telegram": "https://t.me/OneInchExchange",
+    "discord": "https://discord.gg/Xyxv2Yz",
+    "blog": "https://1inch-exchange.medium.com/"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}

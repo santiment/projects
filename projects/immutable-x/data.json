@@ -1,0 +1,29 @@
+{
+  "general": {
+    "slug": "immutable-x",
+    "name": "Immutable X",
+    "ticker": "IMX",
+    "description": "NFT scaling platform",
+    "website": "https://www.immutable.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Immutable",
+    "telegram": "https://t.me/immutablex",
+    "discord": "https://discord.com/invite/TUa8a9A",
+    "reddit": "https://reddit.com/r/ImmutableX/"
+  },
+  "development": {
+    "github_organizations": [
+      "Immutable"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

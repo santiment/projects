@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "neutrino-usd",
+    "name": "Delete",
+    "ticker": "USDN"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

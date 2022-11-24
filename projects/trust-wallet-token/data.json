@@ -1,0 +1,22 @@
+{
+  "general": {
+    "slug": "trust-wallet-token",
+    "name": "Trust Wallet Token",
+    "ticker": "TWT",
+    "description": "Crypto wallet",
+    "website": "https://trustwallet.com/"
+  },
+  "social": {
+    "telegram": "https://t.me/trust_announcements",
+    "reddit": "https://www.reddit.com/r/trustapp/",
+    "blog": "https://trustwallet.com/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "trustwallet"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

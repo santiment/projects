@@ -1,0 +1,27 @@
+{
+  "general": {
+    "slug": "BTRST",
+    "name": "Braintrust",
+    "ticker": "BTRST",
+    "description": "Decentralized talent network",
+    "website": "https://www.usebraintrust.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/usebraintrust",
+    "telegram": "https://t.me/braintrustofficial",
+    "discord": "https://discord.gg/rgUS9aHFCB",
+    "reddit": "https://reddit.com/r/braintrust"
+  },
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

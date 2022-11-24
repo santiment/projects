@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "the-graph",
+    "name": "The Graph",
+    "ticker": "GRT",
+    "description": "An indexing protocol for querying networks",
+    "website": "https://thegraph.com/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/graphprotocol",
+    "discord": "https://discord.gg/vtvv7FP",
+    "slack": "https://discordapp.com/invite/vtvv7FP",
+    "reddit": "https://www.reddit.com/r/thegraph/",
+    "blog": "https://medium.com/graphprotocol"
+  },
+  "development": {
+    "github_organizations": [
+      "graphprotocol"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+        "blockchain": "ethereum",
+        "decimals": 18
+      }
+    ]
+  }
+}

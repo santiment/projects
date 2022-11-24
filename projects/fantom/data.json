@@ -1,0 +1,30 @@
+{
+  "general": {
+    "slug": "fantom",
+    "name": "Fantom",
+    "ticker": "FTM",
+    "description": "DAG based smart contract platform",
+    "website": "http://fantom.foundation/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/FantomFDN",
+    "telegram": "https://t.me/fantom_english",
+    "reddit": "https://www.reddit.com/r/FantomFoundation/",
+    "blog": "https://medium.com/@fantomFDN"
+  },
+  "development": {
+    "github_organizations": [
+      "fantom-foundation"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "blockchain": "ethereum",
+        "decimals": 18,
+        "label": "main"
+      }
+    ]
+  }
+}

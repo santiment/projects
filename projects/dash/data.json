@@ -1,0 +1,23 @@
+{
+  "general": {
+    "slug": "dash",
+    "name": "Dash",
+    "ticker": "DASH",
+    "description": "Payments focused cryptocurrency. Privacy included",
+    "website": "https://www.dash.org/"
+  },
+  "social": {
+    "twitter": "https://twitter.com/Dashpay",
+    "telegram": "https://t.me/dash_chat",
+    "discord": "https://discord.com/invite/PXbUxJB",
+    "reddit": "https://www.reddit.com/r/dashpay/"
+  },
+  "development": {
+    "github_organizations": [
+      "dashpay"
+    ]
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}

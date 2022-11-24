@@ -1,0 +1,14 @@
+{
+  "general": {
+    "slug": "sxp",
+    "name": "Duplicate",
+    "ticker": "SXP"
+  },
+  "social": {},
+  "development": {
+    "github_organizations": []
+  },
+  "blockchain": {
+    "contracts": []
+  }
+}
