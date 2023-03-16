@@ -2,7 +2,9 @@
   "general": {
     "slug": "p-tether",
     "name": "Tether [on Polygon]",
-    "ticker": "USDT"
+    "ticker": "USDT",
+    "ecosystem": "polygon",
+    "tags": ["stablecoin"]
   },
   "social": {},
   "development": {
