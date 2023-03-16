@@ -4,7 +4,7 @@
     "name": "Tether [on Polygon]",
     "ticker": "USDT",
     "ecosystem": "polygon",
-    "tags": ["stablecoin"]
+    "market_segments": ["stablecoin"]
   },
   "social": {},
   "development": {
