@@ -4,7 +4,8 @@
     "name": "Santiment",
     "ticker": "SAN",
     "description": "Data feeds, insights and crowd sentiment",
-    "website": "https://santiment.net/"
+    "website": "https://santiment.net/",
+    "ecosystem": "ethereum"
   },
   "social": {
     "twitter": "https://twitter.com/santimentfeed",
@@ -14,7 +15,6 @@
     "blog": "https://santiment.net/blog/"
   },
   "development": {
-    "ecosystem": "ethereum",
     "github_organizations": [
       "santiment"
     ]
