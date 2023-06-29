@@ -29,6 +29,22 @@ The data includes, but is not limited to:
 - Blockchain data:
   - Contracts - address, decimals, description
 
+### Mandatory fields
+
+The `slug`, `name` and `ticker` fields are mandatory.
+The `slug` must be unique as it is used to identify the project.
+
+### Validation
+
+When a PR is submitted, the data is validated. For the validation the following rules are used:
+- Apply the JSON schema validation as defined [here](https://github.com/santiment/sanbase2/blob/master/lib/sanbase/repo_reader/jsonschema.json);
+- Apply extra custom checks;
+  - The fields that need to be a URL are validated to be a valid URL;
+  - The `slug` field must be unique;
+  - The `name` must start with a capital letter or a number and be at least 2 characters long;
+  - The `ticker` must be all uppercase and be at least 2 characters long;
+  - etc.
+
 ### Data example
 
 The following is an example of the data for the Santiment project:
