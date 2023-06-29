@@ -1,6 +1,7 @@
 {
   "general": {
     "slug": "santiment",
+    "ecosystem": "/Ethereum",
     "name": "Santiment",
     "ticker": "SAN",
     "description": "Data feeds, insights and crowd sentiment",
@@ -9,19 +10,17 @@
   "social": {
     "twitter": "https://twitter.com/santimentfeed",
     "telegram": "https://t.me/santiment_network",
-    "discord": "https://discord.gg/MPH2uP5",
-    "reddit": "https://www.reddit.com/r/santiment/",
-    "blog": "https://santiment.net/blog/"
+    "discord": "https://santiment.net/discord",
+    "reddit": "https://www.reddit.com/r/santiment/"
   },
   "development": {
-    "github_organizations": [
-      "santiment"
-    ]
+    "github_organizations": ["santiment"]
   },
   "blockchain": {
     "contracts": [
       {
         "address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+        "label": "main",
         "blockchain": "ethereum",
         "decimals": 18
       }
