@@ -1,7 +1,7 @@
 {
   "general": {
     "slug": "santiment",
-    "ecosystem": "/Ethereum",
+    "ecosystem": "/ethereum",
     "name": "Santiment",
     "ticker": "SAN",
     "description": "Data feeds, insights and crowd sentiment",
