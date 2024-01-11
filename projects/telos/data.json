@@ -1,0 +1,35 @@
+{
+  "general": {
+    "slug": "telos",
+    "name": "Telos",
+    "ticker": "TLOS",
+    "description": "A decentralized network operated by technologists, builders and trailblazers.",
+    "website": "https://www.telos.net/"
+  },
+  "social": {
+    "twitter": "https://x.com/hellotelos",
+    "telegram": "https://t.me/HelloTelos",
+    "discord": "https://discord.gg/telos",
+    "reddit": "https://www.reddit.com/r/TELOS/",
+    "blog": "https://www.telos.net/blog"
+  },
+  "development": {
+    "github_organizations": [
+      "telosnetwork"
+    ]
+  },
+  "blockchain": {
+    "contracts": [
+      {
+        "address": "0x7825e833d495f3d1c28872415a4aee339d26ac88",
+        "blockchain": "ethereum",
+        "decimals": 18
+      },
+      {
+        "address": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+        "blockchain": "bnb-smart-chain",
+        "decimals": 18
+      }
+    ]
+  }
+}
