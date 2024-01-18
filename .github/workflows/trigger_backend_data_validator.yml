@@ -39,10 +39,10 @@ jobs:
         shell: bash
         run: echo "BRANCH_NAME=$(echo ${GITHUB_HEAD_REF} | tr / -)" >> $GITHUB_ENV
 
-      - name: Get Pull Request fork repo url
+      - name: Get Pull Request fork repo organization/repo
         if: github.event_name == 'pull_request'
         shell: bash
-        run: echo "FORK_REPO_URL=${{github.event.pull_request.head.repo.full_name}}" >> $GITHUB_ENV
+        run: echo "FORK_REPO=${{github.event.pull_request.head.repo.full_name}}" >> $GITHUB_ENV
 
       - name: Trigger a backend webhook that will read the changed files and validate the changes
         uses: fjogeleit/http-request-action@v1
@@ -51,7 +51,7 @@ jobs:
         with:
           url: https://api.santiment.net/projects_data_validator_webhook
           method: POST
-          data: '{ "fork_repo_url": "${{ env.FORK_REPO_URL }}", "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
+          data: '{ "fork_repo": "${{ env.FORK_REPO }}", "branch": "${{ env.BRANCH_NAME }}", "changed_files": "${{ steps.changed-files-specific.outputs.all_changed_files }}" }'
           timeout: 60000
 
       - name: "Use response"
